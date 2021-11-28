@@ -29,6 +29,4 @@ taxonomies = "off"
 anchors = "off"
 
 [extra]
-hyde_links = [
-]
 # Put all your custom variables here
