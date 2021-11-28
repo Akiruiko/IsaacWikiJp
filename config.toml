@@ -32,18 +32,4 @@ anchors = "off"
 [extra]
 hyde_links = [
 ]
-slim_summary = true
-slim_content = true
-slim_menu = [
-]
 # Put all your custom variables here
-
-[build]
-publish = "public"
-command = "zola build"
-
-[build.environment]
-ZOLA_VERSION = "0.13.0"
-
-[context.deploy-preview]
-command = "zola build --base-url $DEPLOY_PRIME_URL"
