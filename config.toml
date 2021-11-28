@@ -1,0 +1,49 @@
+# The URL the site will be built for
+base_url = "https://amnesiaandagraphia.netlify.app/"
+
+# title
+title = "Isaac Wiki JP"
+description = ""
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# theme
+theme = "hyde"
+
+# taxonomies
+taxonomies = [
+    {name = "tags", paginate_by = 5, rss = true}
+]
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+highlight_theme = "base16-ocean-dark"
+
+[slugify]
+paths = "off"
+taxonomies = "off"
+anchors = "off"
+
+[extra]
+hyde_links = [
+]
+slim_summary = true
+slim_content = true
+slim_menu = [
+]
+# Put all your custom variables here
+
+[build]
+publish = "public"
+command = "zola build"
+
+[build.environment]
+ZOLA_VERSION = "0.13.0"
+
+[context.deploy-preview]
+command = "zola build --base-url $DEPLOY_PRIME_URL"
