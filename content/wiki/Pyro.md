@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Pyro ![image](/image/Pyro.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 	+ Destroys all [tinted rocks](/wiki/Tinted_rock "Tinted rock") and rocks with [Crawl Spaces](/wiki/Crawl_Space "Crawl Space") in the room.
 
 
-Notes[]
+Notes
 -------
 
 

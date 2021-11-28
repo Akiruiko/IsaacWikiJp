@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Hushy ![image](/image/Hushy.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 	+ When Hushy stops moving, it can block shots.
 
 
-Notes[]
+Notes
 -------
 
 

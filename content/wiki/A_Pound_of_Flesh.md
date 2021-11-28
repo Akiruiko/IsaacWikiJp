@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # A Pound of Flesh ![image](/image/A_Pound_of_Flesh.png) 
+
+
+Effect
 --------
 
 

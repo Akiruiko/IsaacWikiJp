@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Blood Oath ![image](/image/Blood_Oath.png) 
+
+
+Effects
 ---------
 
 

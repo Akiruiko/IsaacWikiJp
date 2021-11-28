@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Parasitoid ![image](/image/Parasitoid.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 * Spawns 2 [Keys](/wiki/Key "Key").
 
 
-Notes[]
+Notes
 -------
 
 

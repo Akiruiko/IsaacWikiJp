@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Shoop Da Whoop! ![image](/image/Shoop_Da_Whoop!.png) 
+
+
+Effects
 ---------
 
 

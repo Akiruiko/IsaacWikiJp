@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Book of the Dead ![image](/image/Book_of_the_Dead.png) 
+
+
+Effects
 ---------
 
 
@@ -15,7 +18,7 @@ Effects[]
 * This item belongs to the [Bookworm](/wiki/Bookworm "Bookworm") set. Collecting three items from this set will transform Isaac into Bookworm.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -32,21 +35,21 @@ Notes[]
 * Destroying [(Black Poop)](/wiki/Black_Poop "Black Poop") [Black Poop](/wiki/Black_Poop "Black Poop") will damage the friendly Bonies acquired from this item.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns tiny skull wisps on the inner ring. The wisps fire bones and spawn friendly Bonies when destroyed. The book will summon wisps regardless of whether or not there were enemies killed in the current room, and the ring of wisps is close enough to Isaac to be inside the ring of bone orbitals Book of the Dead makes.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns tiny skull wisps on the inner ring. The wisps fire bones and spawn friendly Bonies when destroyed. The book will summon wisps regardless of whether or not there were enemies killed in the current room, and the ring of wisps is close enough to Isaac to be inside the ring of bone orbitals Book of the Dead makes.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * [(Baby-Bender)](/wiki/Baby-Bender "Baby-Bender") [Baby-Bender](/wiki/Baby-Bender "Baby-Bender"): No effect.
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Since dead enemies can be animated only once, Car Battery does nothing.
-* (Removed in Repentance) [(Contagion)](/wiki/Contagion "Contagion") [Contagion](/wiki/Contagion "Contagion"): [Poison](/wiki/Poison "Poison") effect can spread to and kill friendly [Bonies](/wiki/Bony "Bony").
-* (Added in Repentance)[(Eraser)](/wiki/Eraser "Eraser") [Eraser](/wiki/Eraser "Eraser"): Bonies erased via Eraser will never spawn again from Book of the Dead, greatly decreasing its power.
-* (Added in Repentance) [(Ghost Bombs)](/wiki/Ghost_Bombs "Ghost Bombs") [Ghost Bombs](/wiki/Ghost_Bombs "Ghost Bombs") / [(Purgatory)](/wiki/Purgatory "Purgatory") [Purgatory](/wiki/Purgatory "Purgatory"): Explosions from ghosts can and will kill Bonies.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Since dead enemies can be animated only once, Car Battery does nothing.
+* (Removed in Repentance) [![image](/image/Contagion.png)](/wiki/Contagion "Contagion") [Contagion](/wiki/Contagion "Contagion"): [Poison](/wiki/Poison "Poison") effect can spread to and kill friendly [Bonies](/wiki/Bony "Bony").
+* (Added in Repentance)[![image](/image/Eraser.png)](/wiki/Eraser "Eraser") [Eraser](/wiki/Eraser "Eraser"): Bonies erased via Eraser will never spawn again from Book of the Dead, greatly decreasing its power.
+* (Added in Repentance) [![image](/image/Ghost_Bombs.png)](/wiki/Ghost_Bombs "Ghost Bombs") [Ghost Bombs](/wiki/Ghost_Bombs "Ghost Bombs") / [![image](/image/Purgatory.png)](/wiki/Purgatory "Purgatory") [Purgatory](/wiki/Purgatory "Purgatory"): Explosions from ghosts can and will kill Bonies.
 
 

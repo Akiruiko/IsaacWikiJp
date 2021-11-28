@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Lead Pencil ![image](/image/Lead_Pencil.png) 
+
+
+Effects
 ---------
 
 
@@ -14,7 +17,7 @@ Effects[]
 		- (Removed in Repentance) Conquest ignores the locust spawn timer.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -24,19 +27,19 @@ Notes[]
 	+ This makes it possible to gain multiple varying horsemen and gain all of their locusts at one time
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Increases Horsemens' size and doubles their contact damage. Does not affect locusts spawned.
-* [(Bomber Boy)](/wiki/Bomber_Boy "Bomber Boy") [Bomber Boy](/wiki/Bomber_Boy "Bomber Boy"): War's locusts explode in a small horizontal cross-shape pattern.
-* [(Box of Friends)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Creates another random horseman that can be different from the original.
-* (Added in Repentance)[(Brimstone Bombs)](/wiki/Brimstone_Bombs "Brimstone Bombs") [Brimstone Bombs](/wiki/Brimstone_Bombs "Brimstone Bombs"): War's locusts will shoot out four brimstone beams in a + formation after hitting an enemy.
-* [(Hive Mind)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Increases locusts' size and doubles their damage.
-* [(Sad Bombs)](/wiki/Sad_Bombs "Sad Bombs") [Sad Bombs](/wiki/Sad_Bombs "Sad Bombs"): War's locusts fire a ring of ten tears outward upon detonation, which are affected by Isaac's tear modifiers, and deal damage equal to 15 + 0.6x, where x is Isaac's [Damage](/wiki/Damage "Damage").
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Increases Horsemens' size and doubles their contact damage. Does not affect locusts spawned.
+* [![image](/image/Bomber_Boy.png)](/wiki/Bomber_Boy "Bomber Boy") [Bomber Boy](/wiki/Bomber_Boy "Bomber Boy"): War's locusts explode in a small horizontal cross-shape pattern.
+* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Creates another random horseman that can be different from the original.
+* (Added in Repentance)[![image](/image/Brimstone_Bombs.png)](/wiki/Brimstone_Bombs "Brimstone Bombs") [Brimstone Bombs](/wiki/Brimstone_Bombs "Brimstone Bombs"): War's locusts will shoot out four brimstone beams in a + formation after hitting an enemy.
+* [![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Increases locusts' size and doubles their damage.
+* [![image](/image/Sad_Bombs.png)](/wiki/Sad_Bombs "Sad Bombs") [Sad Bombs](/wiki/Sad_Bombs "Sad Bombs"): War's locusts fire a ring of ten tears outward upon detonation, which are affected by Isaac's tear modifiers, and deal damage equal to 15 + 0.6x, where x is Isaac's [Damage](/wiki/Damage "Damage").
 
 
-Interactions[]
+Interactions
 --------------
 
 

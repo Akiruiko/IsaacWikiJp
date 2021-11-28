@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Little C.H.A.D. ![image](/image/Little_C.H.A.D..png) 
+
+
+Effects
 ---------
 
 
@@ -10,10 +13,10 @@ Effects[]
 	+ The bomb dropped can be a 1+1 bomb, [Troll Bomb](/wiki/Bombs "Bombs"), or a golden bomb.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The familiar drops bombs in a repeating pattern of 2, 2 then 3 rooms.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The familiar drops bombs in a repeating pattern of 2, 2 then 3 rooms.
 
 

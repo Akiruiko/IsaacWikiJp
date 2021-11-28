@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Butter Bean ![image](/image/Butter_Bean.png) 
+
+
+Effects
 ---------
 
 
@@ -15,12 +18,12 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Leviathan](/wiki/Leviathan "Leviathan") set. Collecting three items from this set will transform Isaac into Leviathan.
 
 
-Notes[]
+Notes
 -------
 
 
 * The fear effect chance depends on the [Luck](/wiki/Luck "Luck") stat, starting at 12.5% at 0 Luck, reaching 100% with 85 Luck.
-	+ [(Dark Matter)](/wiki/Dark_Matter "Dark Matter") [Dark Matter](/wiki/Dark_Matter "Dark Matter") is significantly better at inflicting fear than Abaddon.
+	+ [![image](/image/Dark_Matter.png)](/wiki/Dark_Matter "Dark Matter") [Dark Matter](/wiki/Dark_Matter "Dark Matter") is significantly better at inflicting fear than Abaddon.
 * Does not remove [(Soul Heart)](/wiki/Soul_Heart "Soul Heart") [Soul Hearts](/wiki/Soul_Heart "Soul Heart") or [(Eternal Heart)](/wiki/Eternal_Heart "Eternal Heart") [Eternal Hearts](/wiki/Eternal_Heart "Eternal Heart").
 * (Removed in Repentance) As it removes all Red Heart Containers, other Deals with the Devil can be taken for "free" as long as Abaddon is taken last while still having at least 1 Container.
 * (Removed in Repentance) Has no negative trade-off when taken as  [(???)](/wiki/%3F%3F%3F_(Character) "???") [???](/wiki/%3F%3F%3F_(Character) "??? (Character)"), minus losing the opportunity of an (Angel Room) [Angel Room](/wiki/Angel_Room "Angel Room").
@@ -31,7 +34,7 @@ Notes[]
 * (Added in Repentance)  [(Tainted Bethany)](/wiki/Tainted_Bethany "Tainted Bethany") [Tainted Bethany](/wiki/Tainted_Bethany "Tainted Bethany") will not lose stored Red Hearts, but can't gain more black hearts from this item as a result.
 
 
-Synergies[]
+Synergies
 -----------
 
 

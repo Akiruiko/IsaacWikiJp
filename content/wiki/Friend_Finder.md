@@ -1,14 +1,17 @@
 +++
 +++
 
-Effects[]
+ # Friend Finder ![image](/image/Friend_Finder.png) 
+
+
+Effects
 ---------
 
 
 * On use, spawns a random [friendly](/wiki/Friendly "Friendly") monster that mimics Isaac's movements and attacks, similar to  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
 
 
-Notes[]
+Notes
 -------
 
 
@@ -43,19 +46,19 @@ Notes[]
 * Bullets fired from friendly mobs will still visibly blink as if they're an enemy bullet, and will be highlighted if Bullet Visibility is set to High, despite not harming Isaac.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a random wisp.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a random wisp.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * [Ace Cards](/wiki/Cards_and_Runes "Cards and Runes"): Monsters spawned by Friend Finder are still affected by Ace Cards.
-* [(Eraser)](/wiki/Eraser "Eraser") [Eraser](/wiki/Eraser "Eraser"): If Friend Finder attempts to spawn an erased monster it will simply fail and waste the charge, instead of choosing a different monster.
-* [(The Soul)](/wiki/The_Soul "The Soul") [The Soul](/wiki/The_Soul "The Soul"): Projectiles shot from charmed monsters will be repelled by the aura.
+* [![image](/image/Eraser.png)](/wiki/Eraser "Eraser") [Eraser](/wiki/Eraser "Eraser"): If Friend Finder attempts to spawn an erased monster it will simply fail and waste the charge, instead of choosing a different monster.
+* [![image](/image/The_Soul.png)](/wiki/The_Soul "The Soul") [The Soul](/wiki/The_Soul "The Soul"): Projectiles shot from charmed monsters will be repelled by the aura.
 
 

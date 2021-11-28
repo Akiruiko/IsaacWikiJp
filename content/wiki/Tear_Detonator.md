@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Tear Detonator ![image](/image/Tear_Detonator.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 	+ The dash has an approximate 3 second cooldown.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -23,12 +26,12 @@ Notes[]
 * Extra care needs to be taken with this item, as tapping for precise movements too quickly will cause a dash.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Camo Undies)](/wiki/Camo_Undies "Camo Undies") [Camo Undies](/wiki/Camo_Undies "Camo Undies"): Can be used to deal damage without breaking the confusion effect.
-* [(Kamikaze!)](/wiki/Kamikaze! "Kamikaze!") [Kamikaze!](/wiki/Kamikaze! "Kamikaze!"): Kamikaze can be used without taking damage while dashing.
-* [(A Pony)](/wiki/A_Pony "A Pony") [A Pony](/wiki/A_Pony "A Pony") / [(White Pony)](/wiki/White_Pony "White Pony") [White Pony](/wiki/White_Pony "White Pony"): Lowers the dash cooldown to approximately 1.5 second.
+* [![image](/image/Camo_Undies.png)](/wiki/Camo_Undies "Camo Undies") [Camo Undies](/wiki/Camo_Undies "Camo Undies"): Can be used to deal damage without breaking the confusion effect.
+* [![image](/image/Kamikaze!.png)](/wiki/Kamikaze! "Kamikaze!") [Kamikaze!](/wiki/Kamikaze! "Kamikaze!"): Kamikaze can be used without taking damage while dashing.
+* [![image](/image/A_Pony.png)](/wiki/A_Pony "A Pony") [A Pony](/wiki/A_Pony "A Pony") / [![image](/image/White_Pony.png)](/wiki/White_Pony "White Pony") [White Pony](/wiki/White_Pony "White Pony"): Lowers the dash cooldown to approximately 1.5 second.
 
 

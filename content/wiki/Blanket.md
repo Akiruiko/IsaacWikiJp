@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Blanket ![image](/image/Blanket.png) 
+
+
+Effect
 --------
 
 
@@ -9,10 +12,10 @@ Effect[]
 	+ The first drop happens after 1 room.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The familiar drops coins in a repeating pattern of 1, 2, 2 then 2 rooms.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The familiar drops coins in a repeating pattern of 1, 2, 2 then 2 rooms.
 
 

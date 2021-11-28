@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Blue Cap ![image](/image/Blue_Cap.png) 
+
+
+Effects
 ---------
 
 
@@ -12,17 +15,17 @@ Effects[]
 * This item belongs to the [Yes Mother?](/wiki/Yes_Mother%3F "Yes Mother?") set. Collecting three items from this set will transform Isaac into his mother.
 
 
-Notes[]
+Notes
 -------
 
 
 * It may not always be a good idea to take Mom's Razor if Isaac has one or more [Pretty Flies](/wiki/Familiar#Pretty_Fly "Familiar") as orbitals, as Mom's Razor can override Pretty Flies without giving protection from enemy shots.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Increases razor's size and contact damage. No damage increase on bleed effect.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Increases razor's size and contact damage. No damage increase on bleed effect.
 
 

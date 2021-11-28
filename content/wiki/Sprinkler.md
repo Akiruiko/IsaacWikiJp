@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Sprinkler ![image](/image/Sprinkler.png) 
+
+
+Effects
 ---------
 
 
@@ -14,7 +17,7 @@ Effects[]
 * Fills all Red Heart containers.
 
 
-Interactions[]
+Interactions
 --------------
 
 

@@ -1,24 +1,27 @@
 +++
 +++
 
-Effects[]
+ # Rosary ![image](/image/Rosary.png) 
+
+
+Effects
 ---------
 
 
 * Grants 3 [Soul Hearts](/wiki/Soul_Heart "Soul Heart").
-* [(The Bible)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible") is added to all [item pools](/wiki/Item_pool "Item pool").
+* [![image](/image/The_Bible.png)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible") is added to all [item pools](/wiki/Item_pool "Item pool").
 * (Added in Repentance) +0.5 [tears](/wiki/Tears "Tears").
 * (Added in Afterbirth) This item belongs to the [Seraphim](/wiki/Seraphim_(Transformation) "Seraphim (Transformation)") set. Collecting three items from this set will transform Isaac into an angel.
 
 
-Notes[]
+Notes
 -------
 
 
 * If The Bible has been picked up before collecting the Rosary, it will not be re-added to item pools.
 * The Bible can be encountered multiple times even in the same pool if it is not picked up; however, once picked up, it cannot appear again anywhere.
 * This item stacks with [(Rosary Bead)](/wiki/Rosary_Bead "Rosary Bead") [Rosary Bead](/wiki/Rosary_Bead "Rosary Bead"), further increasing the chance to find The Bible in the [Library](/wiki/Library "Library") and [Shop](/wiki/Shop "Shop").
-* (Removed in Repentance) The approximate chances of finding [(The Bible)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible") in each item pool are:
+* (Removed in Repentance) The approximate chances of finding [![image](/image/The_Bible.png)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible") in each item pool are:
 	+ [Treasure Room](/wiki/Treasure_Room_(Item_Pool) "Treasure Room (Item Pool)"):: 2.26%
 	+ [Shop](/wiki/Shop_(Item_Pool) "Shop (Item Pool)"): 12.82%
 	+ [Boss](/wiki/Boss_(Item_Pool) "Boss (Item Pool)"): 11.36%

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Guppy's Collar ![image](/image/Guppy%27s_Collar.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 	+ Isaac is immune to damage for the duration of the effect, which allows him to use it to get into curse rooms and travel over spikes without taking damage.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -33,29 +36,29 @@ Notes[]
 
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): 3 wisps are summoned where Isaac lands after using Suplex; the wisps rotate around the spot Isaac landed and fire tears in the same direction Isaac does. The wisps do not persist between rooms.
-* [(Berserk!)](/wiki/Berserk! "Berserk!") [Berserk!](/wiki/Berserk! "Berserk!"), [(Soul of Samson)](/wiki/Cards_and_Runes "Soul of Samson") [Soul of Samson](/wiki/Cards_and_Runes "Cards and Runes"), or  [(Tainted Samson)](/wiki/Tainted_Samson "Tainted Samson") [Tainted Samson](/wiki/Tainted_Samson "Tainted Samson"): Suplex when used in berserk state has a unique visual effect, and will deal massive damage to the target while setting off a [(Mama Mega!)](/wiki/Mama_Mega! "Mama Mega!") [Mama Mega!](/wiki/Mama_Mega! "Mama Mega!") style explosion, destroying all [obstacles](/wiki/Obstacle "Obstacle") in the current room and dealing 200 damage to every enemy (including [Bosses](/wiki/Boss "Boss")).
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): 3 wisps are summoned where Isaac lands after using Suplex; the wisps rotate around the spot Isaac landed and fire tears in the same direction Isaac does. The wisps do not persist between rooms.
+* [![image](/image/Berserk!.png)](/wiki/Berserk! "Berserk!") [Berserk!](/wiki/Berserk! "Berserk!"), [(Soul of Samson)](/wiki/Cards_and_Runes "Soul of Samson") [Soul of Samson](/wiki/Cards_and_Runes "Cards and Runes"), or  [(Tainted Samson)](/wiki/Tainted_Samson "Tainted Samson") [Tainted Samson](/wiki/Tainted_Samson "Tainted Samson"): Suplex when used in berserk state has a unique visual effect, and will deal massive damage to the target while setting off a [![image](/image/Mama_Mega!.png)](/wiki/Mama_Mega! "Mama Mega!") [Mama Mega!](/wiki/Mama_Mega! "Mama Mega!") style explosion, destroying all [obstacles](/wiki/Obstacle "Obstacle") in the current room and dealing 200 damage to every enemy (including [Bosses](/wiki/Boss "Boss")).
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * [(Panic Button)](/wiki/Panic_Button "Panic Button") [Panic Button](/wiki/Panic_Button "Panic Button"): As long as Suplex! is fully charged, Panic Button automatically triggers when about to take damage, avoiding the damage and potentially grabbing an enemy in the process. Allows Isaac to grab an enemy by simply walking into them, provided the item is charged.
 
 
-Bugs[]
+Bugs
 ------
 
 
 
 
 | (Bug) Bug!
- | Using Suplex! in combination with [(Mega Mush)](/wiki/Mega_Mush "Mega Mush") [Mega Mush](/wiki/Mega_Mush "Mega Mush") makes you grab enemies and move them around until you leave the room. Doing this on any of the Ultra Harbingers or [The Beast](/wiki/The_Beast "The Beast") will make the enemy disappear and render you unable to move at all.
+ | Using Suplex! in combination with [![image](/image/Mega_Mush.png)](/wiki/Mega_Mush "Mega Mush") [Mega Mush](/wiki/Mega_Mush "Mega Mush") makes you grab enemies and move them around until you leave the room. Doing this on any of the Ultra Harbingers or [The Beast](/wiki/The_Beast "The Beast") will make the enemy disappear and render you unable to move at all.
  |
 
 
@@ -74,14 +77,14 @@ Bugs[]
 
 | [(Jacob and Esau Unlocks)](/wiki/Jacob_and_Esau "Jacob and Esau Unlocks") [Jacob and Esau Unlocks](/wiki/Jacob_and_Esau "Jacob and Esau") [(Jacob and Esau Unlocks)](/wiki/Jacob_and_Esau "Jacob and Esau Unlocks") |
 | --- |
-| (Added in Repentance)[(Double Baby)](/wiki/Co-op#Repentance_babies "Double Baby")[(The Stairway)](/wiki/The_Stairway "The Stairway")[(Red Stew)](/wiki/Red_Stew "Red Stew")[(Birthright)](/wiki/Birthright "Birthright")[(Damocles)](/wiki/Damocles "Damocles")[(Rock Bottom)](/wiki/Rock_Bottom "Rock Bottom")[(Inner Child)](/wiki/Inner_Child "Inner Child")[(Vanishing Twin)](/wiki/Vanishing_Twin "Vanishing Twin")[(Genesis)](/wiki/Genesis "Genesis")[(Suplex!)](/wiki/Suplex! "Suplex!")[(Solomon's Baby)](/wiki/Co-op#Repentance_babies "Solomon's Baby")[(Illusion Baby)](/wiki/Co-op#Repentance_babies "Illusion Baby")[(Magic Skin)](/wiki/Magic_Skin "Magic Skin")[(Friend Finder)](/wiki/Friend_Finder "Friend Finder")[(The Deserter)](/wiki/Tainted_Jacob "The Deserter") |
+| (Added in Repentance)[(Double Baby)](/wiki/Co-op#Repentance_babies "Double Baby")[![image](/image/The_Stairway.png)](/wiki/The_Stairway "The Stairway")[![image](/image/Red_Stew.png)](/wiki/Red_Stew "Red Stew")[![image](/image/Birthright.png)](/wiki/Birthright "Birthright")[![image](/image/Damocles.png)](/wiki/Damocles "Damocles")[![image](/image/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom")[![image](/image/Inner_Child.png)](/wiki/Inner_Child "Inner Child")[![image](/image/Vanishing_Twin.png)](/wiki/Vanishing_Twin "Vanishing Twin")[![image](/image/Genesis.png)](/wiki/Genesis "Genesis")[![image](/image/Suplex!.png)](/wiki/Suplex! "Suplex!")[(Solomon's Baby)](/wiki/Co-op#Repentance_babies "Solomon's Baby")[(Illusion Baby)](/wiki/Co-op#Repentance_babies "Illusion Baby")[![image](/image/Magic_Skin.png)](/wiki/Magic_Skin "Magic Skin")[![image](/image/Friend_Finder.png)](/wiki/Friend_Finder "Friend Finder")[(The Deserter)](/wiki/Tainted_Jacob "The Deserter") |
 
 
 
 
 | [(Delirium Unlocks)](/wiki/Delirium "Delirium Unlocks") [Delirium Unlocks](/wiki/Delirium "Delirium") [(Delirium Unlocks)](/wiki/Delirium "Delirium Unlocks") |
 | --- |
-| (Added in Afterbirth †)[(D Infinity)](/wiki/D_Infinity "D Infinity")[(Eucharist)](/wiki/Eucharist "Eucharist")[(Silver Dollar)](/wiki/Silver_Dollar "Silver Dollar")[(Shade)](/wiki/Shade "Shade")[(King Baby)](/wiki/King_Baby "King Baby")[(Bloody Crown)](/wiki/Bloody_Crown "Bloody Crown")[(Dull Razor)](/wiki/Dull_Razor "Dull Razor")[(Eden's Soul)](/wiki/Eden%27s_Soul "Eden's Soul")[(Dark Prince's Crown)](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown")[(Compound Fracture)](/wiki/Compound_Fracture "Compound Fracture")[(Euthanasia)](/wiki/Euthanasia "Euthanasia")[(Holy Card)](/wiki/Holy_Card "Holy Card")[(Crooked Penny)](/wiki/Crooked_Penny "Crooked Penny")[(Void)](/wiki/Void "Void")[(Delirious)](/wiki/Delirious "Delirious")[(Lil Delirium)](/wiki/Lil_Delirium "Lil Delirium")[(Book of the Dead)](/wiki/Book_of_the_Dead "Book of the Dead") | (Added in Repentance)[(Star of Bethlehem)](/wiki/Star_of_Bethlehem "Star of Bethlehem")[(Suplex!)](/wiki/Suplex! "Suplex!")[(Spindown Dice)](/wiki/Spindown_Dice "Spindown Dice")[(Hypercoagulation)](/wiki/Hypercoagulation "Hypercoagulation")[(Bag of Crafting)](/wiki/Bag_of_Crafting "Bag of Crafting")[(Dark Arts)](/wiki/Dark_Arts "Dark Arts")[(IBS)](/wiki/IBS "IBS")[(Sumptorium)](/wiki/Sumptorium "Sumptorium")[(Berserk!)](/wiki/Berserk! "Berserk!")[(Hemoptysis)](/wiki/Hemoptysis "Hemoptysis")[(Flip)](/wiki/Flip "Flip")[(Corrupted Data)](/wiki/Corrupted_Data "Corrupted Data")[(Ghost Bombs)](/wiki/Ghost_Bombs "Ghost Bombs")[(Gello)](/wiki/Gello "Gello")[(Keeper's Kin)](/wiki/Keeper%27s_Kin "Keeper's Kin")[(Abyss)](/wiki/Abyss "Abyss")[(Decap Attack)](/wiki/Decap_Attack "Decap Attack")[(Lemegeton)](/wiki/Lemegeton "Lemegeton")[(Anima Sola)](/wiki/Anima_Sola "Anima Sola") |
+| (Added in Afterbirth †)[![image](/image/D_Infinity.png)](/wiki/D_Infinity "D Infinity")[![image](/image/Eucharist.png)](/wiki/Eucharist "Eucharist")[(Silver Dollar)](/wiki/Silver_Dollar "Silver Dollar")[![image](/image/Shade.png)](/wiki/Shade "Shade")[![image](/image/King_Baby.png)](/wiki/King_Baby "King Baby")[(Bloody Crown)](/wiki/Bloody_Crown "Bloody Crown")[![image](/image/Dull_Razor.png)](/wiki/Dull_Razor "Dull Razor")[![image](/image/Eden%27s_Soul.png)](/wiki/Eden%27s_Soul "Eden's Soul")[![image](/image/Dark_Prince%27s_Crown.png)](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown")[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture")[![image](/image/Euthanasia.png)](/wiki/Euthanasia "Euthanasia")[(Holy Card)](/wiki/Holy_Card "Holy Card")[![image](/image/Crooked_Penny.png)](/wiki/Crooked_Penny "Crooked Penny")[![image](/image/Void.png)](/wiki/Void "Void")[![image](/image/Delirious.png)](/wiki/Delirious "Delirious")[![image](/image/Lil_Delirium.png)](/wiki/Lil_Delirium "Lil Delirium")[![image](/image/Book_of_the_Dead.png)](/wiki/Book_of_the_Dead "Book of the Dead") | (Added in Repentance)[![image](/image/Star_of_Bethlehem.png)](/wiki/Star_of_Bethlehem "Star of Bethlehem")[![image](/image/Suplex!.png)](/wiki/Suplex! "Suplex!")[![image](/image/Spindown_Dice.png)](/wiki/Spindown_Dice "Spindown Dice")[![image](/image/Hypercoagulation.png)](/wiki/Hypercoagulation "Hypercoagulation")[![image](/image/Bag_of_Crafting.png)](/wiki/Bag_of_Crafting "Bag of Crafting")[![image](/image/Dark_Arts.png)](/wiki/Dark_Arts "Dark Arts")[![image](/image/IBS.png)](/wiki/IBS "IBS")[![image](/image/Sumptorium.png)](/wiki/Sumptorium "Sumptorium")[![image](/image/Berserk!.png)](/wiki/Berserk! "Berserk!")[![image](/image/Hemoptysis.png)](/wiki/Hemoptysis "Hemoptysis")[![image](/image/Flip.png)](/wiki/Flip "Flip")[(Corrupted Data)](/wiki/Corrupted_Data "Corrupted Data")[![image](/image/Ghost_Bombs.png)](/wiki/Ghost_Bombs "Ghost Bombs")[![image](/image/Gello.png)](/wiki/Gello "Gello")[![image](/image/Keeper%27s_Kin.png)](/wiki/Keeper%27s_Kin "Keeper's Kin")[![image](/image/Abyss.png)](/wiki/Abyss "Abyss")[![image](/image/Decap_Attack.png)](/wiki/Decap_Attack "Decap Attack")[![image](/image/Lemegeton.png)](/wiki/Lemegeton "Lemegeton")[![image](/image/Anima_Sola.png)](/wiki/Anima_Sola "Anima Sola") |
 
 
 

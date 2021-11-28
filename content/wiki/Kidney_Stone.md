@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Kidney Stone ![image](/image/Kidney_Stone.png) 
+
+
+Effects
 ---------
 
 

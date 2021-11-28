@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Spider Bite ![image](/image/Spider_Bite.png) 
+
+
+Effect
 --------
 
 
@@ -9,7 +12,7 @@ Effect[]
 	+ (Removed in Repentance) This does not affect flying enemies.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -17,7 +20,7 @@ Notes[]
 * The traced pattern does not have to be even nearly circular: closed shapes such as squares or very narrow crescents will work, with some luck and practice.
 
 
-Interactions[]
+Interactions
 --------------
 
 

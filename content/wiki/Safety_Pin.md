@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Safety Pin ![image](/image/Safety_Pin.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 * +0.16 [shot speed](/wiki/Shot_speed "Shot speed").
 
 
-Synergies[]
+Synergies
 -----------
 
 

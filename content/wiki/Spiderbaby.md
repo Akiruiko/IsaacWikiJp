@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Spiderbaby ![image](/image/Spiderbaby.png) 
+
+
+Effects
 ---------
 
 
@@ -11,11 +14,11 @@ Effects[]
 	+ (Added in Repentance) If not every rune is unlocked, it will drop a [(Rune Shard)](/wiki/Cards_and_Runes "Rune Shard") [Rune Shard](/wiki/Cards_and_Runes "Cards and Runes") in place of the corresponding rune.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The drop rate is improved to every 4-5 rooms.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The drop rate is improved to every 4-5 rooms.
 	+ (Added in Repentance) The drop rate is improved to every 6 rooms.
 
 

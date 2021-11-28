@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mr. Mega ![image](/image/Mr._Mega.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 * When bombs explode, the screen will shake.
 
 
-Notes[]
+Notes
 -------
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Libra ![image](/image/Libra.png) 
+
+
+Effects
 ---------
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Bogo Bombs ![image](/image/Bogo_Bombs.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 	+ Isaac keeps the chargers when transitioning between rooms.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -21,18 +24,18 @@ Notes[]
 * This item can only spawn a maximum of 5 chargers.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect.
-* [(Box of Friends)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): No effect.
-* (Added in Repentance)[(Eraser)](/wiki/Eraser "Eraser") [Eraser](/wiki/Eraser "Eraser"): Erasing a [Charger](/wiki/Charger "Charger") will prevent all newly created [friendly](/wiki/Friendly "Friendly") Chargers from spawning, rendering the item useless. The item spawns a normal Charger before changing it to the special My Shadow variant.
-* (Added in Repentance)[(Ghost Bombs)](/wiki/Ghost_Bombs "Ghost Bombs") [Ghost Bombs](/wiki/Ghost_Bombs "Ghost Bombs") / (Added in Repentance)[(Purgatory)](/wiki/Purgatory "Purgatory") [Purgatory](/wiki/Purgatory "Purgatory"): Explosions from the ghosts can and will kill the chargers.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect.
+* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): No effect.
+* (Added in Repentance)[![image](/image/Eraser.png)](/wiki/Eraser "Eraser") [Eraser](/wiki/Eraser "Eraser"): Erasing a [Charger](/wiki/Charger "Charger") will prevent all newly created [friendly](/wiki/Friendly "Friendly") Chargers from spawning, rendering the item useless. The item spawns a normal Charger before changing it to the special My Shadow variant.
+* (Added in Repentance)[![image](/image/Ghost_Bombs.png)](/wiki/Ghost_Bombs "Ghost Bombs") [Ghost Bombs](/wiki/Ghost_Bombs "Ghost Bombs") / (Added in Repentance)[![image](/image/Purgatory.png)](/wiki/Purgatory "Purgatory") [Purgatory](/wiki/Purgatory "Purgatory"): Explosions from the ghosts can and will kill the chargers.
 
 
 
-Friendly monster[]
+Friendly monster
 ------------------
 
 
@@ -84,13 +87,13 @@ The dark [friendly](/wiki/Friendly "Friendly") chargers act like normal chargers
 
 
 
-### Notes[]
+### Notes
 
 
-* The allied chargers are affected by mass slowdown effects from items such as the [(Stop Watch)](/wiki/Stop_Watch "Stop Watch") [Stop Watch](/wiki/Stop_Watch "Stop Watch"), granting the Shadow Chargers a disadvantage.
+* The allied chargers are affected by mass slowdown effects from items such as the [![image](/image/Stop_Watch.png)](/wiki/Stop_Watch "Stop Watch") [Stop Watch](/wiki/Stop_Watch "Stop Watch"), granting the Shadow Chargers a disadvantage.
 * (Removed in Repentance) If Isaac has [homing tears](/wiki/Homing_tears "Homing tears"), they will home in on allied chargers.
-* The allied chargers will take damage from any sort of explosion, (Added in Afterbirth †) except from your own general explosions, (Removed in Repentance) though certain synergies involving [(Scatter Bombs)](/wiki/Scatter_Bombs "Scatter Bombs") [Scatter Bombs](/wiki/Scatter_Bombs "Scatter Bombs") may kill the Friendly charger.
-* (Removed in Afterbirth †) With [(Punching Bag)](/wiki/Punching_Bag "Punching Bag") [Punching Bag](/wiki/Punching_Bag "Punching Bag"), the allied chargers may attack the Punching Bag instead of enemies. It is recommended you don't take these two items together as they don't synergize well.
+* The allied chargers will take damage from any sort of explosion, (Added in Afterbirth †) except from your own general explosions, (Removed in Repentance) though certain synergies involving [![image](/image/Scatter_Bombs.png)](/wiki/Scatter_Bombs "Scatter Bombs") [Scatter Bombs](/wiki/Scatter_Bombs "Scatter Bombs") may kill the Friendly charger.
+* (Removed in Afterbirth †) With [![image](/image/Punching_Bag.png)](/wiki/Punching_Bag "Punching Bag") [Punching Bag](/wiki/Punching_Bag "Punching Bag"), the allied chargers may attack the Punching Bag instead of enemies. It is recommended you don't take these two items together as they don't synergize well.
 
 
 

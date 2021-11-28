@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Squeezy ![image](/image/Squeezy.png) 
+
+
+Effects
 ---------
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Magic Skin ![image](/image/Magic_Skin.png) 
+
+
+Effects
 ---------
 
 

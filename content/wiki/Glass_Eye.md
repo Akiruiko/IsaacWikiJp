@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Glass Eye ![image](/image/Glass_Eye.png) 
+
+
+Effects
 ---------
 
 
@@ -9,10 +12,10 @@ Effects[]
 * +1 [luck](/wiki/Luck "Luck").
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Glass Eye)](/wiki/Glass_Eye "Glass Eye") Glass Eye: Picking up a second copy of the item gives Isaac a unique costume with both eyes replaced.
+* [![image](/image/Glass_Eye.png)](/wiki/Glass_Eye "Glass Eye") Glass Eye: Picking up a second copy of the item gives Isaac a unique costume with both eyes replaced.
 
 

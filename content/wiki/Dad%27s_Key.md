@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Dad's Key ![image](/image/Dad%27s_Key.png) 
+
+
+Effects
 ---------
 
 
@@ -14,23 +17,23 @@ Effects[]
 	+ Blue flies and blue spiders are also affected, and don't disappear while the item is in use.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Generates up to eight wisps while charging the item, which are immediately extinguished once the charge runs out. The fire rate of the wisps is based on the speed they're rotating.
-* [(Gnawed Leaf)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): Gnawed Leaf will activate while using Spin to Win, as long as Isaac is stationary. This allows for a brief moment of high damage against enemies that chase Isaac.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Generates up to eight wisps while charging the item, which are immediately extinguished once the charge runs out. The fire rate of the wisps is based on the speed they're rotating.
+* [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): Gnawed Leaf will activate while using Spin to Win, as long as Isaac is stationary. This allows for a brief moment of high damage against enemies that chase Isaac.
 * [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"): While as The Soul, channeling Spin to Win will cause the Forgotten's skeleton to deal contact damage.
-* [(Taurus)](/wiki/Taurus "Taurus") [Taurus](/wiki/Taurus "Taurus"): Spin to Win's speed boost instantly triggers the item's invincibility effect.
+* [![image](/image/Taurus.png)](/wiki/Taurus "Taurus") [Taurus](/wiki/Taurus "Taurus"): Spin to Win's speed boost instantly triggers the item's invincibility effect.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The +6 contact damage bonus is not increased. Most notably, this means familiars without natural contact damage do not gain additional damage, and others gain less than expected.
-* [(Mom's Razor)](/wiki/Mom%27s_Razor "Mom's Razor") [Mom's Razor](/wiki/Mom%27s_Razor "Mom's Razor"): Mom's Razor deals a fixed 16.5 contact damage, instead of its usual damage-scaled value, while Spin to Win is active.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The +6 contact damage bonus is not increased. Most notably, this means familiars without natural contact damage do not gain additional damage, and others gain less than expected.
+* [![image](/image/Mom%27s_Razor.png)](/wiki/Mom%27s_Razor "Mom's Razor") [Mom's Razor](/wiki/Mom%27s_Razor "Mom's Razor"): Mom's Razor deals a fixed 16.5 contact damage, instead of its usual damage-scaled value, while Spin to Win is active.
 * [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten"): Unlike the non-tainted counterpart, Tainted Forgotten's body gains no extra contact damage while Spin to Win is active. Additionally, Tainted Forgotten's contact damage familiars have only 80% of their usual damage.
-* [(Void)](/wiki/Void "Void") [Void](/wiki/Void "Void"): After absorbing Spin to Win, using Void spawns a temporary, passive Spin to Win familiar for the room. It cannot be activated further for the damage and speed bonuses.
+* [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void"): After absorbing Spin to Win, using Void spawns a temporary, passive Spin to Win familiar for the room. It cannot be activated further for the damage and speed bonuses.
 
 

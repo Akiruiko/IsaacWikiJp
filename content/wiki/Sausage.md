@@ -1,16 +1,19 @@
 +++
 +++
 
-Effects[]
+ # Sausage ![image](/image/Sausage.png) 
+
+
+Effects
 ---------
 
 
-* Mimics the effect of Isaac's held [pill](/wiki/Pill "Pill"), like [(Blank Card)](/wiki/Blank_Card "Blank Card") [Blank Card](/wiki/Blank_Card "Blank Card") does with [cards](/wiki/Cards_and_Runes#Cards "Cards and Runes") and (Added in Repentance)[(Clear Rune)](/wiki/Clear_Rune "Clear Rune") [Clear Rune](/wiki/Clear_Rune "Clear Rune") does with [runes](/wiki/Cards_and_Runes#Runes "Cards and Runes").
+* Mimics the effect of Isaac's held [pill](/wiki/Pill "Pill"), like [![image](/image/Blank_Card.png)](/wiki/Blank_Card "Blank Card") [Blank Card](/wiki/Blank_Card "Blank Card") does with [cards](/wiki/Cards_and_Runes#Cards "Cards and Runes") and (Added in Repentance)[![image](/image/Clear_Rune.png)](/wiki/Clear_Rune "Clear Rune") [Clear Rune](/wiki/Clear_Rune "Clear Rune") does with [runes](/wiki/Cards_and_Runes#Runes "Cards and Runes").
 	+ Does not consume Isaac's held pill.
 	+ Does not mimic cards or runes.
 
 
-### Recharge time (Added in Repentance)[]
+### Recharge time (Added in Repentance)
 
 
 In Repentance, Placebo's recharge time changes depending on the pill Isaac was holding when he used it. This is a list of the following recharge times the item can have:
@@ -72,23 +75,23 @@ Note that because the recharge time is determined after using the pill, Placebo 
 
 
 
-Synergies[]
+Synergies
 -----------
 
 
 * (Removed in Repentance) [48 Hour Energy](/wiki/Pills#Pill_Effects "Pills"): Can spawn an unlimited number of [Lil' Batteries](/wiki/Batteries "Batteries"), allowing unlimited use of another activated item or pill.
-* (Removed in Repentance) [Balls of Steel](/wiki/Pills#Pill_Effects "Pills") + [(Sharp Plug)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug"): The player can gain functional invincibility.
-	+ (Removed in Repentance) [(The Wafer)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer"): Allows for Virtually infinite health.
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns white wisps on the middle ring. The wisps spawn [Pills](/wiki/Pill "Pill") when destroyed. The effects of the wisps and types of pills they spawn is independent from Placebo's charge time and the most recently used pill. Unlike [(Blank Card)](/wiki/Blank_Card "Blank Card") [Blank Card](/wiki/Blank_Card "Blank Card") and [(Clear Rune)](/wiki/Clear_Rune "Clear Rune") [Clear Rune](/wiki/Clear_Rune "Clear Rune"), enemies killed by these wisps' tears do not have a chance to drop pills.
+* (Removed in Repentance) [Balls of Steel](/wiki/Pills#Pill_Effects "Pills") + [![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug"): The player can gain functional invincibility.
+	+ (Removed in Repentance) [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer"): Allows for Virtually infinite health.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns white wisps on the middle ring. The wisps spawn [Pills](/wiki/Pill "Pill") when destroyed. The effects of the wisps and types of pills they spawn is independent from Placebo's charge time and the most recently used pill. Unlike [![image](/image/Blank_Card.png)](/wiki/Blank_Card "Blank Card") [Blank Card](/wiki/Blank_Card "Blank Card") and [![image](/image/Clear_Rune.png)](/wiki/Clear_Rune "Clear Rune") [Clear Rune](/wiki/Clear_Rune "Clear Rune"), enemies killed by these wisps' tears do not have a chance to drop pills.
 * (Added in Repentance)[(Butter!)](/wiki/Butter! "Butter!") [Butter!](/wiki/Butter! "Butter!"): Because Placebo is dropped upon usage, the recharge time is reset to 4, allowing to use more expensive pills much more frequently.
 * (Added in Repentance) [Vurp](/wiki/Pills#Pill_Effects "Pills"): Allows pills that normally take 12 rooms for Placebo to charge to be used twice as frequently.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Starter Deck)](/wiki/Starter_Deck "Starter Deck") [Starter Deck](/wiki/Starter_Deck "Starter Deck"): All pills are replaced by cards, rendering Placebo useless.
+* [![image](/image/Starter_Deck.png)](/wiki/Starter_Deck "Starter Deck") [Starter Deck](/wiki/Starter_Deck "Starter Deck"): All pills are replaced by cards, rendering Placebo useless.
 * If used with  [(Bethany)](/wiki/Bethany "Bethany") [Bethany](/wiki/Bethany "Bethany") or  [(Tainted Bethany)](/wiki/Tainted_Bethany "Tainted Bethany") [Tainted Bethany](/wiki/Tainted_Bethany "Tainted Bethany"), using a pill that has a larger charge requirement than Placebo's current will still consume soul or blood charges equal to the difference (likely a bug).
 
 

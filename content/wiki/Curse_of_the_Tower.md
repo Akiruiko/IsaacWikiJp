@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Curse of the Tower ![image](/image/Curse_of_the_Tower.png) 
+
+
+Effects
 ---------
 
 
@@ -16,7 +19,7 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Leviathan](/wiki/Leviathan "Leviathan") set. Collecting three items from this set will transform Isaac into Leviathan.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -24,10 +27,10 @@ Notes[]
 * (Added in Repentance) The damage increase from The Nail can be stacked in the same room, but the speed penalty does not increase.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns black wisps on the inner ring. Wisps shoot nails that deal double damage from standard wisps, and have increased knockback, akin to [(Blister)](/wiki/Blister "Blister") [Blister](/wiki/Blister "Blister").
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns black wisps on the inner ring. Wisps shoot nails that deal double damage from standard wisps, and have increased knockback, akin to [(Blister)](/wiki/Blister "Blister") [Blister](/wiki/Blister "Blister").
 
 

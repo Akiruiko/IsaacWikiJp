@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # God's Flesh ![image](/image/God%27s_Flesh.png) 
+
+
+Effects
 ---------
 
 
@@ -13,11 +16,11 @@ Effects[]
 	+ If there are no enemies in the room, the ghost follows Isaac. However, it cannot follow Isaac between rooms.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Dr. Fetus)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Spectral bombs are less likely to hit Isaac, but make it harder to blow up specific rocks.
-* [(Scatter Bombs)](/wiki/Scatter_Bombs "Scatter Bombs") [Scatter Bombs](/wiki/Scatter_Bombs "Scatter Bombs"): Split bombs create ghosts that instantly launch themselves at enemies and explode, similar to [(Purgatory)](/wiki/Purgatory "Purgatory") [Purgatory](/wiki/Purgatory "Purgatory"). They each deal 2x Isaac's damage, up to 4 times.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Spectral bombs are less likely to hit Isaac, but make it harder to blow up specific rocks.
+* [![image](/image/Scatter_Bombs.png)](/wiki/Scatter_Bombs "Scatter Bombs") [Scatter Bombs](/wiki/Scatter_Bombs "Scatter Bombs"): Split bombs create ghosts that instantly launch themselves at enemies and explode, similar to [![image](/image/Purgatory.png)](/wiki/Purgatory "Purgatory") [Purgatory](/wiki/Purgatory "Purgatory"). They each deal 2x Isaac's damage, up to 4 times.
 
 

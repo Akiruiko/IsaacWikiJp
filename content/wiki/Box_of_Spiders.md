@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Box of Spiders ![image](/image/Box_of_Spiders.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 * (Added in Afterbirth †) This item belongs to the [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)") set. Collecting three items from this set will transform Isaac into a humanoid spider.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -18,10 +21,10 @@ Notes[]
 	+ (Added in Repentance) Blue Spiders deal 2x Isaac's damage.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps instead of spiders, in the outer ring. Wisps summon Blue Spiders when destroyed. One wisp contains one Blue Spider.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps instead of spiders, in the outer ring. Wisps summon Blue Spiders when destroyed. One wisp contains one Blue Spider.
 
 

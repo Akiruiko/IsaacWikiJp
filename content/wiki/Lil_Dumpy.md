@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Lil Dumpy ![image](/image/Lil_Dumpy.png) 
+
+
+Effect
 --------
 
 
@@ -9,7 +12,7 @@ Effect[]
 	+ Normal enemies stay permanently petrified as long as they are within the ring, whereas bosses get a standard petrification effect that stays even outside the ring but isn't permanent.
 
 
-Notes[]
+Notes
 -------
 
 

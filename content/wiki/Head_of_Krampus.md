@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Head of Krampus ![image](/image/Head_of_Krampus.png) 
+
+
+Effects
 ---------
 
 
@@ -11,12 +14,12 @@ Effects[]
 * (Added in Repentance) +1.5 [range](/wiki/Range "Range").
 
 
-Notes[]
+Notes
 -------
 
 
 * The effects of this item do not stack if multiple copies of the item or its effects are acquired; Isaac only gets the range bonus once.
-* [(Lazarus)](/wiki/Lazarus "Lazarus") [Lazarus](/wiki/Lazarus "Lazarus"), or anyone holding [(Lazarus' Rags)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags"), is resurrected with this item upon his first death.
+* [(Lazarus)](/wiki/Lazarus "Lazarus") [Lazarus](/wiki/Lazarus "Lazarus"), or anyone holding [![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags"), is resurrected with this item upon his first death.
 	+ (Added in Afterbirth †) After [Backasswards](/wiki/Backasswards "Backasswards") (challenge #31) is beaten, Lazarus will start with Anemic, and Lazarus Risen will have its increased range and creep trail effect permanently active, regardless of whether he possesses the item.
 
 

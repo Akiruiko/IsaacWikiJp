@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Cube Baby ![image](/image/Cube_Baby.png) 
+
+
+Effects
 ---------
 
 
@@ -13,11 +16,11 @@ Effects[]
 * This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-[(Mom's Bracelet)](/wiki/Mom%27s_Bracelet "Mom's Bracelet") [Mom's Bracelet](/wiki/Mom%27s_Bracelet "Mom's Bracelet"): Cube Baby can be picked up and thrown. It will then slide at maximum speed in the direction it's thrown at and leave a trail of damaging white creep until it slows down.
+[![image](/image/Mom%27s_Bracelet.png)](/wiki/Mom%27s_Bracelet "Mom's Bracelet") [Mom's Bracelet](/wiki/Mom%27s_Bracelet "Mom's Bracelet"): Cube Baby can be picked up and thrown. It will then slide at maximum speed in the direction it's thrown at and leave a trail of damaging white creep until it slows down.
 
 
 

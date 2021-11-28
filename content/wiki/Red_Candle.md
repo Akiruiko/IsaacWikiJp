@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Red Candle ![image](/image/Red_Candle.png) 
+
+
+Effects
 ---------
 
 

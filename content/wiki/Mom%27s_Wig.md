@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mom's Wig ![image](/image/Mom%27s_Wig.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 * This item belongs to the [Beelzebub](/wiki/Beelzebub "Beelzebub") set. Collecting three items from this set will transform Isaac into a giant humanoid fly.
 
 
-Notes[]
+Notes
 -------
 
 

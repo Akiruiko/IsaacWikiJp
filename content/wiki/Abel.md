@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Abel ![image](/image/Abel.png) 
+
+
+Effects
 ---------
 
 
@@ -13,7 +16,7 @@ Effects[]
 * (Added in Repentance) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
 
 
-Notes[]
+Notes
 -------
 
 

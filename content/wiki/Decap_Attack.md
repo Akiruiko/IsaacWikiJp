@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Decap Attack ![image](/image/Decap_Attack.png) 
+
+
+Effect
 --------
 
 
@@ -19,7 +22,7 @@ Effect[]
 	+ Large blood tear for 5 damage.
 
 
-Notes[]
+Notes
 -------
 
 

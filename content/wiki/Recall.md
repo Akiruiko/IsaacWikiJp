@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Recall ![image](/image/Recall.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * Restores all [health](/wiki/Health "Health").
 
 
-Interactions[]
+Interactions
 --------------
 
 

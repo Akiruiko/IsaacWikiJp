@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Growth Hormones ![image](/image/Growth_Hormones.png) 
+
+
+Effects
 ---------
 
 
@@ -21,7 +24,7 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Spun](/wiki/Spun "Spun") set. Collecting three items from this set will transform Isaac into a buff berserker.
 
 
-Notes[]
+Notes
 -------
 
 

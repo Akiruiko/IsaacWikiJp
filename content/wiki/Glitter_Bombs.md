@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Glitter Bombs ![image](/image/Glitter_Bombs.png) 
+
+
+Effects
 ---------
 
 
@@ -9,24 +12,24 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Yes Mother?](/wiki/Yes_Mother%3F "Yes Mother?") set. Collecting three items from this set will transform Isaac into his mother.
 
 
-Notes[]
+Notes
 -------
 
 
 * Isaac keeps wearing the bra until he leaves the room, even after the petrifying effect has worn off.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps in the middle ring. Wisps' tears have a 5% chance to [petrify](/wiki/Status_Effects "Status Effects") enemies.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps in the middle ring. Wisps' tears have a 5% chance to [petrify](/wiki/Status_Effects "Status Effects") enemies.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth)[(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Eye of the Occult ![image](/image/Eye_of_the_Occult.png) 
+
+
+Effects
 ---------
 
 
@@ -11,12 +14,12 @@ Effects[]
 * (Added in Repentance) This item belongs to the [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)") set. Collecting three items from this set will transform Isaac into a humanoid spider.
 
 
-Notes[]
+Notes
 -------
 
 
 * Sticky Bombs spawn the same amount of spiders even if multiple enemies are killed with a single bomb.
-* Bombs spawned by [(Dr. Fetus)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus") retain the sticky effect of Sticky Bombs, but having an item that pierces enemies, such as [(Death's Touch)](/wiki/Death%27s_Touch "Death's Touch") [Death's Touch](/wiki/Death%27s_Touch "Death's Touch"), overrides the effect of Sticky Bombs.
+* Bombs spawned by [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus") retain the sticky effect of Sticky Bombs, but having an item that pierces enemies, such as [![image](/image/Death%27s_Touch.png)](/wiki/Death%27s_Touch "Death's Touch") [Death's Touch](/wiki/Death%27s_Touch "Death's Touch"), overrides the effect of Sticky Bombs.
 	+ Dr. Fetus bombs will not spawn spiders even if they stick to an enemy.
 
 

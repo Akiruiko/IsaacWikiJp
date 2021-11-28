@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Vengeful Spirit ![image](/image/Vengeful_Spirit.png) 
+
+
+Effects
 ---------
 
 
@@ -10,17 +13,17 @@ Effects[]
 	+ Wisps deal contact damage equal to 0.5x Isaacs's damage per tick (15 ticks per second = 7.5x Isaac's damage).
 
 
-Notes[]
+Notes
 -------
 
 
-* The wisps share the first layer of [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues") wisps so combined with them, you can't have more than 8.
+* The wisps share the first layer of [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues") wisps so combined with them, you can't have more than 8.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Doubles the wisps' size, on-hit and contact damage.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Doubles the wisps' size, on-hit and contact damage.
 
 

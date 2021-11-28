@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Soul Locket ![image](/image/Soul_Locket.png) 
+
+
+Effects
 ---------
 
 
@@ -15,12 +18,12 @@ Effects[]
 * Spawns a [soul heart](/wiki/Hearts#Soul_Hearts "Hearts") when picked up.
 
 
-Notes[]
+Notes
 -------
 
 
 * Black Hearts give the same stat boosts as normal soul hearts.
-* Soul Locket only activates when picking up actual Soul Hearts, not if they're directly added to Isaac's [health](/wiki/Health "Health") (such as by a [Balls of Steel pill](/wiki/Pills "Pills") or [(Book of Revelations)](/wiki/Book_of_Revelations "Book of Revelations") [Book of Revelations](/wiki/Book_of_Revelations "Book of Revelations")).
+* Soul Locket only activates when picking up actual Soul Hearts, not if they're directly added to Isaac's [health](/wiki/Health "Health") (such as by a [Balls of Steel pill](/wiki/Pills "Pills") or [![image](/image/Book_of_Revelations.png)](/wiki/Book_of_Revelations "Book of Revelations") [Book of Revelations](/wiki/Book_of_Revelations "Book of Revelations")).
 * This item gives stats when adding to  [(Bethany)](/wiki/Bethany "Bethany") [Bethany](/wiki/Bethany "Bethany")'s soul charges.
 * This item is useless for  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper"), since he cannot encounter soul hearts.
 * Hearts acquired prior to picking up Soul Locket will not provide stat boosts.

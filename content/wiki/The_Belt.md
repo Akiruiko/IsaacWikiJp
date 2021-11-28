@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # The Belt ![image](/image/The_Belt.png) 
+
+
+Effects
 ---------
 
 

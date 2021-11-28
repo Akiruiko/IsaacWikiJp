@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Papa Fly ![image](/image/Papa_Fly.png) 
+
+
+Effects
 ---------
 
 
@@ -10,30 +13,30 @@ Effects[]
 	+ The size of the rift increases with Isaac's damage.
 
 
-Notes[]
+Notes
 -------
 
 
 * The chance to fire a rift is vaguely affected by [Luck](/wiki/Luck "Luck"), but caps at a certain point, and is never guaranteed to trigger.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Brimstone)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Rifts may appear where a brimstone beam hits rock, walls or enemies.
-* [(The Parasite)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite") / [(Compound Fracture)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture"): Causes many smaller rifts to also spawn.
-* [(The Ludovico Technique)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Each tick of damage has chance of creating rift, which will be slightly bigger in size.
-* [(Tech X)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Works similarly to Brimstone.
-* [(Technology)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Works similarly to Brimstone.
-* [(Trisagion)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): May spawn a line of rifts where the laser travels.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Rifts may appear where a brimstone beam hits rock, walls or enemies.
+* [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite") / [![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture"): Causes many smaller rifts to also spawn.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Each tick of damage has chance of creating rift, which will be slightly bigger in size.
+* [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Works similarly to Brimstone.
+* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Works similarly to Brimstone.
+* [![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): May spawn a line of rifts where the laser travels.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Epic Fetus)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overridden by Epic Fetus.
-* [(Mom's Knife)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Overridden by Mom's Knife.
+* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overridden by Epic Fetus.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Overridden by Mom's Knife.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Missing No. ![image](/image/Missing_No..png) 
+
+
+Effect
 --------
 
 
@@ -10,12 +13,12 @@ Effect[]
 	+ (Added in Repentance) The knife deals 15 damage every 2/15ths of a second (every 8 frames) or 112.5 damage per second.
 
 
-Notes[]
+Notes
 -------
 
 
 * Sacrificial Dagger deals the highest amount of contact damage out of all orbitals.
-* The dagger orbits further away from Isaac than many other orbital familiars (minus [(Big Fan)](/wiki/Big_Fan "Big Fan") [Big Fan](/wiki/Big_Fan "Big Fan")), making it easier to use both offensively and defensively.
+* The dagger orbits further away from Isaac than many other orbital familiars (minus [![image](/image/Big_Fan.png)](/wiki/Big_Fan "Big Fan") [Big Fan](/wiki/Big_Fan "Big Fan")), making it easier to use both offensively and defensively.
 
 
 

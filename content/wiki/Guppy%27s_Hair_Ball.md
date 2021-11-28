@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Guppy's Hair Ball ![image](/image/Guppy%27s_Hair_Ball.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * This item belongs to the [Guppy](/wiki/Guppy "Guppy") set. Collecting three items from this set will transform Isaac into Guppy.
 
 
-Notes[]
+Notes
 -------
 
 

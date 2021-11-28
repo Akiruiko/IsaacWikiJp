@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Aries ![image](/image/Aries.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 * This item belongs to the [Guppy](/wiki/Guppy "Guppy") set. Collecting three items from this set will transform Isaac into Guppy.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -19,12 +22,12 @@ Notes[]
 * This item has no effect in [Greed Mode](/wiki/Greed_Mode "Greed Mode") other than counting towards the Guppy Transformation.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Guppy's Eye)](/wiki/Guppy%27s_Eye "Guppy's Eye") [Guppy's Eye](/wiki/Guppy%27s_Eye "Guppy's Eye"): Makes key management easier by revealing which Locked Chests are worth opening and which are not.
+* (Added in Repentance)[![image](/image/Guppy%27s_Eye.png)](/wiki/Guppy%27s_Eye "Guppy's Eye") [Guppy's Eye](/wiki/Guppy%27s_Eye "Guppy's Eye"): Makes key management easier by revealing which Locked Chests are worth opening and which are not.
 * [(The Left Hand)](/wiki/The_Left_Hand "The Left Hand") [The Left Hand](/wiki/The_Left_Hand "The Left Hand"): Turns all chests into Red Chests, allowing Isaac to get Red Chest items much more quickly. Useful when pursuing the [Guppy transformation](/wiki/Guppy "Guppy").
-* [(Mom's Key)](/wiki/Mom%27s_Key "Mom's Key") [Mom's Key](/wiki/Mom%27s_Key "Mom's Key"): Increases the number of drops from Chests and counteracts the increased chance to run into Locked Chests.
+* [![image](/image/Mom%27s_Key.png)](/wiki/Mom%27s_Key "Mom's Key") [Mom's Key](/wiki/Mom%27s_Key "Mom's Key"): Increases the number of drops from Chests and counteracts the increased chance to run into Locked Chests.
 
 

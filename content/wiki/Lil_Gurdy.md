@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Lil Gurdy ![image](/image/Lil_Gurdy.png) 
+
+
+Effects
 ---------
 
 
@@ -13,7 +16,7 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Fun Guy](/wiki/Fun_Guy "Fun Guy") set. Collecting three items from this set will transform Isaac into a walking mushroom.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -21,10 +24,10 @@ Notes[]
 * This item affects damage differently than other items in the game. Instead of multiplying your damage stat, it directly alters the total added damage from other items. In practice, this means this item reduces your damage significantly if you have no items that grant extra damage (x0.72), but won't have as strong of an impact as you collect more 'damage up' items.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Odd Mushroom)](/wiki/Odd_Mushroom_(Thin) "Odd Mushroom") Odd Mushroom: Multiple copies of the item will grant a speed and fire rate boost with no additional decrease in damage.
+* [![image](/image/Odd_Mushroom_(Thin).png)](/wiki/Odd_Mushroom_(Thin) "Odd Mushroom") Odd Mushroom: Multiple copies of the item will grant a speed and fire rate boost with no additional decrease in damage.
 
 

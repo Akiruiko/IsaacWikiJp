@@ -1,14 +1,17 @@
 +++
 +++
 
-Effects[]
+ # Linger Bean ![image](/image/Linger_Bean.png) 
+
+
+Effects
 ---------
 
 
 * On use, takes a full red heart of [health](/wiki/Health "Health") and grants +1.2 [damage](/wiki/Damage "Damage") for the current [room](/wiki/Room "Room").
 
 
-Notes[]
+Notes
 -------
 
 
@@ -25,30 +28,30 @@ Notes[]
 * Using this item in the [Greed mode](/wiki/Greed_mode "Greed mode") [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") boss room will result in Isaac losing 2-4 coins and dropping 1-3 pennies on the floor similar to being hit by any of the greed enemies.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps in the middle ring. Wisps have higher health.
-* (Removed in Repentance)[(Isaac's Heart)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart"): Isaac cannot take damage from the Razor Blade, allowing for infinite uses of the item.
-* [(Old Bandage)](/wiki/Old_Bandage "Old Bandage") [Old Bandage](/wiki/Old_Bandage "Old Bandage") / (Added in Afterbirth †)[(Shard of Glass)](/wiki/Shard_of_Glass "Shard of Glass") [Shard of Glass](/wiki/Shard_of_Glass "Shard of Glass"): Isaac has a chance to drop a red heart while using the item.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps in the middle ring. Wisps have higher health.
+* (Removed in Repentance)[![image](/image/Isaac%27s_Heart.png)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart"): Isaac cannot take damage from the Razor Blade, allowing for infinite uses of the item.
+* [![image](/image/Old_Bandage.png)](/wiki/Old_Bandage "Old Bandage") [Old Bandage](/wiki/Old_Bandage "Old Bandage") / (Added in Afterbirth †)[![image](/image/Shard_of_Glass.png)](/wiki/Shard_of_Glass "Shard of Glass") [Shard of Glass](/wiki/Shard_of_Glass "Shard of Glass"): Isaac has a chance to drop a red heart while using the item.
 * (Added in Repentance)[(Panic Button)](/wiki/Panic_Button "Panic Button") [Panic Button](/wiki/Panic_Button "Panic Button"): Self-damage occurs before enemy damage, making it almost impossible to lose Angel or Devil chance.
-* (Removed in Repentance)[(The Polaroid)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid"): Isaac takes no damage while invincible, allowing for repeated free uses of the item.
-* [(The Wafer)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer"): Isaac loses half a heart instead of a full heart.
-* [(Whore of Babylon)](/wiki/Whore_of_Babylon "Whore of Babylon") [Whore of Babylon](/wiki/Whore_of_Babylon "Whore of Babylon"): The Razor Blade can be used to activate this item's effect by doing enough damage to get Isaac down to half a red heart (or one red heart as Eve), providing a big damage boost for the current room at the cost of health.
-* (Added in Repentance)[(Birthright)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") & [(Judas)](/wiki/Judas "Judas") [Judas](/wiki/Judas "Judas"): Actives the effect of [(Blood Rights)](/wiki/Blood_Rights "Blood Rights") [Blood Rights](/wiki/Blood_Rights "Blood Rights") alongside it's normal effect.
+* (Removed in Repentance)[![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid"): Isaac takes no damage while invincible, allowing for repeated free uses of the item.
+* [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer"): Isaac loses half a heart instead of a full heart.
+* [![image](/image/Whore_of_Babylon.png)](/wiki/Whore_of_Babylon "Whore of Babylon") [Whore of Babylon](/wiki/Whore_of_Babylon "Whore of Babylon"): The Razor Blade can be used to activate this item's effect by doing enough damage to get Isaac down to half a red heart (or one red heart as Eve), providing a big damage boost for the current room at the cost of health.
+* (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") & [(Judas)](/wiki/Judas "Judas") [Judas](/wiki/Judas "Judas"): Actives the effect of [![image](/image/Blood_Rights.png)](/wiki/Blood_Rights "Blood Rights") [Blood Rights](/wiki/Blood_Rights "Blood Rights") alongside it's normal effect.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth)[(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
 * (Added in Repentance) [Shield](/wiki/Shield "Shield")/[Invulnerability](/wiki/Invulnerability "Invulnerability"): Will not protect against this item's damage.
 * (Added in Repentance) [(Tainted Samson)](/wiki/Tainted_Samson "Tainted Samson") [Tainted Samson](/wiki/Tainted_Samson "Tainted Samson"): Using this item can make Tainted Samson unkillable, as his Berserk timer gains time when damaged, and he can't die from lack of red hearts during the rage.
 
 
-Bugs[]
+Bugs
 ------
 
 

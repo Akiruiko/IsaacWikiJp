@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mystery Egg ![image](/image/Mystery_Egg.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 * Marked enemies will also have their movement speed reduced.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -21,10 +24,10 @@ Notes[]
 * This item is very effective during [Boss Rush](/wiki/Boss_Rush "Boss Rush"). Boss enemies affected by this item will deal massive amounts of damage to each other and Isaac will be less likely to get hurt by their attacks.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Brimstone)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Firing can mark enemies.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Firing can mark enemies.
 
 

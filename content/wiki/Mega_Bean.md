@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mega Bean ![image](/image/Mega_Bean.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 * This item belongs to the [Spun](/wiki/Spun "Spun") set. Collecting three items from this set will transform Isaac into a buff berserker.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -21,10 +24,10 @@ Notes[]
 * As  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"), empty Bone Hearts increase damage, but if the Bone Hearts are broken, the damage buff is taken away.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Blood Oath)](/wiki/Blood_Oath "Blood Oath") [Blood Oath](/wiki/Blood_Oath "Blood Oath"): Activates the damage up effect of Adrenaline for the resulting empty heart containers at the start of each floor.
+* (Added in Repentance)[![image](/image/Blood_Oath.png)](/wiki/Blood_Oath "Blood Oath") [Blood Oath](/wiki/Blood_Oath "Blood Oath"): Activates the damage up effect of Adrenaline for the resulting empty heart containers at the start of each floor.
 
 

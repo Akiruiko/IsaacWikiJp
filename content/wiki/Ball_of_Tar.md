@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Ball of Tar ![image](/image/Ball_of_Tar.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * Isaac leaves a trail of [slowing](/wiki/Slow "Slow") [black](/wiki/Creep#Black_Creep "Creep") [creep](/wiki/Creep "Creep").
 
 
-Notes[]
+Notes
 -------
 
 

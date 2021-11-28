@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Samson's Chains ![image](/image/Samson%27s_Chains.png) 
+
+
+Effects
 ---------
 
 
@@ -13,11 +16,11 @@ Effects[]
 	+ (Added in Repentance) Moving at this speed also prevents contact damage.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance) (Added in Afterbirth)[(Serpent's Kiss)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss"): Allows Isaac to poison enemies without needing to take a hit, allowing for an impressive amount of [(Black Heart)](/wiki/Black_Heart "Black Heart") [Black Hearts](/wiki/Black_Heart "Black Heart") to be collected.
+* (Added in Repentance) (Added in Afterbirth)[![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss"): Allows Isaac to poison enemies without needing to take a hit, allowing for an impressive amount of [(Black Heart)](/wiki/Black_Heart "Black Heart") [Black Hearts](/wiki/Black_Heart "Black Heart") to be collected.
 * (Added in Repentance)  [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten"): Throwing the skeleton will deal 80 damage on contact.
 * (Added in Repentance)  [(Tainted Magdalene)](/wiki/Tainted_Magdalene "Tainted Magdalene") [Tainted Magdalene](/wiki/Tainted_Magdalene "Tainted Magdalene")'s hugs stack with Aries, dealing insane combined contact damage to enemies. This also makes T. Magdalene invulnerable at high speeds, whilst still generating a decent amount of red hearts.
 

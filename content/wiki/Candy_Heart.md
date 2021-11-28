@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Candy Heart ![image](/image/Candy_Heart.png) 
+
+
+Effects
 ---------
 
 
@@ -15,11 +18,11 @@ Effects[]
 * Spawns a [red heart](/wiki/Red_heart "Red heart") when picked up.
 
 
-Notes[]
+Notes
 -------
 
 
-* Items/effects that directly heal Isaac (such as [(Yum Heart)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart"), [(XIX - The Sun)](/wiki/Cards_and_Runes "XIX - The Sun") [XIX - The Sun](/wiki/Cards_and_Runes "Cards and Runes"), [(Charm of the Vampire)](/wiki/Charm_of_the_Vampire "Charm of the Vampire") [Charm of the Vampire](/wiki/Charm_of_the_Vampire "Charm of the Vampire"), etc.) do not trigger stat boosts from Candy Heart.
+* Items/effects that directly heal Isaac (such as [![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart"), [(XIX - The Sun)](/wiki/Cards_and_Runes "XIX - The Sun") [XIX - The Sun](/wiki/Cards_and_Runes "Cards and Runes"), [![image](/image/Charm_of_the_Vampire.png)](/wiki/Charm_of_the_Vampire "Charm of the Vampire") [Charm of the Vampire](/wiki/Charm_of_the_Vampire "Charm of the Vampire"), etc.) do not trigger stat boosts from Candy Heart.
 * Healing using [Rotten Hearts](/wiki/Rotten_Heart "Rotten Heart") triggers the stat boosts for Candy Heart.
 * This item does not give stats when adding to  [(Tainted Bethany)](/wiki/Tainted_Bethany "Tainted Bethany") [Tainted Bethany](/wiki/Tainted_Bethany "Tainted Bethany")'s blood charges.
 * This item is useless for  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost") and  [(Tainted Lost)](/wiki/Tainted_Lost "Tainted Lost") [Tainted Lost](/wiki/Tainted_Lost "Tainted Lost"), since they don't have health.
@@ -31,19 +34,19 @@ Notes[]
 * The stat bonuses are [seeded](/wiki/Seed "Seed"), meaning the same stat ups will apply in the same order in the same seed.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Hypercoagulation)](/wiki/Hypercoagulation "Hypercoagulation") [Hypercoagulation](/wiki/Hypercoagulation "Hypercoagulation"):/ [(Tainted Magdalene)](/wiki/Tainted_Magdalene "Tainted Magdalene") [Tainted Magdalene](/wiki/Tainted_Magdalene "Tainted Magdalene"): Can provide infinite stat boosts, if the dropped hearts are caught in time.
-* [(Maggy's Bow)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): Increases the stat boosts given by Candy Heart, provided extra Red health was restored.
+* [![image](/image/Hypercoagulation.png)](/wiki/Hypercoagulation "Hypercoagulation") [Hypercoagulation](/wiki/Hypercoagulation "Hypercoagulation"):/ [(Tainted Magdalene)](/wiki/Tainted_Magdalene "Tainted Magdalene") [Tainted Magdalene](/wiki/Tainted_Magdalene "Tainted Magdalene"): Can provide infinite stat boosts, if the dropped hearts are caught in time.
+* [![image](/image/Maggy%27s_Bow.png)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): Increases the stat boosts given by Candy Heart, provided extra Red health was restored.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * [(Apple of Sodom)](/wiki/Apple_of_Sodom "Apple of Sodom") [Apple of Sodom](/wiki/Apple_of_Sodom "Apple of Sodom"): This doesn't give the stat increases when picking up hearts to make spiders.
-* [(Diplopia)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"): This item isn't affected by stacking.
+* [![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"): This item isn't affected by stacking.
 
 

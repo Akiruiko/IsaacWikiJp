@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Sworn Protector ![image](/image/Sworn_Protector.png) 
+
+
+Effects
 ---------
 
 
@@ -13,18 +16,18 @@ Effects[]
 * (Added in Repentance) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
 
 
-Notes[]
+Notes
 -------
 
 
 * Sworn Protector can be exploited with the help of a [Constant Stone Shooter](/wiki/Constant_Stone_Shooter "Constant Stone Shooter") to spawn unlimited eternal hearts.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * (Added in Afterbirth †)[(Extension Cord)](/wiki/Extension_Cord "Extension Cord") [Extension Cord](/wiki/Extension_Cord "Extension Cord"): Familiar and Isaac are occasionally connected by electricity but it is very hard to notice because of Sworn Protector orbits so close to Isaac.
-* [(Friendly Ball)](/wiki/Friendly_Ball "Friendly Ball") [Friendly Ball](/wiki/Friendly_Ball "Friendly Ball") / (Added in Afterbirth †)[(Poke Go)](/wiki/Poke_Go "Poke Go") [Poke Go](/wiki/Poke_Go "Poke Go"): Catching an enemy that shoots bullets allows Eternal Hearts to be farmed since the enemy will fire at Isaac if no other enemies are in the room.
+* [![image](/image/Friendly_Ball.png)](/wiki/Friendly_Ball "Friendly Ball") [Friendly Ball](/wiki/Friendly_Ball "Friendly Ball") / (Added in Afterbirth †)[![image](/image/Poke_Go.png)](/wiki/Poke_Go "Poke Go") [Poke Go](/wiki/Poke_Go "Poke Go"): Catching an enemy that shoots bullets allows Eternal Hearts to be farmed since the enemy will fire at Isaac if no other enemies are in the room.
 
 

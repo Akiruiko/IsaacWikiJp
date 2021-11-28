@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Wait What? ![image](/image/Wait_What%3F.png) 
+
+
+Effects
 ---------
 
 

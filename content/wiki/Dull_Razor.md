@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Dull Razor ![image](/image/Dull_Razor.png) 
+
+
+Effects
 ---------
 
 
@@ -10,10 +13,10 @@ Effects[]
 	+ Each tear in the ring deals 10 damage and doesn't use Isaac's tear effects.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Varicose Veins)](/wiki/Varicose_Veins "Varicose Veins") [Varicose Veins](/wiki/Varicose_Veins "Varicose Veins"): Two rings of tears are released at once.
+* [![image](/image/Varicose_Veins.png)](/wiki/Varicose_Veins "Varicose Veins") [Varicose Veins](/wiki/Varicose_Veins "Varicose Veins"): Two rings of tears are released at once.
 
 

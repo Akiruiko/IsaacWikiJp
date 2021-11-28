@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Bomb Bag ![image](/image/Bomb_Bag.png) 
+
+
+Effects
 ---------
 
 
@@ -11,11 +14,11 @@ Effects[]
 	+ A poisonous fart that deals 5 damage and [poisons](/wiki/Poison "Poison") nearby enemies.
 
 
-Synergies[]
+Synergies
 -----------
 
 
 * [(Gigante Bean)](/wiki/Gigante_Bean "Gigante Bean") [Gigante Bean](/wiki/Gigante_Bean "Gigante Bean"): Applies to Lil Dumpy as well.
-* [(Ghost Pepper)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper")/[(Bird's Eye)](/wiki/Bird%27s_Eye "Bird's Eye") [Bird's Eye](/wiki/Bird%27s_Eye "Bird's Eye"): When Lil Dumpy is hit, Isaac will fire a flame from his behind.
+* [![image](/image/Ghost_Pepper.png)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper")/[![image](/image/Bird%27s_Eye.png)](/wiki/Bird%27s_Eye "Bird's Eye") [Bird's Eye](/wiki/Bird%27s_Eye "Bird's Eye"): When Lil Dumpy is hit, Isaac will fire a flame from his behind.
 
 

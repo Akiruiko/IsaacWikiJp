@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Depression ![image](/image/Depression.png) 
+
+
+Effects
 ---------
 
 
@@ -11,10 +14,10 @@ Effects[]
 	+ The light beams deal 20 + Isaac's tear damage per tick and may strike an enemy up to 8 times.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Increase cloud size but does not increase damage.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Increase cloud size but does not increase damage.
 
 

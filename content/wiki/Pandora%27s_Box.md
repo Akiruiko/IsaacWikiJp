@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Pandora's Box ![image](/image/Pandora%27s_Box.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * Burst tears will do set damage per floor. The formula for this is: (3.2 + 0.3 x stage).
 
 
-Notes[]
+Notes
 -------
 
 

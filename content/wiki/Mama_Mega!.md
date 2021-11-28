@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Mama Mega! ![image](/image/Mama_Mega!.png) 
+
+
+Effect
 --------
 
 
@@ -11,7 +14,7 @@ Effect[]
 * (Added in Repentance) Blocks projectiles falling from above.
 
 
-Notes[]
+Notes
 -------
 
 

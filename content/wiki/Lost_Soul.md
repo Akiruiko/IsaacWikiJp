@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Lost Soul ![image](/image/Lost_Soul.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 	+ A [Treasure Room item](/wiki/Treasure_Room_(Item_Pool) "Treasure Room (Item Pool)") or an [Angel Room item](/wiki/Angel_Room_(Item_Pool) "Angel Room (Item Pool)").
 
 
-Notes[]
+Notes
 -------
 
 
@@ -21,23 +24,23 @@ Notes[]
 * The ghost can take explosive damage from Isaac, e.g. via placing a [bomb](/wiki/Bomb "Bomb").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Gives Lost Soul a once-per-room shield, similar to [(Holy Mantle)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle").
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Gives Lost Soul a once-per-room shield, similar to [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle").
 	+ If BFFS! is dropped, the shield will still remain active until taking one hit of damage, acting similarly to [(Holy Card)](/wiki/Holy_Card "Holy Card") [Holy Card](/wiki/Holy_Card "Holy Card").
-* [(Forget Me Now)](/wiki/Forget_Me_Now "Forget Me Now") [Forget Me Now](/wiki/Forget_Me_Now "Forget Me Now"): Restarting a floor prompts Lost Soul to give a reward if it's alive when used.
+* [![image](/image/Forget_Me_Now.png)](/wiki/Forget_Me_Now "Forget Me Now") [Forget Me Now](/wiki/Forget_Me_Now "Forget Me Now"): Restarting a floor prompts Lost Soul to give a reward if it's alive when used.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Box of Friends)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Cannot duplicate the ghost and won't spawn a [(Demon Baby)](/wiki/Demon_Baby "Demon Baby") [Demon Baby](/wiki/Demon_Baby "Demon Baby"), even when the ghost is dead.
-* [(Bursting Sack)](/wiki/Bursting_Sack "Bursting Sack") [Bursting Sack](/wiki/Bursting_Sack "Bursting Sack") / [(Skatole)](/wiki/Skatole "Skatole") [Skatole](/wiki/Skatole "Skatole"): Does not provide immunity to contact damage from spiders/flies to Lost Soul.
+* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Cannot duplicate the ghost and won't spawn a [![image](/image/Demon_Baby.png)](/wiki/Demon_Baby "Demon Baby") [Demon Baby](/wiki/Demon_Baby "Demon Baby"), even when the ghost is dead.
+* [![image](/image/Bursting_Sack.png)](/wiki/Bursting_Sack "Bursting Sack") [Bursting Sack](/wiki/Bursting_Sack "Bursting Sack") / [![image](/image/Skatole.png)](/wiki/Skatole "Skatole") [Skatole](/wiki/Skatole "Skatole"): Does not provide immunity to contact damage from spiders/flies to Lost Soul.
 * [(Child Leash)](/wiki/Child_Leash "Child Leash") [Child Leash](/wiki/Child_Leash "Child Leash"): No effect.
 * [(Duct Tape)](/wiki/Duct_Tape "Duct Tape") [Duct Tape](/wiki/Duct_Tape "Duct Tape"): No effect.
-* [(Lost Soul)](/wiki/Lost_Soul "Lost Soul") Lost Soul: Picking up multiple Lost Souls has no effect, even if one died previously.
+* [![image](/image/Lost_Soul.png)](/wiki/Lost_Soul "Lost Soul") Lost Soul: Picking up multiple Lost Souls has no effect, even if one died previously.
 
 

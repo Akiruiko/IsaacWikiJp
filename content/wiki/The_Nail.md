@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # The Nail ![image](/image/The_Nail.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 	+ (Added in Repentance) Provides a 50% chance to transform the aforementioned pickups into their respective Double versions.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -18,20 +21,20 @@ Notes[]
 * When used while fighting [(Greed)](/wiki/Greed "Greed") [Greed](/wiki/Greed "Greed"), [(Hanger)](/wiki/Hanger "Hanger") [Hangers](/wiki/Hanger "Hanger"), or [(Keeper)](/wiki/Keeper_(Enemy)#Keeper "Keeper") [Keepers](/wiki/Keeper_(Enemy)#Keeper "Keeper (Enemy)"), every coin knocked out of Isaac will be worth two coins, allowing Isaac to net a profit.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Contract From Below)](/wiki/Contract_From_Below "Contract From Below") [Contract From Below](/wiki/Contract_From_Below "Contract From Below"): Single pickup drops have a 2/3 chance to be doubled, which then become their doubled versions by Humbling Bundle. This essentially results in an average increase from 1.33x more pickups to 2.67x more.
+* [![image](/image/Contract_From_Below.png)](/wiki/Contract_From_Below "Contract From Below") [Contract From Below](/wiki/Contract_From_Below "Contract From Below"): Single pickup drops have a 2/3 chance to be doubled, which then become their doubled versions by Humbling Bundle. This essentially results in an average increase from 1.33x more pickups to 2.67x more.
 	+ (Added in Repentance) The average gain is reduced to 2x more pickups instead.
-* (Removed in Repentance)[(The Jar)](/wiki/The_Jar "The Jar") [The Jar](/wiki/The_Jar "The Jar"): Allows for replicating hearts. Using the jar with 4 hearts inside it will cause 8 to drop, allowing Isaac to create an infinite amount of Red Hearts.
-* [(Maggy's Bow)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): Allows all normal heart pickups to be worth four hearts. However it's bugged sometimes[*[Check ingame](/wiki/Template:Reconfirm "Template:Reconfirm")*].
+* (Removed in Repentance)[![image](/image/The_Jar.png)](/wiki/The_Jar "The Jar") [The Jar](/wiki/The_Jar "The Jar"): Allows for replicating hearts. Using the jar with 4 hearts inside it will cause 8 to drop, allowing Isaac to create an infinite amount of Red Hearts.
+* [![image](/image/Maggy%27s_Bow.png)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): Allows all normal heart pickups to be worth four hearts. However it's bugged sometimes[*[Check ingame](/wiki/Template:Reconfirm "Template:Reconfirm")*].
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Humbling Bundle)](/wiki/Humbling_Bundle "Humbling Bundle") Humbling Bundle: No further effect if multiple copies are obtained.
+* [![image](/image/Humbling_Bundle.png)](/wiki/Humbling_Bundle "Humbling Bundle") Humbling Bundle: No further effect if multiple copies are obtained.
 
 

@@ -1,14 +1,17 @@
 +++
 +++
 
-Effects[]
+ # X-Ray Vision ![image](/image/X-Ray_Vision.png) 
+
+
+Effects
 ---------
 
 
 * Opens [Secret Rooms](/wiki/Secret_Room "Secret Room") and [Super Secret Rooms](/wiki/Super_Secret_Room "Super Secret Room") automatically.
 
 
-Notes[]
+Notes
 -------
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Consolation Prize ![image](/image/Consolation_Prize.png) 
+
+
+Effects
 ---------
 
 

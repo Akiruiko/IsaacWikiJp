@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Dad's Lost Coin ![image](/image/Dad%27s_Lost_Coin.png) 
+
+
+Effects
 ---------
 
 

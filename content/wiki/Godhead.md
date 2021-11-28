@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Godhead ![image](/image/Godhead.png) 
+
+
+Effect
 --------
 
 

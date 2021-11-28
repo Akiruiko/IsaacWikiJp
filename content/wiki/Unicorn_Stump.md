@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Unicorn Stump ![image](/image/Unicorn_Stump.png) 
+
+
+Effects
 ---------
 
 
@@ -13,7 +16,7 @@ Effects[]
 	+ If a non-marked enemy is killed, the skull will disappear and no bonuses will be granted for that room.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -34,19 +37,19 @@ Notes[]
 * This item has little to no effect in Greed Mode.
 
 
-Synergies[]
+Synergies
 -----------
 
 
 * [(Door Stop)](/wiki/Door_Stop "Door Stop") [Door Stop](/wiki/Door_Stop "Door Stop"): If the player has failed Death's List but hasn't cleared the room, leaving and re-entering will reset the list.
-* [(Flush!)](/wiki/Flush! "Flush!") [Flush!](/wiki/Flush! "Flush!"): When a room is cleared with Flush!, a bonus will be awarded.
+* [![image](/image/Flush!.png)](/wiki/Flush! "Flush!") [Flush!](/wiki/Flush! "Flush!"): When a room is cleared with Flush!, a bonus will be awarded.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * (Added in Repentance) [Freezing attacks](/wiki/Frozen "Frozen"): Enemies that die by freezing do not disrupt the Death's List chain, though the shards caused by them breaking do.
-* [(Toxic Shock)](/wiki/Toxic_Shock "Toxic Shock") [Toxic Shock](/wiki/Toxic_Shock "Toxic Shock"): Not recommended. If multiple enemies are killed by Toxic Shock at the same time, the mark will disappear and no reward will be given, even if the enemy next in line to be marked was killed at the same time as the marked one.
+* [![image](/image/Toxic_Shock.png)](/wiki/Toxic_Shock "Toxic Shock") [Toxic Shock](/wiki/Toxic_Shock "Toxic Shock"): Not recommended. If multiple enemies are killed by Toxic Shock at the same time, the mark will disappear and no reward will be given, even if the enemy next in line to be marked was killed at the same time as the marked one.
 
 

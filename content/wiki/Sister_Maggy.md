@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Sister Maggy ![image](/image/Sister_Maggy.png) 
+
+
+Effects
 ---------
 
 
@@ -12,11 +15,11 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
 
 
-Notes[]
+Notes
 -------
 
 
-* (Removed in Repentance) Sister Maggy is functionally identical to [(Brother Bobby)](/wiki/Brother_Bobby "Brother Bobby") [Brother Bobby](/wiki/Brother_Bobby "Brother Bobby").
-	+ (Added in Repentance) Sister Maggy deals more damage than [(Brother Bobby)](/wiki/Brother_Bobby "Brother Bobby") [Brother Bobby](/wiki/Brother_Bobby "Brother Bobby"), while Brother Bobby has a higher tear rate.
+* (Removed in Repentance) Sister Maggy is functionally identical to [![image](/image/Brother_Bobby.png)](/wiki/Brother_Bobby "Brother Bobby") [Brother Bobby](/wiki/Brother_Bobby "Brother Bobby").
+	+ (Added in Repentance) Sister Maggy deals more damage than [![image](/image/Brother_Bobby.png)](/wiki/Brother_Bobby "Brother Bobby") [Brother Bobby](/wiki/Brother_Bobby "Brother Bobby"), while Brother Bobby has a higher tear rate.
 
 

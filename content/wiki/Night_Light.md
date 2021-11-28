@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Night Light ![image](/image/Night_Light.png) 
+
+
+Effects
 ---------
 
 
@@ -13,7 +16,7 @@ Effects[]
 	+ Doesn't provide immunity on later floors, but lessens the visual effect significantly, effectively removing the curse.
 
 
-Notes[]
+Notes
 -------
 
 

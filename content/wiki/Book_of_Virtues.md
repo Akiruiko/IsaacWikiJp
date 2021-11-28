@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Book of Virtues ![image](/image/Book_of_Virtues.png) 
+
+
+Effects
 ---------
 
 
@@ -13,11 +16,11 @@ Effects[]
 * This item belongs to the [Fun Guy](/wiki/Fun_Guy "Fun Guy") set. Collecting three items from this set will transform Isaac into a walking mushroom.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Creates a single mushroom wisp on the middle ring, firing 1.5 damage tears. Only one of this wisp can exist at a time.
-* [(Rock Bottom)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom"): The distortion effect will wear off eventually, but the highest reached tears bonus won't. However, Wavy Cap will no longer have any positive effects until an even higher bonus is reached.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Creates a single mushroom wisp on the middle ring, firing 1.5 damage tears. Only one of this wisp can exist at a time.
+* [![image](/image/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom"): The distortion effect will wear off eventually, but the highest reached tears bonus won't. However, Wavy Cap will no longer have any positive effects until an even higher bonus is reached.
 
 

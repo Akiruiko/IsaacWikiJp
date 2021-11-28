@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Salvation ![image](/image/Salvation.png) 
+
+
+Effects
 ---------
 
 
@@ -13,10 +16,10 @@ Effects[]
 * This item belongs to the [Seraphim](/wiki/Seraphim_(Transformation) "Seraphim (Transformation)") set. Collecting three items from this set will transform Isaac into an angel.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Gnawed Leaf)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): The light beams trigger even when Isaac is a statue.
+* [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): The light beams trigger even when Isaac is a statue.
 
 

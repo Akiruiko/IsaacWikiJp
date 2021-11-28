@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Black Candle ![image](/image/Black_Candle.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * Increases chance for a [Devil](/wiki/Devil_Room "Devil Room") / [Angel](/wiki/Angel_Room "Angel Room") Room door to open when a floor boss is killed by 15%.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -23,13 +26,13 @@ Notes[]
 * (Added in Repentance) Doesn't remove [(Curse of Darkness.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/4/4f/Curse_of_Darkness.png/revision/latest?cb=20211023084927) [Curse of Darkness](/wiki/Curses "Curses") afflicted by (Added in Repentance)[(XIX - The Sun?)](/wiki/Cards_and_Runes "XIX - The Sun?") [XIX - The Sun?](/wiki/Cards_and_Runes "Cards and Runes"), no matter if Black Candle was picked up before or after using the card.
 
 
-Synergies[]
+Synergies
 -----------
 
 
 * (Added in Afterbirth)[(Black Feather)](/wiki/Black_Feather "Black Feather") [Black Feather](/wiki/Black_Feather "Black Feather"): Grants a damage boost.
-* (Added in Afterbirth)[(Cursed Eye)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye"): Removes teleportation effect of Cursed Eye.
+* (Added in Afterbirth)[![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye"): Removes teleportation effect of Cursed Eye.
 * (Added in Repentance)[(Cursed Penny)](/wiki/Cursed_Penny "Cursed Penny") [Cursed Penny](/wiki/Cursed_Penny "Cursed Penny"): Removes teleportation effect upon picking up a coin.
-* (Added in Afterbirth †)[(Glaucoma)](/wiki/Glaucoma "Glaucoma") [Glaucoma](/wiki/Glaucoma "Glaucoma"): Removes the darker screen caused by Glaucoma.
+* (Added in Afterbirth †)[![image](/image/Glaucoma.png)](/wiki/Glaucoma "Glaucoma") [Glaucoma](/wiki/Glaucoma "Glaucoma"): Removes the darker screen caused by Glaucoma.
 
 

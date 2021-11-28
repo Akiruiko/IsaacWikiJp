@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Angry Fly ![image](/image/Angry_Fly.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * The portals will disappear once the starting room is left, whether a portal was taken or not.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -23,7 +26,7 @@ Notes[]
 * The Treasure Room portal will not lead to a [Planetarium](/wiki/Planetarium "Planetarium") if available, unlike [(XVII - The Stars)](/wiki/Cards_and_Runes "XVII - The Stars") [XVII - The Stars](/wiki/Cards_and_Runes "Cards and Runes").
 
 
-Interactions[]
+Interactions
 --------------
 
 

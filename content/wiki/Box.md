@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Box ![image](/image/Box.png) 
+
+
+Effect
 --------
 
 
@@ -17,10 +20,10 @@ Effect[]
 	+ [Trinkets](/wiki/Trinkets "Trinkets")
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The chance to spawn a pickup increases to 31.25%, and the chance to spawn a trinket increases to 12.5%.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The chance to spawn a pickup increases to 31.25%, and the chance to spawn a trinket increases to 12.5%.
 
 

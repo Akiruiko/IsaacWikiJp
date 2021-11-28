@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Ocular Rift ![image](/image/Ocular_Rift.png) 
+
+
+Effects
 ---------
 
 
@@ -9,22 +12,22 @@ Effects[]
 * While held, guarantees a random item or pickup from the (Shop) [Shop](/wiki/Shop "Shop") to be half price.
 
 
-Notes[]
+Notes
 -------
 
 
 * Using the Coupon in a (Devil Room) [Devil Room](/wiki/Devil_Room "Devil Room") and taking that free item does not affect or remove the chances for (Angel Room) [Angel Rooms](/wiki/Angel_Room "Angel Room").
 * Using the Coupon in [Greed Mode](/wiki/Greed_Mode "Greed Mode") does not restock the taken item or consumable.
-* Using the Coupon in a Shop while holding [(Restock)](/wiki/Restock "Restock") [Restock](/wiki/Restock "Restock") will not respawn a new item after taking the free one.
+* Using the Coupon in a Shop while holding [![image](/image/Restock.png)](/wiki/Restock "Restock") [Restock](/wiki/Restock "Restock") will not respawn a new item after taking the free one.
 * (Added in Repentance) Using the Coupon as  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost") or  [(Tainted Lost)](/wiki/Tainted_Lost "Tainted Lost") [Tainted Lost](/wiki/Tainted_Lost "Tainted Lost") allows multiple Devil deals to be taken.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns green wisps on the middle ring. The wisps fire three tears at a time, similarly to [(The Inner Eye)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye"). However, all of these wisps are destroyed if Isaac buys something using money. Does not affect wisps other than ones made by this item.
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Makes two items free upon use.
-* (Added in Repentance)[(Satanic Bible)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible"): The Devil deal in the boss room can be acquired for free.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns green wisps on the middle ring. The wisps fire three tears at a time, similarly to [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye"). However, all of these wisps are destroyed if Isaac buys something using money. Does not affect wisps other than ones made by this item.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Makes two items free upon use.
+* (Added in Repentance)[![image](/image/Satanic_Bible.png)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible"): The Devil deal in the boss room can be acquired for free.
 
 

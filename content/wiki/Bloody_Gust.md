@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Bloody Gust ![image](/image/Bloody_Gust.png) 
+
+
+Effects
 ---------
 
 
@@ -35,7 +38,7 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Super Bum](/wiki/Super_Bum "Super Bum") set. Collecting three items from this set will transform Isaac's bums into Super Bum.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -46,19 +49,19 @@ Notes[]
 * [Scared Hearts](/wiki/Scared_Heart "Scared Heart") will run away from Dark Bum. Try to pinch them between Dark Bum and Isaac so he can collect them.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Little C.H.A.D.)](/wiki/Little_C.H.A.D. "Little C.H.A.D.") [Little C.H.A.D.](/wiki/Little_C.H.A.D. "Little C.H.A.D."): Each Half Red Heart dropped by Little C.H.A.D. can be collected by Dark Bum, increasing the amount of pickups dropped.
-* [(Gimpy)](/wiki/Gimpy "Gimpy") [Gimpy](/wiki/Gimpy "Gimpy"): Enemy kills have the chance to drop Half Red Hearts that can be collected by Dark Bum, which when combined with Gimpy's chance to drop Soul Hearts when Isaac is damaged is a good way to generate Black Hearts as well as other pickups.
-* [(Humbling Bundle)](/wiki/Humbling_Bundle "Humbling Bundle") [Humbling Bundle](/wiki/Humbling_Bundle "Humbling Bundle"): Most Red Heart drops will become Double Red Heart drops. This counts as two full Red Hearts for Dark Bum, essentially doubling the value of it.
+* [![image](/image/Little_C.H.A.D..png)](/wiki/Little_C.H.A.D. "Little C.H.A.D.") [Little C.H.A.D.](/wiki/Little_C.H.A.D. "Little C.H.A.D."): Each Half Red Heart dropped by Little C.H.A.D. can be collected by Dark Bum, increasing the amount of pickups dropped.
+* [![image](/image/Gimpy.png)](/wiki/Gimpy "Gimpy") [Gimpy](/wiki/Gimpy "Gimpy"): Enemy kills have the chance to drop Half Red Hearts that can be collected by Dark Bum, which when combined with Gimpy's chance to drop Soul Hearts when Isaac is damaged is a good way to generate Black Hearts as well as other pickups.
+* [![image](/image/Humbling_Bundle.png)](/wiki/Humbling_Bundle "Humbling Bundle") [Humbling Bundle](/wiki/Humbling_Bundle "Humbling Bundle"): Most Red Heart drops will become Double Red Heart drops. This counts as two full Red Hearts for Dark Bum, essentially doubling the value of it.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect, but familiar is bigger.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect, but familiar is bigger.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Undefined ![image](/image/Undefined.png) 
+
+
+Effects
 ---------
 
 
@@ -10,10 +13,10 @@ Effects[]
 	+ (Added in Repentance) Has no effect when used in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Creates blue glitched wisps on the middle ring. Wisps fire tears with [(Playdough Cookie)](/wiki/Playdough_Cookie "Playdough Cookie") [Playdough Cookie](/wiki/Playdough_Cookie "Playdough Cookie") effects.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Creates blue glitched wisps on the middle ring. Wisps fire tears with [![image](/image/Playdough_Cookie.png)](/wiki/Playdough_Cookie "Playdough Cookie") [Playdough Cookie](/wiki/Playdough_Cookie "Playdough Cookie") effects.
 
 

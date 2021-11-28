@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Match Book ![image](/image/Match_Book.png) 
+
+
+Effects
 ---------
 
 
@@ -18,7 +21,7 @@ Effects[]
 	+ The laser extinguishes fires, detonates TNT, and destroys poop.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -34,27 +37,27 @@ Notes[]
 * (Added in Repentance) It is not recommended to use Mega Blast in fight with [The Beast](/wiki/The_Beast "The Beast"), because its beam forces you into obstacles on the level.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-All synergies and interactions pertaining to [(Brimstone)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") pertain to Mega Blast, with the following exceptions and additions:
+All synergies and interactions pertaining to [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") pertain to Mega Blast, with the following exceptions and additions:
 
 
 
-* (Added in Repentance)[(4.5 Volt)](/wiki/4.5_Volt "4.5 Volt") [4.5 Volt](/wiki/4.5_Volt "4.5 Volt"): Item will gain charges for dealing damage, which is especially effective when fighting bosses with large health pool.
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps on the middle ring that utilize a miniature Brimstone as their weapon, which requires charging and releasing as usual. Lasers can hit up to 8 times for a total of 20 damage. If Mega Blast is being used, the wisps will continuously fire their laser outward rather than in the direction Mega Blast is firing.
-* (Added in Afterbirth †)[(Schoolbag)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"): Beam will continue to fire when switching to another active item. Other active items can be used while the beam is firing.
+* (Added in Repentance)[![image](/image/4.5_Volt.png)](/wiki/4.5_Volt "4.5 Volt") [4.5 Volt](/wiki/4.5_Volt "4.5 Volt"): Item will gain charges for dealing damage, which is especially effective when fighting bosses with large health pool.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps on the middle ring that utilize a miniature Brimstone as their weapon, which requires charging and releasing as usual. Lasers can hit up to 8 times for a total of 20 damage. If Mega Blast is being used, the wisps will continuously fire their laser outward rather than in the direction Mega Blast is firing.
+* (Added in Afterbirth †)[![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"): Beam will continue to fire when switching to another active item. Other active items can be used while the beam is firing.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth †)[(Angelic Prism)](/wiki/Angelic_Prism "Angelic Prism") [Angelic Prism](/wiki/Angelic_Prism "Angelic Prism"): The beam does not split.
-* [(Anti-Gravity)](/wiki/Anti-Gravity "Anti-Gravity") [Anti-Gravity](/wiki/Anti-Gravity "Anti-Gravity"): No effect.
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
-* (Added in Afterbirth †)[(Hairpin)](/wiki/Hairpin "Hairpin") [Hairpin](/wiki/Hairpin "Hairpin") / (Added in Repentance)[(Sol)](/wiki/Sol "Sol") [Sol](/wiki/Sol "Sol"): Only grants 3 charges.
-* [(Incubus)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus"): Familiar fires normal tears while Mega Blast is in use.
+* (Added in Afterbirth †)[![image](/image/Angelic_Prism.png)](/wiki/Angelic_Prism "Angelic Prism") [Angelic Prism](/wiki/Angelic_Prism "Angelic Prism"): The beam does not split.
+* [![image](/image/Anti-Gravity.png)](/wiki/Anti-Gravity "Anti-Gravity") [Anti-Gravity](/wiki/Anti-Gravity "Anti-Gravity"): No effect.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* (Added in Afterbirth †)[(Hairpin)](/wiki/Hairpin "Hairpin") [Hairpin](/wiki/Hairpin "Hairpin") / (Added in Repentance)[![image](/image/Sol.png)](/wiki/Sol "Sol") [Sol](/wiki/Sol "Sol"): Only grants 3 charges.
+* [![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus"): Familiar fires normal tears while Mega Blast is in use.
 
 

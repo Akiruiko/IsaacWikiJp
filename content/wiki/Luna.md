@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Luna ![image](/image/Luna.png) 
+
+
+Effects
 ---------
 
 
@@ -15,18 +18,18 @@ Effects[]
 	+ While this effect is mostly cosmetic, it also partially counteracts both the [Curse of Darkness](/wiki/Curses "Curses") and the "dark rooms" in the [(Mines)](/wiki/Mines "Mines") [Mines](/wiki/Mines "Mines")/[(Ashpit)](/wiki/Ashpit "Ashpit") [Ashpit](/wiki/Ashpit "Ashpit").
 
 
-Notes[]
+Notes
 -------
 
 
 * The beams of light appear in both Secret Room types but not in (Ultra Secret Room) [Ultra Secret Rooms](/wiki/Ultra_Secret_Room "Ultra Secret Room").
-	+ This includes Secret Rooms and Super Secret Rooms that appear as a result of [(Red Key)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key").
+	+ This includes Secret Rooms and Super Secret Rooms that appear as a result of [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key").
 * The beams of light appear even in unopened Secret Rooms on the same floor the item was acquired on.
 * The effect can also be obtained in the [Mirrored World](/wiki/Mirrored_World "Mirrored World").
 * The tears up bonuses still apply while in the special area of [(Mines)](/wiki/Mines "Mines") [Mines](/wiki/Mines "Mines")/[(Ashpit)](/wiki/Ashpit "Ashpit") [Ashpit](/wiki/Ashpit "Ashpit") II.
 * No new Secret Rooms are added in [Greed Mode](/wiki/Greed_Mode "Greed Mode") or [Chapter 1](/wiki/Chapters#Chapter_1 "Chapters") (if it's a starting item for  [(Eden)](/wiki/Eden "Eden") [Eden](/wiki/Eden "Eden")), but the beam of light is still added to current Secret Rooms.
 * No new Secret Rooms are added in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home").
-* If kept after using [(Birthright)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") with  [(Tainted Eden)](/wiki/Tainted_Eden "Tainted Eden") [Tainted Eden](/wiki/Tainted_Eden "Tainted Eden"), upon taking damage, the additional tear rate is lost. More beams of light will have to be found or used for the tears to be regained (assuming not all of them were used).
+* If kept after using [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") with  [(Tainted Eden)](/wiki/Tainted_Eden "Tainted Eden") [Tainted Eden](/wiki/Tainted_Eden "Tainted Eden"), upon taking damage, the additional tear rate is lost. More beams of light will have to be found or used for the tears to be regained (assuming not all of them were used).
 * The level generation does not guarantee an additional Super Secret Room can be placed; there is limited space for special rooms, and other types may take priority over it.
 	+ Normal Secret Rooms are exempt from this limitation, and the extra one should always be available.
 * Luna may make (Planetarium) [Planetariums](/wiki/Planetarium "Planetarium") harder to encounter, as the extra Super Secret Room has priority over Planetariums in level generation.
@@ -34,7 +37,7 @@ Notes[]
 * Multiple copies of Luna will not cause additional Secret Rooms or Super Secret Rooms to be generated.
 
 
-Interactions[]
+Interactions
 --------------
 
 

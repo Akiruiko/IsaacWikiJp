@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Lil Chest ![image](/image/Lil_Chest.png) 
+
+
+Effects
 ---------
 
 
@@ -13,17 +16,17 @@ Effects[]
 	+ An [Angel Room item](/wiki/Angel_Room_(Item_Pool) "Angel Room (Item Pool)") (5% chance)
 
 
-Notes[]
+Notes
 -------
 
 
 * The chest also spawns in the mirrored floor of [(Downpour)](/wiki/Downpour "Downpour") [Downpour](/wiki/Downpour "Downpour") II and [(Dross)](/wiki/Dross "Dross") [Dross](/wiki/Dross "Dross") II if picked up before entering.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Gilded Key)](/wiki/Gilded_Key "Gilded Key") [Gilded Key](/wiki/Gilded_Key "Gilded Key") / [(The Left Hand)](/wiki/The_Left_Hand "The Left Hand") [The Left Hand](/wiki/The_Left_Hand "The Left Hand") / [(Mom's Key)](/wiki/Mom%27s_Key "Mom's Key") [Mom's Key](/wiki/Mom%27s_Key "Mom's Key") / [(Poker Chip)](/wiki/Poker_Chip "Poker Chip") [Poker Chip](/wiki/Poker_Chip "Poker Chip"): No effect.
+* [(Gilded Key)](/wiki/Gilded_Key "Gilded Key") [Gilded Key](/wiki/Gilded_Key "Gilded Key") / [(The Left Hand)](/wiki/The_Left_Hand "The Left Hand") [The Left Hand](/wiki/The_Left_Hand "The Left Hand") / [![image](/image/Mom%27s_Key.png)](/wiki/Mom%27s_Key "Mom's Key") [Mom's Key](/wiki/Mom%27s_Key "Mom's Key") / [(Poker Chip)](/wiki/Poker_Chip "Poker Chip") [Poker Chip](/wiki/Poker_Chip "Poker Chip"): No effect.
 
 

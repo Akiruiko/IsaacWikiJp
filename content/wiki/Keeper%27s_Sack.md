@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Keeper's Sack ![image](/image/Keeper%27s_Sack.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * Grants 2 [Black Hearts](/wiki/Health#Black_Hearts "Health") on pickup.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -20,11 +23,11 @@ Notes[]
 * (Added in Repentance)Characters can now deplete their red health fully through sources like [Blood Donation Machines](/wiki/Machines#Blood_Donation_Machine "Machines") while having other hearts like [soul hearts](/wiki/Health#Soul_Hearts "Health"). As a result, this item is usable for a wider amount of characters, and has synergies with characters who prefer to have no red health (such as  [(Eve)](/wiki/Eve "Eve") [Eve](/wiki/Eve "Eve")).
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Afterbirth †)[(Brittle Bones)](/wiki/Brittle_Bones "Brittle Bones") [Brittle Bones](/wiki/Brittle_Bones "Brittle Bones"): The empty [bone hearts](/wiki/Health#Bone_Hearts "Health") will trigger Empty Vessel.
-* [(Gnawed Leaf)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): If the player has no Red Hearts, they can stand still and wait for the shield to activate, allowing the player to deal damage without leaving invulnerability.
+* (Added in Afterbirth †)[![image](/image/Brittle_Bones.png)](/wiki/Brittle_Bones "Brittle Bones") [Brittle Bones](/wiki/Brittle_Bones "Brittle Bones"): The empty [bone hearts](/wiki/Health#Bone_Hearts "Health") will trigger Empty Vessel.
+* [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): If the player has no Red Hearts, they can stand still and wait for the shield to activate, allowing the player to deal damage without leaving invulnerability.
 
 

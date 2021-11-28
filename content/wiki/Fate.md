@@ -1,14 +1,17 @@
 +++
 +++
 
-Effects[]
+ # Fate ![image](/image/Fate.png) 
+
+
+Effects
 ---------
 
 
 * Grants [flight](/wiki/Flight "Flight") and one [Eternal Heart](/wiki/Eternal_Heart "Eternal Heart").
 
 
-Notes[]
+Notes
 -------
 
 

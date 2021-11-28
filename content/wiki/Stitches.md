@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Stitches ![image](/image/Stitches.png) 
+
+
+Effects
 ---------
 
 
@@ -13,7 +16,7 @@ Effects[]
 	+ Teleporting on top of an angel statue in an [Angel Room](/wiki/Angel_Room "Angel Room") will not break it.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -27,22 +30,22 @@ Notes[]
 * While playing as  [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten"), it will only teleport the body of the Forgotten. Telefrag damage is done to the new location of the body but immunity frames are given to the soul.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(9 Volt)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): Halves Stitches charge time.
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): On teleport, fires 8 tears outwards at Isaac's original location. The tears synergize with Isaac's tear effects.
-* [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): When Isaac teleports, he leaves behind a stationary wisp that fires tears in the same direction Isaac does. Up to 6 of these wisps can exist at a time. The wisps do not persist between rooms.
-* [(The Virus)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus"): Can poison enemies during the brief immunity granted after teleporting.
+* [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): Halves Stitches charge time.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): On teleport, fires 8 tears outwards at Isaac's original location. The tears synergize with Isaac's tear effects.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): When Isaac teleports, he leaves behind a stationary wisp that fires tears in the same direction Isaac does. Up to 6 of these wisps can exist at a time. The wisps do not persist between rooms.
+* [![image](/image/The_Virus.png)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus"): Can poison enemies during the brief immunity granted after teleporting.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Swaps places with Isaac twice in quick succession, rendering Stitches useless for collecting pickups & items beyond pits, rocks etc. It will deal telefrag damage in both places (where Stitches is and where Isaac was).
-* [(Midas' Touch)](/wiki/Midas%27_Touch "Midas' Touch") [Midas' Touch](/wiki/Midas%27_Touch "Midas' Touch"): Enemies that survive being teleported onto will immediately turn into gold due to contact with Isaac. Thanks to the brief immunity, Isaac will not be harmed by this.
-* [(Panic Button)](/wiki/Panic_Button "Panic Button") [Panic Button](/wiki/Panic_Button "Panic Button"): As long as Stitches is charged, Isaac will teleport right before getting hit, negating damage. This can effectively be used as a 3-second-recharge [(Holy Mantle)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle").
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Swaps places with Isaac twice in quick succession, rendering Stitches useless for collecting pickups & items beyond pits, rocks etc. It will deal telefrag damage in both places (where Stitches is and where Isaac was).
+* [![image](/image/Midas%27_Touch.png)](/wiki/Midas%27_Touch "Midas' Touch") [Midas' Touch](/wiki/Midas%27_Touch "Midas' Touch"): Enemies that survive being teleported onto will immediately turn into gold due to contact with Isaac. Thanks to the brief immunity, Isaac will not be harmed by this.
+* [(Panic Button)](/wiki/Panic_Button "Panic Button") [Panic Button](/wiki/Panic_Button "Panic Button"): As long as Stitches is charged, Isaac will teleport right before getting hit, negating damage. This can effectively be used as a 3-second-recharge [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle").
 
 

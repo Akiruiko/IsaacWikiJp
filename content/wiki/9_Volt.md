@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # 9 Volt ![image](/image/9_Volt.png) 
+
+
+Effects
 ---------
 
 
@@ -13,14 +16,14 @@ Effects[]
 * (Added in Repentance) Causes Isaac to emit a bright glow in [Curse of Darkness](/wiki/Curse_of_Darkness "Curse of Darkness") rooms.
 
 
-Notes[]
+Notes
 -------
 
 
 * Enemies generated through a [(Slot Machine.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/f/fe/Slot_Machine.png/revision/latest?cb=20210825012434) [Slot Machine](/wiki/Machines#Slot_Machine "Machines"), [(Shell Game.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/0/01/Shell_Game.png/revision/latest?cb=20210825012352) [Shell Game](/wiki/Beggar#Shell_Game "Beggar"), (Added in Repentance) [(Hell Game.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/0/0b/Hell_Game.png/revision/latest?cb=20210824102920) [Hell Game](/wiki/Beggar#Hell_Game "Beggar"), (Added in Repentance) [(Rotten Beggar.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/2/2a/Rotten_Beggar.png/revision/latest?cb=20210825165538) [Rotten Beggar](/wiki/Beggar#Rotten_Beggar "Beggar") or breaking Urns/Skulls will restart the charging process, even though a cleared room still counts as cleared if enemies are spawned in it.
 
 
-Synergies[]
+Synergies
 -----------
 
 
@@ -30,15 +33,15 @@ Synergies[]
 	+ (Added in Afterbirth †) [(AAA Battery)](/wiki/AAA_Battery "AAA Battery") [AAA Battery](/wiki/AAA_Battery "AAA Battery") + 4-bar items: Same as the 3-bar item synergy without AAA Battery.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(9 Volt)](/wiki/9_Volt "9 Volt") 9 Volt: No further decrease in charges.
-* (Added in Repentance)[(Alabaster Box)](/wiki/Alabaster_Box "Alabaster Box") [Alabaster Box](/wiki/Alabaster_Box "Alabaster Box"): No effect.
+* [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") 9 Volt: No further decrease in charges.
+* (Added in Repentance)[![image](/image/Alabaster_Box.png)](/wiki/Alabaster_Box "Alabaster Box") [Alabaster Box](/wiki/Alabaster_Box "Alabaster Box"): No effect.
 * (Added in Afterbirth †)[(Dim Bulb)](/wiki/Dim_Bulb "Dim Bulb") [Dim Bulb](/wiki/Dim_Bulb "Dim Bulb"): Prevents Dim Bulb from working, as minimum charge becomes 1 instead of 0.
-* (Added in Repentance)[(Everything Jar)](/wiki/Everything_Jar "Everything Jar") [Everything Jar](/wiki/Everything_Jar "Everything Jar") / (Added in Repentance)[(Larynx)](/wiki/Larynx "Larynx") [Larynx](/wiki/Larynx "Larynx"): The first bar gains an automatic recharge, but the further bars will not be affected.
-* (Removed in Repentance)[(Sharp Plug)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug"): Renders the Sharp Plug unusable on 2+ charge items. Sharp Plug can only be used if the item is at 0 charges, but 9 Volt instantly gives +1 charge to the item upon activation.
+* (Added in Repentance)[![image](/image/Everything_Jar.png)](/wiki/Everything_Jar "Everything Jar") [Everything Jar](/wiki/Everything_Jar "Everything Jar") / (Added in Repentance)[![image](/image/Larynx.png)](/wiki/Larynx "Larynx") [Larynx](/wiki/Larynx "Larynx"): The first bar gains an automatic recharge, but the further bars will not be affected.
+* (Removed in Repentance)[![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug"): Renders the Sharp Plug unusable on 2+ charge items. Sharp Plug can only be used if the item is at 0 charges, but 9 Volt instantly gives +1 charge to the item upon activation.
 	+ (Added in Repentance) Lowers the cost of using Sharp Plug by half a heart on 2+ charge items.
 
 

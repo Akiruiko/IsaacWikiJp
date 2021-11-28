@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Black Lotus ![image](/image/Black_Lotus.png) 
+
+
+Effects
 ---------
 
 

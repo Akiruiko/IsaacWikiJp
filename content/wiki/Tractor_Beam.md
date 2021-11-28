@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Tractor Beam ![image](/image/Tractor_Beam.png) 
+
+
+Effects
 ---------
 
 
@@ -19,17 +22,17 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Fun Guy](/wiki/Fun_Guy "Fun Guy") set. Collecting three items from this set will transform Isaac into a walking mushroom.
 
 
-Notes[]
+Notes
 -------
 
 
 * There are two collectible items in the game named [Odd Mushroom](/wiki/Odd_Mushroom "Odd Mushroom"); you can tell them apart from the sprites.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Removed in Repentance)[(The Virus)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus"): The speed down from the Virus does not stack with the Odd Mushroom; if both are collected, only a total of -0.1 applies.
+* (Removed in Repentance)[![image](/image/The_Virus.png)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus"): The speed down from the Virus does not stack with the Odd Mushroom; if both are collected, only a total of -0.1 applies.
 
 

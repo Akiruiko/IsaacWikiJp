@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Red Stew ![image](/image/Red_Stew.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * When used, all Red Hearts in the jar are dropped on the floor, rather than directly consuming them.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -20,21 +23,21 @@ Notes[]
 * The short-lived half red hearts dropped by  [(Tainted Magdalene)](/wiki/Tainted_Magdalene "Tainted Magdalene") [Tainted Magdalene](/wiki/Tainted_Magdalene "Tainted Magdalene") can be picked up and stored.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Consumes stored hearts to spawn heart wisps, rather than releasing heart pickups. Heart Wisps have a chance to drop a [half red heart](/wiki/Hearts#Half_Red_Heart "Hearts") when destroyed.
-* (Removed in Repentance) [(Humbling Bundle)](/wiki/Humbling_Bundle "Humbling Bundle") [Humbling Bundle](/wiki/Humbling_Bundle "Humbling Bundle") / [(Maggy's Bow)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): Spawn double the hearts put into the jar, allowing for infinite health to be spawned.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Consumes stored hearts to spawn heart wisps, rather than releasing heart pickups. Heart Wisps have a chance to drop a [half red heart](/wiki/Hearts#Half_Red_Heart "Hearts") when destroyed.
+* (Removed in Repentance) [![image](/image/Humbling_Bundle.png)](/wiki/Humbling_Bundle "Humbling Bundle") [Humbling Bundle](/wiki/Humbling_Bundle "Humbling Bundle") / [![image](/image/Maggy%27s_Bow.png)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): Spawn double the hearts put into the jar, allowing for infinite health to be spawned.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * [(Broken Remote)](/wiki/Broken_Remote "Broken Remote") [Broken Remote](/wiki/Broken_Remote "Broken Remote"): Allows for teleportation with no recharge; however, it drops the contained red hearts in the room it was used.
-* (Added in Afterbirth)[(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): The Jar acts as usual, and doesn't double the hearts dropped upon activation.
-* (Added in Afterbirth †)[(Schoolbag)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"): The player cannot pick up extra hearts while The Jar is in the inactive slot.
-* (Added in Repentance)[(Shard of Glass)](/wiki/Shard_of_Glass "Shard of Glass") [Shard of Glass](/wiki/Shard_of_Glass "Shard of Glass"): Storing a heart in the jar does not stop the bleeding effect, despite playing the "heart collected" sound effect.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): The Jar acts as usual, and doesn't double the hearts dropped upon activation.
+* (Added in Afterbirth †)[![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"): The player cannot pick up extra hearts while The Jar is in the inactive slot.
+* (Added in Repentance)[![image](/image/Shard_of_Glass.png)](/wiki/Shard_of_Glass "Shard of Glass") [Shard of Glass](/wiki/Shard_of_Glass "Shard of Glass"): Storing a heart in the jar does not stop the bleeding effect, despite playing the "heart collected" sound effect.
 
 

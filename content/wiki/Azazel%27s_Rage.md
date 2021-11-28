@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Azazel's Rage ![image](/image/Azazel%27s_Rage.png) 
+
+
+Effects
 ---------
 
 

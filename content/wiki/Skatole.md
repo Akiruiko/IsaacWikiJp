@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Skatole ![image](/image/Skatole.png) 
+
+
+Effects
 ---------
 
 
@@ -17,15 +20,15 @@ Effects[]
 * (Added in Repentance) This item belongs to the [Oh Crap](/wiki/Oh_Crap "Oh Crap") set. Collecting three items from this set will transform Isaac into a walking pile of poop.
 
 
-Notes[]
+Notes
 -------
 
 
 * This item can only be naturally obtained from the [(Shell Game.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/0/01/Shell_Game.png/revision/latest?cb=20210825012352) [Shell Game](/wiki/Beggar#Shell_Game "Beggar").
-	+ (Added in Repentance) Skatole exists in an otherwise unused `shellGame` item pool. This means it can also be acquired with [(Chaos)](/wiki/Chaos "Chaos") [Chaos](/wiki/Chaos "Chaos") and bosses in [(The Void)](/wiki/The_Void "The Void") [The Void](/wiki/The_Void "The Void") can drop it.
+	+ (Added in Repentance) Skatole exists in an otherwise unused `shellGame` item pool. This means it can also be acquired with [![image](/image/Chaos.png)](/wiki/Chaos "Chaos") [Chaos](/wiki/Chaos "Chaos") and bosses in [(The Void)](/wiki/The_Void "The Void") [The Void](/wiki/The_Void "The Void") can drop it.
 * [(Beelzebub)](/wiki/Beelzebub "Beelzebub") [Beelzebub](/wiki/Beelzebub "Beelzebub")'s effect overrides Skatole.
 * (Removed in Repentance) Flies spawned by [(The Husk)](/wiki/The_Husk "The Husk") [The Husk](/wiki/The_Husk "The Husk") will not become passive.
-* (Added in Repentance) Due to being quality 0, Skatole cannot be obtained from [(Shell Game.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/0/01/Shell_Game.png/revision/latest?cb=20210825012352) [Shell Games](/wiki/Beggar#Shell_Game "Beggar") after [(Sacred Orb)](/wiki/Sacred_Orb "Sacred Orb") [Sacred Orb](/wiki/Sacred_Orb "Sacred Orb") has been picked up.
+* (Added in Repentance) Due to being quality 0, Skatole cannot be obtained from [(Shell Game.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/0/01/Shell_Game.png/revision/latest?cb=20210825012352) [Shell Games](/wiki/Beggar#Shell_Game "Beggar") after [![image](/image/Sacred_Orb.png)](/wiki/Sacred_Orb "Sacred Orb") [Sacred Orb](/wiki/Sacred_Orb "Sacred Orb") has been picked up.
 * This item makes [(The Duke of Flies)](/wiki/The_Duke_of_Flies "The Duke of Flies") [The Duke of Flies](/wiki/The_Duke_of_Flies "The Duke of Flies") a lot easier, as most of his attacks, which spawn flies, will instantly be converted. Staying out of his way while having Skatole can even make it so he ends up killing himself.
 
 

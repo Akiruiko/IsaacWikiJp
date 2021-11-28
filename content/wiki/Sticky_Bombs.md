@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Sticky Bombs ![image](/image/Sticky_Bombs.png) 
+
+
+Effects
 ---------
 
 
@@ -13,7 +16,7 @@ Effects[]
 * A few enemies (like the [Horf](/wiki/Horf "Horf")) are drawn toward Isaac as well.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -22,12 +25,12 @@ Notes[]
 * (Added in Repentance) If Magneto opens the chests in (Challenge Room) [Challenge Rooms](/wiki/Challenge_Room "Challenge Room"), the waves won't start spawning, nor the way out will be closed.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance)[(Hypercoagulation)](/wiki/Hypercoagulation "Hypercoagulation") [Hypercoagulation](/wiki/Hypercoagulation "Hypercoagulation"): Magneto cuts the momentum of the hearts, allowing for easy pickup and, in turn, making Isaac very tough to kill.
-* (Added in Repentance)[(Options?)](/wiki/Options%3F "Options?") [Options?](/wiki/Options%3F "Options?"): If a chest is presented as a choice and opened by Magneto, the other reward won't disappear unless the empty chest is then touched. Chests with items disappear or make the other reward disappear, though.
+* (Added in Repentance)[![image](/image/Hypercoagulation.png)](/wiki/Hypercoagulation "Hypercoagulation") [Hypercoagulation](/wiki/Hypercoagulation "Hypercoagulation"): Magneto cuts the momentum of the hearts, allowing for easy pickup and, in turn, making Isaac very tough to kill.
+* (Added in Repentance)[![image](/image/Options%3F.png)](/wiki/Options%3F "Options?") [Options?](/wiki/Options%3F "Options?"): If a chest is presented as a choice and opened by Magneto, the other reward won't disappear unless the empty chest is then touched. Chests with items disappear or make the other reward disappear, though.
 * [(Tainted Magdalene)](/wiki/Tainted_Magdalene "Tainted Magdalene") [Tainted Magdalene](/wiki/Tainted_Magdalene "Tainted Magdalene")/ [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper"): Attracts hearts and coins dropped by enemies, allowing for an easier survival and/or coin mongering respectively.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Portable Slot ![image](/image/Portable_Slot.png) 
+
+
+Effects
 ---------
 
 
@@ -13,18 +16,18 @@ Effects[]
 	+ Ghosts can be moved by shooting at them.
 
 
-Notes[]
+Notes
 -------
 
 
 * Ghosts that are currently not visible on the screen (e.g. in larger rooms) will not be detonated when using the item.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): No wisps are created when using Vade Retro. Instead, ghosts created by enemies very slowly move and shoot tears in the same direction Isaac is shooting. The ghosts' tears deal 3.5 damage, and are fired once every second.
-* [(Judas)](/wiki/Judas "Judas") [Judas](/wiki/Judas "Judas") +[(Birthright)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Ghosts home in on enemies upon use, similarly to ghosts spawned by[(Purgatory)](/wiki/Purgatory "Purgatory") [Purgatory](/wiki/Purgatory "Purgatory"). The ghosts deal 2x Judas' damage.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): No wisps are created when using Vade Retro. Instead, ghosts created by enemies very slowly move and shoot tears in the same direction Isaac is shooting. The ghosts' tears deal 3.5 damage, and are fired once every second.
+* [(Judas)](/wiki/Judas "Judas") [Judas](/wiki/Judas "Judas") +[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Ghosts home in on enemies upon use, similarly to ghosts spawned by[![image](/image/Purgatory.png)](/wiki/Purgatory "Purgatory") [Purgatory](/wiki/Purgatory "Purgatory"). The ghosts deal 2x Judas' damage.
 
 

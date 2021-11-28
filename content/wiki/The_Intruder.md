@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # The Intruder ![image](/image/The_Intruder.png) 
+
+
+Effects
 ---------
 
 
@@ -15,31 +18,31 @@ Effects[]
 * This item belongs to the [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)") set. Collecting three items from this set will transform Isaac into a humanoid spider.
 
 
-Notes[]
+Notes
 -------
 
 
 * The Intruder is treated as a familiar even while in Isaac's head, and benefits from familiar synergies while in it.
-* If The Intruder is released after [(The Pinking Shears)](/wiki/The_Pinking_Shears "The Pinking Shears") [The Pinking Shears](/wiki/The_Pinking_Shears "The Pinking Shears") are used, control is given back to an invisible head with only a shadow visible. This is due to both the head (the spider) and the body being mobilized to attack.
+* If The Intruder is released after [![image](/image/The_Pinking_Shears.png)](/wiki/The_Pinking_Shears "The Pinking Shears") [The Pinking Shears](/wiki/The_Pinking_Shears "The Pinking Shears") are used, control is given back to an invisible head with only a shadow visible. This is due to both the head (the spider) and the body being mobilized to attack.
 
 
-Synergies[]
+Synergies
 -----------
 
 
 * [(Baby-Bender)](/wiki/Baby-Bender "Baby-Bender") [Baby-Bender](/wiki/Baby-Bender "Baby-Bender"): The shots are homing.
 
 
-* [(Box of Friends)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Doubles the number of tears fired from Isaac's head (if both copies fire at the same time, the tears will stack perfectly so it can be difficult to tell). If The Intruder is released, then interacts normally and spawns a copy.
-* [(Hive Mind)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Increases The Intruder's tear and contact damage.
+* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Doubles the number of tears fired from Isaac's head (if both copies fire at the same time, the tears will stack perfectly so it can be difficult to tell). If The Intruder is released, then interacts normally and spawns a copy.
+* [![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Increases The Intruder's tear and contact damage.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Guillotine)](/wiki/Guillotine "Guillotine") [Guillotine](/wiki/Guillotine "Guillotine"): The Intruder's tears come from Isaac's body.
+* [![image](/image/Guillotine.png)](/wiki/Guillotine "Guillotine") [Guillotine](/wiki/Guillotine "Guillotine"): The Intruder's tears come from Isaac's body.
 * [(Lilith)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith"): The Intruder's tears come from Lilith, despite her blindfold.
-* [(Sacrificial Altar)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar"): The Intruder can be sacrificed even while in Isaac's head.
+* [![image](/image/Sacrificial_Altar.png)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar"): The Intruder can be sacrificed even while in Isaac's head.
 
 

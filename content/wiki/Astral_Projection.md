@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Astral Projection ![image](/image/Astral_Projection.png) 
+
+
+Effect
 --------
 
 
@@ -10,15 +13,15 @@ Effect[]
 	+ The area of effect is 1 tile in all directions.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps surrounded by green stink clouds on the outer ring. The wisps deal 5 damage and poison nearby enemies when destroyed.
-* (Added in Afterbirth †)[(Ghost Pepper)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Poison farts shoot a fire behind Isaac. Two flames will be shot if Isaac also has  (Added in Afterbirth)[(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery").
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps surrounded by green stink clouds on the outer ring. The wisps deal 5 damage and poison nearby enemies when destroyed.
+* (Added in Afterbirth †)[![image](/image/Ghost_Pepper.png)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Poison farts shoot a fire behind Isaac. Two flames will be shot if Isaac also has  (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery").
 
 
-Interactions[]
+Interactions
 --------------
 
 

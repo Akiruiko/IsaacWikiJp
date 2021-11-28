@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Bob's Curse ![image](/image/Bob%27s_Curse.png) 
+
+
+Effect
 --------
 
 
@@ -14,7 +17,7 @@ Effect[]
 	+ [(Vis)](/wiki/Vis "Vis") [Vis](/wiki/Vis "Vis")
 
 
-Notes[]
+Notes
 -------
 
 
@@ -24,10 +27,10 @@ Notes[]
 * Enemy variants may spawn.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance)[(Eraser)](/wiki/Eraser "Eraser") [Eraser](/wiki/Eraser "Eraser"): Enemies erased via Eraser will never spawn again. This can be a great gimp if Vises are erased, as it greatly reduces the usefulness of Poke Go.
+* (Added in Repentance)[![image](/image/Eraser.png)](/wiki/Eraser "Eraser") [Eraser](/wiki/Eraser "Eraser"): Enemies erased via Eraser will never spawn again. This can be a great gimp if Vises are erased, as it greatly reduces the usefulness of Poke Go.
 
 

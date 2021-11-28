@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Member Card ![image](/image/Member_Card.png) 
+
+
+Effects
 ---------
 
 
@@ -15,21 +18,21 @@ Effects[]
 	+ A [Rotten Heart](/wiki/Hearts#Rotten_Heart "Hearts") for 5 cents.
 
 
-Notes[]
+Notes
 -------
 
 
 * The trapdoor spawns even if the shop was replaced by [Greed](/wiki/Greed "Greed") or [Super Greed](/wiki/Super_Greed "Super Greed"), in which case it won't open until Greed has been defeated.
-* Similar to [Crawl Spaces](/wiki/Crawl_Space "Crawl Space"), there is only one secret shop per floor. The trapdoors in extra shops created by [(Red Key)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") will lead to the same secret shop.
+* Similar to [Crawl Spaces](/wiki/Crawl_Space "Crawl Space"), there is only one secret shop per floor. The trapdoors in extra shops created by [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") will lead to the same secret shop.
 * Should the Member Card be removed from the player's inventory (for example, by playing  [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac") and replacing it with a different item), the trapdoor will still remain open once it has been spawned, even after leaving and reentering the shop.
 * The trapdoor will appear in the [Mirrored World](/wiki/Mirrored_World "Mirrored World") version of the shop. Despite the shop itself being empty, the trapdoor will lead to the same secret shop where the items are still for sale. Buying from the secret shop in the Mirrored World will thus remove the bought item from both worlds.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Eden's Soul)](/wiki/Eden%27s_Soul "Eden's Soul") [Eden's Soul](/wiki/Eden%27s_Soul "Eden's Soul")/[(Magic Skin)](/wiki/Magic_Skin "Magic Skin") [Magic Skin](/wiki/Magic_Skin "Magic Skin")/[(Mystery Gift)](/wiki/Mystery_Gift "Mystery Gift") [Mystery Gift](/wiki/Mystery_Gift "Mystery Gift"): Only shop pool items are created if used in the underground shop.
-* [(Restock)](/wiki/Restock "Restock") [Restock](/wiki/Restock "Restock"): Items bought in the underground shop will also be restocked.
+* [![image](/image/Eden%27s_Soul.png)](/wiki/Eden%27s_Soul "Eden's Soul") [Eden's Soul](/wiki/Eden%27s_Soul "Eden's Soul")/[![image](/image/Magic_Skin.png)](/wiki/Magic_Skin "Magic Skin") [Magic Skin](/wiki/Magic_Skin "Magic Skin")/[![image](/image/Mystery_Gift.png)](/wiki/Mystery_Gift "Mystery Gift") [Mystery Gift](/wiki/Mystery_Gift "Mystery Gift"): Only shop pool items are created if used in the underground shop.
+* [![image](/image/Restock.png)](/wiki/Restock "Restock") [Restock](/wiki/Restock "Restock"): Items bought in the underground shop will also be restocked.
 
 

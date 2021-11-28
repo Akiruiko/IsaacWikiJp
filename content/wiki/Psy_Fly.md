@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Psy Fly ![image](/image/Psy_Fly.png) 
+
+
+Effects
 ---------
 
 
@@ -13,7 +16,7 @@ Effects[]
 * This item belongs to the [Beelzebub](/wiki/Beelzebub "Beelzebub") set. Collecting three items from this set will transform Isaac into a giant humanoid fly.
 
 
-Notes[]
+Notes
 -------
 
 

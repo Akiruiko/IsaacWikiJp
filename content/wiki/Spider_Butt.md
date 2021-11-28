@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Spider Butt ![image](/image/Spider_Butt.png) 
+
+
+Effects
 ---------
 
 
@@ -12,12 +15,12 @@ Effects[]
 * Tears are replaced by [Death](/wiki/Death_(Boss) "Death (Boss)")'s scythes.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth †)[(Haemolacria)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria"): Stat effects apply. Fired tears will retain piercing effect; however, burst tears will not. All other effects do not apply.
-* [(Ipecac)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Tears explode at their center, not where they touch the enemy, which means the very large size from Death's Touch may be detrimental. Piercing effect does not apply.
-* (Added in Repentance)[(Spirit Sword)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword") Overrides the scythe visual including the ranged attack.
+* (Added in Afterbirth †)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria"): Stat effects apply. Fired tears will retain piercing effect; however, burst tears will not. All other effects do not apply.
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Tears explode at their center, not where they touch the enemy, which means the very large size from Death's Touch may be detrimental. Piercing effect does not apply.
+* (Added in Repentance)[![image](/image/Spirit_Sword.png)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword") Overrides the scythe visual including the ranged attack.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # The Candle ![image](/image/The_Candle.png) 
+
+
+Effect
 --------
 
 
@@ -10,10 +13,10 @@ Effect[]
 		- (Added in Repentance) every 7 or 8 [rooms](/wiki/Room "Room").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The familiar drops Soul Hearts alternatingly every 4 or 5 rooms.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The familiar drops Soul Hearts alternatingly every 4 or 5 rooms.
 
 

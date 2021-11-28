@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Large Zit ![image](/image/Large_Zit.png) 
+
+
+Effects
 ---------
 
 
@@ -15,37 +18,37 @@ Effects[]
 * Unlike most creep effects, this creep will affect flying enemies.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Brimstone)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") / [(Chocolate Milk)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk") / [(Epic Fetus)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus") / [(Mom's Knife)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife") / [(Monstro's Lung)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung") / [(Tech X)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Creep shots will still be fired occasionally while holding the fire button.
-* [(Dr. Fetus)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Creep shots will occasionally be fired along with bombs.
-* [(Ipecac)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): High tear damage from Ipecac is doubled, causing very powerful creep shots.
-* [(Multidimensional Baby)](/wiki/Multidimensional_Baby "Multidimensional Baby") [Multidimensional Baby](/wiki/Multidimensional_Baby "Multidimensional Baby"): Creep shots can be duplicated.
-* [(Polyphemus)](/wiki/Polyphemus "Polyphemus") [Polyphemus](/wiki/Polyphemus "Polyphemus"): High tear damage from Polyphemus is doubled.
-* [(Technology)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Creep shots will occasionally be fired along with lasers.
-* [(Technology Zero)](/wiki/Technology_Zero "Technology Zero") [Technology Zero](/wiki/Technology_Zero "Technology Zero"): Creep shots will be connected to other tears via electricity.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") / [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk") / [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus") / [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife") / [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung") / [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Creep shots will still be fired occasionally while holding the fire button.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Creep shots will occasionally be fired along with bombs.
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): High tear damage from Ipecac is doubled, causing very powerful creep shots.
+* [![image](/image/Multidimensional_Baby.png)](/wiki/Multidimensional_Baby "Multidimensional Baby") [Multidimensional Baby](/wiki/Multidimensional_Baby "Multidimensional Baby"): Creep shots can be duplicated.
+* [![image](/image/Polyphemus.png)](/wiki/Polyphemus "Polyphemus") [Polyphemus](/wiki/Polyphemus "Polyphemus"): High tear damage from Polyphemus is doubled.
+* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Creep shots will occasionally be fired along with lasers.
+* [![image](/image/Technology_Zero.png)](/wiki/Technology_Zero "Technology Zero") [Technology Zero](/wiki/Technology_Zero "Technology Zero"): Creep shots will be connected to other tears via electricity.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(20/20)](/wiki/20/20 "20/20") [20/20](/wiki/20/20 "20/20") / [(The Inner Eye)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye") / [(Mutant Spider)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider"): Isaac will still fire one creep shot.
-* (Added in Repentance)[(Bird's Eye)](/wiki/Bird%27s_Eye "Bird's Eye") [Bird's Eye](/wiki/Bird%27s_Eye "Bird's Eye") / [(Ghost Pepper)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Firing creep shots does not spawn the fires.
-* [(Compound Fracture)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture") / [(Cricket's Body)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body") / [(The Parasite)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Creep shots will not burst into split tears.
-* [(Dead Eye)](/wiki/Dead_Eye "Dead Eye") [Dead Eye](/wiki/Dead_Eye "Dead Eye"): Creep shots do not grant or reset the damage multiplier, although their damage still benefit from the multiplier.
-* [(Eye of Belial)](/wiki/Eye_of_Belial "Eye of Belial") [Eye of Belial](/wiki/Eye_of_Belial "Eye of Belial"): Creep shots are not affected.
-* [(Eye of Greed)](/wiki/Eye_of_Greed "Eye of Greed") [Eye of Greed](/wiki/Eye_of_Greed "Eye of Greed") / [(Lead Pencil)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil"): Creep shots are not counted for shots fired.
-* (Added in Repentance)[(Eye of the Occult)](/wiki/Eye_of_the_Occult "Eye of the Occult") [Eye of the Occult](/wiki/Eye_of_the_Occult "Eye of the Occult"): Creep shots are not controlled. Creep shots will only fire in cardinal or diagonal directions unless there is a cross-hair, in which case creep shots will fire directly toward it.
-* [(Incubus)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") / (Added in Repentance)[(Twisted Pair)](/wiki/Twisted_Pair "Twisted Pair") [Twisted Pair](/wiki/Twisted_Pair "Twisted Pair"): The familiars does not fire creep shots.
-* (Added in Repentance)[(Immaculate Heart)](/wiki/Immaculate_Heart "Immaculate Heart") [Immaculate Heart](/wiki/Immaculate_Heart "Immaculate Heart"): Firing creep shots does not spawn the orbiting tear.
-* [(Lachryphagy)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): Creep shots are not affected from Lachryphagy, but Lachryphagy tears can feed on them.
-* [(The Ludovico Technique)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Movable tear behaves as normal. Isaac will occasionally fire a creep shot while moving the tear, and creep shots will only fire in cardinal or diagonal directions.
-* [(A Lump of Coal)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): Creep shots are not affected.
-* [(My Reflection)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection") / [(Tiny Planet)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet") / [(Tractor Beam)](/wiki/Tractor_Beam "Tractor Beam") [Tractor Beam](/wiki/Tractor_Beam "Tractor Beam"): Creep shots are not affected by the trajectory altering effect. Stat changes are applied as normal.
-* [(Pop!)](/wiki/Pop! "Pop!") [Pop!](/wiki/Pop! "Pop!"): Creep shots are not affected. Pop! tears do not bounce off of creep shots.
-* [(Proptosis)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): Creep shots are not affected.
+* [![image](/image/20/20.png)](/wiki/20/20 "20/20") [20/20](/wiki/20/20 "20/20") / [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye") / [![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider"): Isaac will still fire one creep shot.
+* (Added in Repentance)[![image](/image/Bird%27s_Eye.png)](/wiki/Bird%27s_Eye "Bird's Eye") [Bird's Eye](/wiki/Bird%27s_Eye "Bird's Eye") / [![image](/image/Ghost_Pepper.png)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Firing creep shots does not spawn the fires.
+* [![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture") / [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body") / [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Creep shots will not burst into split tears.
+* [![image](/image/Dead_Eye.png)](/wiki/Dead_Eye "Dead Eye") [Dead Eye](/wiki/Dead_Eye "Dead Eye"): Creep shots do not grant or reset the damage multiplier, although their damage still benefit from the multiplier.
+* [![image](/image/Eye_of_Belial.png)](/wiki/Eye_of_Belial "Eye of Belial") [Eye of Belial](/wiki/Eye_of_Belial "Eye of Belial"): Creep shots are not affected.
+* [![image](/image/Eye_of_Greed.png)](/wiki/Eye_of_Greed "Eye of Greed") [Eye of Greed](/wiki/Eye_of_Greed "Eye of Greed") / [![image](/image/Lead_Pencil.png)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil"): Creep shots are not counted for shots fired.
+* (Added in Repentance)[![image](/image/Eye_of_the_Occult.png)](/wiki/Eye_of_the_Occult "Eye of the Occult") [Eye of the Occult](/wiki/Eye_of_the_Occult "Eye of the Occult"): Creep shots are not controlled. Creep shots will only fire in cardinal or diagonal directions unless there is a cross-hair, in which case creep shots will fire directly toward it.
+* [![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") / (Added in Repentance)[![image](/image/Twisted_Pair.png)](/wiki/Twisted_Pair "Twisted Pair") [Twisted Pair](/wiki/Twisted_Pair "Twisted Pair"): The familiars does not fire creep shots.
+* (Added in Repentance)[![image](/image/Immaculate_Heart.png)](/wiki/Immaculate_Heart "Immaculate Heart") [Immaculate Heart](/wiki/Immaculate_Heart "Immaculate Heart"): Firing creep shots does not spawn the orbiting tear.
+* [![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): Creep shots are not affected from Lachryphagy, but Lachryphagy tears can feed on them.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Movable tear behaves as normal. Isaac will occasionally fire a creep shot while moving the tear, and creep shots will only fire in cardinal or diagonal directions.
+* [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): Creep shots are not affected.
+* [![image](/image/My_Reflection.png)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection") / [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet") / [![image](/image/Tractor_Beam.png)](/wiki/Tractor_Beam "Tractor Beam") [Tractor Beam](/wiki/Tractor_Beam "Tractor Beam"): Creep shots are not affected by the trajectory altering effect. Stat changes are applied as normal.
+* [![image](/image/Pop!.png)](/wiki/Pop! "Pop!") [Pop!](/wiki/Pop! "Pop!"): Creep shots are not affected. Pop! tears do not bounce off of creep shots.
+* [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): Creep shots are not affected.
 
 

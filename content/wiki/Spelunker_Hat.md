@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Spelunker Hat ![image](/image/Spelunker_Hat.png) 
+
+
+Effect
 --------
 
 
@@ -17,11 +20,11 @@ Effect[]
 * (Added in Afterbirth †) This item belongs to the [Stompy](/wiki/Stompy "Stompy") set. Collecting three items from this set will transform Isaac into Stompy.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Blood of the Martyr)](/wiki/Blood_of_the_Martyr "Blood of the Martyr") [Blood of the Martyr](/wiki/Blood_of_the_Martyr "Blood of the Martyr") + [(The Book of Belial)](/wiki/The_Book_of_Belial "The Book of Belial") [The Book of Belial](/wiki/The_Book_of_Belial "The Book of Belial") / [(Cricket's Head)](/wiki/Cricket%27s_Head "Cricket's Head") [Cricket's Head](/wiki/Cricket%27s_Head "Cricket's Head") / **Magic Mushroom**: Damage multipliers do not stack. Only the highest one is counted.
+* [![image](/image/Blood_of_the_Martyr.png)](/wiki/Blood_of_the_Martyr "Blood of the Martyr") [Blood of the Martyr](/wiki/Blood_of_the_Martyr "Blood of the Martyr") + [![image](/image/The_Book_of_Belial.png)](/wiki/The_Book_of_Belial "The Book of Belial") [The Book of Belial](/wiki/The_Book_of_Belial "The Book of Belial") / [![image](/image/Cricket%27s_Head.png)](/wiki/Cricket%27s_Head "Cricket's Head") [Cricket's Head](/wiki/Cricket%27s_Head "Cricket's Head") / **Magic Mushroom**: Damage multipliers do not stack. Only the highest one is counted.
 * [(Tainted Bethany)](/wiki/Tainted_Bethany "Tainted Bethany") [Tainted Bethany](/wiki/Tainted_Bethany "Tainted Bethany"): On pickup, grants 12 blood charges.
 
 

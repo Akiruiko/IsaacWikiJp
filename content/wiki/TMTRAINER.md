@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # TMTRAINER ![image](/image/TMTRAINER.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * Removes the delay between bomb placements, allowing them to be placed rapidly.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -18,10 +21,10 @@ Notes[]
 * (Added in Repentance) Fast Bombs deal no knockback to each other.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Remote Detonator)](/wiki/Remote_Detonator "Remote Detonator") [Remote Detonator](/wiki/Remote_Detonator "Remote Detonator"): Since bombs can be placed rapidly, this can be used to do lots of damage at once to a boss or enemy.
+* [![image](/image/Remote_Detonator.png)](/wiki/Remote_Detonator "Remote Detonator") [Remote Detonator](/wiki/Remote_Detonator "Remote Detonator"): Since bombs can be placed rapidly, this can be used to do lots of damage at once to a boss or enemy.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Dry Baby ![image](/image/Dry_Baby.png) 
+
+
+Effects
 ---------
 
 
@@ -27,31 +30,31 @@ Effects[]
 	+ Spawns an [item](/wiki/Item "Item") pedestal that cycles between 9 different items 30 times per second. The item selection is from the current room's item pool.
 	+ Spawns many colored beams of light around the room that deal damage to enemies. These beams of light scale with Isaac's damage, and get exponentially stronger the more damage Isaac has.
 	+ Fills the room with poop, similarly to [(A Card Against Humanity)](/wiki/A_Card_Against_Humanity "A Card Against Humanity") [A Card Against Humanity](/wiki/A_Card_Against_Humanity "A Card Against Humanity")
-	+ Spawns 6 troll bombs around the room, similarly to [(Anarchist Cookbook)](/wiki/Anarchist_Cookbook "Anarchist Cookbook") [Anarchist Cookbook](/wiki/Anarchist_Cookbook "Anarchist Cookbook").
-	+ Flips all sprites to the side, gives Isaac random tear effects for the rest of the room, and permanently increases and decreases one of Isaac's stats, similarly to [(Dataminer)](/wiki/Dataminer "Dataminer") [Dataminer](/wiki/Dataminer "Dataminer").
+	+ Spawns 6 troll bombs around the room, similarly to [![image](/image/Anarchist_Cookbook.png)](/wiki/Anarchist_Cookbook "Anarchist Cookbook") [Anarchist Cookbook](/wiki/Anarchist_Cookbook "Anarchist Cookbook").
+	+ Flips all sprites to the side, gives Isaac random tear effects for the rest of the room, and permanently increases and decreases one of Isaac's stats, similarly to [![image](/image/Dataminer.png)](/wiki/Dataminer "Dataminer") [Dataminer](/wiki/Dataminer "Dataminer").
 	+ Spawns many [(Shopkeeper)](/wiki/Shopkeeper "Shopkeeper") [Shopkeepers](/wiki/Shopkeeper "Shopkeeper") around the room. These have a chance to be special/error shopkeepers.
 	+ Spawns a [(Giga Bomb)](/wiki/Giga_Bomb "Giga Bomb") [Giga Bomb](/wiki/Giga_Bomb "Giga Bomb") pickup that gives Isaac a bomb and converts his next bomb into a giga-bomb that deals 300 blast damage, spawns many rock projectiles that deal 15 damage, and creates 13 holes in a diamond shape around the blast zone that deal 99 damage to enemies that were in their areas. These holes cannot spawn if they would close Isaac's path around the room.
 		- This bomb has a chance to be live when it spawns.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a random wisp.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a random wisp.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(9 Volt)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): Fully recharges Everything Jar upon pickup. It also slowly recharges Everything Jar's first charge while Isaac is in an uncleared room.
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Instead of doubling its effect, Everything Jar will spawn a poop alongside its normal drop.
-* [(Glitched Crown)](/wiki/Glitched_Crown "Glitched Crown") [Glitched Crown](/wiki/Glitched_Crown "Glitched Crown") /  [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac"): The rapidly cycling item pedestal does not gain more items in its selection or slow down.
-* [(Void)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Consuming the Everything Jar will cause Void to spawn a poop when used, regardless of charge level.
+* [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): Fully recharges Everything Jar upon pickup. It also slowly recharges Everything Jar's first charge while Isaac is in an uncleared room.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Instead of doubling its effect, Everything Jar will spawn a poop alongside its normal drop.
+* [![image](/image/Glitched_Crown.png)](/wiki/Glitched_Crown "Glitched Crown") [Glitched Crown](/wiki/Glitched_Crown "Glitched Crown") /  [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac"): The rapidly cycling item pedestal does not gain more items in its selection or slow down.
+* [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Consuming the Everything Jar will cause Void to spawn a poop when used, regardless of charge level.
 
 
-Notes[]
+Notes
 -------
 
 

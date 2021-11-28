@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Chemical Peel ![image](/image/Chemical_Peel.png) 
+
+
+Effects
 ---------
 
 
@@ -48,7 +51,7 @@ Effects[]
 * Other bad pills will also drop a [Black Heart](/wiki/Hearts#Black_Heart "Hearts") upon use.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -56,24 +59,24 @@ Notes[]
 * Neutral pills will not have a secondary effect.
 * If any stat down pills were taken before picking up the item, a damage increase is given for each pill.
 * Pills are only converted while held by a character with False PHD. For example: If playing as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau") and  [(Jacob)](/wiki/Jacob "Jacob") [Jacob](/wiki/Jacob "Jacob") has this item, pills that got converted into 'bad' pills like a Tears Down pill can be given to  [(Esau)](/wiki/Esau "Esau") [Esau](/wiki/Esau "Esau") to convert them back into a Tears Up pill, or whatever the pill was originally.
-* Losing the item by either dropping it as  [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac") or re-rolling it via [(D4)](/wiki/D4 "D4") [D4](/wiki/D4 "D4"), etc., causes the damage buffs given to be removed.
+* Losing the item by either dropping it as  [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac") or re-rolling it via [![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4"), etc., causes the damage buffs given to be removed.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(A Pony)](/wiki/A_Pony "A Pony") [A Pony](/wiki/A_Pony "A Pony")/[(White Pony)](/wiki/White_Pony "White Pony") [White Pony](/wiki/White_Pony "White Pony"): Effectively converts all Speed Down pills into Damage Up as long as one of the ponies are being held, since they will always give a minimum of 1.5 speed.
+* [![image](/image/A_Pony.png)](/wiki/A_Pony "A Pony") [A Pony](/wiki/A_Pony "A Pony")/[![image](/image/White_Pony.png)](/wiki/White_Pony "White Pony") [White Pony](/wiki/White_Pony "White Pony"): Effectively converts all Speed Down pills into Damage Up as long as one of the ponies are being held, since they will always give a minimum of 1.5 speed.
 * [(Black Feather)](/wiki/Black_Feather "Black Feather") [Black Feather](/wiki/Black_Feather "Black Feather"): Counts as an 'evil item, granting a damage up.
-* [(Lucky Foot)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot") / [(PHD)](/wiki/PHD "PHD") [PHD](/wiki/PHD "PHD") / [(Virgo)](/wiki/Virgo "Virgo") [Virgo](/wiki/Virgo "Virgo"): Pills can now be both good and bad again. The other effects of False PHD still apply.
-* [(The Wafer)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer"): Using a Bad Trip pill will only deal half a heart of damage and spawn a full Black Heart, resulting in a net gain of health.
-	+ The Wafer + [(Placebo)](/wiki/Placebo "Placebo") [Placebo](/wiki/Placebo "Placebo"): Allows for farming infinite health using Bad Trip pills.
+* [![image](/image/Lucky_Foot.png)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot") / [![image](/image/PHD.png)](/wiki/PHD "PHD") [PHD](/wiki/PHD "PHD") / [![image](/image/Virgo.png)](/wiki/Virgo "Virgo") [Virgo](/wiki/Virgo "Virgo"): Pills can now be both good and bad again. The other effects of False PHD still apply.
+* [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer"): Using a Bad Trip pill will only deal half a heart of damage and spawn a full Black Heart, resulting in a net gain of health.
+	+ The Wafer + [![image](/image/Placebo.png)](/wiki/Placebo "Placebo") [Placebo](/wiki/Placebo "Placebo"): Allows for farming infinite health using Bad Trip pills.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Libra)](/wiki/Libra "Libra") [Libra](/wiki/Libra "Libra"): The balancing of stats mostly leads to a net decrease between Stat Downs and +0.6 [damage](/wiki/Damage "Damage") up, while Luck Down provides the balanced +0.6 damage and [luck](/wiki/Luck "Luck") -1.0.
+* [![image](/image/Libra.png)](/wiki/Libra "Libra") [Libra](/wiki/Libra "Libra"): The balancing of stats mostly leads to a net decrease between Stat Downs and +0.6 [damage](/wiki/Damage "Damage") up, while Luck Down provides the balanced +0.6 damage and [luck](/wiki/Luck "Luck") -1.0.
 
 

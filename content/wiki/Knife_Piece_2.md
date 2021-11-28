@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Knife Piece 2 ![image](/image/Knife_Piece_2.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * (Added in Repentance)This item belongs to the [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)") set. Collecting three items from this set will transform Isaac into a humanoid spider.
 
 
-Notes[]
+Notes
 -------
 
 

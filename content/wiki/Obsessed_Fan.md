@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Obsessed Fan ![image](/image/Obsessed_Fan.png) 
+
+
+Effects
 ---------
 
 
@@ -10,10 +13,10 @@ Effects[]
 * This item belongs to the [Beelzebub](/wiki/Beelzebub "Beelzebub") set. Collecting three items from this set will transform Isaac into a giant humanoid fly.
 
 
-Notes[]
+Notes
 -------
 
 
-* If other familiars that move with a similar pattern such as [(Multidimensional Baby)](/wiki/Multidimensional_Baby "Multidimensional Baby") [Multidimensional Baby](/wiki/Multidimensional_Baby "Multidimensional Baby") have been collected before the Obsessed Fan, it will follow them instead with further delay.
+* If other familiars that move with a similar pattern such as [![image](/image/Multidimensional_Baby.png)](/wiki/Multidimensional_Baby "Multidimensional Baby") [Multidimensional Baby](/wiki/Multidimensional_Baby "Multidimensional Baby") have been collected before the Obsessed Fan, it will follow them instead with further delay.
 
 

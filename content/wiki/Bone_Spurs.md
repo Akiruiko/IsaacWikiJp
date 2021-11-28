@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Bone Spurs ![image](/image/Bone_Spurs.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 	+ The creep deals 1 damage per tick or 30 damage per second.
 
 
-Notes[]
+Notes
 -------
 
 

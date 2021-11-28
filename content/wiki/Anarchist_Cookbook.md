@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Anarchist Cookbook ![image](/image/Anarchist_Cookbook.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 	+ The ghost deals double Isaac's damage per tick, up to 4 times.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -21,12 +24,12 @@ Notes[]
 * Cracks don't spawn in (Challenge Room) [Challenge Rooms](/wiki/Challenge_Room "Challenge Room").
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* The ghosts aren't considered familiars, therefore they're unaffected by items or trinkets that alter familiars or their behavior, such as [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"), [(King Baby)](/wiki/King_Baby "King Baby") [King Baby](/wiki/King_Baby "King Baby"), [(Box of Friends)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends") or [(Friendship Necklace)](/wiki/Friendship_Necklace "Friendship Necklace") [Friendship Necklace](/wiki/Friendship_Necklace "Friendship Necklace").
-* [(Dark Arts)](/wiki/Dark_Arts "Dark Arts") [Dark Arts](/wiki/Dark_Arts "Dark Arts"): Walking over cracks will not summon ghosts while under the effect of Dark Arts.
-* [(Spindown Dice)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice"): When used on Purgatory, turns the item into [(Dogma)](/wiki/Dogma_(Item) "Dogma") [Dogma](/wiki/Dogma_(Item) "Dogma (Item)"), a unique item usually only able to be obtained by killing the boss [Dogma](/wiki/Dogma "Dogma").
+* The ghosts aren't considered familiars, therefore they're unaffected by items or trinkets that alter familiars or their behavior, such as [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"), [![image](/image/King_Baby.png)](/wiki/King_Baby "King Baby") [King Baby](/wiki/King_Baby "King Baby"), [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends") or [(Friendship Necklace)](/wiki/Friendship_Necklace "Friendship Necklace") [Friendship Necklace](/wiki/Friendship_Necklace "Friendship Necklace").
+* [![image](/image/Dark_Arts.png)](/wiki/Dark_Arts "Dark Arts") [Dark Arts](/wiki/Dark_Arts "Dark Arts"): Walking over cracks will not summon ghosts while under the effect of Dark Arts.
+* [![image](/image/Spindown_Dice.png)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice"): When used on Purgatory, turns the item into [![image](/image/Dogma_(Item).png)](/wiki/Dogma_(Item) "Dogma") [Dogma](/wiki/Dogma_(Item) "Dogma (Item)"), a unique item usually only able to be obtained by killing the boss [Dogma](/wiki/Dogma "Dogma").
 
 

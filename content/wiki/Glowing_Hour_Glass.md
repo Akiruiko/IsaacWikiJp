@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Glowing Hour Glass ![image](/image/Glowing_Hour_Glass.png) 
+
+
+Effects
 ---------
 
 
@@ -12,10 +15,10 @@ Effects[]
 	+ Body parts orbit on the same layer as [Blue Flies](/wiki/Blue_Fly "Blue Fly") and [Locusts](/wiki/Locusts "Locusts") do.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Box of Friends)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Will not multiply orbitals.
+* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Will not multiply orbitals.
 
 

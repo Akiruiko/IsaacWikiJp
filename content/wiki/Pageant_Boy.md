@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Pageant Boy ![image](/image/Pageant_Boy.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 	+ Denomination of coins that spawn is not affected by luck.
 
 
-Synergies[]
+Synergies
 -----------
 
 

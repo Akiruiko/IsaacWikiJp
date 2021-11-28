@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Lost Fly ![image](/image/Lost_Fly.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * If the obstacle it is attached to is destroyed then it will continue rolling in the direction it was previously traveling until it meets another wall or obstacle.
 
 
-Notes[]
+Notes
 -------
 
 

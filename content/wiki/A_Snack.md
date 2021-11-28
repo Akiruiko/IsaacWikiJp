@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # A Snack ![image](/image/A_Snack.png) 
+
+
+Effects
 ---------
 
 

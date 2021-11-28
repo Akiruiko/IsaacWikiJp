@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mega Mush ![image](/image/Mega_Mush.png) 
+
+
+Effects
 ---------
 
 
@@ -13,7 +16,7 @@ Effects[]
 * This item belongs to the [Fun Guy](/wiki/Fun_Guy "Fun Guy") set. Collecting three items from this set will transform Isaac into a walking mushroom.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -22,18 +25,18 @@ Notes[]
 * Mega Mush will not negate the damage taken from the [Mausoleum](/wiki/Mausoleum "Mausoleum") door. It's even possible to die this way, while the item is active.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(4.5 Volt)](/wiki/4.5_Volt "4.5 Volt") [4.5 Volt](/wiki/4.5_Volt "4.5 Volt"): The contact damage dealt by Mega Mush will allow you to recharge it and use it multiple times in the same room.
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Mega Mush's active time will be doubled to 60 seconds.
+* [![image](/image/4.5_Volt.png)](/wiki/4.5_Volt "4.5 Volt") [4.5 Volt](/wiki/4.5_Volt "4.5 Volt"): The contact damage dealt by Mega Mush will allow you to recharge it and use it multiple times in the same room.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Mega Mush's active time will be doubled to 60 seconds.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a basic wisp.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a basic wisp.
 
 

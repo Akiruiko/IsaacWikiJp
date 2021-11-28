@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Charged Baby ![image](/image/Charged_Baby.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 	+ Ground-based enemies will overcome the counterforce easier than flying enemies and projectiles.
 
 
-Notes[]
+Notes
 -------
 
 

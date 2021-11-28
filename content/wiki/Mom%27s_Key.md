@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mom's Key ![image](/image/Mom%27s_Key.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Yes Mother?](/wiki/Yes_Mother%3F "Yes Mother?") set. Collecting three items from this set will transform Isaac into his mother.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -19,10 +22,10 @@ Notes[]
 * (Added in Repentance) Does not affect [(Old Chest)](/wiki/Old_Chest "Old Chest") [Old Chests](/wiki/Old_Chest "Old Chest").
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Mom's Key)](/wiki/Mom%27s_Key "Mom's Key") Mom's Key: Does not further increase the amount of pickups spawned when multiple copies of the item are acquired.
+* [![image](/image/Mom%27s_Key.png)](/wiki/Mom%27s_Key "Mom's Key") Mom's Key: Does not further increase the amount of pickups spawned when multiple copies of the item are acquired.
 
 

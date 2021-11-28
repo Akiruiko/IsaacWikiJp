@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Chaos ![image](/image/Chaos.png) 
+
+
+Effects
 ---------
 
 
@@ -12,25 +15,25 @@ Effects[]
 * Isaac becomes redder as his damage increases.
 
 
-Notes[]
+Notes
 -------
 
 
 * [(Samson)](/wiki/Samson "Samson") [Samson](/wiki/Samson "Samson") starts with this item by default.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Birthright)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") +  [(Samson)](/wiki/Samson "Samson") [Samson](/wiki/Samson "Samson"): Birthright allows him to gain 4 more damage boosts at the same +0.2 intervals, for a new maximum total of +14.0.
-* (Added in Afterbirth †)[(Dull Razor)](/wiki/Dull_Razor "Dull Razor") [Dull Razor](/wiki/Dull_Razor "Dull Razor"): Safely provides the damage boost without needing to take damage.
+* (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") +  [(Samson)](/wiki/Samson "Samson") [Samson](/wiki/Samson "Samson"): Birthright allows him to gain 4 more damage boosts at the same +0.2 intervals, for a new maximum total of +14.0.
+* (Added in Afterbirth †)[![image](/image/Dull_Razor.png)](/wiki/Dull_Razor "Dull Razor") [Dull Razor](/wiki/Dull_Razor "Dull Razor"): Safely provides the damage boost without needing to take damage.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth)[(Diplopia)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"): No effect, damage up still caps at +6 and increases at the same intervals
+* (Added in Afterbirth)[![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"): No effect, damage up still caps at +6 and increases at the same intervals
 
 

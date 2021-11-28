@@ -1,16 +1,19 @@
 +++
 +++
 
-Effects[]
+ # Milk! ![image](/image/Milk!.png) 
+
+
+Effects
 ---------
 
 
 * Isaac builds up rage every time he clears a room, which is indicated by the patch of skin that spreads around his face.
-* After four rooms, Isaac's head will start to flash red; upon entering a room with enemies, he will fire a large [(Brimstone)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") laser for ~3.33 seconds.
+* After four rooms, Isaac's head will start to flash red; upon entering a room with enemies, he will fire a large [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") laser for ~3.33 seconds.
 	+ The laser deals Isaac's damage per tick (15x Isaac's damage per second).
 
 
-Notes[]
+Notes
 -------
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mom's Lipstick ![image](/image/Mom%27s_Lipstick.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 	+ Each bone does twice Isaac's damage plus a flat 22 damage; split bones do half this amount.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -22,17 +25,17 @@ Notes[]
 * If Brittle Bones is removed (such as with  [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac")), existing tear upgrades will not be removed.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Empty Vessel)](/wiki/Empty_Vessel "Empty Vessel") [Empty Vessel](/wiki/Empty_Vessel "Empty Vessel"): The empty Bone Hearts will trigger Empty Vessel's effects.
+* [![image](/image/Empty_Vessel.png)](/wiki/Empty_Vessel "Empty Vessel") [Empty Vessel](/wiki/Empty_Vessel "Empty Vessel"): The empty Bone Hearts will trigger Empty Vessel's effects.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance)[(Genesis)](/wiki/Genesis "Genesis") [Genesis](/wiki/Genesis "Genesis"): Removes the tear upgrades upon use.
+* (Added in Repentance)[![image](/image/Genesis.png)](/wiki/Genesis "Genesis") [Genesis](/wiki/Genesis "Genesis"): Removes the tear upgrades upon use.
 
 

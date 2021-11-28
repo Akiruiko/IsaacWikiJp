@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Dad's Note ![image](/image/Dad%27s_Note.png) 
+
+
+Effects
 ---------
 
 

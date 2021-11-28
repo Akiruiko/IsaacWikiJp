@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Diplopia ![image](/image/Diplopia.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * Increases the chance for [champion enemies](/wiki/Champion "Champion") to appear by 15%.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -19,7 +22,7 @@ Notes[]
 * (Added in Afterbirth †) The chance for champions to appear does not increase in [(The Void)](/wiki/The_Void "The Void") [The Void](/wiki/The_Void "The Void").
 
 
-Interactions[]
+Interactions
 --------------
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # A Quarter ![image](/image/A_Quarter.png) 
+
+
+Effects
 ---------
 
 
@@ -11,17 +14,17 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
 
 
-Synergies[]
+Synergies
 -----------
 
 
 * (Added in Afterbirth †)[(Lost Cork)](/wiki/Lost_Cork "Lost Cork") [Lost Cork](/wiki/Lost_Cork "Lost Cork"): Creep trail size is bigger.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Familiar is bigger; however, no effect on creep damage.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Familiar is bigger; however, no effect on creep damage.
 
 

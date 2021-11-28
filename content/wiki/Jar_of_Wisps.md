@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Jar of Wisps ![image](/image/Jar_of_Wisps.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 	+ The extra damage is dealt even if the enemy is already bleeding.
 
 
-Synergies[]
+Synergies
 -----------
 
 

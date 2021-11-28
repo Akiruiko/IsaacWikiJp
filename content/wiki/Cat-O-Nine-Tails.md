@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Cat-O-Nine-Tails ![image](/image/Cat-O-Nine-Tails.png) 
+
+
+Effect
 --------
 
 
@@ -12,10 +15,10 @@ Effect[]
 (Collectible Bumbo level 2.png) **Level 2 (6-11 coins):** Bumbo occasionally drops a [pickup](/wiki/Pickup "Pickup"), [trinket](/wiki/Trinket "Trinket"), [chest](/wiki/Chest "Chest") or pedestal item after a room clear.
 (Collectible Bumbo level 3.png) **Level 3 (12-23 coins):** Bumbo now fires tears that deal 3.5 damage in the same direction Isaac does. Bumbo's tears have a chance to drop a coin if they hit an enemy.
 (Collectible Bumbo level 4.png) **Level 4 (24+ coins):** Bumbo no longer fires tears and instead chases enemies slowly and deals contact damage (2.5 per tick, or 37.5 per second). Bumbo will occasionally drop [bombs](/wiki/Bombs "Bombs") while chasing enemies or coins.
-* After reaching level 4, Bumbo will continue to collect coins, and can drop a pickup, trinket, or chest for each coin it collects, similar to [(Bum Friend)](/wiki/Bum_Friend "Bum Friend") [Bum Friend](/wiki/Bum_Friend "Bum Friend"). However, unlike Bum Friend, Bumbo can also drop pedestal items.
+* After reaching level 4, Bumbo will continue to collect coins, and can drop a pickup, trinket, or chest for each coin it collects, similar to [![image](/image/Bum_Friend.png)](/wiki/Bum_Friend "Bum Friend") [Bum Friend](/wiki/Bum_Friend "Bum Friend"). However, unlike Bum Friend, Bumbo can also drop pedestal items.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -32,30 +35,30 @@ Notes[]
 * (Added in Repentance) There is a similar [boss](/wiki/Boss "Boss") named [Bumbino](/wiki/Bumbino "Bumbino").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Doubles both the contact and shot damage, when applicable.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Doubles both the contact and shot damage, when applicable.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Box of Friends)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Will spawn a level 1 Bumbo regardless of the original Bumbo's current level.
-* [(Bum Friend)](/wiki/Bum_Friend "Bum Friend") [Bum Friend](/wiki/Bum_Friend "Bum Friend"): The bum friend will follow Bumbo instead of Isaac.
+* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Will spawn a level 1 Bumbo regardless of the original Bumbo's current level.
+* [![image](/image/Bum_Friend.png)](/wiki/Bum_Friend "Bum Friend") [Bum Friend](/wiki/Bum_Friend "Bum Friend"): The bum friend will follow Bumbo instead of Isaac.
 * [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper"): Not recommended, as the coins Bumbo collects could have been used to heal Keeper.
 * (Added in Repentance)  [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper"): Due to the large influx of coins spawned, it's technically possible to sustain Bumbo while also maintaining a good level of wealth and health.
 
 
-Bugs[]
+Bugs
 ------
 
 
 
 
 | (Bug) Bug!
- | (Added in Repentance) Bumbo's level can be reset after the sequence of obtaining [(Knife Piece 2)](/wiki/Knife_Piece_2 "Knife Piece 2") [Knife Piece 2](/wiki/Knife_Piece_2 "Knife Piece 2") in [(Ashpit)](/wiki/Ashpit "Ashpit") [Ashpit](/wiki/Ashpit "Ashpit")/[(Mines)](/wiki/Mines "Mines") [Mines](/wiki/Mines "Mines") II. |
+ | (Added in Repentance) Bumbo's level can be reset after the sequence of obtaining [![image](/image/Knife_Piece_2.png)](/wiki/Knife_Piece_2 "Knife Piece 2") [Knife Piece 2](/wiki/Knife_Piece_2 "Knife Piece 2") in [(Ashpit)](/wiki/Ashpit "Ashpit") [Ashpit](/wiki/Ashpit "Ashpit")/[(Mines)](/wiki/Mines "Mines") [Mines](/wiki/Mines "Mines") II. |
 
 

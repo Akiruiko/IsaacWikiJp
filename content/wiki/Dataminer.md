@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Dataminer ![image](/image/Dataminer.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * (Added in Repentance) +0.3 [damage](/wiki/Damage "Damage").
 
 
-Notes[]
+Notes
 -------
 
 
@@ -21,11 +24,11 @@ Notes[]
 * The healing counter also applies to enemies killed by familiars.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Maggy's Bow)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): No effect.
-* [(My Reflection)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection"): Despite vampires having no reflection, Charm of the Vampire does not remove the effect of My Reflection.
+* [![image](/image/Maggy%27s_Bow.png)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): No effect.
+* [![image](/image/My_Reflection.png)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection"): Despite vampires having no reflection, Charm of the Vampire does not remove the effect of My Reflection.
 
 

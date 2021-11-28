@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mysterious Liquid ![image](/image/Mysterious_Liquid.png) 
+
+
+Effects
 ---------
 
 
@@ -10,14 +13,14 @@ Effects[]
 	+ (Added in Repentance) Drops the [(Match Stick)](/wiki/Match_Stick "Match Stick") [Match Stick](/wiki/Match_Stick "Match Stick") if it hasn't yet been encountered.
 
 
-Synergies[]
+Synergies
 -----------
 
 
 * (Added in Afterbirth)[(Black Feather)](/wiki/Black_Feather "Black Feather") [Black Feather](/wiki/Black_Feather "Black Feather"): Black Feather grants a damage boost for Match Book.
 
 
-Notes[]
+Notes
 -------
 
 

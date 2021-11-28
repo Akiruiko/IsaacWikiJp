@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # We Need to Go Deeper! ![image](/image/We_Need_to_Go_Deeper!.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 	+ If used in [(Womb)](/wiki/Womb "Womb") [Womb](/wiki/Womb "Womb") II/[(Utero)](/wiki/Utero "Utero") [Utero](/wiki/Utero "Utero") II/[(Scarred Womb)](/wiki/Scarred_Womb "Scarred Womb") [Scarred Womb](/wiki/Scarred_Womb "Scarred Womb") II, the trapdoor will always lead to [(Sheol)](/wiki/Sheol "Sheol") [Sheol](/wiki/Sheol "Sheol").
 
 
-Notes[]
+Notes
 -------
 
 
@@ -24,17 +27,17 @@ Notes[]
 * (Added in Afterbirth †) The item may be used on the [dirt patches](/wiki/Dirt_patch "Dirt patch") in the [(Dark Room)](/wiki/Dark_Room "Dark Room") [Dark Room](/wiki/Dark_Room "Dark Room") to dig up a random type of [chest](/wiki/Chests "Chests").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a skull wisp on the middle ring that shoots bone tears.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a skull wisp on the middle ring that shoots bone tears.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth)[(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
 
 

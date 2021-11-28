@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Bucket of Lard ![image](/image/Bucket_of_Lard.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * Heals half a Red Heart.
 
 
-Notes[]
+Notes
 -------
 
 

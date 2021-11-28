@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Sharp Straw ![image](/image/Sharp_Straw.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 	+ The amount of enemies damaged does not improve the chance.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -20,18 +23,18 @@ Notes[]
 * For enemies that can disappear or go underground, it only affects them if they are visible.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Enemies have a chance to spawn wisps when they’re killed by Sharp Straw. Using it in a room with no enemies does not grant a wisp. Despite Sharp Straw having a timed charge, the wisps persist between rooms.
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Damage is doubled and two half hearts may be dropped.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Enemies have a chance to spawn wisps when they’re killed by Sharp Straw. Using it in a room with no enemies does not grant a wisp. Despite Sharp Straw having a timed charge, the wisps persist between rooms.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Damage is doubled and two half hearts may be dropped.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance) [(Ipecac)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Only provides a +2 damage bonus instead of +40.
+* (Added in Repentance) [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Only provides a +2 damage bonus instead of +40.
 
 

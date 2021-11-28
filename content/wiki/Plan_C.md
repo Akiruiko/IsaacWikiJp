@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Plan C ![image](/image/Plan_C.png) 
+
+
+Effects
 ---------
 
 
@@ -11,14 +14,14 @@ Effects[]
 * This item belongs to the [Beelzebub](/wiki/Beelzebub "Beelzebub") set. Collecting three items from this set will transform Isaac into a giant humanoid fly.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance) [(Multidimensional Baby)](/wiki/Multidimensional_Baby "Multidimensional Baby") [Multidimensional Baby](/wiki/Multidimensional_Baby "Multidimensional Baby"): Papa Fly will always shoot two shots due to both of them having the same movement delay.
+* (Added in Repentance) [![image](/image/Multidimensional_Baby.png)](/wiki/Multidimensional_Baby "Multidimensional Baby") [Multidimensional Baby](/wiki/Multidimensional_Baby "Multidimensional Baby"): Papa Fly will always shoot two shots due to both of them having the same movement delay.
 
 
-Interactions[]
+Interactions
 --------------
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # 8 Inch Nails ![image](/image/8_Inch_Nails.png) 
+
+
+Effect
 --------
 
 
@@ -12,7 +15,7 @@ Effect[]
 	+ The familiar's attack is affected by momentum, just as tears are. Thus, it can be shot diagonally.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -20,11 +23,11 @@ Notes[]
 * The enemy [Chubber](/wiki/Vis#Chubber "Vis") can attack like this item, but they have limited range.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * (Added in Afterbirth †)[(Duct Tape)](/wiki/Duct_Tape "Duct Tape") [Duct Tape](/wiki/Duct_Tape "Duct Tape"): Familiar will stay in place relative to Isaac, however, it will still charge across the room but will always return to the spot it first returned to after charging across a room.
-* (Added in Repentance)[(Marked)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): Little Chubby will charge at the direction that is marked on the floor.
+* (Added in Repentance)[![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): Little Chubby will charge at the direction that is marked on the floor.
 
 

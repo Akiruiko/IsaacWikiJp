@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Robo-Baby ![image](/image/Robo-Baby.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Seraphim](/wiki/Seraphim_(Transformation) "Seraphim (Transformation)") set. Collecting three items from this set will transform Isaac into an angel.
 
 
-Notes[]
+Notes
 -------
 
 

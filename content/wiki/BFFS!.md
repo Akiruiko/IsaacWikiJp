@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # BFFS! ![image](/image/BFFS!.png) 
+
+
+Effects
 ---------
 
 
@@ -11,45 +14,45 @@ Effects[]
 	+ For pickup-generating familiars, increases the frequency that they drop pickups.
 		- Familiars that require clearing a certain number of rooms will require one less room.
 		- Familiars that have a random chance to drop items have a higher chance.
-		- Familiars that pick up consumables require less, except [(Dark Bum)](/wiki/Dark_Bum "Dark Bum") [Dark Bum](/wiki/Dark_Bum "Dark Bum") which is unaffected.
+		- Familiars that pick up consumables require less, except [![image](/image/Dark_Bum.png)](/wiki/Dark_Bum "Dark Bum") [Dark Bum](/wiki/Dark_Bum "Dark Bum") which is unaffected.
 	+ Some familiars have unique synergies.
 
 
-Notes[]
+Notes
 -------
 
 
 * The size change is only cosmetic: familiars' hitbox for blocking damage or attacking is not affected.
-* Familiars summoned by a [trinket](/wiki/Trinket "Trinket") or by [(Monster Manual)](/wiki/Monster_Manual "Monster Manual") [Monster Manual](/wiki/Monster_Manual "Monster Manual") are also affected by BFFS!.
-* The Blue Flies and Blue Spiders benefit from [(Hive Mind)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind") instead.
+* Familiars summoned by a [trinket](/wiki/Trinket "Trinket") or by [![image](/image/Monster_Manual.png)](/wiki/Monster_Manual "Monster Manual") [Monster Manual](/wiki/Monster_Manual "Monster Manual") are also affected by BFFS!.
+* The Blue Flies and Blue Spiders benefit from [![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind") instead.
 * Does not increase the frequency or effectiveness of [Status Effects](/wiki/Status_Effects "Status Effects") applied by familiars.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BBF)](/wiki/BBF "BBF") [BBF](/wiki/BBF "BBF")/[(Bob's Brain)](/wiki/Bob%27s_Brain "Bob's Brain") [Bob's Brain](/wiki/Bob%27s_Brain "Bob's Brain"): Doubles impact damage and increases explosive damage by 25.
-* (Added in Repentance)[(Bird Cage)](/wiki/Bird_Cage "Bird Cage") [Bird Cage](/wiki/Bird_Cage "Bird Cage"): Spawns 4 rock waves in an x pattern. Doubles the damage when the bird lands and doubles contact damage. Damage of waves unaffected.
-* (Added in Repentance)[(Blood Oath)](/wiki/Blood_Oath "Blood Oath") [Blood Oath](/wiki/Blood_Oath "Blood Oath"): Adds 2 extra full hearts worth of bonuses if any health is drained.
-* (Added in Repentance)[(Holy Water)](/wiki/Holy_Water "Holy Water") [Holy Water](/wiki/Holy_Water "Holy Water"): Double water damage, spawn a blue flame at point of impact.
-* (Added in Afterbirth)[(Incubus)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus"): Shoots tears that do (Removed in Repentance) 2x Isaac's damage (Added in Repentance) 1.5x Isaac's damage. Still deals 2x as  [(Lilith)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith").
-* (Added in Repentance)[(Isaac's Heart)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart"): Fires additional shots in random directions and leaves a larger puddle of creep. Does not change the heart's size.
-* [(Juicy Sack)](/wiki/Juicy_Sack "Juicy Sack") [Juicy Sack](/wiki/Juicy_Sack "Juicy Sack"): Spawns an extra Blue Spider.
-* (Added in Afterbirth †)[(Lil Spewer)](/wiki/Lil_Spewer "Lil Spewer") [Lil Spewer](/wiki/Lil_Spewer "Lil Spewer"): Increases the creep pool's size, but not its damage.
-* (Added in Repentance)[(Lost Soul)](/wiki/Lost_Soul "Lost Soul") [Lost Soul](/wiki/Lost_Soul "Lost Soul"): Gives the Lost Soul a [(Holy Mantle)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle") effect.
-* (Added in Afterbirth †)[(Mystery Egg)](/wiki/Mystery_Egg "Mystery Egg") [Mystery Egg](/wiki/Mystery_Egg "Mystery Egg"): Spawns a champion variant of an enemy, even if the enemy normally can't be a champion.
-* (Added in Repentance)[(Stitches)](/wiki/Stitches "Stitches") [Stitches](/wiki/Stitches "Stitches"): On use, fires eight tears from Isaac's original location. The tears synergize with Isaac's tear effects.
+* [![image](/image/BBF.png)](/wiki/BBF "BBF") [BBF](/wiki/BBF "BBF")/[![image](/image/Bob%27s_Brain.png)](/wiki/Bob%27s_Brain "Bob's Brain") [Bob's Brain](/wiki/Bob%27s_Brain "Bob's Brain"): Doubles impact damage and increases explosive damage by 25.
+* (Added in Repentance)[![image](/image/Bird_Cage.png)](/wiki/Bird_Cage "Bird Cage") [Bird Cage](/wiki/Bird_Cage "Bird Cage"): Spawns 4 rock waves in an x pattern. Doubles the damage when the bird lands and doubles contact damage. Damage of waves unaffected.
+* (Added in Repentance)[![image](/image/Blood_Oath.png)](/wiki/Blood_Oath "Blood Oath") [Blood Oath](/wiki/Blood_Oath "Blood Oath"): Adds 2 extra full hearts worth of bonuses if any health is drained.
+* (Added in Repentance)[![image](/image/Holy_Water.png)](/wiki/Holy_Water "Holy Water") [Holy Water](/wiki/Holy_Water "Holy Water"): Double water damage, spawn a blue flame at point of impact.
+* (Added in Afterbirth)[![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus"): Shoots tears that do (Removed in Repentance) 2x Isaac's damage (Added in Repentance) 1.5x Isaac's damage. Still deals 2x as  [(Lilith)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith").
+* (Added in Repentance)[![image](/image/Isaac%27s_Heart.png)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart"): Fires additional shots in random directions and leaves a larger puddle of creep. Does not change the heart's size.
+* [![image](/image/Juicy_Sack.png)](/wiki/Juicy_Sack "Juicy Sack") [Juicy Sack](/wiki/Juicy_Sack "Juicy Sack"): Spawns an extra Blue Spider.
+* (Added in Afterbirth †)[![image](/image/Lil_Spewer.png)](/wiki/Lil_Spewer "Lil Spewer") [Lil Spewer](/wiki/Lil_Spewer "Lil Spewer"): Increases the creep pool's size, but not its damage.
+* (Added in Repentance)[![image](/image/Lost_Soul.png)](/wiki/Lost_Soul "Lost Soul") [Lost Soul](/wiki/Lost_Soul "Lost Soul"): Gives the Lost Soul a [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle") effect.
+* (Added in Afterbirth †)[![image](/image/Mystery_Egg.png)](/wiki/Mystery_Egg "Mystery Egg") [Mystery Egg](/wiki/Mystery_Egg "Mystery Egg"): Spawns a champion variant of an enemy, even if the enemy normally can't be a champion.
+* (Added in Repentance)[![image](/image/Stitches.png)](/wiki/Stitches "Stitches") [Stitches](/wiki/Stitches "Stitches"): On use, fires eight tears from Isaac's original location. The tears synergize with Isaac's tear effects.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance)[(Blood Puppy)](/wiki/Blood_Puppy "Blood Puppy") [Blood Puppy](/wiki/Blood_Puppy "Blood Puppy"): Only increases the damage and size while it isn't hostile.
-* (Added in Afterbirth)[(Evil Eye)](/wiki/Evil_Eye "Evil Eye") [Evil Eye](/wiki/Evil_Eye "Evil Eye"): The eyes are not treated as familiars and therefore will not synergize with BFFS!
-* [(Guillotine)](/wiki/Guillotine "Guillotine") [Guillotine](/wiki/Guillotine "Guillotine")/[(Scissors)](/wiki/Scissors "Scissors") [Scissors](/wiki/Scissors "Scissors"): Doesn't change the head's size, but still improves its damage.
-* (Added in Repentance)[(Hive Mind)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Does not stack.
-* (Added in Afterbirth †)[(Shade)](/wiki/Shade "Shade") [Shade](/wiki/Shade "Shade"): Retains the increased damage even after being absorbed.
+* (Added in Repentance)[![image](/image/Blood_Puppy.png)](/wiki/Blood_Puppy "Blood Puppy") [Blood Puppy](/wiki/Blood_Puppy "Blood Puppy"): Only increases the damage and size while it isn't hostile.
+* (Added in Afterbirth)[![image](/image/Evil_Eye.png)](/wiki/Evil_Eye "Evil Eye") [Evil Eye](/wiki/Evil_Eye "Evil Eye"): The eyes are not treated as familiars and therefore will not synergize with BFFS!
+* [![image](/image/Guillotine.png)](/wiki/Guillotine "Guillotine") [Guillotine](/wiki/Guillotine "Guillotine")/[![image](/image/Scissors.png)](/wiki/Scissors "Scissors") [Scissors](/wiki/Scissors "Scissors"): Doesn't change the head's size, but still improves its damage.
+* (Added in Repentance)[![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Does not stack.
+* (Added in Afterbirth †)[![image](/image/Shade.png)](/wiki/Shade "Shade") [Shade](/wiki/Shade "Shade"): Retains the increased damage even after being absorbed.
 
 

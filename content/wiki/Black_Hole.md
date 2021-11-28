@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Black Hole ![image](/image/Black_Hole.png) 
+
+
+Effects
 ---------
 
 
@@ -13,7 +16,7 @@ Effects[]
 	+ It can also suck in projectiles shot by enemies.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -21,7 +24,7 @@ Notes[]
 * Black Hole cannot free [(Sticky Nickel)](/wiki/Sticky_Nickel "Sticky Nickel") [Sticky Nickels](/wiki/Sticky_Nickel "Sticky Nickel").
 * Black Hole cannot destroy [(Shopkeeper)](/wiki/Shopkeeper "Shopkeeper") [Shopkeepers](/wiki/Shopkeeper "Shopkeeper").
 * Black Hole cannot destroy [Angels Statues](/wiki/Angel "Angel")
-* Black Hole's pull is stronger than the pull of [(Strange Attractor)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor").
+* Black Hole's pull is stronger than the pull of [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor").
 * Black Hole can't open (Secret Room) [Secret Room](/wiki/Secret_Room "Secret Room") and (Super Secret Room) [Super Secret Rooms](/wiki/Super_Secret_Room "Super Secret Room") regardless of placement, despite crushing obstacles.
 * Black Hole does not suck in stationary or invincible enemies.
 * Black Hole will not suck in the following bosses, although they can still take damage from the black hole and their shots are affected by it:
@@ -63,19 +66,19 @@ Notes[]
 * [(Uriel)](/wiki/Angel#Uriel "Uriel") [Uriel](/wiki/Angel#Uriel "Angel")
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns black wisps on the middle ring. Wisps' tears have the [(Strange Attractor)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor") effect.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns black wisps on the middle ring. Wisps' tears have the [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor") effect.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
-* [(Gnawed Leaf)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): The black hole does not pull Isaac in while he is a statue.
-* [(Schoolbag)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"): The black hole will continue to pull in enemies, pickups, etc. while allowing the player to use other active items.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): The black hole does not pull Isaac in while he is a statue.
+* [![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"): The black hole will continue to pull in enemies, pickups, etc. while allowing the player to use other active items.
 
 

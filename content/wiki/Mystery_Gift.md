@@ -1,14 +1,17 @@
 +++
 +++
 
-Effects[]
+ # Mystery Gift ![image](/image/Mystery_Gift.png) 
+
+
+Effects
 ---------
 
 
-* Upon use, spawns a random item from the current room's [item pool](/wiki/Item_Pool "Item Pool"), with a chance to spawn [(A Lump of Coal)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal") or [(The Poop)](/wiki/The_Poop "The Poop") [The Poop](/wiki/The_Poop "The Poop") instead.
+* Upon use, spawns a random item from the current room's [item pool](/wiki/Item_Pool "Item Pool"), with a chance to spawn [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal") or [![image](/image/The_Poop.png)](/wiki/The_Poop "The Poop") [The Poop](/wiki/The_Poop "The Poop") instead.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -28,18 +31,18 @@ Notes[]
  |
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a random wisp. For the rest of the run, a random wisp spawns after clearing a room if the one given by the item was destroyed, including the replacement wisps given by this effect.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a random wisp. For the rest of the run, a random wisp spawns after clearing a room if the one given by the item was destroyed, including the replacement wisps given by this effect.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect, Mystery Gift will only spawn a single item.
-* [(Void)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Like all single-use active items, this item cannot be absorbed by Void. Instead, it will consume and use the Mystery Gift.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect, Mystery Gift will only spawn a single item.
+* [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Like all single-use active items, this item cannot be absorbed by Void. Instead, it will consume and use the Mystery Gift.
 
 

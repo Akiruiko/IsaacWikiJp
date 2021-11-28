@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Lunch ![image](/image/Lunch.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 * Upon entering a (Boss Room) [Boss Room](/wiki/Boss_Room "Boss Room"), grants a shield that blocks one hit, then disappears.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -21,12 +24,12 @@ Notes[]
 * To quickly unlock this item, keep restarting [Greed mode](/wiki/Greed_mode "Greed mode") to enter its (Curse Room) [Curse Room](/wiki/Curse_Room "Curse Room") which occasionally contains a bed.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Holy Mantle)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle"): The effect stacks, granting two shields in Boss Rooms.
-* (Removed in Repentance)[(Stop Watch)](/wiki/Stop_Watch "Stop Watch") [Stop Watch](/wiki/Stop_Watch "Stop Watch"): Blocking damage with the shield will activate Stop Watch's effect.
+* [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle"): The effect stacks, granting two shields in Boss Rooms.
+* (Removed in Repentance)[![image](/image/Stop_Watch.png)](/wiki/Stop_Watch "Stop Watch") [Stop Watch](/wiki/Stop_Watch "Stop Watch"): Blocking damage with the shield will activate Stop Watch's effect.
 * [(Holy Card)](/wiki/Holy_Card "Holy Card") [Holy Card](/wiki/Holy_Card "Holy Card"): The effect stacks, granting two shields in Boss Rooms. However, the Holy Card effect works first and you will lose it even if you took only one hit.
 
 

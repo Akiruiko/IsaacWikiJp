@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Marrow ![image](/image/Marrow.png) 
+
+
+Effects
 ---------
 
 
@@ -10,10 +13,10 @@ Effects[]
 * Charms enemies close to Isaac. The effect wears off quickly after enemies move away from Isaac.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(2Spooky)](/wiki/2Spooky "2Spooky") [2Spooky](/wiki/2Spooky "2Spooky"): Overridden by Venus.
+* [![image](/image/2Spooky.png)](/wiki/2Spooky "2Spooky") [2Spooky](/wiki/2Spooky "2Spooky"): Overridden by Venus.
 
 

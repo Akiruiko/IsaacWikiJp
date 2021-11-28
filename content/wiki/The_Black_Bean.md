@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # The Black Bean ![image](/image/The_Black_Bean.png) 
+
+
+Effects
 ---------
 
 
@@ -10,14 +13,14 @@ Effects[]
 		- (Added in Afterbirth) The damage over time is Isaac's tear damage for 6 ticks.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Afterbirth †)[(Ghost Pepper)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Poison farts shoot a fire behind Isaac.
+* (Added in Afterbirth †)[![image](/image/Ghost_Pepper.png)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Poison farts shoot a fire behind Isaac.
 
 
-Interactions[]
+Interactions
 --------------
 
 

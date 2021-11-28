@@ -1,16 +1,19 @@
 +++
 +++
 
-Effects[]
+ # Dead Eye ![image](/image/Dead_Eye.png) 
+
+
+Effects
 ---------
 
 
-* Grants a chance to trigger the [(Book of Shadows)](/wiki/Book_of_Shadows "Book of Shadows") [Book of Shadows](/wiki/Book_of_Shadows "Book of Shadows") effect upon taking damage, creating a [shield](/wiki/Shield "Shield") that nullifies all types of damage for 10 seconds.
+* Grants a chance to trigger the [![image](/image/Book_of_Shadows.png)](/wiki/Book_of_Shadows "Book of Shadows") [Book of Shadows](/wiki/Book_of_Shadows "Book of Shadows") effect upon taking damage, creating a [shield](/wiki/Shield "Shield") that nullifies all types of damage for 10 seconds.
 	+ The activation chance depends on the [luck](/wiki/Luck "Luck") stat and goes up to 100% with 10 Luck.
 * Converts all negative [pills](/wiki/Pill "Pill") into positive ones, but does not identify them.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -20,17 +23,17 @@ Notes[]
 * As bad pills will turn into good pills, it is possible for two different colored pills to have the same effect.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Celtic Cross)](/wiki/Celtic_Cross "Celtic Cross") [Celtic Cross](/wiki/Celtic_Cross "Celtic Cross"), [(The Polaroid)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid"): Can trigger as the same time as Celtic Cross or The Polaroid, cumulating to up to 22 seconds of shield.
+* (Added in Repentance)[![image](/image/Celtic_Cross.png)](/wiki/Celtic_Cross "Celtic Cross") [Celtic Cross](/wiki/Celtic_Cross "Celtic Cross"), [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid"): Can trigger as the same time as Celtic Cross or The Polaroid, cumulating to up to 22 seconds of shield.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance)[(False PHD)](/wiki/False_PHD "False PHD") [False PHD](/wiki/False_PHD "False PHD"): Pills can be both good and bad again. Taking bad pills still applies the benefits from False PHD.
+* (Added in Repentance)[![image](/image/False_PHD.png)](/wiki/False_PHD "False PHD") [False PHD](/wiki/False_PHD "False PHD"): Pills can be both good and bad again. Taking bad pills still applies the benefits from False PHD.
 
 

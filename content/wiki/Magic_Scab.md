@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Magic Scab ![image](/image/Magic_Scab.png) 
+
+
+Effects
 ---------
 
 

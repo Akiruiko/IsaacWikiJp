@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Lil Portal ![image](/image/Lil_Portal.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 		- The portal cannot lead to the floor's (Devil Room) [Devil Room](/wiki/Devil_Room "Devil Room")/(Angel Room) [Angel Room](/wiki/Angel_Room "Angel Room"), (Ultra Secret Room) [Ultra Secret Room](/wiki/Ultra_Secret_Room "Ultra Secret Room"), entrance to the alt-path, (Black Market) [Black Market](/wiki/Black_Market "Black Market"), or (I AM ERROR) [I AM ERROR](/wiki/I_AM_ERROR "I AM ERROR") Room.
 
 
-Notes[]
+Notes
 -------
 
 

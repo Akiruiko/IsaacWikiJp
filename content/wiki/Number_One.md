@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Number One ![image](/image/Number_One.png) 
+
+
+Effects
 ---------
 
 
@@ -13,7 +16,7 @@ Effects[]
 * Isaac is immune to Poison from enemies, such as [Gasbag](/wiki/Gasbag "Gasbag").
 
 
-Notes[]
+Notes
 -------
 
 

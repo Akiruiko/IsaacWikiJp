@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Ghost Baby ![image](/image/Ghost_Baby.png) 
+
+
+Effects
 ---------
 
 

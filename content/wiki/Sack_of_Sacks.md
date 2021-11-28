@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Sack of Sacks ![image](/image/Sack_of_Sacks.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 	+ If all monsters are of the same type, spider will attack the closest enemy.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -19,19 +22,19 @@ Notes[]
 * This item deals enough damage to kill most early enemies in one hit and is especially powerful against enemies with multiple segments like [Larry Jr](/wiki/Larry_Jr. "Larry Jr.").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!") / [(Hive Mind)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Increases the foot's size and doubles its damage. Both items cannot be stacked for an even stronger effect.
-* (Added in Afterbirth)[(Box of Friends)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Spawns an additional foot for the rest of the room.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!") / [![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Increases the foot's size and doubles its damage. Both items cannot be stacked for an even stronger effect.
+* (Added in Afterbirth)[![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Spawns an additional foot for the rest of the room.
 * (Added in Afterbirth †)[(Extension Cord)](/wiki/Extension_Cord "Extension Cord") [Extension Cord](/wiki/Extension_Cord "Extension Cord"): Bolts of electricity will arc between the shadow or the foot and Isaac and his familiars.
-* [(Gnawed Leaf)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): Allows Isaac to stay invincible while Daddy Longlegs clears the [room](/wiki/Rooms "Rooms"), granting Isaac a slow but effective way of completely avoiding damage. This combination is especially useful as  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost").
-* (Added in Repentance)[(Spin to Win)](/wiki/Spin_to_Win "Spin to Win") [Spin to Win](/wiki/Spin_to_Win "Spin to Win"): Boosts the foot's damage while spinning.
+* [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): Allows Isaac to stay invincible while Daddy Longlegs clears the [room](/wiki/Rooms "Rooms"), granting Isaac a slow but effective way of completely avoiding damage. This combination is especially useful as  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost").
+* (Added in Repentance)[![image](/image/Spin_to_Win.png)](/wiki/Spin_to_Win "Spin to Win") [Spin to Win](/wiki/Spin_to_Win "Spin to Win"): Boosts the foot's damage while spinning.
 * (Added in Repentance)[(The Twins)](/wiki/The_Twins "The Twins") [The Twins](/wiki/The_Twins "The Twins"): Has a chance to spawn an additional foot when entering a new room.
 
 
-Interactions[]
+Interactions
 --------------
 
 

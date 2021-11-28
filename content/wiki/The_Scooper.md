@@ -1,16 +1,19 @@
 +++
 +++
 
-Effects[]
+ # The Scooper ![image](/image/The_Scooper.png) 
+
+
+Effects
 ---------
 
 
 * Spawns a [familiar](/wiki/Familiar "Familiar") that follows Isaac and charges across the [room](/wiki/Rooms "Rooms") when Isaac fires, dealing 2.7 damage per tick or 40.5 damage per second to enemies it comes in contact with.
-	+ The familiar's charging speed is very slow, unlike its counterpart [(Little Chubby)](/wiki/Little_Chubby "Little Chubby") [Little Chubby](/wiki/Little_Chubby "Little Chubby").
+	+ The familiar's charging speed is very slow, unlike its counterpart [![image](/image/Little_Chubby.png)](/wiki/Little_Chubby "Little Chubby") [Little Chubby](/wiki/Little_Chubby "Little Chubby").
 	+ The familiar blocks enemy shots.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -19,7 +22,7 @@ Notes[]
 * Big Chubby will continue to travel forward between rooms.
 
 
-Interactions[]
+Interactions
 --------------
 
 

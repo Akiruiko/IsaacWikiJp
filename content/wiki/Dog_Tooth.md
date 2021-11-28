@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Dog Tooth ![image](/image/Dog_Tooth.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 * A barking sound will play if there is an undiscovered [Crawl Space](/wiki/Crawl_Space "Crawl Space") in the room.
 
 
-Notes[]
+Notes
 -------
 
 

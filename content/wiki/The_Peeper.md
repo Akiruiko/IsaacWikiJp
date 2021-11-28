@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # The Peeper ![image](/image/The_Peeper.png) 
+
+
+Effects
 ---------
 
 
@@ -9,12 +12,12 @@ Effects[]
 * Gives tears shot from Isaac’s left eye a red appearance. (Added in Repentance) All tears shot from the left eye will deal 34% more damage.
 
 
-Notes[]
+Notes
 -------
 
 
 * The empty eye leaves behind a small blood trail. This doesn't affect anything and is a purely cosmetic effect.
 * The Peeper is distinguishable from the eyes emitted from [Peep](/wiki/Peep "Peep") by the size of the pupil, it being noticeably bigger on The Peeper.
-* A slightly better Peeper familiar can be spawned by (Added in Repentance)[(The Scooper)](/wiki/The_Scooper "The Scooper") [The Scooper](/wiki/The_Scooper "The Scooper").
+* A slightly better Peeper familiar can be spawned by (Added in Repentance)[![image](/image/The_Scooper.png)](/wiki/The_Scooper "The Scooper") [The Scooper](/wiki/The_Scooper "The Scooper").
 
 

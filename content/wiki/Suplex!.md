@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Suplex! ![image](/image/Suplex!.png) 
+
+
+Effects
 ---------
 
 
@@ -9,24 +12,24 @@ Effects[]
 * Bombs home in on enemies.
 
 
-Notes[]
+Notes
 -------
 
 
 * This item can make bombing out of rooms difficult, as the bombs may slide towards enemies and away from the door.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Dr. Fetus)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): The bombs that Isaac fires will be homing.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): The bombs that Isaac fires will be homing.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Doctor's Remote)](/wiki/Doctor%27s_Remote "Doctor's Remote") [Doctor's Remote](/wiki/Doctor%27s_Remote "Doctor's Remote")/[(Epic Fetus)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Crosshair will not home in on enemies.
+* [![image](/image/Doctor%27s_Remote.png)](/wiki/Doctor%27s_Remote "Doctor's Remote") [Doctor's Remote](/wiki/Doctor%27s_Remote "Doctor's Remote")/[![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Crosshair will not home in on enemies.
 
 

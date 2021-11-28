@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Lil Spewer ![image](/image/Lil_Spewer.png) 
+
+
+Effects
 ---------
 
 
@@ -16,7 +19,7 @@ Effects[]
 	+ A large ring of long-lasting slowing white creep.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -24,11 +27,11 @@ Notes[]
 * The familiar does not do contact damage.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * [(Baby-Bender)](/wiki/Baby-Bender "Baby-Bender") [Baby-Bender](/wiki/Baby-Bender "Baby-Bender"): Has no effect on Lil Spewer.
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Increases Lil Spewer's size and creep pool length (but has no effect on damage).
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Increases Lil Spewer's size and creep pool length (but has no effect on damage).
 
 

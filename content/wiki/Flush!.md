@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Flush! ![image](/image/Flush!.png) 
+
+
+Effects
 ---------
 
 
@@ -12,17 +15,17 @@ Effects[]
 * The familiar will damage [(Poop)](/wiki/Poop "Poop") [Poops](/wiki/Poop "Poop") and [(Fire Place)](/wiki/Fire_Place "Fire Place") [Fire Places](/wiki/Fire_Place "Fire Place").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Proptosis)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): Triples the contact damage. Has no penalty with range.
+* [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): Triples the contact damage. Has no penalty with range.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Doubles the base contact damage, but not the bonus damage granted from Isaac's movement.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Doubles the base contact damage, but not the bonus damage granted from Isaac's movement.
 
 

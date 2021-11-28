@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # GB Bug ![image](/image/GB_Bug.png) 
+
+
+Effects
 ---------
 
 
@@ -13,17 +16,17 @@ Effects[]
 		- If a chest is rerolled, it has a 28% chance of staying as some kind of a chest.
 
 
-Notes[]
+Notes
 -------
 
 
 * (Removed in Repentance) GB Bug can block projectiles.
-* (Removed in Repentance) GB Bug does more damage per second than [(The Peeper)](/wiki/The_Peeper "The Peeper") [The Peeper](/wiki/The_Peeper "The Peeper"), with the added random status chance.
+* (Removed in Repentance) GB Bug does more damage per second than [![image](/image/The_Peeper.png)](/wiki/The_Peeper "The Peeper") [The Peeper](/wiki/The_Peeper "The Peeper"), with the added random status chance.
 * (Added in Repentance) GB Bug is able to reroll (Added in Repentance) [(Throwable Bomb)](/wiki/Throwable_Bomb "Throwable Bomb") [Throwable Bombs](/wiki/Throwable_Bomb "Throwable Bomb") into normal consumables. After doing so, the corresponding (Added in Repentance) [(Bomb Grimace)](/wiki/Stone_Grimace#Bomb_Grimace "Bomb Grimace") [Bomb Grimace](/wiki/Stone_Grimace#Bomb_Grimace "Stone Grimace") will generate another Throwable Bomb, making it able to generate a potentially large amount of free consumables.
 * (Added in Repentance) Rerolled [champion](/wiki/Champion "Champion") enemies will retain their color, unless they reroll into a monster that cannot naturally spawn as a champion.
 
 
-Interactions[]
+Interactions
 --------------
 
 

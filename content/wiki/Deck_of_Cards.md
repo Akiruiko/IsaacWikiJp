@@ -1,14 +1,17 @@
 +++
 +++
 
-Effect[]
+ # Deck of Cards ![image](/image/Deck_of_Cards.png) 
+
+
+Effect
 --------
 
 
 * Gives Isaac a random [card](/wiki/Tarot_card "Tarot card").
 
 
-Notes[]
+Notes
 -------
 
 
@@ -16,17 +19,17 @@ Notes[]
 	+ (Added in Repentance) [(Dice Shard)](/wiki/Dice_Shard "Dice Shard") [Dice Shard](/wiki/Dice_Shard "Dice Shard") and [(Cracked Key)](/wiki/Cracked_Key "Cracked Key") [Cracked Key](/wiki/Cracked_Key "Cracked Key") can be found in the Deck, albeit extremely rarely.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): The wisps have a card-like appearance, reside within the inner ring, and spawn a [card](/wiki/Card "Card") when destroyed.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): The wisps have a card-like appearance, reside within the inner ring, and spawn a [card](/wiki/Card "Card") when destroyed.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Little Baggy)](/wiki/Little_Baggy "Little Baggy") [Little Baggy](/wiki/Little_Baggy "Little Baggy"): Gives [pills](/wiki/Pills "Pills") instead. Picking up [(Starter Deck)](/wiki/Starter_Deck "Starter Deck") [Starter Deck](/wiki/Starter_Deck "Starter Deck") will nullify this effect but pills are only transformed into cards when they are dropped on the ground.
+* [![image](/image/Little_Baggy.png)](/wiki/Little_Baggy "Little Baggy") [Little Baggy](/wiki/Little_Baggy "Little Baggy"): Gives [pills](/wiki/Pills "Pills") instead. Picking up [![image](/image/Starter_Deck.png)](/wiki/Starter_Deck "Starter Deck") [Starter Deck](/wiki/Starter_Deck "Starter Deck") will nullify this effect but pills are only transformed into cards when they are dropped on the ground.
 
 

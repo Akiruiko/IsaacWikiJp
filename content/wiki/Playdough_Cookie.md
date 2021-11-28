@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Playdough Cookie ![image](/image/Playdough_Cookie.png) 
+
+
+Effects
 ---------
 
 
@@ -13,17 +16,17 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Fun Guy](/wiki/Fun_Guy "Fun Guy") set. Collecting three items from this set will transform Isaac into a walking mushroom.
 
 
-Notes[]
+Notes
 -------
 
 
 * (Removed in Repentance) Even though the range stat is decreased, the *effective* range is slightly increased due to the changes to the hidden shot height attribute.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Removed in Repentance) [(Dr. Fetus)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Effective range is decreased since shot height does not affect Dr. Fetus.
+* (Removed in Repentance) [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Effective range is decreased since shot height does not affect Dr. Fetus.
 
 

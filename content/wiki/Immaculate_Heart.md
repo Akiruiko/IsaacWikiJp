@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Immaculate Heart ![image](/image/Immaculate_Heart.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Yes Mother?](/wiki/Yes_Mother%3F "Yes Mother?") set. Collecting three items from this set will transform Isaac into his mother.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -21,27 +24,27 @@ Notes[]
 * Petrifying an enemy with a weak zone (Scolex or Carrion Queen) will make the enemy take damage anywhere while it is petrified, making combat significantly easier.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Afterbirth †)[(Compound Fracture)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")/[(Cricket's Body)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body")/(Added in Afterbirth †)[(Haemolacria)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria")/[(The Parasite)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): If the main tear causes petrification, split tears will too.
-* (Added in Afterbirth †)[(Finger!)](/wiki/Finger! "Finger!") [Finger!](/wiki/Finger! "Finger!"): Finger can also apply the petrification effect.
-* (Added in Afterbirth †)[(Lachryphagy)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): If freezing tears are fed first when they burst, the split tears can also freeze enemies.
-* [(The Ludovico Technique)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The tear flickers red, capable of petrifying enemies when it does.
+* (Added in Afterbirth †)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")/[![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body")/(Added in Afterbirth †)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria")/[![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): If the main tear causes petrification, split tears will too.
+* (Added in Afterbirth †)[![image](/image/Finger!.png)](/wiki/Finger! "Finger!") [Finger!](/wiki/Finger! "Finger!"): Finger can also apply the petrification effect.
+* (Added in Afterbirth †)[![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): If freezing tears are fed first when they burst, the split tears can also freeze enemies.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The tear flickers red, capable of petrifying enemies when it does.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Brimstone)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The beam can occasionally freeze enemies with no visual difference.
-* [(Epic Fetus)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Occasionally fires missiles that can freeze enemies. No visual difference.
-* [(Technology)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Lasers can occasionally freeze enemies with no visual difference.
-* (Added in Afterbirth †)[(Technology Zero)](/wiki/Technology_Zero "Technology Zero") [Technology Zero](/wiki/Technology_Zero "Technology Zero"): The electricity that is connecting tears has a chance to freeze enemies.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The beam can occasionally freeze enemies with no visual difference.
+* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Occasionally fires missiles that can freeze enemies. No visual difference.
+* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Lasers can occasionally freeze enemies with no visual difference.
+* (Added in Afterbirth †)[![image](/image/Technology_Zero.png)](/wiki/Technology_Zero "Technology Zero") [Technology Zero](/wiki/Technology_Zero "Technology Zero"): The electricity that is connecting tears has a chance to freeze enemies.
 
 
-Bugs[]
+Bugs
 ------
 
 

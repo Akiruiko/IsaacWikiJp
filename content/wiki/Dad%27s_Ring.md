@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Dad's Ring ![image](/image/Dad%27s_Ring.png) 
+
+
+Effects
 ---------
 
 
@@ -11,17 +14,17 @@ Effects[]
 * (Added in Repentance) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
 
 
-Notes[]
+Notes
 -------
 
 
 * The increased orbital speed improves odds of being protected from enemy shots.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Big Fan)](/wiki/Big_Fan "Big Fan") [Big Fan](/wiki/Big_Fan "Big Fan"): Guardian Angel counteracts most of the slower orbit speed.
+* [![image](/image/Big_Fan.png)](/wiki/Big_Fan "Big Fan") [Big Fan](/wiki/Big_Fan "Big Fan"): Guardian Angel counteracts most of the slower orbit speed.
 
 

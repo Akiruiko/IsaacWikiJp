@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Friend Zone ![image](/image/Friend_Zone.png) 
+
+
+Effects
 ---------
 
 
@@ -9,10 +12,10 @@ Effects[]
 * This item belongs to the [Beelzebub](/wiki/Beelzebub "Beelzebub") set. Collecting three items from this set will transform Isaac into a giant humanoid fly.
 
 
-Notes[]
+Notes
 -------
 
 
-* This familiar orbits Isaac at a middle-length distance somewhere between [(Distant Admiration)](/wiki/Distant_Admiration "Distant Admiration") [Distant Admiration](/wiki/Distant_Admiration "Distant Admiration") and [(Forever Alone)](/wiki/Forever_Alone "Forever Alone") [Forever Alone](/wiki/Forever_Alone "Forever Alone").
+* This familiar orbits Isaac at a middle-length distance somewhere between [![image](/image/Distant_Admiration.png)](/wiki/Distant_Admiration "Distant Admiration") [Distant Admiration](/wiki/Distant_Admiration "Distant Admiration") and [![image](/image/Forever_Alone.png)](/wiki/Forever_Alone "Forever Alone") [Forever Alone](/wiki/Forever_Alone "Forever Alone").
 
 

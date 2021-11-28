@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Dinner ![image](/image/Dinner.png) 
+
+
+Effects
 ---------
 
 
@@ -12,11 +15,11 @@ Effects[]
 	+ Isaac flashes briefly blue when damage is negated. The flash can occur even while invincible from taking a hit or using an invincibility effect.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Razor Blade)](/wiki/Razor_Blade "Razor Blade") [Razor Blade](/wiki/Razor_Blade "Razor Blade"): Has a chance to block the damage inflicted by Razor Blade, but the damage up from it still applies, allowing you to stack more damage than usual.
-* [(Holy Mantle)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle"): Cone Head's chance of blocking damage is applied before the Holy Mantle, allowing the Holy Mantle shield to be saved.
+* [![image](/image/Razor_Blade.png)](/wiki/Razor_Blade "Razor Blade") [Razor Blade](/wiki/Razor_Blade "Razor Blade"): Has a chance to block the damage inflicted by Razor Blade, but the damage up from it still applies, allowing you to stack more damage than usual.
+* [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle"): Cone Head's chance of blocking damage is applied before the Holy Mantle, allowing the Holy Mantle shield to be saved.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mom's Contacts ![image](/image/Mom%27s_Contacts.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 		- Re-entering a room and destroying another [shopkeeper](/wiki/Shopkeeper "Shopkeeper") inside it will trigger the effect for a second time.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -20,20 +23,20 @@ Notes[]
 * The gas explosion and poison can damage [friendly](/wiki/Friendly "Friendly") enemies.
 
 
-Synergies[]
+Synergies
 -----------
 
 
 * (Added in Repentance)[(Gigante Bean)](/wiki/Gigante_Bean "Gigante Bean") [Gigante Bean](/wiki/Gigante_Bean "Gigante Bean"): Greatly increases the size of the gas explosions, making the poison spread much more effectively.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Dr. Fetus)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Bomb damage does not apply to poison damage.
-* [(Epic Fetus)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Missile damage does not apply to poison damage.
-* [(Ipecac)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Ipecac only applies a 2x multiplier as opposed to +40 to poison damage.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Bomb damage does not apply to poison damage.
+* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Missile damage does not apply to poison damage.
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Ipecac only applies a 2x multiplier as opposed to +40 to poison damage.
 * [Poison](/wiki/Poison "Poison") tears: No effect. Gas explosions will only be triggered by poison caused by Contagion
 * [(Second Hand)](/wiki/Second_Hand "Second Hand") [Second Hand](/wiki/Second_Hand "Second Hand"): Poison duration is not affected.
 

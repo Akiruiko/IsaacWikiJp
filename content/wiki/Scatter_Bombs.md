@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Scatter Bombs ![image](/image/Scatter_Bombs.png) 
+
+
+Effects
 ---------
 
 
@@ -20,15 +23,15 @@ Effects[]
 * Distorts the music for the current room.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a special wisp on the middle ring that is otherwise undistinguishable from a normal wisp. These wisps' tears have a 5% chance of transforming any non-boss enemy into random wisps.
-* (Added in Repentance)[(Rock Bottom)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom"): The stats are locked to the highest number achieved, rendering the stat downs behind the scene immaterial.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a special wisp on the middle ring that is otherwise undistinguishable from a normal wisp. These wisps' tears have a 5% chance of transforming any non-boss enemy into random wisps.
+* (Added in Repentance)[![image](/image/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom"): The stats are locked to the highest number achieved, rendering the stat downs behind the scene immaterial.
 
 
-Notes[]
+Notes
 -------
 
 

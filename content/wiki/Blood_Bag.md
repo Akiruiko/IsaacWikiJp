@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Blood Bag ![image](/image/Blood_Bag.png) 
+
+
+Effects
 ---------
 
 
@@ -10,14 +13,14 @@ Effects[]
 * +0.3 [speed](/wiki/Speed "Speed").
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance)[(Spindown Dice)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice"): Turns into [(Brimstone)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") when rerolled by Spindown Dice.
+* (Added in Repentance)[![image](/image/Spindown_Dice.png)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice"): Turns into [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") when rerolled by Spindown Dice.
 
 
-Notes[]
+Notes
 -------
 
 

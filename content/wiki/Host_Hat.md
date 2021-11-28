@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Host Hat ![image](/image/Host_Hat.png) 
+
+
+Effects
 ---------
 
 
@@ -14,11 +17,11 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Oh Crap](/wiki/Oh_Crap "Oh Crap") set. Collecting three items from this set will transform Isaac into a walking pile of poop.
 
 
-Notes[]
+Notes
 -------
 
 
-* Poops produced by this item act similarly to regular enemies, which causes them to flash red when hit. Certain items will also behave like the poop was a normal enemy, such as [(BBF)](/wiki/BBF "BBF") [BBF](/wiki/BBF "BBF").
+* Poops produced by this item act similarly to regular enemies, which causes them to flash red when hit. Certain items will also behave like the poop was a normal enemy, such as [![image](/image/BBF.png)](/wiki/BBF "BBF") [BBF](/wiki/BBF "BBF").
 	+ (Added in Afterbirth †) Enemies that are turned into poop act more similarly to regular poop by crumbling upon being attacked.
 * If the Fear effect is applied, the poop will stay a dark red.
 * Does not work against [Lil' Haunts](/wiki/Lil%27_Haunt "Lil' Haunt") when fighting [The Haunt](/wiki/The_Haunt "The Haunt").
@@ -34,18 +37,18 @@ Notes[]
 * (Added in Afterbirth) When used inside a crawl space the ladders will be covered in water but the walls will not.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(120 Volt)](/wiki/120_Volt "120 Volt") [120 Volt](/wiki/120_Volt "120 Volt") / (Added in Afterbirth †)[(Jacob's Ladder)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder"): Since Flush floods the room with water, it is now considered a wet environment, which significantly increases the arcing distance of the electricity created by these items.
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns brown wisps in the middle ring. An additional wisp is spawned for each enemy turned into [poop](/wiki/Poops "Poops").
+* (Added in Repentance)[![image](/image/120_Volt.png)](/wiki/120_Volt "120 Volt") [120 Volt](/wiki/120_Volt "120 Volt") / (Added in Afterbirth †)[![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder"): Since Flush floods the room with water, it is now considered a wet environment, which significantly increases the arcing distance of the electricity created by these items.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns brown wisps in the middle ring. An additional wisp is spawned for each enemy turned into [poop](/wiki/Poops "Poops").
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth)[(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
 
 

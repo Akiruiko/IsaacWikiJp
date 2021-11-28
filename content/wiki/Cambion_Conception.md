@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Cambion Conception ![image](/image/Cambion_Conception.png) 
+
+
+Effects
 ---------
 
 
@@ -10,10 +13,10 @@ Effects[]
 * (Added in Repentance)This item belongs to the [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)") set. Collecting three items from this set will transform Isaac into a humanoid spider.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Juicy Sack spawns an extra Blue Spider.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Juicy Sack spawns an extra Blue Spider.
 
 

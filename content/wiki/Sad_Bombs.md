@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Sad Bombs ![image](/image/Sad_Bombs.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * This item belongs to the [Beelzebub](/wiki/Beelzebub "Beelzebub") set. Collecting three items from this set will transform Isaac into a giant humanoid fly.
 
 
-Notes[]
+Notes
 -------
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Monstrance ![image](/image/Monstrance.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Bob](/wiki/Bob "Bob") set. Collecting three items from this set will transform Isaac into Bob.
 
 
-Notes[]
+Notes
 -------
 
 

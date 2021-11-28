@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # IV Bag ![image](/image/IV_Bag.png) 
+
+
+Effects
 ---------
 
 
@@ -11,10 +14,10 @@ Effects[]
 	+ (Added in Afterbirth) The beams have a high chance to directly target enemies, unlike the original game.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps in the middle ring. The wisps summon a beam of light when touched, dealing 12 damage to nearby enemies in addition to their normal contact damage.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps in the middle ring. The wisps summon a beam of light when touched, dealing 12 damage to nearby enemies in addition to their normal contact damage.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Evil Eye ![image](/image/Evil_Eye.png) 
+
+
+Effects
 ---------
 
 

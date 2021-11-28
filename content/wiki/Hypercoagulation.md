@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Hypercoagulation ![image](/image/Hypercoagulation.png) 
+
+
+Effects
 ---------
 
 
@@ -30,36 +33,36 @@ Effects[]
 	+ Curse of the Blind hides the crafting preview.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
 * [(Wild Card)](/wiki/Cards_and_Runes "Wild Card") [Wild Card](/wiki/Cards_and_Runes "Cards and Runes"): Holding up Bag of Crafting counts as an active item use for Wild Card, and can be replicated.
 
 
-Bugs[]
+Bugs
 ------
 
 
 
 
 | (Bug) Bug!
- | After using [(Glowing Hour Glass)](/wiki/Glowing_Hour_Glass "Glowing Hour Glass") [Glowing Hour Glass](/wiki/Glowing_Hour_Glass "Glowing Hour Glass") to revert the bag state, result preview shows nothing.
+ | After using [![image](/image/Glowing_Hour_Glass.png)](/wiki/Glowing_Hour_Glass "Glowing Hour Glass") [Glowing Hour Glass](/wiki/Glowing_Hour_Glass "Glowing Hour Glass") to revert the bag state, result preview shows nothing.
  |
 
 
 
 
 | (Bug) Bug!
- | If  [(Tainted Cain)](/wiki/Tainted_Cain "Tainted Cain") [Tainted Cain](/wiki/Tainted_Cain "Tainted Cain") dies in the exit of the [(Mines)](/wiki/Mines "Mines") [Mines](/wiki/Mines "Mines") / [(Ashpit)](/wiki/Ashpit "Ashpit") [Ashpit](/wiki/Ashpit "Ashpit") II [(Knife Piece 2)](/wiki/Knife_Piece_2 "Knife Piece 2") [Knife Piece 2](/wiki/Knife_Piece_2 "Knife Piece 2") area in multiplayer mode and then gets revived, Bag of crafting will remain inactive, making it impossible for Tainted Cain to obtain any more items.
+ | If  [(Tainted Cain)](/wiki/Tainted_Cain "Tainted Cain") [Tainted Cain](/wiki/Tainted_Cain "Tainted Cain") dies in the exit of the [(Mines)](/wiki/Mines "Mines") [Mines](/wiki/Mines "Mines") / [(Ashpit)](/wiki/Ashpit "Ashpit") [Ashpit](/wiki/Ashpit "Ashpit") II [![image](/image/Knife_Piece_2.png)](/wiki/Knife_Piece_2 "Knife Piece 2") [Knife Piece 2](/wiki/Knife_Piece_2 "Knife Piece 2") area in multiplayer mode and then gets revived, Bag of crafting will remain inactive, making it impossible for Tainted Cain to obtain any more items.
  |
 
 
 
 
 | (Bug) Bug!
- | Swinging Bag of Crafting while holding [(Evil Eye)](/wiki/Evil_Eye "Evil Eye") [Evil Eye](/wiki/Evil_Eye "Evil Eye") may create evil eye tears in the direction fired. Upon pressing the fire buttons, these tears will create a swing identical to that of the Bag of Crafting, even removing pickups caught in the swing. Pickups removed this way will NOT be added to the bag.
+ | Swinging Bag of Crafting while holding [![image](/image/Evil_Eye.png)](/wiki/Evil_Eye "Evil Eye") [Evil Eye](/wiki/Evil_Eye "Evil Eye") may create evil eye tears in the direction fired. Upon pressing the fire buttons, these tears will create a swing identical to that of the Bag of Crafting, even removing pickups caught in the swing. Pickups removed this way will NOT be added to the bag.
  |
 
 

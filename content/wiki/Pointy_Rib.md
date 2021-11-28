@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Pointy Rib ![image](/image/Pointy_Rib.png) 
+
+
+Effects
 ---------
 
 

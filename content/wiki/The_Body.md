@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # The Body ![image](/image/The_Body.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 * This item belongs to the [Yes Mother?](/wiki/Yes_Mother%3F "Yes Mother?") set. Collecting three items from this set will transform Isaac into his mother.
 
 
-Notes[]
+Notes
 -------
 
 

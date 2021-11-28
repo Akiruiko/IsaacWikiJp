@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Glass Cannon ![image](/image/Glass_Cannon.png) 
+
+
+Effect
 --------
 
 
@@ -11,7 +14,7 @@ Effect[]
 * (Added in Afterbirth) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
 
 
-Notes[]
+Notes
 -------
 
 

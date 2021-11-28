@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Lemegeton ![image](/image/Lemegeton.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 	+ [Knocks back](/wiki/Knockback "Knockback") nearby enemies.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -23,10 +26,10 @@ Notes[]
 * (Added in Repentance) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect on damage or blocking radius; only the visual size is changed.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect on damage or blocking radius; only the visual size is changed.
 
 

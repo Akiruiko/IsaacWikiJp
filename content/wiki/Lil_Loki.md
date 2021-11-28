@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Lil Loki ![image](/image/Lil_Loki.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 	+ (Added in Repentance) Lil Loki shoots once every 2/3rds of a second.
 
 
-Notes[]
+Notes
 -------
 
 

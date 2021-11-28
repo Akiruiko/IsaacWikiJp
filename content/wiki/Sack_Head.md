@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Sack Head ![image](/image/Sack_Head.png) 
+
+
+Effects
 ---------
 
 
@@ -9,11 +12,11 @@ Effects[]
 	+ This includes pickups spawned by most sources: room rewards, chests, slot machines, special shopkeepers, etc.
 	+ Golden Coins can reappear as a sack when collected.
 	+ (Added in Repentance) Coins bombed out of a [Donation Machine](/wiki/Donation_Machine "Donation Machine") can become sacks.
-	+ The exception to this are pickups spawned by Isaac himself directly, e.g. with the likes of [(IV Bag)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag") or [(Fanny Pack)](/wiki/Fanny_Pack "Fanny Pack") [Fanny Pack](/wiki/Fanny_Pack "Fanny Pack"), and contents of other sacks.
+	+ The exception to this are pickups spawned by Isaac himself directly, e.g. with the likes of [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag") or [![image](/image/Fanny_Pack.png)](/wiki/Fanny_Pack "Fanny Pack") [Fanny Pack](/wiki/Fanny_Pack "Fanny Pack"), and contents of other sacks.
 * Spawns a sack upon pickup.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -25,13 +28,13 @@ Notes[]
 * (Added in Repentance)[(Cracked Key)](/wiki/Cracked_Key "Cracked Key") [Cracked Key](/wiki/Cracked_Key "Cracked Key") in the [Ascent](/wiki/Ascent "Ascent") can be replaced by a sack, thus it is not recommended to take the item if you're going to unlock a tainted character.
 
 
-Synergies[]
+Synergies
 -----------
 
 
 * (Added in Afterbirth †)[(Equality!)](/wiki/Equality! "Equality!") [Equality!](/wiki/Equality! "Equality!"): Sacks may drop new sacks while Equality! is active, potentially resulting in massive amounts of resources from a single sack.
 
 
-* [(Head of the Keeper)](/wiki/Head_of_the_Keeper "Head of the Keeper") [Head of the Keeper](/wiki/Head_of_the_Keeper "Head of the Keeper"): Coins spawned from hitting enemies have a chance to become sacks.
+* [![image](/image/Head_of_the_Keeper.png)](/wiki/Head_of_the_Keeper "Head of the Keeper") [Head of the Keeper](/wiki/Head_of_the_Keeper "Head of the Keeper"): Coins spawned from hitting enemies have a chance to become sacks.
 
 

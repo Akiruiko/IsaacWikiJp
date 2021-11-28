@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Ball of Bandages ![image](/image/Ball_of_Bandages.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 * Sends out a wave of rocks across the room in the direction Isaac is facing, dealing 10 damage to any enemies it comes in contact with.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -18,11 +21,11 @@ Notes[]
 * The rock wave can break rocks to fill in gaps.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns tiny magenta wisps on the middle ring. The wisps send rock waves outward when Mega Bean is used. They also [petrify and poison](/wiki/Tear_Effects "Tear Effects") all enemies in a large radius when destroyed.
-* (Added in Afterbirth †)[(Ghost Pepper)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Whenever Mega Bean is used, a fire will be shot out behind Isaac. Two flames will be shot if Isaac also has [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery").
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns tiny magenta wisps on the middle ring. The wisps send rock waves outward when Mega Bean is used. They also [petrify and poison](/wiki/Tear_Effects "Tear Effects") all enemies in a large radius when destroyed.
+* (Added in Afterbirth †)[![image](/image/Ghost_Pepper.png)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Whenever Mega Bean is used, a fire will be shot out behind Isaac. Two flames will be shot if Isaac also has [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery").
 
 

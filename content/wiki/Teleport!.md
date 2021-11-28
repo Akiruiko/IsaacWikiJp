@@ -1,14 +1,17 @@
 +++
 +++
 
-Effect[]
+ # Teleport! ![image](/image/Teleport!.png) 
+
+
+Effect
 --------
 
 
 * Upon activation, opens all doors in the current [room](/wiki/Room "Room") in almost all circumstances.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -38,10 +41,10 @@ Notes[]
 8. (Added in Repentance) The flesh door leading to [(Corpse)](/wiki/Corpse "Corpse") [Corpse](/wiki/Corpse "Corpse");
 9. (Added in Repentance) [(A Strange Door)](/wiki/A_Strange_Door "A Strange Door") [A Strange Door](/wiki/A_Strange_Door "A Strange Door").
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Creates wisps in the middle ring. If the wisps touch locked [Chests](/wiki/Chests "Chests") or Special Room doors, they will unlock them, destroying themselves in the process. These wisps can open ANY locked door they touch, including the door to the [(Mega Satan)](/wiki/Mega_Satan "Mega Satan") [Mega Satan](/wiki/Mega_Satan "Mega Satan") arena, [(A Strange Door)](/wiki/A_Strange_Door "A Strange Door") [A Strange Door](/wiki/A_Strange_Door "A Strange Door"), and the flesh door to [(Corpse)](/wiki/Corpse "Corpse") [Corpse](/wiki/Corpse "Corpse"). [(Bomb Chest)](/wiki/Bomb_Chest "Bomb Chest") [Bomb Chests](/wiki/Bomb_Chest "Bomb Chest") and [(Mega Chest)](/wiki/Mega_Chest "Mega Chest") [Mega Chests](/wiki/Mega_Chest "Mega Chest") are unaffected.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Creates wisps in the middle ring. If the wisps touch locked [Chests](/wiki/Chests "Chests") or Special Room doors, they will unlock them, destroying themselves in the process. These wisps can open ANY locked door they touch, including the door to the [(Mega Satan)](/wiki/Mega_Satan "Mega Satan") [Mega Satan](/wiki/Mega_Satan "Mega Satan") arena, [(A Strange Door)](/wiki/A_Strange_Door "A Strange Door") [A Strange Door](/wiki/A_Strange_Door "A Strange Door"), and the flesh door to [(Corpse)](/wiki/Corpse "Corpse") [Corpse](/wiki/Corpse "Corpse"). [(Bomb Chest)](/wiki/Bomb_Chest "Bomb Chest") [Bomb Chests](/wiki/Bomb_Chest "Bomb Chest") and [(Mega Chest)](/wiki/Mega_Chest "Mega Chest") [Mega Chests](/wiki/Mega_Chest "Mega Chest") are unaffected.
 
 

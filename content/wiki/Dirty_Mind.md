@@ -1,6 +1,9 @@
 +++
 +++
 
+ # Dirty Mind ![image](/image/Dirty_Mind.png) 
+
+
 Effects
 ---------
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Pay to Play ![image](/image/Pay_to_Play.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 * (Added in Repentance) No effect on the doors to the entrance rooms of [(Downpour)](/wiki/Downpour "Downpour") [Downpour](/wiki/Downpour "Downpour") / [(Dross)](/wiki/Dross "Dross") [Dross](/wiki/Dross "Dross").
 
 
-Interactions[]
+Interactions
 --------------
 
 

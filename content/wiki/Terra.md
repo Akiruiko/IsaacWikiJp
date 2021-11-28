@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Terra ![image](/image/Terra.png) 
+
+
+Effects
 ---------
 
 
@@ -11,25 +14,25 @@ Effects[]
 * Rock tears randomly deal increased/decreased damage, varying between x0.5 and x2 Isaac's damage per tear.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Brimstone)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone")/ [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel"): Beam will sometimes destroy rocks.
-* [(Finger!)](/wiki/Finger! "Finger!") [Finger!](/wiki/Finger! "Finger!"): The finger will destroy rocks.
-* [(Mom's Knife)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): The knife will sometimes destroy rocks. Rocks can be destroyed by walking into them.
-* [(The Ludovico Technique)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Controllable rock tear that will destroy rocks. The size of the tear changes per room.
-* [(Tech X)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Gains increased [knockback](/wiki/Knockback "Knockback") and will sometimes destroy rocks.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone")/ [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel"): Beam will sometimes destroy rocks.
+* [![image](/image/Finger!.png)](/wiki/Finger! "Finger!") [Finger!](/wiki/Finger! "Finger!"): The finger will destroy rocks.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): The knife will sometimes destroy rocks. Rocks can be destroyed by walking into them.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Controllable rock tear that will destroy rocks. The size of the tear changes per room.
+* [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Gains increased [knockback](/wiki/Knockback "Knockback") and will sometimes destroy rocks.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Dr. Fetus)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus") / [(Epic Fetus)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Explosions retain the extra damage and knockback, but cannot destroy Key Blocks.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus") / [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Explosions retain the extra damage and knockback, but cannot destroy Key Blocks.
 * [Spectral tears](/wiki/Spectral_tears "Spectral tears"): Tears continue to destroy obstacles.
-* [(Spirit Sword)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword"): Sword swings and spin attacks cannot destroy rocks, only its projectiles.
-* [(Technology)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Lasers can still destroy rocks, but at a lower rate and will no longer open entrances to secret rooms.
+* [![image](/image/Spirit_Sword.png)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword"): Sword swings and spin attacks cannot destroy rocks, only its projectiles.
+* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Lasers can still destroy rocks, but at a lower rate and will no longer open entrances to secret rooms.
 * [(Tainted Lilith)](/wiki/Tainted_Lilith "Tainted Lilith") [Tainted Lilith](/wiki/Tainted_Lilith "Tainted Lilith"): The damage from hitting enemies with the fetus is affected by Terra's damage randomization.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # 1up! ![image](/image/1up!.png) 
+
+
+Effects
 ---------
 
 
@@ -20,19 +23,19 @@ Effects[]
 * (Added in Repentance) Flames will turn certain enemies (such as [Hoppers](/wiki/Hopper "Hopper") and [Clotties](/wiki/Clotty "Clotty")) into their flaming variants, making them stronger. The flame is unable to damage these monsters.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(9 Volt)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): Decreases cooldown.
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps in the middle ring. The wisps shoot small flames instead of tears, with a very high tear delay; flames last for 5 seconds or until they block 2 shots and/or deal 2 ticks of damage. The wisps do not persist between rooms, and the damage they deal does not increase with [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!") or scale up on later floors.
+* [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): Decreases cooldown.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps in the middle ring. The wisps shoot small flames instead of tears, with a very high tear delay; flames last for 5 seconds or until they block 2 shots and/or deal 2 ticks of damage. The wisps do not persist between rooms, and the damage they deal does not increase with [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!") or scale up on later floors.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth)[(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
-* (Removed in Repentance)[(The Ludovico Technique)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): When the fire hits the tear, the tear resets and appears again on the player.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* (Removed in Repentance)[![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): When the fire hits the tear, the tear resets and appears again on the player.
 
 

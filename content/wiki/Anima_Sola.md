@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Anima Sola ![image](/image/Anima_Sola.png) 
+
+
+Effects
 ---------
 
 
@@ -15,7 +18,7 @@ Effects[]
 	+ If used in a room with no enemies, Anima Sola will immediately summon Dark Esau.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -27,12 +30,12 @@ Notes[]
 * If used against [The Beast](/wiki/The_Beast "The Beast") during her chase attack, the destructible pillars will stop spawning until the effect ends.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(9 Volt)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): Halves the recharge time, allowing for chaining enemies much more frequently.
-* [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a dark wisp that orbits the locked enemy and shoots at them. When the enemy dies, the wisp despawns.
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Two enemies will be chained simultaneously. If only one valid enemy is present, it will be chained for twice the duration
+* [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): Halves the recharge time, allowing for chaining enemies much more frequently.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a dark wisp that orbits the locked enemy and shoots at them. When the enemy dies, the wisp despawns.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Two enemies will be chained simultaneously. If only one valid enemy is present, it will be chained for twice the duration
 
 

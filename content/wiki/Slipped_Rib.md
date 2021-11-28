@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Slipped Rib ![image](/image/Slipped_Rib.png) 
+
+
+Effects
 ---------
 
 
@@ -23,17 +26,17 @@ Effects[]
 	+ The familiar does not deal contact damage, but kills the same types of [flies](/wiki/Flies "Flies") on contact as [Pretty Fly](/wiki/Pretty_Fly "Pretty Fly") orbitals do.
 
 
-Notes[]
+Notes
 -------
 
 
 * (Added in Repentance) Despite being an orbital familiar, it is not in the list of items which  [(Tainted Lost)](/wiki/Tainted_Lost "Tainted Lost") [Tainted Lost](/wiki/Tainted_Lost "Tainted Lost") cannot find in regular item pools.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Increases its size but does not increase the hitbox or the reflected damage.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Increases its size but does not increase the hitbox or the reflected damage.
 
 

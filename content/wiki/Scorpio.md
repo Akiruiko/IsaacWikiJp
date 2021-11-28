@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Scorpio ![image](/image/Scorpio.png) 
+
+
+Effects
 ---------
 
 
@@ -10,10 +13,10 @@ Effects[]
 * (Added in Afterbirth) The poison hits twice, dealing a total of double Isaac's damage.
 
 
-Notes[]
+Notes
 -------
 
 
-* This item has the same effect as [(The Common Cold)](/wiki/The_Common_Cold "The Common Cold") [The Common Cold](/wiki/The_Common_Cold "The Common Cold") on every shot. As such, all synergies with that item also apply to Scorpio at a 100% chance.
+* This item has the same effect as [![image](/image/The_Common_Cold.png)](/wiki/The_Common_Cold "The Common Cold") [The Common Cold](/wiki/The_Common_Cold "The Common Cold") on every shot. As such, all synergies with that item also apply to Scorpio at a 100% chance.
 
 

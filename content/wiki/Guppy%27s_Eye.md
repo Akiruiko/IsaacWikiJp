@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Guppy's Eye ![image](/image/Guppy%27s_Eye.png) 
+
+
+Effects
 ---------
 
 
@@ -21,10 +24,10 @@ Effects[]
 			* Projectiles from (Added in Repentance) [(Big Bony)](/wiki/Fatty#Big_Bony "Big Bony") [Big Bony](/wiki/Fatty#Big_Bony "Fatty"), (Added in Repentance) [(Coal Boy)](/wiki/Danny#Coal_Boy "Coal Boy") [Coal Boy](/wiki/Danny#Coal_Boy "Danny"), (Added in Repentance) [(Danny)](/wiki/Danny "Danny") [Danny](/wiki/Danny "Danny").
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* Circle of Protection: Multiple copy of this item from such as [(Diplopia)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia") or (Added in Afterbirth †)[(Crooked Penny)](/wiki/Crooked_Penny "Crooked Penny") [Crooked Penny](/wiki/Crooked_Penny "Crooked Penny") has no effect.
+* Circle of Protection: Multiple copy of this item from such as [![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia") or (Added in Afterbirth †)[![image](/image/Crooked_Penny.png)](/wiki/Crooked_Penny "Crooked Penny") [Crooked Penny](/wiki/Crooked_Penny "Crooked Penny") has no effect.
 
 

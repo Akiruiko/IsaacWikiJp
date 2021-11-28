@@ -1,14 +1,17 @@
 +++
 +++
 
-Effects[]
+ # Epic Fetus ![image](/image/Epic_Fetus.png) 
+
+
+Effects
 ---------
 
 
 * Identifies all [pills](/wiki/Pills "Pills") upon pickup.
 * Spawns a pill.
 * Replenishes 2 [red hearts](/wiki/Health#Red_Heart_Containers "Health").
-* Adds 0-2 coins to the payout every time you use a [Blood Donation Machine](/wiki/Blood_Donation_Machine "Blood Donation Machine") or [(IV Bag)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag").
+* Adds 0-2 coins to the payout every time you use a [Blood Donation Machine](/wiki/Blood_Donation_Machine "Blood Donation Machine") or [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag").
 	+ In [hard mode](/wiki/Hard_mode "Hard mode"), adds exactly 1 coin to the payout.
 * Converts some "bad" pills into their "good" counterparts or removes their bad effects:
 
@@ -70,20 +73,20 @@ Effects[]
 | (Removed in Afterbirth †) *R U A Wizard?* |
 
 
-Notes[]
+Notes
 -------
 
 
 * Bad pills already obtained/dropped will be converted to their "good" counterparts.
-* If PHD is lost in any way, such as rerolling by the [(D4)](/wiki/D4 "D4") [D4](/wiki/D4 "D4") or a [Dice Room](/wiki/Dice_Room "Dice Room"), or dropping it as (Added in Repentance) [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac"), pills will remain fully identified, but negative pills will not be converted.
+* If PHD is lost in any way, such as rerolling by the [![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4") or a [Dice Room](/wiki/Dice_Room "Dice Room"), or dropping it as (Added in Repentance) [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac"), pills will remain fully identified, but negative pills will not be converted.
 * (Added in Afterbirth †) Performing a [RERUN](/wiki/RERUN "RERUN") with a character that held PHD will still prevent negative pills from spawning, but will no longer identify pills until used.
 * As bad pills will turn into good pills, it is possible for two different colored pills to have the same effect.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance)[(False PHD)](/wiki/False_PHD "False PHD") [False PHD](/wiki/False_PHD "False PHD"): Pills can both be good or bad again. Taking a bad pill still applies the benefits from False PHD.
+* (Added in Repentance)[![image](/image/False_PHD.png)](/wiki/False_PHD "False PHD") [False PHD](/wiki/False_PHD "False PHD"): Pills can both be good or bad again. Taking a bad pill still applies the benefits from False PHD.
 
 

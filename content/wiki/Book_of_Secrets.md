@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Book of Secrets ![image](/image/Book_of_Secrets.png) 
+
+
+Effects
 ---------
 
 
@@ -10,11 +13,11 @@ Effects[]
 * Increases the chance for a trinket to drop. (Has a 2% chance to turn the pickup variant into a trinket.)
 
 
-Notes[]
+Notes
 -------
 
 
-* While held, [(Mom's Box)](/wiki/Mom%27s_Box "Mom's Box") [Mom's Box](/wiki/Mom%27s_Box "Mom's Box") will double the effect of all absorbed trinkets (if their effects can be doubled).
+* While held, [![image](/image/Mom%27s_Box.png)](/wiki/Mom%27s_Box "Mom's Box") [Mom's Box](/wiki/Mom%27s_Box "Mom's Box") will double the effect of all absorbed trinkets (if their effects can be doubled).
 * This item can remove the [(Tick)](/wiki/Tick "Tick") [Tick](/wiki/Tick "Tick").
 * Trinkets whose effects only activate once, such as [(Store Credit)](/wiki/Store_Credit "Store Credit") [Store Credit](/wiki/Store_Credit "Store Credit"), [(Missing Poster)](/wiki/Missing_Poster "Missing Poster") [Missing Poster](/wiki/Missing_Poster "Missing Poster"), and [(Walnut)](/wiki/Walnut "Walnut") [Walnut](/wiki/Walnut "Walnut"), will still only activate once after being absorbed.
 * (Added in Repentance)[(Perfection)](/wiki/Perfection "Perfection") [Perfection](/wiki/Perfection "Perfection") is still removed if Isaac takes damage from regular sources.
@@ -24,10 +27,10 @@ Notes[]
 * (Removed in Repentance) The trinket will not be absorbed if Smelter is activated during the pickup animation.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns yellow wisps on the middle ring. The wisps have a chance to spawn [trinkets](/wiki/Trinket "Trinket") when destroyed.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns yellow wisps on the middle ring. The wisps have a chance to spawn [trinkets](/wiki/Trinket "Trinket") when destroyed.
 
 

@@ -1,17 +1,20 @@
 +++
 +++
 
-Effects[]
+ # Steven ![image](/image/Steven_(Item).png) 
+
+
+Effects
 ---------
 
 
 * Grants [flight](/wiki/Flight "Flight").
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance)[(The Intruder)](/wiki/The_Intruder "The Intruder") [The Intruder](/wiki/The_Intruder "The Intruder"): When the effect is activated Isaac becomes invisible.
+* (Added in Repentance)[![image](/image/The_Intruder.png)](/wiki/The_Intruder "The Intruder") [The Intruder](/wiki/The_Intruder "The Intruder"): When the effect is activated Isaac becomes invisible.
 
 

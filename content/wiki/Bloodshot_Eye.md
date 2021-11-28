@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Bloodshot Eye ![image](/image/Bloodshot_Eye.png) 
+
+
+Effect
 --------
 
 
@@ -11,7 +14,7 @@ Effect[]
 	+ (Removed in Repentance) Unlike other orbitals, the eye does not block enemy shots.
 
 
-Notes[]
+Notes
 -------
 
 

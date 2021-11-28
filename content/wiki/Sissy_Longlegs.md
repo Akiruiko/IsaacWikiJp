@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Sissy Longlegs ![image](/image/Sissy_Longlegs.png) 
+
+
+Effect
 --------
 
 
@@ -12,17 +15,17 @@ Effect[]
 * (Added in Repentance) This item belongs to the [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)") set. Collecting three items from this set will transform Isaac into a humanoid spider.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Hive Mind)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): The Spiders she spawns deal double damage.
+* [![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): The Spiders she spawns deal double damage.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect.
 
 

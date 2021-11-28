@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Little Chubby ![image](/image/Little_Chubby.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * (Added in Repentance) Boomerang [pierces](/wiki/Tear_Effects#Effects "Tear Effects") enemies it hits.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -27,18 +30,18 @@ Notes[]
 * The Boomerang can grab troll bombs.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps in the middle ring. Wisps' tears have the [(My Reflection)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection") effect and do not persist between rooms.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps in the middle ring. Wisps' tears have the [![image](/image/My_Reflection.png)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection") effect and do not persist between rooms.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth)[(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
-* (Added in Repentance) [(Kidney Stone)](/wiki/Kidney_Stone "Kidney Stone") [Kidney Stone](/wiki/Kidney_Stone "Kidney Stone") / [(Mini Mush)](/wiki/Mini_Mush "Mini Mush") [Mini Mush](/wiki/Mini_Mush "Mini Mush") / [(Number One)](/wiki/Number_One "Number One") [Number One](/wiki/Number_One "Number One") / [(Pluto)](/wiki/Pluto "Pluto") [Pluto](/wiki/Pluto "Pluto"): The Boomerang loses almost all of its range, and cannot be improved by range ups or any other method.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* (Added in Repentance) [![image](/image/Kidney_Stone.png)](/wiki/Kidney_Stone "Kidney Stone") [Kidney Stone](/wiki/Kidney_Stone "Kidney Stone") / [![image](/image/Mini_Mush.png)](/wiki/Mini_Mush "Mini Mush") [Mini Mush](/wiki/Mini_Mush "Mini Mush") / [![image](/image/Number_One.png)](/wiki/Number_One "Number One") [Number One](/wiki/Number_One "Number One") / [![image](/image/Pluto.png)](/wiki/Pluto "Pluto") [Pluto](/wiki/Pluto "Pluto"): The Boomerang loses almost all of its range, and cannot be improved by range ups or any other method.
 
 

@@ -1,14 +1,17 @@
 +++
 +++
 
-Effect[]
+ # Magic Fingers ![image](/image/Magic_Fingers.png) 
+
+
+Effect
 --------
 
 
 * Upon taking damage, spawns six [Troll Bombs](/wiki/Troll_Bomb "Troll Bomb") around the room, similar to the effect of [(XVI - The Tower)](/wiki/Cards_and_Runes "XVI - The Tower") [XVI - The Tower](/wiki/Cards_and_Runes "Cards and Runes").
 
 
-Notes[]
+Notes
 -------
 
 
@@ -21,14 +24,14 @@ Notes[]
 * The 6 [Troll Bombs](/wiki/Troll_Bomb "Troll Bomb") are difficult to dodge in small rooms.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Pyromaniac)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac"): Troll Bombs will heal Isaac instead, allowing for essentially infinite health with proper usage.
-	+ (Added in Repentance) Due to Pyromaniac being weakened to healing half a heart per explosion in *Repentance*, this synergy requires [(The Wafer)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer") to continue being effective past [Chapter 3](/wiki/Chapter_3 "Chapter 3")/[Chapter 3.5](/wiki/Chapter_3.5 "Chapter 3.5").
-* [(The Polaroid)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid"): If Isaac is damaged when he has half a red heart or no red hearts, the shield will activate and protect him from the Troll Bombs.
-* [(Remote Detonator)](/wiki/Remote_Detonator "Remote Detonator") [Remote Detonator](/wiki/Remote_Detonator "Remote Detonator"): The Troll Bombs generated will not explode until Remote Detonator is activated, unlike regular Troll Bombs.
+* [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac"): Troll Bombs will heal Isaac instead, allowing for essentially infinite health with proper usage.
+	+ (Added in Repentance) Due to Pyromaniac being weakened to healing half a heart per explosion in *Repentance*, this synergy requires [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer") to continue being effective past [Chapter 3](/wiki/Chapter_3 "Chapter 3")/[Chapter 3.5](/wiki/Chapter_3.5 "Chapter 3.5").
+* [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid"): If Isaac is damaged when he has half a red heart or no red hearts, the shield will activate and protect him from the Troll Bombs.
+* [![image](/image/Remote_Detonator.png)](/wiki/Remote_Detonator "Remote Detonator") [Remote Detonator](/wiki/Remote_Detonator "Remote Detonator"): The Troll Bombs generated will not explode until Remote Detonator is activated, unlike regular Troll Bombs.
 * [(Safety Scissors)](/wiki/Safety_Scissors "Safety Scissors") [Safety Scissors](/wiki/Safety_Scissors "Safety Scissors"): The Troll Bombs generated will be converted into bomb pickups rather than exploding.
 
 

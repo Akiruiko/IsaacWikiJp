@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Teleport 2.0 ![image](/image/Teleport_2.0.png) 
+
+
+Effects
 ---------
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Lil Haunt ![image](/image/Lil_Haunt.png) 
+
+
+Effects
 ---------
 
 
@@ -15,18 +18,18 @@ Effects[]
 * Taking damage causes the aura to disappear. When the next room is entered, the aura will reappear with a random color.
 
 
-Notes[]
+Notes
 -------
 
 
 * The tear delay boost can allow the player's tears to go over the normal maximum [rate of fire](/wiki/Tear_delay "Tear delay").
-* It is especially difficult for  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost") to change auras. However, it is possible through the use of (Added in Afterbirth †)[(Dull Razor)](/wiki/Dull_Razor "Dull Razor") [Dull Razor](/wiki/Dull_Razor "Dull Razor").
+* It is especially difficult for  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost") to change auras. However, it is possible through the use of (Added in Afterbirth †)[![image](/image/Dull_Razor.png)](/wiki/Dull_Razor "Dull Razor") [Dull Razor](/wiki/Dull_Razor "Dull Razor").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Rock Bottom)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom"): All four buffs can be obtained at once, and their effects are permanent.
+* (Added in Repentance)[![image](/image/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom"): All four buffs can be obtained at once, and their effects are permanent.
 
 

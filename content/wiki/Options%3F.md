@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Options? ![image](/image/Options%3F.png) 
+
+
+Effects
 ---------
 
 
@@ -13,7 +16,7 @@ Effects[]
 * The Vanishing Twin familiar will return when Isaac reaches the next floor.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -26,28 +29,28 @@ Notes[]
 * If it becomes a clone of [Great Gideon](/wiki/Great_Gideon "Great Gideon"), 2 extra waves of enemies are added to the battle.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Sacrificial Altar)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar"): The twin can be sacrificed normally at any time.
+* [![image](/image/Sacrificial_Altar.png)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar"): The twin can be sacrificed normally at any time.
 	+ If sacrificed after it's transformed into a boss, it will still give an item from the sacrifice, but the boss will not disappear and will also *not* spawn an additional item.
-* [(Satanic Bible)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible"): Using it before killing the clone boss will cause it to spawn an item from the [Devil Room item pool](/wiki/Devil_Room_(Item_Pool) "Devil Room (Item Pool)") instead of from the [Boss item pool](/wiki/Boss_(Item_Pool) "Boss (Item Pool)"). This item must be purchased just like a normal [Devil Deal](/wiki/Devil_Room#Deals_with_the_Devil "Devil Room").
-* [(There's Options)](/wiki/There%27s_Options "There's Options") [There's Options](/wiki/There%27s_Options "There's Options"): Will spawn an additional item choice for the item spawned by Vanishing Twin.
+* [![image](/image/Satanic_Bible.png)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible"): Using it before killing the clone boss will cause it to spawn an item from the [Devil Room item pool](/wiki/Devil_Room_(Item_Pool) "Devil Room (Item Pool)") instead of from the [Boss item pool](/wiki/Boss_(Item_Pool) "Boss (Item Pool)"). This item must be purchased just like a normal [Devil Deal](/wiki/Devil_Room#Deals_with_the_Devil "Devil Room").
+* [![image](/image/There%27s_Options.png)](/wiki/There%27s_Options "There's Options") [There's Options](/wiki/There%27s_Options "There's Options"): Will spawn an additional item choice for the item spawned by Vanishing Twin.
 * [(Tick)](/wiki/Tick "Tick") [Tick](/wiki/Tick "Tick"): Further lowers the health of both the original boss and its clone.
-* [(Vanishing Twin)](/wiki/Vanishing_Twin "Vanishing Twin") Vanishing Twin: Picking up multiple copies of the item will result in multiple clones getting spawned.
+* [![image](/image/Vanishing_Twin.png)](/wiki/Vanishing_Twin "Vanishing Twin") Vanishing Twin: Picking up multiple copies of the item will result in multiple clones getting spawned.
 	+ Each boss will have its health reduced down further by 75% of the health of its previous clone.
 	+ Each of the bosses will spawn a separate item.
 	+ Each clone of [Great Gideon](/wiki/Great_Gideon "Great Gideon") adds 2 extra waves of enemies.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Will increase the fetus' size, although it has no effect after the transformation happens.
-* [(Box of Friends)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): No effect.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Will increase the fetus' size, although it has no effect after the transformation happens.
+* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): No effect.
 * [(IV - The Emperor?)](/wiki/Cards_and_Runes "IV - The Emperor?") [IV - The Emperor?](/wiki/Cards_and_Runes "Cards and Runes"): The twin will clone the additional boss and spawn an item if the original one has not been visited yet. However, this will not allow for another item to be obtained from the floor's original boss, because the twin won't be active until the next floor.
-* If  [(Tainted Lazarus)](/wiki/Tainted_Lazarus "Tainted Lazarus") [Tainted Lazarus](/wiki/Tainted_Lazarus "Tainted Lazarus") has used [(Flip)](/wiki/Flip "Flip") [Flip](/wiki/Flip "Flip") after the boss has been cloned, it will not drop an additional item.
+* If  [(Tainted Lazarus)](/wiki/Tainted_Lazarus "Tainted Lazarus") [Tainted Lazarus](/wiki/Tainted_Lazarus "Tainted Lazarus") has used [![image](/image/Flip.png)](/wiki/Flip "Flip") [Flip](/wiki/Flip "Flip") after the boss has been cloned, it will not drop an additional item.
 
 

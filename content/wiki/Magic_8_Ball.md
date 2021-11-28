@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Magic 8 Ball ![image](/image/Magic_8_Ball.png) 
+
+
+Effects
 ---------
 
 
@@ -12,17 +15,17 @@ Effects[]
 	+ Occasionally [petrifies](/wiki/Status_Effects#Petrification "Status Effects") all enemies.
 
 
-Notes[]
+Notes
 -------
 
 
 * Charged Baby becomes very powerful as  [(Lilith)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith") in [Greed mode](/wiki/Greed_mode "Greed mode"), as the duplicates will continue to spawn Lil' Batteries, leading to a huge chain of familiars.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Familiar is bigger and drops Lil' Batteries more often. No effect on its other abilities.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Familiar is bigger and drops Lil' Batteries more often. No effect on its other abilities.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Box of Friends ![image](/image/Box_of_Friends.png) 
+
+
+Effect
 --------
 
 
@@ -19,7 +22,7 @@ Effect[]
 * (Added in Repentance) This item belongs to the [(Spider Baby)](/wiki/Spider_Baby_(Transformation) "Spider Baby") [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)"). Collecting three items from this set will transform Isaac into a humanoid spider.
 
 
-Notes[]
+Notes
 -------
 
 

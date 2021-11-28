@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Little Baggy ![image](/image/Little_Baggy.png) 
+
+
+Effects
 ---------
 
 
@@ -16,16 +19,16 @@ Effects[]
 * (Added in Repentance) [Tainted characters](/wiki/Tainted_Characters "Tainted Characters") or anyone who already has an active item in the pill slot will be allowed a third slot for pills.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Crystal Ball)](/wiki/Crystal_Ball "Crystal Ball") [Crystal Ball](/wiki/Crystal_Ball "Crystal Ball"): Generates pills instead of cards upon use.
-* [(Deck of Cards)](/wiki/Deck_of_Cards "Deck of Cards") [Deck of Cards](/wiki/Deck_of_Cards "Deck of Cards"): Generates pills instead of cards upon use, similar to[(Mom's Bottle of Pills)](/wiki/Mom%27s_Bottle_of_Pills "Mom's Bottle of Pills") [Mom's Bottle of Pills](/wiki/Mom%27s_Bottle_of_Pills "Mom's Bottle of Pills").
-* (Added in Repentance)[(False PHD)](/wiki/False_PHD "False PHD") [False PHD](/wiki/False_PHD "False PHD"): Since all cards turn to pills, there is potential for a lot of damage ups.
-* [(PHD)](/wiki/PHD "PHD") [PHD](/wiki/PHD "PHD")/[(Virgo)](/wiki/Virgo "Virgo") [Virgo](/wiki/Virgo "Virgo"): Most negative pills will be converted to their positive counterparts.
-	+ (Added in Repentance) [(Lucky Foot)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot"): Most negative pills will be converted to their positive counterparts.
-* (Removed in Repentance) [(Starter Deck)](/wiki/Starter_Deck "Starter Deck") [Starter Deck](/wiki/Starter_Deck "Starter Deck"): Overrides Little Baggy. Pills may still be for sale in shops, but dropping them turns them into cards.
+* [![image](/image/Crystal_Ball.png)](/wiki/Crystal_Ball "Crystal Ball") [Crystal Ball](/wiki/Crystal_Ball "Crystal Ball"): Generates pills instead of cards upon use.
+* [![image](/image/Deck_of_Cards.png)](/wiki/Deck_of_Cards "Deck of Cards") [Deck of Cards](/wiki/Deck_of_Cards "Deck of Cards"): Generates pills instead of cards upon use, similar to[![image](/image/Mom%27s_Bottle_of_Pills.png)](/wiki/Mom%27s_Bottle_of_Pills "Mom's Bottle of Pills") [Mom's Bottle of Pills](/wiki/Mom%27s_Bottle_of_Pills "Mom's Bottle of Pills").
+* (Added in Repentance)[![image](/image/False_PHD.png)](/wiki/False_PHD "False PHD") [False PHD](/wiki/False_PHD "False PHD"): Since all cards turn to pills, there is potential for a lot of damage ups.
+* [![image](/image/PHD.png)](/wiki/PHD "PHD") [PHD](/wiki/PHD "PHD")/[![image](/image/Virgo.png)](/wiki/Virgo "Virgo") [Virgo](/wiki/Virgo "Virgo"): Most negative pills will be converted to their positive counterparts.
+	+ (Added in Repentance) [![image](/image/Lucky_Foot.png)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot"): Most negative pills will be converted to their positive counterparts.
+* (Removed in Repentance) [![image](/image/Starter_Deck.png)](/wiki/Starter_Deck "Starter Deck") [Starter Deck](/wiki/Starter_Deck "Starter Deck"): Overrides Little Baggy. Pills may still be for sale in shops, but dropping them turns them into cards.
 	+ (Added in Repentance) Having both items allows both cards and pills to appear again.
 	+ Picking up Starter Deck while already holding Little Baggy will turn any held pills into cards for one time.
 

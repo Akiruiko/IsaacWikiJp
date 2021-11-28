@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Belly Jelly ![image](/image/Belly_Jelly.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * Additionally grants a 50% chance for projectiles to bounce off of Isaac without taking damage.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -25,15 +28,15 @@ Notes[]
 * [(Bomb)](/wiki/Bomb "Bomb") [Bombs](/wiki/Bomb "Bomb") and [(Troll Bomb)](/wiki/Troll_Bomb "Troll Bomb") [Troll Bombs](/wiki/Troll_Bomb "Troll Bomb") cannot be bounced off.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Aries)](/wiki/Aries "Aries") [Aries](/wiki/Aries "Aries"): Retains the chance to bounce enemies while preventing damage simultaneously.
-* [(Book of Shadows)](/wiki/Book_of_Shadows "Book of Shadows") [Book of Shadows](/wiki/Book_of_Shadows "Book of Shadows") / [(Unicorn Stump)](/wiki/Unicorn_Stump "Unicorn Stump") [Unicorn Stump](/wiki/Unicorn_Stump "Unicorn Stump"): Can be used as a powerful offensive item since Isaac can still bounce off enemies while invincible.
-* [(Cone Head)](/wiki/Cone_Head "Cone Head") [Cone Head](/wiki/Cone_Head "Cone Head") / [(Host Hat)](/wiki/Host_Hat "Host Hat") [Host Hat](/wiki/Host_Hat "Host Hat") / [(Infamy)](/wiki/Infamy "Infamy") [Infamy](/wiki/Infamy "Infamy"): Offers an additional chance to negate damage.
-* [(Gnawed Leaf)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): The bouncing effect works while Isaac is invincible.
+* [![image](/image/Aries.png)](/wiki/Aries "Aries") [Aries](/wiki/Aries "Aries"): Retains the chance to bounce enemies while preventing damage simultaneously.
+* [![image](/image/Book_of_Shadows.png)](/wiki/Book_of_Shadows "Book of Shadows") [Book of Shadows](/wiki/Book_of_Shadows "Book of Shadows") / [![image](/image/Unicorn_Stump.png)](/wiki/Unicorn_Stump "Unicorn Stump") [Unicorn Stump](/wiki/Unicorn_Stump "Unicorn Stump"): Can be used as a powerful offensive item since Isaac can still bounce off enemies while invincible.
+* [![image](/image/Cone_Head.png)](/wiki/Cone_Head "Cone Head") [Cone Head](/wiki/Cone_Head "Cone Head") / [![image](/image/Host_Hat.png)](/wiki/Host_Hat "Host Hat") [Host Hat](/wiki/Host_Hat "Host Hat") / [![image](/image/Infamy.png)](/wiki/Infamy "Infamy") [Infamy](/wiki/Infamy "Infamy"): Offers an additional chance to negate damage.
+* [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): The bouncing effect works while Isaac is invincible.
 * [(Panic Button)](/wiki/Panic_Button "Panic Button") [Panic Button](/wiki/Panic_Button "Panic Button"): The active item will still be activated if Belly Jelly blocks damage.
-* [(Serpent's Kiss)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss"): Allows Isaac to bounce enemies and poison them at the same time, with a decent chance to get a lot more health back in the form of [(Black Heart)](/wiki/Black_Heart "Black Heart") [Black Hearts](/wiki/Black_Heart "Black Heart") than originally spent.
+* [![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss"): Allows Isaac to bounce enemies and poison them at the same time, with a decent chance to get a lot more health back in the form of [(Black Heart)](/wiki/Black_Heart "Black Heart") [Black Hearts](/wiki/Black_Heart "Black Heart") than originally spent.
 
 

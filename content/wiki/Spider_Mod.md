@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Spider Mod ![image](/image/Spider_Mod.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * (Added in Afterbirth †) This item belongs to the [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)") set. Collecting three items from this set will transform Isaac into a humanoid spider.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -27,11 +30,11 @@ Notes[]
 * (Added in Afterbirth †) If Isaac transforms into [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)"), it spawns a spider familiar who works similarly to Spider Mod.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Makes Spider Mod bigger and increases the chance for Spider Mod to spawn a battery or blue spider. No effect on stat effect damage.
-* [(Hive Mind)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Makes Spider Mod bigger. Whether or not this impacts spawn chances or damage is unknown.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Makes Spider Mod bigger and increases the chance for Spider Mod to spawn a battery or blue spider. No effect on stat effect damage.
+* [![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Makes Spider Mod bigger. Whether or not this impacts spawn chances or damage is unknown.
 
 

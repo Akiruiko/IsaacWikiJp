@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Ventricle Razor ![image](/image/Ventricle_Razor.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 * The portals can be placed in any room. However, if a portal leads to a room with a negative grid index (i.e. [Devil Room](/wiki/Devil_Room "Devil Room"), [Angel Room](/wiki/Angel_Room "Angel Room"), [I AM ERROR](/wiki/I_AM_ERROR "I AM ERROR") room, [Crawl Space](/wiki/Crawl_Space "Crawl Space"), [Boss Rush](/wiki/Boss_Rush "Boss Rush"), [Black Market](/wiki/Black_Market "Black Market"), [Mega Satan](/wiki/Mega_Satan "Mega Satan") room, or [Blue Womb](/wiki/Blue_Womb "Blue Womb") portal room), Isaac will not be able to enter the portal.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -26,15 +29,15 @@ Notes[]
 * (Added in Repentance) This item can be useful to exit Mom's boss room to start the [Ascent](/wiki/Ascent "Ascent"), as long as you use it at least once before entering the boss room.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): A blue/orange wisp circles the respective portal on use. One wisp orbits each portal; no wisps are given to Isaac. Wisps do not fire tears.
-	+ [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Renders the item useless, as both portals are placed at the same time where the item is activated.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): A blue/orange wisp circles the respective portal on use. One wisp orbits each portal; no wisps are given to Isaac. Wisps do not fire tears.
+	+ [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Renders the item useless, as both portals are placed at the same time where the item is activated.
 
 
-Bugs[]
+Bugs
 ------
 
 
@@ -44,10 +47,10 @@ Bugs[]
  | If the animation of entering a portal created by Ventricle Razor is forcibly cancelled, then the player will be unable to fire tears and collide with any non-grid entities (including trapdoors). This essentially renders the player immune to enemy attacks, hence enabling exploits using alternate offense methods (e.g. orbitals). Exiting and continuing the run restores the collision circle and the ability to fire tears.
 * Possible methods to cancel the animation are:
 	+ Leaving the room as another player entity while playing as  [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten"),  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau") or true co-op;
-	+ Leaving the (Added in Repentance)[(Death Certificate)](/wiki/Death_Certificate "Death Certificate") [Death Certificate](/wiki/Death_Certificate "Death Certificate") area;
+	+ Leaving the (Added in Repentance)[![image](/image/Death_Certificate.png)](/wiki/Death_Certificate "Death Certificate") [Death Certificate](/wiki/Death_Certificate "Death Certificate") area;
 	+ Triggering the room-clear flip effect as  [(Tainted Lazarus)](/wiki/Tainted_Lazarus "Tainted Lazarus") [Tainted Lazarus](/wiki/Tainted_Lazarus "Tainted Lazarus");
 	+ Entering a [Crawl Space](/wiki/Crawl_Space "Crawl Space") spawned directly on top of a Ventricle Razor portal;
-	+ Triggering teleportation from sources like [(Cursed Skull)](/wiki/Cursed_Skull "Cursed Skull") [Cursed Skull](/wiki/Cursed_Skull "Cursed Skull") and [(Cursed Eye)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye") with timed damage mechanisms like (Added in Afterbirth †)[(Shard of Glass)](/wiki/Shard_of_Glass "Shard of Glass") [Shard of Glass](/wiki/Shard_of_Glass "Shard of Glass").
+	+ Triggering teleportation from sources like [(Cursed Skull)](/wiki/Cursed_Skull "Cursed Skull") [Cursed Skull](/wiki/Cursed_Skull "Cursed Skull") and [![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye") with timed damage mechanisms like (Added in Afterbirth †)[![image](/image/Shard_of_Glass.png)](/wiki/Shard_of_Glass "Shard of Glass") [Shard of Glass](/wiki/Shard_of_Glass "Shard of Glass").
  |
 
 

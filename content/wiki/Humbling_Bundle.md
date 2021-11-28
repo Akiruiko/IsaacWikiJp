@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Humbling Bundle ![image](/image/Humbling_Bundle.png) 
+
+
+Effects
 ---------
 
 

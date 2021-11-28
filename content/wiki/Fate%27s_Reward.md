@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Fate's Reward ![image](/image/Fate%27s_Reward.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 	+ Familiars will not do contact damage.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -41,13 +44,13 @@ Notes[]
 * Lil Delirium can transform into the same familiar multiple times in a row and therefore stay in the same form for more than 10 seconds.
 * Every time Lil Delirium transforms from a free-floating familiar to a follower one, it positions itself at the end of the familiar train.
 * Lil Delirium can damage Isaac when transformed into BBF or Bob's Brain.
-* (Added in Repentance)[(Monster Manual)](/wiki/Monster_Manual "Monster Manual") [Monster Manual](/wiki/Monster_Manual "Monster Manual") can spawn Lil Delirium, which functions as normal.
+* (Added in Repentance)[![image](/image/Monster_Manual.png)](/wiki/Monster_Manual "Monster Manual") [Monster Manual](/wiki/Monster_Manual "Monster Manual") can spawn Lil Delirium, which functions as normal.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Box of Friends)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): The copy of Lil Delirium will be a different random familiar.
+* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): The copy of Lil Delirium will be a different random familiar.
 
 

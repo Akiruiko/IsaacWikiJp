@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mom's Box ![image](/image/Mom%27s_Box.png) 
+
+
+Effects
 ---------
 
 
@@ -21,7 +24,7 @@ Effects[]
 	+ Has 50 health instead of 20 (effective health is ~400-500).
 
 
-Notes[]
+Notes
 -------
 
 
@@ -29,25 +32,25 @@ Notes[]
 * Blood Puppy is not targeted by other familiars while it is angry.
 	+ [Blue Flies](/wiki/Blue_Fly "Blue Fly") and other familiars that deal contact damage will still damage Blood Puppy if they happen to collide.
 * Since [bombs](/wiki/Bombs "Bombs") ignore armor, a single bomb will tame the Blood Puppy.
-* Stages 2 and 3 of Blood Puppy are an enemy for all intents and purposes, similar to [Dark Esau](/wiki/Dark_Esau "Dark Esau"). This means it can be affected by, for example, the slow effect of [(Broken Watch)](/wiki/Broken_Watch "Broken Watch") [Broken Watch](/wiki/Broken_Watch "Broken Watch").
+* Stages 2 and 3 of Blood Puppy are an enemy for all intents and purposes, similar to [Dark Esau](/wiki/Dark_Esau "Dark Esau"). This means it can be affected by, for example, the slow effect of [![image](/image/Broken_Watch.png)](/wiki/Broken_Watch "Broken Watch") [Broken Watch](/wiki/Broken_Watch "Broken Watch").
 * Friendly Blood Puppies will spawn beside Isaac when he enters a new room while hostile ones will spawn in the middle or opposite ends of the room.
 * Starting the [Dogma](/wiki/Dogma "Dogma") or [Mega Satan](/wiki/Mega_Satan "Mega Satan") fight while Blood Puppy is angry can be dangerous, as it will let Blood Puppy attack the player while the player is unable to move during the boss spawning animation.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * [(Ace of Spades)](/wiki/Cards_and_Runes "Ace of Spades") [Ace of Spades](/wiki/Cards_and_Runes "Cards and Runes") / [(Ace of Clubs)](/wiki/Cards_and_Runes "Ace of Clubs") [Ace of Clubs](/wiki/Cards_and_Runes "Cards and Runes") / [(Ace of Diamonds)](/wiki/Cards_and_Runes "Ace of Diamonds") [Ace of Diamonds](/wiki/Cards_and_Runes "Cards and Runes") / [(Ace of Hearts)](/wiki/Cards_and_Runes "Ace of Hearts") [Ace of Hearts](/wiki/Cards_and_Runes "Cards and Runes"): Using them on an angry Blood Puppy will spawn the respective pickup and tame it.
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Only increases the size and damage of Blood Puppy during its first phase.
-* [(Box of Friends)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Tames an angry Blood Puppy and spawns another temporary one.
-* [(Camo Undies)](/wiki/Camo_Undies "Camo Undies") [Camo Undies](/wiki/Camo_Undies "Camo Undies"): While the camo effect is active, stages 2 and 3 of the Blood Puppy will not target Isaac, but will still target other enemies, making it safer for the player.
-* [(Eraser)](/wiki/Eraser "Eraser") [Eraser](/wiki/Eraser "Eraser"): Using Eraser on Blood Puppy while it's angry will permanently prevent it from advancing to the erased phase. Using it on phase two will prevent it from becoming angry altogether.
-* [(Friendly Ball)](/wiki/Friendly_Ball "Friendly Ball") [Friendly Ball](/wiki/Friendly_Ball "Friendly Ball"): Using the ball on an angered Blood Puppy will instantly tame it. Using the ball again results in a purely cosmetic blood explosion.
-* [(GB Bug)](/wiki/GB_Bug "GB Bug") [GB Bug](/wiki/GB_Bug "GB Bug"): Hitting Blood Puppy with GB Bug will transform it into a random enemy and spawn a tamed Blood Puppy.
-* [(Meat Cleaver)](/wiki/Meat_Cleaver "Meat Cleaver") [Meat Cleaver](/wiki/Meat_Cleaver "Meat Cleaver"): If Blood Puppy is angry, splits it into two copies. One copy can level up and be tamed like normal, but the other cannot level up and dies instead of being tamed.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Only increases the size and damage of Blood Puppy during its first phase.
+* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Tames an angry Blood Puppy and spawns another temporary one.
+* [![image](/image/Camo_Undies.png)](/wiki/Camo_Undies "Camo Undies") [Camo Undies](/wiki/Camo_Undies "Camo Undies"): While the camo effect is active, stages 2 and 3 of the Blood Puppy will not target Isaac, but will still target other enemies, making it safer for the player.
+* [![image](/image/Eraser.png)](/wiki/Eraser "Eraser") [Eraser](/wiki/Eraser "Eraser"): Using Eraser on Blood Puppy while it's angry will permanently prevent it from advancing to the erased phase. Using it on phase two will prevent it from becoming angry altogether.
+* [![image](/image/Friendly_Ball.png)](/wiki/Friendly_Ball "Friendly Ball") [Friendly Ball](/wiki/Friendly_Ball "Friendly Ball"): Using the ball on an angered Blood Puppy will instantly tame it. Using the ball again results in a purely cosmetic blood explosion.
+* [![image](/image/GB_Bug.png)](/wiki/GB_Bug "GB Bug") [GB Bug](/wiki/GB_Bug "GB Bug"): Hitting Blood Puppy with GB Bug will transform it into a random enemy and spawn a tamed Blood Puppy.
+* [![image](/image/Meat_Cleaver.png)](/wiki/Meat_Cleaver "Meat Cleaver") [Meat Cleaver](/wiki/Meat_Cleaver "Meat Cleaver"): If Blood Puppy is angry, splits it into two copies. One copy can level up and be tamed like normal, but the other cannot level up and dies instead of being tamed.
 
 
   

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Crack Jacks ![image](/image/Crack_Jacks.png) 
+
+
+Effects
 ---------
 
 
@@ -12,22 +15,22 @@ Effects[]
 	+ The explosion cannot damage Isaac or the environment.
 
 
-Notes[]
+Notes
 -------
 
 
 * Enemies killed by ghosts are unable to spawn more ghosts, except for those killed by the ghost's final explosion.
-* The ghost's explosion is capable of damaging [friendly](/wiki/Friendly "Friendly") monsters, such as [Bonies](/wiki/Bony "Bony") summoned by [(Book of the Dead)](/wiki/Book_of_the_Dead "Book of the Dead") [Book of the Dead](/wiki/Book_of_the_Dead "Book of the Dead").
+* The ghost's explosion is capable of damaging [friendly](/wiki/Friendly "Friendly") monsters, such as [Bonies](/wiki/Bony "Bony") summoned by [![image](/image/Book_of_the_Dead.png)](/wiki/Book_of_the_Dead "Book of the Dead") [Book of the Dead](/wiki/Book_of_the_Dead "Book of the Dead").
 * Ghosts cannot be taken outside the room they spawned in.
 * The ghosts are not considered to be [familiars](/wiki/Familiars "Familiars") and as such aren't affected by any items that modify the behavior of familiars.
 	+ This also means that Isaac can have more than 64 ghosts at a time and this won't override other familiars.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect.
-* [(Sacrificial Altar)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar"): Ghosts cannot be sacrificed.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect.
+* [![image](/image/Sacrificial_Altar.png)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar"): Ghosts cannot be sacrificed.
 
 

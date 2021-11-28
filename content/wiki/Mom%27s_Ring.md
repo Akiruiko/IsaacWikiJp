@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mom's Ring ![image](/image/Mom%27s_Ring.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Oh Crap](/wiki/Oh_Crap "Oh Crap") set. Collecting three items from this set will transform Isaac into a walking pile of poop.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -23,24 +26,24 @@ Notes[]
 * (Added in Repentance) Poops created by E. Coli heal Isaac when he has the [Oh Crap](/wiki/Oh_Crap "Oh Crap") transformation.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Isaac's Heart)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart"): Isaac can turn enemies into poop without taking damage.
-* [(Midas' Touch)](/wiki/Midas%27_Touch "Midas' Touch") [Midas' Touch](/wiki/Midas%27_Touch "Midas' Touch"): Enemies touched are turned into [Golden Poop](/wiki/Golden_Poop "Golden Poop").
-* [(Unicorn Stump)](/wiki/Unicorn_Stump "Unicorn Stump") [Unicorn Stump](/wiki/Unicorn_Stump "Unicorn Stump"): Provides invincibility during which enemies can be touched.
-* (Added in Repentance)[(Lodestone)](/wiki/Lodestone "Lodestone") [Lodestone](/wiki/Lodestone "Lodestone"): If an enemy is hit by a lodestone tear perfectly simultaneously with it being turned into poop, the resulting poop will be tinted black and have a lodestone aura that sucks in enemies. This poop will return to normal after a few seconds.
+* [![image](/image/Isaac%27s_Heart.png)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart"): Isaac can turn enemies into poop without taking damage.
+* [![image](/image/Midas%27_Touch.png)](/wiki/Midas%27_Touch "Midas' Touch") [Midas' Touch](/wiki/Midas%27_Touch "Midas' Touch"): Enemies touched are turned into [Golden Poop](/wiki/Golden_Poop "Golden Poop").
+* [![image](/image/Unicorn_Stump.png)](/wiki/Unicorn_Stump "Unicorn Stump") [Unicorn Stump](/wiki/Unicorn_Stump "Unicorn Stump"): Provides invincibility during which enemies can be touched.
+* (Added in Repentance)[![image](/image/Lodestone.png)](/wiki/Lodestone "Lodestone") [Lodestone](/wiki/Lodestone "Lodestone"): If an enemy is hit by a lodestone tear perfectly simultaneously with it being turned into poop, the resulting poop will be tinted black and have a lodestone aura that sucks in enemies. This poop will return to normal after a few seconds.
 * (Added in Repentance) [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten"): The body will turn enemies into poop on contact.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * (Added in Afterbirth)[(Brown Cap)](/wiki/Brown_Cap "Brown Cap") [Brown Cap](/wiki/Brown_Cap "Brown Cap"): The generated poops are affected and will explode when destroyed.
-* (Added in Afterbirth †)[(Hallowed Ground)](/wiki/Hallowed_Ground "Hallowed Ground") [Hallowed Ground](/wiki/Hallowed_Ground "Hallowed Ground"): The generated poops cannot be white.
+* (Added in Afterbirth †)[![image](/image/Hallowed_Ground.png)](/wiki/Hallowed_Ground "Hallowed Ground") [Hallowed Ground](/wiki/Hallowed_Ground "Hallowed Ground"): The generated poops cannot be white.
 * (Added in Afterbirth †)[(Meconium)](/wiki/Meconium "Meconium") [Meconium](/wiki/Meconium "Meconium"): The generated poops cannot be black.
-* (Added in Afterbirth)[(Serpent's Kiss)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss") / [(The Virus)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus"): The poops won't drop Black Hearts, negating the touch effect from these items on non-bosses.
+* (Added in Afterbirth)[![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss") / [![image](/image/The_Virus.png)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus"): The poops won't drop Black Hearts, negating the touch effect from these items on non-bosses.
 
 

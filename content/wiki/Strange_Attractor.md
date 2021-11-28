@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Strange Attractor ![image](/image/Strange_Attractor.png) 
+
+
+Effect
 --------
 
 

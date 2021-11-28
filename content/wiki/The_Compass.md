@@ -1,14 +1,17 @@
 +++
 +++
 
-Effects[]
+ # The Compass ![image](/image/The_Compass.png) 
+
+
+Effects
 ---------
 
 
 * Reveals the locations and types of all special rooms on the map, except (Secret Room) [Secret Rooms](/wiki/Secret_Room "Secret Room") and (Super Secret Room) [Super Secret Rooms](/wiki/Super_Secret_Room "Super Secret Room").
 
 
-Notes[]
+Notes
 -------
 
 
@@ -34,7 +37,7 @@ Notes[]
 
 
 
-* When combined with [(Blue Map)](/wiki/Blue_Map "Blue Map") [Blue Map](/wiki/Blue_Map "Blue Map") and [(Treasure Map)](/wiki/Treasure_Map "Treasure Map") [Treasure Map](/wiki/Treasure_Map "Treasure Map"), the entire floor is revealed, identical to the effect of [(The Mind)](/wiki/The_Mind "The Mind") [The Mind](/wiki/The_Mind "The Mind").
+* When combined with [![image](/image/Blue_Map.png)](/wiki/Blue_Map "Blue Map") [Blue Map](/wiki/Blue_Map "Blue Map") and [![image](/image/Treasure_Map.png)](/wiki/Treasure_Map "Treasure Map") [Treasure Map](/wiki/Treasure_Map "Treasure Map"), the entire floor is revealed, identical to the effect of [![image](/image/The_Mind.png)](/wiki/The_Mind "The Mind") [The Mind](/wiki/The_Mind "The Mind").
 * The Compass will reveal if [Greed](/wiki/Greed "Greed") / [Super Greed](/wiki/Super_Greed "Super Greed") had replaced the (Shop) [Shop](/wiki/Shop "Shop") by displaying a (Mini-Boss Room) [Mini-Boss Room](/wiki/Mini-Boss_Room "Mini-Boss Room") icon alongside the Shop icon. It might also reveal if Greed is present in a (Secret Room) [Secret Room](/wiki/Secret_Room "Secret Room"), and thus, the location of the Secret Room itself.
 
 

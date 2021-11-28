@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # The Battery ![image](/image/The_Battery.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * Significantly shrinks Isaac, allowing him to squeeze between objects and makes some enemy shots pass over him.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -18,11 +21,11 @@ Notes[]
 * The decrease in size makes dodging certain tear effects easier, most notably [Hush](/wiki/Hush "Hush")'s continuum tears, and [Dogma](/wiki/Dogma "Dogma")'s feather attacks from their respective second phases.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-[(Dr. Fetus)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Drops the bombs' range drastically despite no change in the [range](/wiki/Range "Range") stat, greatly increasing chance of self-damage. Range ups do not mitigate the effect.
+[![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Drops the bombs' range drastically despite no change in the [range](/wiki/Range "Range") stat, greatly increasing chance of self-damage. Range ups do not mitigate the effect.
 
 
 

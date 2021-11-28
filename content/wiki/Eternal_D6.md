@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Eternal D6 ![image](/image/Eternal_D6.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 	+ Each item rerolled has a 30% chance to disappear.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -19,10 +22,10 @@ Notes[]
 * [Luck](/wiki/Luck "Luck") has no effect on the item.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): 50% to spawn an eternal white glowing wisp, on the middle ring, which cannot be destroyed. Every use has a 50% chance to destroy all the wisps instead of spawning another. Does not affect wisps other than the ones made by this item. Rerolling items does not affect this chance.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): 50% to spawn an eternal white glowing wisp, on the middle ring, which cannot be destroyed. Every use has a 50% chance to destroy all the wisps instead of spawning another. Does not affect wisps other than the ones made by this item. Rerolling items does not affect this chance.
 
 

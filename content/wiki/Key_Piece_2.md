@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Key Piece 2 ![image](/image/Key_Piece_2.png) 
+
+
+Effects
 ---------
 
 
@@ -9,19 +12,19 @@ Effects[]
 * Grants [piercing tears](/wiki/Piercing_tears "Piercing tears").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Lost Contact)](/wiki/Lost_Contact "Lost Contact") [Lost Contact](/wiki/Lost_Contact "Lost Contact"): Tears will pierce right through enemy projectiles, deleting them. A very strong offensive/defensive combo.
+* [![image](/image/Lost_Contact.png)](/wiki/Lost_Contact "Lost Contact") [Lost Contact](/wiki/Lost_Contact "Lost Contact"): Tears will pierce right through enemy projectiles, deleting them. A very strong offensive/defensive combo.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth)[(8 Inch Nails)](/wiki/8_Inch_Nails "8 Inch Nails") [8 Inch Nails](/wiki/8_Inch_Nails "8 Inch Nails"): Knockback overridden by Sagittarius.
+* (Added in Afterbirth)[![image](/image/8_Inch_Nails.png)](/wiki/8_Inch_Nails "8 Inch Nails") [8 Inch Nails](/wiki/8_Inch_Nails "8 Inch Nails"): Knockback overridden by Sagittarius.
 * (Added in Afterbirth)[(Blister)](/wiki/Blister "Blister") [Blister](/wiki/Blister "Blister"): Overridden by Sagittarius.
-* [(Pisces)](/wiki/Pisces "Pisces") [Pisces](/wiki/Pisces "Pisces"): Knockback overridden by Sagittarius.
+* [![image](/image/Pisces.png)](/wiki/Pisces "Pisces") [Pisces](/wiki/Pisces "Pisces"): Knockback overridden by Sagittarius.
 
 

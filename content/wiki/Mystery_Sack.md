@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mystery Sack ![image](/image/Mystery_Sack.png) 
+
+
+Effects
 ---------
 
 
@@ -9,14 +12,14 @@ Effects[]
 * (Added in Repentance) It is possible to loosely influence the direction teleported in by moving in that direction before using Teleport.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns blue wisps in the middle ring. Wisps' tears have a 10% chance of teleporting non-boss enemies to a random location in the current room on hit. Wisps also temporarily vanish every 5 seconds, preventing them from blocking shots or taking/dealing damage.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns blue wisps in the middle ring. Wisps' tears have a 10% chance of teleporting non-boss enemies to a random location in the current room on hit. Wisps also temporarily vanish every 5 seconds, preventing them from blocking shots or taking/dealing damage.
 
 
-Notes[]
+Notes
 -------
 
 

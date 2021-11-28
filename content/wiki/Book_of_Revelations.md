@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Book of Revelations ![image](/image/Book_of_Revelations.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * (Added in Afterbirth †) This item belongs to the [Bookworm](/wiki/Bookworm "Bookworm") set. Collecting three items from this set will transform Isaac into Bookworm.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -37,10 +40,10 @@ The [Harbingers](/wiki/Harbingers "Harbingers") capable of appearing, and the fl
 * (Added in Repentance) This item will replace [(Mother)](/wiki/Mother "Mother") [Mother](/wiki/Mother "Mother") with Death or Conquest during the [Red Redemption](/wiki/Red_Redemption "Red Redemption") [challenge](/wiki/Challenge "Challenge").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Creates wisps in the inner ring, resembling tiny crosses that do not fire tears. The wisps create Harbinger [Locusts](/wiki/Locusts "Locusts") (the same ones that [(7 Seals)](/wiki/7_Seals "7 Seals") [7 Seals](/wiki/7_Seals "7 Seals") create) for the current room when destroyed.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Creates wisps in the inner ring, resembling tiny crosses that do not fire tears. The wisps create Harbinger [Locusts](/wiki/Locusts "Locusts") (the same ones that [![image](/image/7_Seals.png)](/wiki/7_Seals "7 Seals") [7 Seals](/wiki/7_Seals "7 Seals") create) for the current room when destroyed.
 
 

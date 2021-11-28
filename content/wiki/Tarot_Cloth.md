@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Tarot Cloth ![image](/image/Tarot_Cloth.png) 
+
+
+Effects
 ---------
 
 
@@ -10,14 +13,14 @@ Effects[]
 	+ (Added in Repentance) Adds an extra effect to certain tarot cards.
 
 
-### Effects[]
+### Effects
 
 
 **Items not listed do not benefit from Tarot Cloth.**
 
 
 
-* (Added in Repentance)[(I - The Magician)](/wiki/Cards_and_Runes "I - The Magician") [I - The Magician](/wiki/Cards_and_Runes "Cards and Runes"): Gives [(The Book of Belial)](/wiki/The_Book_of_Belial "The Book of Belial") [The Book of Belial](/wiki/The_Book_of_Belial "The Book of Belial") effect on top of homing.
+* (Added in Repentance)[(I - The Magician)](/wiki/Cards_and_Runes "I - The Magician") [I - The Magician](/wiki/Cards_and_Runes "Cards and Runes"): Gives [![image](/image/The_Book_of_Belial.png)](/wiki/The_Book_of_Belial "The Book of Belial") [The Book of Belial](/wiki/The_Book_of_Belial "The Book of Belial") effect on top of homing.
 * (Added in Repentance)[(II - The High Priestess)](/wiki/Cards_and_Runes "II - The High Priestess") [II - The High Priestess](/wiki/Cards_and_Runes "Cards and Runes"): Another foot strikes down shortly after the first.
 * [(III - The Empress)](/wiki/Cards_and_Runes "III - The Empress") [III - The Empress](/wiki/Cards_and_Runes "Cards and Runes"): Quadruples the stat increases.
 * (Added in Repentance)[(IV - The Emperor)](/wiki/Cards_and_Runes "IV - The Emperor") [IV - The Emperor](/wiki/Cards_and_Runes "Cards and Runes"): If the boss has not yet been defeated, grants a soul heart on top of teleporting Isaac.
@@ -32,7 +35,7 @@ Effects[]
 * [(XIV - Temperance)](/wiki/Cards_and_Runes "XIV - Temperance") [XIV - Temperance](/wiki/Cards_and_Runes "Cards and Runes"): Spawns two Blood Donation Machines.
 * (Added in Repentance)[(XV - The Devil)](/wiki/Cards_and_Runes "XV - The Devil") [XV - The Devil](/wiki/Cards_and_Runes "Cards and Runes"): Damage increase is doubled.
 * [(XVI - The Tower)](/wiki/Cards_and_Runes "XVI - The Tower") [XVI - The Tower](/wiki/Cards_and_Runes "Cards and Runes"): Spawns 12 Troll Bombs.
-* (Added in Repentance)[(XVII - The Stars)](/wiki/Cards_and_Runes "XVII - The Stars") [XVII - The Stars](/wiki/Cards_and_Runes "Cards and Runes"): If the treasure room was not entered before, it will have two items to choose from, as if [(More Options)](/wiki/More_Options "More Options") [More Options](/wiki/More_Options "More Options") was active. This will not work if the card teleports you to a [Planetarium](/wiki/Planetarium "Planetarium").
+* (Added in Repentance)[(XVII - The Stars)](/wiki/Cards_and_Runes "XVII - The Stars") [XVII - The Stars](/wiki/Cards_and_Runes "Cards and Runes"): If the treasure room was not entered before, it will have two items to choose from, as if [![image](/image/More_Options.png)](/wiki/More_Options "More Options") [More Options](/wiki/More_Options "More Options") was active. This will not work if the card teleports you to a [Planetarium](/wiki/Planetarium "Planetarium").
 * [(XIX - The Sun)](/wiki/Cards_and_Runes "XIX - The Sun") [XIX - The Sun](/wiki/Cards_and_Runes "Cards and Runes"): Deals 200 damage to all enemies in the room.
 * [(XX - Judgement)](/wiki/Cards_and_Runes "XX - Judgement") [XX - Judgement](/wiki/Cards_and_Runes "Cards and Runes"): Spawns two Beggars.
 * (Removed in Repentance)[(2 of Clubs)](/wiki/Cards_and_Runes "2 of Clubs") [2 of Clubs](/wiki/Cards_and_Runes "Cards and Runes"): Quadruples Isaac's bombs.
@@ -49,7 +52,7 @@ Effects[]
 * (Removed in Repentance)[(Rune of Perthro)](/wiki/Cards_and_Runes "Rune of Perthro") [Rune of Perthro](/wiki/Cards_and_Runes "Cards and Runes"): Instantly re-rolls items twice, essentially removing an extra item from the item pool.
 * (Removed in Repentance)[(Blank Rune)](/wiki/Cards_and_Runes "Blank Rune") [Blank Rune](/wiki/Cards_and_Runes "Cards and Runes"): Activates two random rune effects. Attempts to spawn additional Blank Rune twice.
 * (Removed in Repentance)[(Black Rune)](/wiki/Cards_and_Runes "Black Rune") [Black Rune](/wiki/Cards_and_Runes "Cards and Runes"): Deals 80 damage to all enemies in the room. Other effects are unchanged.
-* (Added in Repentance)[(0 - The Fool?)](/wiki/Cards_and_Runes "0 - The Fool?") [0 - The Fool?](/wiki/Cards_and_Runes "Cards and Runes"): Drops 6 random items on the floor, alongside pickups. Does not affect quest items (e.g. [(The Polaroid)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid")) or [(Missing No.)](/wiki/Missing_No. "Missing No.") [Missing No.](/wiki/Missing_No. "Missing No.")
+* (Added in Repentance)[(0 - The Fool?)](/wiki/Cards_and_Runes "0 - The Fool?") [0 - The Fool?](/wiki/Cards_and_Runes "Cards and Runes"): Drops 6 random items on the floor, alongside pickups. Does not affect quest items (e.g. [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid")) or [![image](/image/Missing_No..png)](/wiki/Missing_No. "Missing No.") [Missing No.](/wiki/Missing_No. "Missing No.")
 * (Added in Repentance)[(III - The Empress?)](/wiki/Cards_and_Runes "III - The Empress?") [III - The Empress?](/wiki/Cards_and_Runes "Cards and Runes"): Adds a total of three temporary heart containers.
 * (Added in Repentance)[(V - The Hierophant?)](/wiki/Cards_and_Runes "V - The Hierophant?") [V - The Hierophant?](/wiki/Cards_and_Runes "Cards and Runes"): Spawns 3 bone hearts.
 * (Added in Repentance)[(VI - The Lovers?)](/wiki/Cards_and_Runes "VI - The Lovers?") [VI - The Lovers?](/wiki/Cards_and_Runes "Cards and Runes"): Adds 4 broken hearts and spawns 4 items (2 of each with Blank Card).
@@ -63,11 +66,11 @@ Effects[]
 * (Added in Repentance)[(XX - Judgement?)](/wiki/Cards_and_Runes "XX - Judgement?") [XX - Judgement?](/wiki/Cards_and_Runes "Cards and Runes"): Spawns 2 restock machines (1 with Blank Card).
 
 
-Notes[]
+Notes
 -------
 
 
-* (Removed in Repentance)Tarot Cloth's effect also applies to card effects used through [(Blank Card)](/wiki/Blank_Card "Blank Card") [Blank Card](/wiki/Blank_Card "Blank Card").
-	+ (Removed in Repentance) As a result, using the Blank Card in conjunction with the [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery") will cause the effect of the active card to quadruple, instead of double.
+* (Removed in Repentance)Tarot Cloth's effect also applies to card effects used through [![image](/image/Blank_Card.png)](/wiki/Blank_Card "Blank Card") [Blank Card](/wiki/Blank_Card "Blank Card").
+	+ (Removed in Repentance) As a result, using the Blank Card in conjunction with the [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery") will cause the effect of the active card to quadruple, instead of double.
 
 

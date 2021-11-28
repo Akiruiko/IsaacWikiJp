@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # Smart Fly ![image](/image/Smart_Fly.png) 
+
+
+Effect
 --------
 
 
@@ -12,7 +15,7 @@ Effect[]
 * This item belongs to the [Beelzebub](/wiki/Beelzebub "Beelzebub") set. Collecting three items from this set will transform Isaac into a giant humanoid fly.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -20,7 +23,7 @@ Notes[]
 * While behaving like an orbital, Smart Fly will break away from Isaac if he is traveling fast enough and will follow Isaac until he slows down enough to reattach. This is the only orbital item in the game that exhibits such behavior.
 
 
-Interactions[]
+Interactions
 --------------
 
 

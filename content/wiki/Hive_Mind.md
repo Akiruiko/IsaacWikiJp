@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Hive Mind ![image](/image/Hive_Mind.png) 
+
+
+Effects
 ---------
 
 
@@ -17,7 +20,7 @@ Effects[]
 	+ A [(Confessional.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/1d/Confessional.png/revision/latest?cb=20210824103001) [Confessional](/wiki/Machines#Confessional "Machines"), if it has been unlocked.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -25,24 +28,24 @@ Notes[]
 
 
 
-* [(The Body)](/wiki/The_Body "The Body") [The Body](/wiki/The_Body "The Body")
-* [(Crown of Light)](/wiki/Crown_of_Light "Crown of Light") [Crown of Light](/wiki/Crown_of_Light "Crown of Light")
-* [(Dead Dove)](/wiki/Dead_Dove "Dead Dove") [Dead Dove](/wiki/Dead_Dove "Dead Dove")
-* [(Godhead)](/wiki/Godhead "Godhead") [Godhead](/wiki/Godhead "Godhead")
-* [(Holy Grail)](/wiki/Holy_Grail "Holy Grail") [Holy Grail](/wiki/Holy_Grail "Holy Grail")
-* [(Holy Mantle)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle")
-* [(Immaculate Heart)](/wiki/Immaculate_Heart "Immaculate Heart") [Immaculate Heart](/wiki/Immaculate_Heart "Immaculate Heart")
-* [(The Mind)](/wiki/The_Mind "The Mind") [The Mind](/wiki/The_Mind "The Mind")
-* [(Paschal Candle)](/wiki/Paschal_Candle "Paschal Candle") [Paschal Candle](/wiki/Paschal_Candle "Paschal Candle")
-* [(Prayer Card)](/wiki/Prayer_Card "Prayer Card") [Prayer Card](/wiki/Prayer_Card "Prayer Card")
-* [(The Relic)](/wiki/The_Relic "The Relic") [The Relic](/wiki/The_Relic "The Relic")
-* [(Revelation)](/wiki/Revelation "Revelation") [Revelation](/wiki/Revelation "Revelation")
-* [(Sacred Heart)](/wiki/Sacred_Heart "Sacred Heart") [Sacred Heart](/wiki/Sacred_Heart "Sacred Heart")
-* [(Sacred Orb)](/wiki/Sacred_Orb "Sacred Orb") [Sacred Orb](/wiki/Sacred_Orb "Sacred Orb")
-* [(The Soul)](/wiki/The_Soul "The Soul") [The Soul](/wiki/The_Soul "The Soul")
-* [(Spirit Sword)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword")
-* [(Trinity Shield)](/wiki/Trinity_Shield "Trinity Shield") [Trinity Shield](/wiki/Trinity_Shield "Trinity Shield")
-* [(The Wafer)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer")
+* [![image](/image/The_Body.png)](/wiki/The_Body "The Body") [The Body](/wiki/The_Body "The Body")
+* [![image](/image/Crown_of_Light.png)](/wiki/Crown_of_Light "Crown of Light") [Crown of Light](/wiki/Crown_of_Light "Crown of Light")
+* [![image](/image/Dead_Dove.png)](/wiki/Dead_Dove "Dead Dove") [Dead Dove](/wiki/Dead_Dove "Dead Dove")
+* [![image](/image/Godhead.png)](/wiki/Godhead "Godhead") [Godhead](/wiki/Godhead "Godhead")
+* [![image](/image/Holy_Grail.png)](/wiki/Holy_Grail "Holy Grail") [Holy Grail](/wiki/Holy_Grail "Holy Grail")
+* [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle")
+* [![image](/image/Immaculate_Heart.png)](/wiki/Immaculate_Heart "Immaculate Heart") [Immaculate Heart](/wiki/Immaculate_Heart "Immaculate Heart")
+* [![image](/image/The_Mind.png)](/wiki/The_Mind "The Mind") [The Mind](/wiki/The_Mind "The Mind")
+* [![image](/image/Paschal_Candle.png)](/wiki/Paschal_Candle "Paschal Candle") [Paschal Candle](/wiki/Paschal_Candle "Paschal Candle")
+* [![image](/image/Prayer_Card.png)](/wiki/Prayer_Card "Prayer Card") [Prayer Card](/wiki/Prayer_Card "Prayer Card")
+* [![image](/image/The_Relic.png)](/wiki/The_Relic "The Relic") [The Relic](/wiki/The_Relic "The Relic")
+* [![image](/image/Revelation.png)](/wiki/Revelation "Revelation") [Revelation](/wiki/Revelation "Revelation")
+* [![image](/image/Sacred_Heart.png)](/wiki/Sacred_Heart "Sacred Heart") [Sacred Heart](/wiki/Sacred_Heart "Sacred Heart")
+* [![image](/image/Sacred_Orb.png)](/wiki/Sacred_Orb "Sacred Orb") [Sacred Orb](/wiki/Sacred_Orb "Sacred Orb")
+* [![image](/image/The_Soul.png)](/wiki/The_Soul "The Soul") [The Soul](/wiki/The_Soul "The Soul")
+* [![image](/image/Spirit_Sword.png)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword")
+* [![image](/image/Trinity_Shield.png)](/wiki/Trinity_Shield "Trinity Shield") [Trinity Shield](/wiki/Trinity_Shield "Trinity Shield")
+* [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer")
 
 
 
@@ -55,14 +58,14 @@ Notes[]
 * Since a beggar always spawns immediately to the right of the entrance way, caution should be taken to avoid accidental donation.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * [(Adoption Papers)](/wiki/Adoption_Papers "Adoption Papers") [Adoption Papers](/wiki/Adoption_Papers "Adoption Papers"): Does not affect the Angel shop.
-* [(Coupon)](/wiki/Coupon "Coupon") [Coupon](/wiki/Coupon "Coupon") / [(Credit Card)](/wiki/Credit_Card "Credit Card") [Credit Card](/wiki/Credit_Card "Credit Card"): Can be used to obtain items for free.
-* [(Keeper's Sack)](/wiki/Keeper%27s_Sack "Keeper's Sack") [Keeper's Sack](/wiki/Keeper%27s_Sack "Keeper's Sack"): Buying items grants stats, same as with other shops.
-* [(Restock)](/wiki/Restock "Restock") [Restock](/wiki/Restock "Restock") / [(Store Credit)](/wiki/Store_Credit "Store Credit") [Store Credit](/wiki/Store_Credit "Store Credit"): No effect in the Angel shop.
-* [(Steam Sale)](/wiki/Steam_Sale "Steam Sale") [Steam Sale](/wiki/Steam_Sale "Steam Sale"): Reduces the prices of the items on offer.
+* [![image](/image/Coupon.png)](/wiki/Coupon "Coupon") [Coupon](/wiki/Coupon "Coupon") / [(Credit Card)](/wiki/Credit_Card "Credit Card") [Credit Card](/wiki/Credit_Card "Credit Card"): Can be used to obtain items for free.
+* [![image](/image/Keeper%27s_Sack.png)](/wiki/Keeper%27s_Sack "Keeper's Sack") [Keeper's Sack](/wiki/Keeper%27s_Sack "Keeper's Sack"): Buying items grants stats, same as with other shops.
+* [![image](/image/Restock.png)](/wiki/Restock "Restock") [Restock](/wiki/Restock "Restock") / [(Store Credit)](/wiki/Store_Credit "Store Credit") [Store Credit](/wiki/Store_Credit "Store Credit"): No effect in the Angel shop.
+* [![image](/image/Steam_Sale.png)](/wiki/Steam_Sale "Steam Sale") [Steam Sale](/wiki/Steam_Sale "Steam Sale"): Reduces the prices of the items on offer.
 
 

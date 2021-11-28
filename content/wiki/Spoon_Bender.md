@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Spoon Bender ![image](/image/Spoon_Bender.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * (Added in Repentance) Will attempt to re-roll monsters into ones with a similar amount of HP.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -24,14 +27,14 @@ Notes[]
 * Using this item, then exiting the room, such as by teleporting or a bombed door, will cause the enemies to be in their original forms upon Isaac's return.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns orange wisps in the middle ring. Tears shot from these wisps have a 10% chance to reroll enemies on hit.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns orange wisps in the middle ring. Tears shot from these wisps have a 10% chance to reroll enemies on hit.
 
 
-Interactions[]
+Interactions
 --------------
 
 

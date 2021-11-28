@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Placenta ![image](/image/Placenta.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 * (Added in Repentance) Heals 1 additional heart of [health](/wiki/Health "Health").
 
 
-Notes[]
+Notes
 -------
 
 
@@ -22,18 +25,18 @@ Notes[]
 	+ Consequently, characters with no applicable health --  [(???)](/wiki/%3F%3F%3F_(Character) "???") [???](/wiki/%3F%3F%3F_(Character) "??? (Character)"),  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost"),  [(Dark Judas)](/wiki/Dark_Judas "Dark Judas") [Dark Judas](/wiki/Dark_Judas "Dark Judas"),  [(Tainted Bethany)](/wiki/Tainted_Bethany "Tainted Bethany") [Tainted Bethany](/wiki/Tainted_Bethany "Tainted Bethany"),  [(Tainted Judas)](/wiki/Tainted_Judas "Tainted Judas") [Tainted Judas](/wiki/Tainted_Judas "Tainted Judas"), and  [(Tainted Lost)](/wiki/Tainted_Lost "Tainted Lost") [Tainted Lost](/wiki/Tainted_Lost "Tainted Lost") -- do not benefit from the effect.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Blood Oath)](/wiki/Blood_Oath "Blood Oath") [Blood Oath](/wiki/Blood_Oath "Blood Oath"): With enough patience, health can be safely restored each floor by waiting in the starting room.
-* [(Gnawed Leaf)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): Regeneration works while turned to stone, allowing Isaac to become invincible and regenerate while in any room.
+* (Added in Repentance)[![image](/image/Blood_Oath.png)](/wiki/Blood_Oath "Blood Oath") [Blood Oath](/wiki/Blood_Oath "Blood Oath"): With enough patience, health can be safely restored each floor by waiting in the starting room.
+* [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): Regeneration works while turned to stone, allowing Isaac to become invincible and regenerate while in any room.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Maggy's Bow)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): No effect on regen.
+* [![image](/image/Maggy%27s_Bow.png)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): No effect on regen.
 
 

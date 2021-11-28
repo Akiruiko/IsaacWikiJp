@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Incubus ![image](/image/Incubus.png) 
+
+
+Effects
 ---------
 
 

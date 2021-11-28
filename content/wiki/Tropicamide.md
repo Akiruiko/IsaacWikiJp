@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Tropicamide ![image](/image/Tropicamide.png) 
+
+
+Effects
 ---------
 
 
@@ -9,11 +12,11 @@ Effects[]
 * Increases tear size.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Brimstone)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") / [(Dr. Fetus)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): No effect. Range of  [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel")'s Brimstone is still increased.
-* [(Technology)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Laser size is increased.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") / [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): No effect. Range of  [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel")'s Brimstone is still increased.
+* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Laser size is increased.
 
 

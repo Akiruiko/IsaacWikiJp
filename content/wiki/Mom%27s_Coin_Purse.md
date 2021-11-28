@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mom's Coin Purse ![image](/image/Mom%27s_Coin_Purse.png) 
+
+
+Effects
 ---------
 
 
@@ -9,14 +12,14 @@ Effects[]
 * Fully restores Isaac's red [health](/wiki/Health "Health"). Does not affect [soul](/wiki/Health#Soul_Hearts "Health") and [black hearts](/wiki/Health#Black_Hearts "Health").
 
 
-Notes[]
+Notes
 -------
 
 
 * This item can drop from [(Gluttony)](/wiki/Gluttony "Gluttony") [Gluttony](/wiki/Gluttony "Gluttony").
 
 
-Interactions[]
+Interactions
 --------------
 
 

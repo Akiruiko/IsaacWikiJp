@@ -1,15 +1,18 @@
 +++
 +++
 
-Effects[]
+ # Star of Bethlehem ![image](/image/Star_of_Bethlehem.png) 
+
+
+Effects
 ---------
 
 
 * Spawns a star [familiar](/wiki/Familiar "Familiar") that slowly travels toward the boss room, fading through doors as it travels towards it. Once it reaches the boss room, the familiar stands in the center of the boss room for the rest of the floor.
-* The familiar emits an aura that, while Isaac stands inside it, gives him +1 [damage](/wiki/Damage "Damage"), a 1.2x damage multiplier, a 0.4x [tear delay](/wiki/Tear_delay "Tear delay") multiplier, and [homing tears](/wiki/Tear_Effects#Homing "Tear Effects"). It also gives Isaac a chance to block damage similar to [(Cone Head)](/wiki/Cone_Head "Cone Head") [Cone Head](/wiki/Cone_Head "Cone Head").
+* The familiar emits an aura that, while Isaac stands inside it, gives him +1 [damage](/wiki/Damage "Damage"), a 1.2x damage multiplier, a 0.4x [tear delay](/wiki/Tear_delay "Tear delay") multiplier, and [homing tears](/wiki/Tear_Effects#Homing "Tear Effects"). It also gives Isaac a chance to block damage similar to [![image](/image/Cone_Head.png)](/wiki/Cone_Head "Cone Head") [Cone Head](/wiki/Cone_Head "Cone Head").
 
 
-Notes[]
+Notes
 -------
 
 
@@ -26,6 +29,6 @@ Notes[]
 * If either  [(Tainted Lazarus)](/wiki/Tainted_Lazarus "Tainted Lazarus") [Tainted Lazarus](/wiki/Tainted_Lazarus "Tainted Lazarus") or  [(Dead Tainted Lazarus)](/wiki/Dead_Tainted_Lazarus "Dead Tainted Lazarus") [Dead Tainted Lazarus](/wiki/Dead_Tainted_Lazarus "Dead Tainted Lazarus") have picked up the star, the familiar will spawn in the same room the flip to its owner occurs, instead of continuing where it had previously left off. So flipping before or inside the boss room could be a viable way to guarantee the bonus during the fight, quite possibly in a faster manner as well since the star won't have to move through the entire floor.
 * During the [Backasswards](/wiki/Backasswards "Backasswards") Challenge, the star acts as usual; originating in the starting room and gradually moving towards the boss room.
 * The star will be copied in the [Mirrored World](/wiki/Mirrored_World "Mirrored World") and will simultaneously travel in both worlds.
-* Entering and leaving the [(Knife Piece 2)](/wiki/Knife_Piece_2 "Knife Piece 2") [Knife Piece 2](/wiki/Knife_Piece_2 "Knife Piece 2") area will reset the star and make it reappear in the room with the minecart.
+* Entering and leaving the [![image](/image/Knife_Piece_2.png)](/wiki/Knife_Piece_2 "Knife Piece 2") [Knife Piece 2](/wiki/Knife_Piece_2 "Knife Piece 2") area will reset the star and make it reappear in the room with the minecart.
 
 

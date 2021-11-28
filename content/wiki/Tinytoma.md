@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Tinytoma ![image](/image/Tinytoma.png) 
+
+
+Effects
 ---------
 
 

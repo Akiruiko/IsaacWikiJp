@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # The Parasite ![image](/image/The_Parasite.png) 
+
+
+Effects
 ---------
 
 

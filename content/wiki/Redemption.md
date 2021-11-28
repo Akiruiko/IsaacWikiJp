@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Redemption ![image](/image/Redemption.png) 
+
+
+Effects
 ---------
 
 
@@ -9,33 +12,33 @@ Effects[]
 	+ Opening [Red Chests](/wiki/Red_Chest "Red Chest") will also make the icon go away.
 		- However, getting an item from a Red Chest will keep the icon.
 		- Opening Red Chests that have been spawned after room generation, e.g. as a room clear reward or enemy drop, won't remove the icon.
-	+ Taking [(A Lump of Coal)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal") or [(Head of Krampus)](/wiki/Head_of_Krampus "Head of Krampus") [Head of Krampus](/wiki/Head_of_Krampus "Head of Krampus") after [Krampus](/wiki/Krampus "Krampus") fight will keep the icon.
+	+ Taking [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal") or [![image](/image/Head_of_Krampus.png)](/wiki/Head_of_Krampus "Head of Krampus") [Head of Krampus](/wiki/Head_of_Krampus "Head of Krampus") after [Krampus](/wiki/Krampus "Krampus") fight will keep the icon.
 * If Isaac goes to the next floor with the icon still above his head, he will gain a [soul heart](/wiki/Health#Soul_Hearts "Health") and +1.0 [damage](/wiki/Damage "Damage").
 
 
-Notes[]
+Notes
 -------
 
 
 * After Isaac has taken a [Devil Deal](/wiki/Devil_Room#Deals_with_the_Devil "Devil Room"), while a [Confessional](/wiki/Machines#Confessional "Machines") or [Sacrifice Room](/wiki/Sacrifice_Room "Sacrifice Room") would give an [Angel Room item](/wiki/Angel_Room_(Item_Pool) "Angel Room (Item Pool)"), it will instead spawn Redemption. This is the only way Redemption can be naturally generated during a run.
-	+ Other reliable ways includes using [(Death Certificate)](/wiki/Death_Certificate "Death Certificate") [Death Certificate](/wiki/Death_Certificate "Death Certificate"), or using [(Spindown Dice)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice") on [(Spirit Shackles)](/wiki/Spirit_Shackles "Spirit Shackles") [Spirit Shackles](/wiki/Spirit_Shackles "Spirit Shackles").
-	+ Redemption has a small chance to be a starting item as  [(Eden)](/wiki/Eden "Eden") [Eden](/wiki/Eden "Eden"),  [(Tainted Eden)](/wiki/Tainted_Eden "Tainted Eden") [Tainted Eden](/wiki/Tainted_Eden "Tainted Eden"), or any character with [(Eden's Blessing)](/wiki/Eden%27s_Blessing "Eden's Blessing") [Eden's Blessing](/wiki/Eden%27s_Blessing "Eden's Blessing").
-	+ Using [(Birthright)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") as  [(Eden)](/wiki/Eden "Eden") [Eden](/wiki/Eden "Eden") has a small chance to spawn Redemption.
-	+ If [(Act of Contrition)](/wiki/Act_of_Contrition "Act of Contrition") [Act of Contrition](/wiki/Act_of_Contrition "Act of Contrition") was taken after taking a Devil Deal, Redemption is not guaranteed to spawn.
+	+ Other reliable ways includes using [![image](/image/Death_Certificate.png)](/wiki/Death_Certificate "Death Certificate") [Death Certificate](/wiki/Death_Certificate "Death Certificate"), or using [![image](/image/Spindown_Dice.png)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice") on [![image](/image/Spirit_Shackles.png)](/wiki/Spirit_Shackles "Spirit Shackles") [Spirit Shackles](/wiki/Spirit_Shackles "Spirit Shackles").
+	+ Redemption has a small chance to be a starting item as  [(Eden)](/wiki/Eden "Eden") [Eden](/wiki/Eden "Eden"),  [(Tainted Eden)](/wiki/Tainted_Eden "Tainted Eden") [Tainted Eden](/wiki/Tainted_Eden "Tainted Eden"), or any character with [![image](/image/Eden%27s_Blessing.png)](/wiki/Eden%27s_Blessing "Eden's Blessing") [Eden's Blessing](/wiki/Eden%27s_Blessing "Eden's Blessing").
+	+ Using [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") as  [(Eden)](/wiki/Eden "Eden") [Eden](/wiki/Eden "Eden") has a small chance to spawn Redemption.
+	+ If [![image](/image/Act_of_Contrition.png)](/wiki/Act_of_Contrition "Act of Contrition") [Act of Contrition](/wiki/Act_of_Contrition "Act of Contrition") was taken after taking a Devil Deal, Redemption is not guaranteed to spawn.
 * Picking up items made free through usage of items such as Coupon or a Credit Card will still remove the icon and provide no benefit.
 	+ However picking up free active item and swapping it with one you have will not affect the icon.
 * Red Treasure Rooms created by [(Devil's Crown)](/wiki/Devil%27s_Crown "Devil's Crown") [Devil's Crown](/wiki/Devil%27s_Crown "Devil's Crown") also count as Devil Rooms for the purposes of this item.
 * Taking pickups dropped by [Fire Places](/wiki/Fire_Places "Fire Places") will not remove the cross.
 * Taking items inside the Devil Room spawned by [Devil Beggars](/wiki/Devil_Beggar "Devil Beggar") will not remove the cross.
 * Taking items from a [Black Market](/wiki/Black_Market "Black Market") will not remove the cross.
-* Taking the boss's item affected by [(Satanic Bible)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible") will remove the cross.
+* Taking the boss's item affected by [![image](/image/Satanic_Bible.png)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible") will remove the cross.
 * When playing as  [(Tainted Lazarus)](/wiki/Tainted_Lazarus "Tainted Lazarus") [Tainted Lazarus](/wiki/Tainted_Lazarus "Tainted Lazarus"), the holder must enter the Devil room to trigger the cross; it will not work if you transform inside. The character with the inverted cross must be the one to travel to the next floor.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Glowing Hour Glass)](/wiki/Glowing_Hour_Glass "Glowing Hour Glass") [Glowing Hour Glass](/wiki/Glowing_Hour_Glass "Glowing Hour Glass"): +1 damage given by Redemption will persist after time leap to the upper floor, as well as giving another activated Redemption after time leap. The soul heart given by Redemption will only persist if you time leap to the upper floor before Redemption finishes its animation. This will allow to take the Redemption damage buff and soul hearts several times per floor. However, if you can use Glowing Hour Glass two times in a row, in order to get 2 soul hearts, you'll need to leave the boss room before going down the floor the second time.
+* [![image](/image/Glowing_Hour_Glass.png)](/wiki/Glowing_Hour_Glass "Glowing Hour Glass") [Glowing Hour Glass](/wiki/Glowing_Hour_Glass "Glowing Hour Glass"): +1 damage given by Redemption will persist after time leap to the upper floor, as well as giving another activated Redemption after time leap. The soul heart given by Redemption will only persist if you time leap to the upper floor before Redemption finishes its animation. This will allow to take the Redemption damage buff and soul hearts several times per floor. However, if you can use Glowing Hour Glass two times in a row, in order to get 2 soul hearts, you'll need to leave the boss room before going down the floor the second time.
 
 

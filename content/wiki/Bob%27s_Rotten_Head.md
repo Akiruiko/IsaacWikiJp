@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Bob's Rotten Head ![image](/image/Bob%27s_Rotten_Head.png) 
+
+
+Effects
 ---------
 
 
@@ -9,10 +12,10 @@ Effects[]
 * Grants a second trinket slot.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Mom's Purse)](/wiki/Mom%27s_Purse "Mom's Purse") [Mom's Purse](/wiki/Mom%27s_Purse "Mom's Purse"): No effect; Isaac can still only carry two trinkets.
+* [![image](/image/Mom%27s_Purse.png)](/wiki/Mom%27s_Purse "Mom's Purse") [Mom's Purse](/wiki/Mom%27s_Purse "Mom's Purse"): No effect; Isaac can still only carry two trinkets.
 
 

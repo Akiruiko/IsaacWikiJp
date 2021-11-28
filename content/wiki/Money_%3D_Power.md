@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Money = Power ![image](/image/Money_%3D_Power.png) 
+
+
+Effects
 ---------
 
 
@@ -12,20 +15,20 @@ Effects[]
 	+ Picking up multiple copies of this item will not increase the damage bonus.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Deep Pockets)](/wiki/Deep_Pockets "Deep Pockets") [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets"): Increases maximum damage bonus from Money = Power. The damage caps at +39.96 Damage at 999 coins.
-* [(A Dollar)](/wiki/A_Dollar "A Dollar") [A Dollar](/wiki/A_Dollar "A Dollar"): Immediately maxes out damage bonus.
-* [(A Quarter)](/wiki/A_Quarter "A Quarter") [A Quarter](/wiki/A_Quarter "A Quarter"): Increases damage by 1 per 25 coins.
-* (Added in Afterbirth †)[(Greed's Gullet)](/wiki/Greed%27s_Gullet "Greed's Gullet") [Greed's Gullet](/wiki/Greed%27s_Gullet "Greed's Gullet"): Isaac will gain health and damage.
+* (Added in Repentance)[![image](/image/Deep_Pockets.png)](/wiki/Deep_Pockets "Deep Pockets") [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets"): Increases maximum damage bonus from Money = Power. The damage caps at +39.96 Damage at 999 coins.
+* [![image](/image/A_Dollar.png)](/wiki/A_Dollar "A Dollar") [A Dollar](/wiki/A_Dollar "A Dollar"): Immediately maxes out damage bonus.
+* [![image](/image/A_Quarter.png)](/wiki/A_Quarter "A Quarter") [A Quarter](/wiki/A_Quarter "A Quarter"): Increases damage by 1 per 25 coins.
+* (Added in Afterbirth †)[![image](/image/Greed%27s_Gullet.png)](/wiki/Greed%27s_Gullet "Greed's Gullet") [Greed's Gullet](/wiki/Greed%27s_Gullet "Greed's Gullet"): Isaac will gain health and damage.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth)[(Diplopia)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"): Damage bonus doesn't stack.
+* (Added in Afterbirth)[![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"): Damage bonus doesn't stack.
 
 

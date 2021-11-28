@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Rainbow Baby ![image](/image/Rainbow_Baby.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * If the ball is moving fast enough, it will destroy any [obstacles](/wiki/Obstacles#Destructible "Obstacles") it comes into contact with (aside from Iron Blocks).
 
 
-Notes[]
+Notes
 -------
 
 
@@ -17,7 +20,7 @@ Notes[]
 * Cannot be used to open [Secret Rooms](/wiki/Secret_Room "Secret Room") or [Super Secret Rooms](/wiki/Super_Secret_Room "Super Secret Room").
 
 
-Synergies[]
+Synergies
 -----------
 
 

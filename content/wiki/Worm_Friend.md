@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Worm Friend ![image](/image/Worm_Friend.png) 
+
+
+Effects
 ---------
 
 
@@ -10,12 +13,12 @@ Effects[]
 	+ Worm Friend can target and restrain bosses in addition to normal enemies, even including endgame bosses such as [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed").
 
 
-Notes[]
+Notes
 -------
 
 
 * Enemies can avoid/escape being grabbed if they move fast enough, jump, or teleport.
 * Worm friend must wait 5 seconds after losing/killing/releasing its target before it can attack another enemy.
-* When playing as  [(Tainted Lazarus)](/wiki/Tainted_Lazarus "Tainted Lazarus") [Tainted Lazarus](/wiki/Tainted_Lazarus "Tainted Lazarus") /  [(Dead Tainted Lazarus)](/wiki/Dead_Tainted_Lazarus "Dead Tainted Lazarus") [Dead Tainted Lazarus](/wiki/Dead_Tainted_Lazarus "Dead Tainted Lazarus"), entering a room with Worm Friend active and then using [(Flip)](/wiki/Flip "Flip") [Flip](/wiki/Flip "Flip") to swap to the other character will keep Worm Friend active for the remainder of the room.
+* When playing as  [(Tainted Lazarus)](/wiki/Tainted_Lazarus "Tainted Lazarus") [Tainted Lazarus](/wiki/Tainted_Lazarus "Tainted Lazarus") /  [(Dead Tainted Lazarus)](/wiki/Dead_Tainted_Lazarus "Dead Tainted Lazarus") [Dead Tainted Lazarus](/wiki/Dead_Tainted_Lazarus "Dead Tainted Lazarus"), entering a room with Worm Friend active and then using [![image](/image/Flip.png)](/wiki/Flip "Flip") [Flip](/wiki/Flip "Flip") to swap to the other character will keep Worm Friend active for the remainder of the room.
 
 

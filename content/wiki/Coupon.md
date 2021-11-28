@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Coupon ![image](/image/Coupon.png) 
+
+
+Effects
 ---------
 
 
@@ -11,20 +14,20 @@ Effects[]
 * (Added in Repentance) Does not affect [Rotten Hearts](/wiki/Rotten_Hearts "Rotten Hearts").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Candy Heart)](/wiki/Candy_Heart "Candy Heart") [Candy Heart](/wiki/Candy_Heart "Candy Heart"): Doubles the stat boosts from any picked up Heart. Half Red Hearts give two boosts, full Red Hearts give four, and Double Red Hearts give eight.
-* (Removed in Repentance)[(The Jar)](/wiki/The_Jar "The Jar") [The Jar](/wiki/The_Jar "The Jar"): Allows for generation of infinite Red Hearts.
+* (Added in Repentance)[![image](/image/Candy_Heart.png)](/wiki/Candy_Heart "Candy Heart") [Candy Heart](/wiki/Candy_Heart "Candy Heart"): Doubles the stat boosts from any picked up Heart. Half Red Hearts give two boosts, full Red Hearts give four, and Double Red Hearts give eight.
+* (Removed in Repentance)[![image](/image/The_Jar.png)](/wiki/The_Jar "The Jar") [The Jar](/wiki/The_Jar "The Jar"): Allows for generation of infinite Red Hearts.
 
 
-Interactions[]
+Interactions
 --------------
 
 
 * (Added in Repentance)[(0 - The Fool?)](/wiki/Cards_and_Runes "0 - The Fool?") [0 - The Fool?](/wiki/Cards_and_Runes "Cards and Runes"): Due to doubled healing, extra hearts will be left on the ground to be used for later.
 * (Added in Afterbirth †)  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper") / (Added in Repentance)  [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper"): No effect.
-* [(Yum Heart)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart"): No effect; will still only replenish one full Red Heart.
+* [![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart"): No effect; will still only replenish one full Red Heart.
 
 

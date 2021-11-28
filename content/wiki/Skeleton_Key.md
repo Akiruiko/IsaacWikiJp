@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Skeleton Key ![image](/image/Skeleton_Key.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 		- (Added in Repentance) Isaac deals 20 contact damage to enemies, twice per second.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -20,10 +23,10 @@ Notes[]
 * [(VII - The Chariot)](/wiki/Cards_and_Runes "VII - The Chariot") [VII - The Chariot](/wiki/Cards_and_Runes "Cards and Runes") card provides the same effect of this item when used.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns rainbow-colored wisps in the middle ring. The wisps orbit Isaac more quickly than normal wisps and change colors constantly, with both of these effects being boosted while My Little Unicorn is active. The wisps also deal an extra 8 contact damage, for a total of 15 contact damage per tick. When de-activated, the rainbow coloring slightly fades away.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns rainbow-colored wisps in the middle ring. The wisps orbit Isaac more quickly than normal wisps and change colors constantly, with both of these effects being boosted while My Little Unicorn is active. The wisps also deal an extra 8 contact damage, for a total of 15 contact damage per tick. When de-activated, the rainbow coloring slightly fades away.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Ceremonial Robes ![image](/image/Ceremonial_Robes.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 * Opens all (Secret Room) [Secret Room](/wiki/Secret_Room "Secret Room") and (Super Secret Room) [Super Secret Room](/wiki/Super_Secret_Room "Super Secret Room") doors on the current floor.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -33,21 +36,21 @@ Notes[]
 * (Added in Repentance) Does not open the flesh door at the end of [(Mausoleum)](/wiki/Mausoleum "Mausoleum") [Mausoleum](/wiki/Mausoleum "Mausoleum") / [(Gehenna)](/wiki/Gehenna "Gehenna") [Gehenna](/wiki/Gehenna "Gehenna") II.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Summons 8 wisps in the middle ring on use. The wisps summon [Golden Troll Bombs](/wiki/Bombs "Bombs") when destroyed.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Summons 8 wisps in the middle ring on use. The wisps summon [Golden Troll Bombs](/wiki/Bombs "Bombs") when destroyed.
 * (Added in Repentance)[(Broken Padlock)](/wiki/Broken_Padlock "Broken Padlock") [Broken Padlock](/wiki/Broken_Padlock "Broken Padlock"): Mama Mega!'s blast will also open locks.
 * [(Golden Bomb)](/wiki/Golden_Bomb "Golden Bomb") [Golden Bomb](/wiki/Golden_Bomb "Golden Bomb"): While holding a golden bomb, Mama Mega! can be used once on that floor without consuming it but will remove the golden bomb from Isaac's consumables (using it a second time consumes it as normal). It may be used again for free on another floor if yet another golden bomb is collected, and so on.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
-* (Removed in Repentance)[(Void)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Can't be consumed by Void.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* (Removed in Repentance)[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Can't be consumed by Void.
 	+ (Added in Repentance) If consumed by Void, the Mama Mega! effect will be activated once only, the next time Void is activated.
 * (Removed in Repentance)[(? Card)](/wiki/%3F_Card "? Card") [? Card](/wiki/%3F_Card "? Card"): Mama Mega! will be activated and consumed.
 	+ (Added in Repentance) Mama Mega!'s effect can be activated through the card without consuming the actual item.

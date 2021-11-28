@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Glaucoma ![image](/image/Glaucoma.png) 
+
+
+Effects
 ---------
 
 
@@ -10,17 +13,17 @@ Effects[]
 * Makes the screen darker.
 
 
-Notes[]
+Notes
 -------
 
 
 * Not affected by Luck.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Black Candle)](/wiki/Black_Candle "Black Candle") [Black Candle](/wiki/Black_Candle "Black Candle") / [(Night Light)](/wiki/Night_Light "Night Light") [Night Light](/wiki/Night_Light "Night Light"): Removes the darker screen caused by Glaucoma.
+* [![image](/image/Black_Candle.png)](/wiki/Black_Candle "Black Candle") [Black Candle](/wiki/Black_Candle "Black Candle") / [![image](/image/Night_Light.png)](/wiki/Night_Light "Night Light") [Night Light](/wiki/Night_Light "Night Light"): Removes the darker screen caused by Glaucoma.
 
 

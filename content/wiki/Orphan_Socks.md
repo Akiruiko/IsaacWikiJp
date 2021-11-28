@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Orphan Socks ![image](/image/Orphan_Socks.png) 
+
+
+Effects
 ---------
 
 
@@ -9,7 +12,7 @@ Effects[]
 * Isaac becomes immune to [spikes](/wiki/Spikes "Spikes") and [creep](/wiki/Creep "Creep").
 
 
-Notes[]
+Notes
 -------
 
 
@@ -17,10 +20,10 @@ Notes[]
 * Does not prevent use of a [Sacrifice Room](/wiki/Sacrifice_Room "Sacrifice Room").
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(A Pound of Flesh)](/wiki/A_Pound_of_Flesh "A Pound of Flesh") [A Pound of Flesh](/wiki/A_Pound_of_Flesh "A Pound of Flesh"): Does not offer immunity against spikes placed around pickups.
+* [![image](/image/A_Pound_of_Flesh.png)](/wiki/A_Pound_of_Flesh "A Pound of Flesh") [A Pound of Flesh](/wiki/A_Pound_of_Flesh "A Pound of Flesh"): Does not offer immunity against spikes placed around pickups.
 
 

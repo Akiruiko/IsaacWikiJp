@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Toxic Shock ![image](/image/Toxic_Shock.png) 
+
+
+Effects
 ---------
 
 
@@ -11,10 +14,10 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Leviathan](/wiki/Leviathan "Leviathan") set. Collecting three items from this set will transform Isaac into Leviathan.
 
 
-Notes[]
+Notes
 -------
 
 
-* If the Devil Room item pool is depleted, (Added in Afterbirth †)[(Sacrificial Altar)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar") will spawn one or two Pentagrams.
+* If the Devil Room item pool is depleted, (Added in Afterbirth †)[![image](/image/Sacrificial_Altar.png)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar") will spawn one or two Pentagrams.
 
 

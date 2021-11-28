@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Freezer Baby ![image](/image/Freezer_Baby.png) 
+
+
+Effects
 ---------
 
 
@@ -13,19 +16,19 @@ Effects[]
 		- This aura stacks with other Succubi.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(The Book of Belial)](/wiki/The_Book_of_Belial "The Book of Belial") [The Book of Belial](/wiki/The_Book_of_Belial "The Book of Belial") with [(Blood of the Martyr)](/wiki/Blood_of_the_Martyr "Blood of the Martyr") [Blood of the Martyr](/wiki/Blood_of_the_Martyr "Blood of the Martyr") or[(Cricket's Head)](/wiki/Cricket%27s_Head "Cricket's Head") [Cricket's Head](/wiki/Cricket%27s_Head "Cricket's Head") or [(Magic Mushroom)](/wiki/Magic_Mushroom "Magic Mushroom") [Magic Mushroom](/wiki/Magic_Mushroom "Magic Mushroom")/[(Sacred Heart)](/wiki/Sacred_Heart "Sacred Heart") [Sacred Heart](/wiki/Sacred_Heart "Sacred Heart"): Damage multipliers stack.
-* (Added in Afterbirth †)[(Trisagion)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): Damage multiplier applies after item's damage reduction.
+* [![image](/image/The_Book_of_Belial.png)](/wiki/The_Book_of_Belial "The Book of Belial") [The Book of Belial](/wiki/The_Book_of_Belial "The Book of Belial") with [![image](/image/Blood_of_the_Martyr.png)](/wiki/Blood_of_the_Martyr "Blood of the Martyr") [Blood of the Martyr](/wiki/Blood_of_the_Martyr "Blood of the Martyr") or[![image](/image/Cricket%27s_Head.png)](/wiki/Cricket%27s_Head "Cricket's Head") [Cricket's Head](/wiki/Cricket%27s_Head "Cricket's Head") or [![image](/image/Magic_Mushroom.png)](/wiki/Magic_Mushroom "Magic Mushroom") [Magic Mushroom](/wiki/Magic_Mushroom "Magic Mushroom")/[![image](/image/Sacred_Heart.png)](/wiki/Sacred_Heart "Sacred Heart") [Sacred Heart](/wiki/Sacred_Heart "Sacred Heart"): Damage multipliers stack.
+* (Added in Afterbirth †)[![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): Damage multiplier applies after item's damage reduction.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No actual effect. Succubus and its damaging aura are only visually larger, but the damage is neither increased nor dealt any further away from the familiar.
-* [(Libra)](/wiki/Libra "Libra") [Libra](/wiki/Libra "Libra"): When Isaac is within the aura, affects re-balanced stats rather than just damage.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No actual effect. Succubus and its damaging aura are only visually larger, but the damage is neither increased nor dealt any further away from the familiar.
+* [![image](/image/Libra.png)](/wiki/Libra "Libra") [Libra](/wiki/Libra "Libra"): When Isaac is within the aura, affects re-balanced stats rather than just damage.
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # The Virus ![image](/image/The_Virus.png) 
+
+
+Effects
 ---------
 
 
@@ -19,29 +22,29 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Spun](/wiki/Spun "Spun") set. Collecting three items from this set will transform Isaac into a buff berserker.
 
 
-Notes[]
+Notes
 -------
 
 
 * (Added in Afterbirth / Removed in Repentance) The black heart is only dropped if the poison was caused by The Virus. The item's effect doesn't extend to poison tears.
 * (Added in Afterbirth / Removed in Repentance) If an enemy doesn't do contact damage, The Virus can safely be applied to it for more chances at black hearts. [Black flies](/wiki/Black_Fly "Black Fly"), [Mulligans](/wiki/Mulligan "Mulligan"), and [Hosts](/wiki/Host "Host") are the most common enemies this can be applied to.
-	+ (Added in Afterbirth / Removed in Repentance) With [(Skatole)](/wiki/Skatole "Skatole") [Skatole](/wiki/Skatole "Skatole"), [Hives](/wiki/Hive "Hive") and [Swarmers](/wiki/Swarmer "Swarmer") will constantly spawn normal Flies, meaning they can be endless sources of Black Hearts.
+	+ (Added in Afterbirth / Removed in Repentance) With [![image](/image/Skatole.png)](/wiki/Skatole "Skatole") [Skatole](/wiki/Skatole "Skatole"), [Hives](/wiki/Hive "Hive") and [Swarmers](/wiki/Swarmer "Swarmer") will constantly spawn normal Flies, meaning they can be endless sources of Black Hearts.
 	+ (Removed in Afterbirth †) Although [Stonies](/wiki/Stoney "Stoney") and [Shopkeepers](/wiki/Shopkeeper "Shopkeeper") can't be visibly poisoned, they still can drop Black Hearts if destroyed after being touched.
 * Enemies won't start taking poison damage if they are pushing up against Isaac; The Virus will be constantly trying to apply poison and refreshing the ticks where poison damage would occur.
-	+ (Added in Afterbirth / Removed in Repentance) [(Gnawed Leaf)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf") and The Virus can still work if Isaac has a short-range orbital such as [(Cube of Meat)](/wiki/Cube_of_Meat "Cube of Meat") [Cube of Meat](/wiki/Cube_of_Meat "Cube of Meat") or [(Ball of Bandages)](/wiki/Ball_of_Bandages "Ball of Bandages") [Ball of Bandages](/wiki/Ball_of_Bandages "Ball of Bandages"), as it will kill enemies pushing against Isaac that are not taking poison damage while still dropping Black Hearts.
+	+ (Added in Afterbirth / Removed in Repentance) [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf") and The Virus can still work if Isaac has a short-range orbital such as [![image](/image/Cube_of_Meat.png)](/wiki/Cube_of_Meat "Cube of Meat") [Cube of Meat](/wiki/Cube_of_Meat "Cube of Meat") or [![image](/image/Ball_of_Bandages.png)](/wiki/Ball_of_Bandages "Ball of Bandages") [Ball of Bandages](/wiki/Ball_of_Bandages "Ball of Bandages"), as it will kill enemies pushing against Isaac that are not taking poison damage while still dropping Black Hearts.
 
 
-Synergies[]
+Synergies
 -----------
 
 
 * [Invulnerability](/wiki/Invulnerability "Invulnerability"): Contact while invincible poisons enemies.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Removed in Repentance) [(Odd Mushroom)](/wiki/Odd_Mushroom_(Large) "Odd Mushroom") [Odd Mushroom](/wiki/Odd_Mushroom_(Large) "Odd Mushroom (Large)"): The speed down from the Virus does not stack with the Odd Mushroom; if both are collected, only a total of -0.1 applies.
+* (Removed in Repentance) [![image](/image/Odd_Mushroom_(Thin).png)](/wiki/Odd_Mushroom_(Large) "Odd Mushroom") [Odd Mushroom](/wiki/Odd_Mushroom_(Large) "Odd Mushroom (Large)"): The speed down from the Virus does not stack with the Odd Mushroom; if both are collected, only a total of -0.1 applies.
 
 

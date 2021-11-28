@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Hungry Soul ![image](/image/Hungry_Soul.png) 
+
+
+Effects
 ---------
 
 
@@ -12,7 +15,7 @@ Effects[]
 * Isaac gains the ability to destroy [obstacles](/wiki/Obstacle "Obstacle") by walking into them.
 
 
-Notes[]
+Notes
 -------
 
 

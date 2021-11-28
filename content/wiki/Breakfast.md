@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Breakfast ![image](/image/Breakfast.png) 
+
+
+Effects
 ---------
 
 
@@ -18,7 +21,7 @@ Effects[]
 * Overkill damage does not count towards a charge.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -26,25 +29,25 @@ Notes[]
 * [(Bethany)](/wiki/Bethany "Bethany") [Bethany](/wiki/Bethany "Bethany") will benefit from 4.5 Volt's effect for regular item charges while retaining her ability to use soul hearts as item charges. This applies to  [(Tainted Bethany)](/wiki/Tainted_Bethany "Tainted Bethany") [Tainted Bethany](/wiki/Tainted_Bethany "Tainted Bethany") with her red heart charges as well.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Door Stop)](/wiki/Door_Stop "Door Stop") [Door Stop](/wiki/Door_Stop "Door Stop") / [(Mercurius)](/wiki/Mercurius "Mercurius") [Mercurius](/wiki/Mercurius "Mercurius") / any means of room resetting (infinite bombs): Provides infinite charges by clearing some enemies then leaving the room, and repeating.
-* [(Jumper Cables)](/wiki/Jumper_Cables "Jumper Cables") [Jumper Cables](/wiki/Jumper_Cables "Jumper Cables"): Increases the rate of charge by appending its 15-kills-per-charge quality on top of 4.5 Volt's damage-based charge.
+* [(Door Stop)](/wiki/Door_Stop "Door Stop") [Door Stop](/wiki/Door_Stop "Door Stop") / [![image](/image/Mercurius.png)](/wiki/Mercurius "Mercurius") [Mercurius](/wiki/Mercurius "Mercurius") / any means of room resetting (infinite bombs): Provides infinite charges by clearing some enemies then leaving the room, and repeating.
+* [![image](/image/Jumper_Cables.png)](/wiki/Jumper_Cables "Jumper Cables") [Jumper Cables](/wiki/Jumper_Cables "Jumper Cables"): Increases the rate of charge by appending its 15-kills-per-charge quality on top of 4.5 Volt's damage-based charge.
 * [(Old Capacitor)](/wiki/Old_Capacitor "Old Capacitor") [Old Capacitor](/wiki/Old_Capacitor "Old Capacitor"): Since the 4.5 Volt also makes it so that active items don't charge when clearing rooms, this trinket can be picked up with no downside.
-* [(Schoolbag)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"): The item in the second slot gets charged when the first one is full. Overcharges on the first item also jump to the second one.
-* [(Unicorn Stump)](/wiki/Unicorn_Stump "Unicorn Stump") [Unicorn Stump](/wiki/Unicorn_Stump "Unicorn Stump") + [(Sacrificial Dagger)](/wiki/Sacrificial_Dagger "Sacrificial Dagger") [Sacrificial Dagger](/wiki/Sacrificial_Dagger "Sacrificial Dagger"): In most boss fights, charges are regenerated faster than invincibility wears of.
-* [(White Pony)](/wiki/White_Pony "White Pony") [White Pony](/wiki/White_Pony "White Pony"): Since the beam trail from the charge attack deals so much damage, if used on a boss with a high amount of health, 4.5 Volt will often completely recharge the item after each use allowing for repeated usage while the boss is still alive.
+* [![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"): The item in the second slot gets charged when the first one is full. Overcharges on the first item also jump to the second one.
+* [![image](/image/Unicorn_Stump.png)](/wiki/Unicorn_Stump "Unicorn Stump") [Unicorn Stump](/wiki/Unicorn_Stump "Unicorn Stump") + [![image](/image/Sacrificial_Dagger.png)](/wiki/Sacrificial_Dagger "Sacrificial Dagger") [Sacrificial Dagger](/wiki/Sacrificial_Dagger "Sacrificial Dagger"): In most boss fights, charges are regenerated faster than invincibility wears of.
+* [![image](/image/White_Pony.png)](/wiki/White_Pony "White Pony") [White Pony](/wiki/White_Pony "White Pony"): Since the beam trail from the charge attack deals so much damage, if used on a boss with a high amount of health, 4.5 Volt will often completely recharge the item after each use allowing for repeated usage while the boss is still alive.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* Does not charge items which gain charge over time by default. (e.g. [(Sharp Straw)](/wiki/Sharp_Straw "Sharp Straw") [Sharp Straw](/wiki/Sharp_Straw "Sharp Straw"), [(The Candle)](/wiki/The_Candle "The Candle") [The Candle](/wiki/The_Candle "The Candle"), [(Butter Bean)](/wiki/Butter_Bean "Butter Bean") [Butter Bean](/wiki/Butter_Bean "Butter Bean") etc.)
-	+ Items converted to charge-over-time by [(9 Volt)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt") are not affected and may gain charge in both ways.
-* [(Alabaster Box)](/wiki/Alabaster_Box "Alabaster Box") [Alabaster Box](/wiki/Alabaster_Box "Alabaster Box"): No effect. It still must be charged with Soul Hearts.
+* Does not charge items which gain charge over time by default. (e.g. [![image](/image/Sharp_Straw.png)](/wiki/Sharp_Straw "Sharp Straw") [Sharp Straw](/wiki/Sharp_Straw "Sharp Straw"), [![image](/image/The_Candle.png)](/wiki/The_Candle "The Candle") [The Candle](/wiki/The_Candle "The Candle"), [![image](/image/Butter_Bean.png)](/wiki/Butter_Bean "Butter Bean") [Butter Bean](/wiki/Butter_Bean "Butter Bean") etc.)
+	+ Items converted to charge-over-time by [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt") are not affected and may gain charge in both ways.
+* [![image](/image/Alabaster_Box.png)](/wiki/Alabaster_Box "Alabaster Box") [Alabaster Box](/wiki/Alabaster_Box "Alabaster Box"): No effect. It still must be charged with Soul Hearts.
 * [(Dim Bulb)](/wiki/Dim_Bulb "Dim Bulb") [Dim Bulb](/wiki/Dim_Bulb "Dim Bulb"): Does not deactivate until the first charge bar is completely filled. A partial charge of the first bar will retain Dim Bulb's bonus.
 
 

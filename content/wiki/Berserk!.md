@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Berserk! ![image](/image/Berserk!.png) 
+
+
+Effects
 ---------
 
 
@@ -17,29 +20,29 @@ Effects[]
 * This item charges when Isaac deals damage to enemies rather than by clearing rooms or picking up batteries. It requires a base total of 120 damage, and increases by 40 for every next floor.
 
 
-Notes[]
+Notes
 -------
 
 
 * The jaw bone has all the same synergies that The Forgotten's bone club does.
-	+ [(Mom's Knife)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): While the synergy between Mom's Knife and the Berserk state is identical to The Forgotten's melee attack, it is worth noting that the attack no longer deflects enemy shots.
+	+ [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): While the synergy between Mom's Knife and the Berserk state is identical to The Forgotten's melee attack, it is worth noting that the attack no longer deflects enemy shots.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a pale wisp on the middle ring. The wisp has extra HP and does not shoot.
-* [(Suplex!)](/wiki/Suplex! "Suplex!") [Suplex!](/wiki/Suplex! "Suplex!"): Suplex when used in berserk state has a unique visual effect, and will deal massive damage to the target and set off a [(Mama Mega!)](/wiki/Mama_Mega! "Mama Mega!") [Mama Mega!](/wiki/Mama_Mega! "Mama Mega!") style of explosion, destroying all [obstacles](/wiki/Obstacle "Obstacle") in the current room and dealing 200 damage to every enemy (including [Bosses](/wiki/Boss "Boss")).
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a pale wisp on the middle ring. The wisp has extra HP and does not shoot.
+* [![image](/image/Suplex!.png)](/wiki/Suplex! "Suplex!") [Suplex!](/wiki/Suplex! "Suplex!"): Suplex when used in berserk state has a unique visual effect, and will deal massive damage to the target and set off a [![image](/image/Mama_Mega!.png)](/wiki/Mama_Mega! "Mama Mega!") [Mama Mega!](/wiki/Mama_Mega! "Mama Mega!") style of explosion, destroying all [obstacles](/wiki/Obstacle "Obstacle") in the current room and dealing 200 damage to every enemy (including [Bosses](/wiki/Boss "Boss")).
 * [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost") /  [(Tainted Lost)](/wiki/Tainted_Lost "Tainted Lost") [Tainted Lost](/wiki/Tainted_Lost "Tainted Lost"): This can allow either variant of The Lost to survive being damaged if it happens while Berserk is active. Despite having no visible health bar, their health is normally set to half a soul heart. If they take damage while Berserk is active, they will not die if they are able to pick up a soul heart or half soul heart before the effect ends.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(4.5 Volt)](/wiki/4.5_Volt "4.5 Volt") [4.5 Volt](/wiki/4.5_Volt "4.5 Volt") / [(9 Volt)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt") / [(Jumper Cables)](/wiki/Jumper_Cables "Jumper Cables") [Jumper Cables](/wiki/Jumper_Cables "Jumper Cables"): No effect.
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Duration is only extended if no enemies are killed during the first half, thus only providing a benefit against bosses that can't spawn enemies.
-* [(Sharp Plug)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug"): Isaac will take damage without gaining any charges.
+* [![image](/image/4.5_Volt.png)](/wiki/4.5_Volt "4.5 Volt") [4.5 Volt](/wiki/4.5_Volt "4.5 Volt") / [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt") / [![image](/image/Jumper_Cables.png)](/wiki/Jumper_Cables "Jumper Cables") [Jumper Cables](/wiki/Jumper_Cables "Jumper Cables"): No effect.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Duration is only extended if no enemies are killed during the first half, thus only providing a benefit against bosses that can't spawn enemies.
+* [![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug"): Isaac will take damage without gaining any charges.
 
 

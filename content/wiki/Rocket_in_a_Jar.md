@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Rocket in a Jar ![image](/image/Rocket_in_a_Jar.png) 
+
+
+Effects
 ---------
 
 
@@ -11,7 +14,7 @@ Effects[]
 * (Added in Afterbirth) This item belongs to the [Super Bum](/wiki/Super_Bum "Super Bum") set. Collecting three items from this set will transform Isaac's bums into Super Bum.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -20,11 +23,11 @@ Notes[]
 * From a scoring perspective, Pennies that Bum Friend picks up count towards your [Schwag bonus](/wiki/Schwag_bonus "Schwag bonus") on daily runs.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(BFFS!)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): All future drops will happen every 3 coins. If the next scheduled drop at the moment of acquiring BFFS! requires more than 3 coins, the amount will not be lowered.
-* [(Mitre)](/wiki/Mitre "Mitre") [Mitre](/wiki/Mitre "Mitre"): [Red Hearts](/wiki/Red_Heart "Red Heart") that Bum drops can be converted into [Soul Hearts](/wiki/Hearts "Hearts").
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): All future drops will happen every 3 coins. If the next scheduled drop at the moment of acquiring BFFS! requires more than 3 coins, the amount will not be lowered.
+* [![image](/image/Mitre.png)](/wiki/Mitre "Mitre") [Mitre](/wiki/Mitre "Mitre"): [Red Hearts](/wiki/Red_Heart "Red Heart") that Bum drops can be converted into [Soul Hearts](/wiki/Hearts "Hearts").
 
 

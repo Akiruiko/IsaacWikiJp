@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Mega Blast ![image](/image/Mega_Blast.png) 
+
+
+Effects
 ---------
 
 
@@ -10,7 +13,7 @@ Effects[]
 	+ When held by  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper") or  [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper"), it will drop 0-1 pennies instead.
 
 
-Notes[]
+Notes
 -------
 
 

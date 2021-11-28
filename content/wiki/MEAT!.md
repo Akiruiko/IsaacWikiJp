@@ -1,7 +1,10 @@
 +++
 +++
 
-Effect[]
+ # MEAT! ![image](/image/MEAT!.png) 
+
+
+Effect
 --------
 
 
@@ -9,7 +12,7 @@ Effect[]
 * (Added in Repentance) Heals 1 additional [(Red Heart)](/wiki/Red_Heart "Red Heart") [Red Heart](/wiki/Red_Heart "Red Heart").
 
 
-Notes[]
+Notes
 -------
 
 

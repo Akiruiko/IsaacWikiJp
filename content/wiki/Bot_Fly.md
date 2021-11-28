@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Bot Fly ![image](/image/Bot_Fly.png) 
+
+
+Effects
 ---------
 
 
@@ -30,7 +33,7 @@ Effects[]
  | (Added in Afterbirth / Removed in Afterbirth †) [(Ultra Greed)](/wiki/Greed_Mode "Ultra Greed") [Ultra Greed](/wiki/Greed_Mode "Greed Mode") / (Added in Afterbirth †) [(Womb)](/wiki/Womb "Womb") [Womb](/wiki/Womb "Womb") / (Added in Repentance) [(Utero)](/wiki/Utero "Utero") [Utero](/wiki/Utero "Utero") / (Added in Repentance) [(Scarred Womb)](/wiki/Scarred_Womb "Scarred Womb") [Scarred Womb](/wiki/Scarred_Womb "Scarred Womb") | 2 [Boss Room items](/wiki/Boss_(Item_Pool) "Boss (Item Pool)") |
 | [(Womb)](/wiki/Womb "Womb") [Womb](/wiki/Womb "Womb") / [(Utero)](/wiki/Utero "Utero") [Utero](/wiki/Utero "Utero") / (Added in Afterbirth) [(Scarred Womb)](/wiki/Scarred_Womb "Scarred Womb") [Scarred Womb](/wiki/Scarred_Womb "Scarred Womb") / (Added in Repentance) [(Corpse)](/wiki/Corpse "Corpse") [Corpse](/wiki/Corpse "Corpse") II
  | ---
- | [(The Bible)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible") |
+ | [![image](/image/The_Bible.png)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible") |
 | (Added in Afterbirth) [(???)](/wiki/%3F%3F%3F_(Floor) "???") [???](/wiki/%3F%3F%3F_(Floor) "??? (Floor)") | ---
  | Nothing
  |
@@ -39,15 +42,15 @@ Effects[]
  |
 | [(Sheol)](/wiki/Sheol "Sheol") [Sheol](/wiki/Sheol "Sheol") | (Added in Afterbirth †) [(Sheol)](/wiki/Sheol "Sheol") [Sheol](/wiki/Sheol "Sheol") | 1 [Devil Room item](/wiki/Devil_Room_(Item_Pool) "Devil Room (Item Pool)") and 1 [(Black Heart)](/wiki/Black_Heart "Black Heart") [Black Heart](/wiki/Black_Heart "Black Heart") |
 | [(Dark Room)](/wiki/Dark_Room "Dark Room") [Dark Room](/wiki/Dark_Room "Dark Room") | ---
- | Nothing(Added in Afterbirth †) Unlocks [(Moving Box)](/wiki/Moving_Box "Moving Box") [Moving Box](/wiki/Moving_Box "Moving Box") |
+ | Nothing(Added in Afterbirth †) Unlocks [![image](/image/Moving_Box.png)](/wiki/Moving_Box "Moving Box") [Moving Box](/wiki/Moving_Box "Moving Box") |
 | [(Cathedral)](/wiki/Cathedral "Cathedral") [Cathedral](/wiki/Cathedral "Cathedral") | ---
  | 1 [Angel Room item](/wiki/Angel_Room_(Item_Pool) "Angel Room (Item Pool)") and 1 [(Eternal Heart)](/wiki/Eternal_Heart "Eternal Heart") [Eternal Heart](/wiki/Eternal_Heart "Eternal Heart") |
 | [(Chest)](/wiki/Chest_(Floor) "Chest") [Chest](/wiki/Chest_(Floor) "Chest (Floor)") | (Added in Afterbirth †) [(The Shop)](/wiki/Greed_Mode "The Shop") [The Shop](/wiki/Greed_Mode "Greed Mode") / [(Ultra Greed)](/wiki/Greed_Mode "Ultra Greed") [Ultra Greed](/wiki/Greed_Mode "Greed Mode") | 1 [(Penny)](/wiki/Penny "Penny") [Penny](/wiki/Penny "Penny") |
 | (Added in Repentance) [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") | ---
- | [(Red Key)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") |
+ | [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") |
 
 
-Notes[]
+Notes
 -------
 
 
@@ -55,20 +58,20 @@ Notes[]
 * When playing [Greed Mode](/wiki/Greed_Mode "Greed Mode"), the normal [Devil Room item pool](/wiki/Devil_Room_(Item_Pool) "Devil Room (Item Pool)") is still used in Sheol, instead of the [Greed Mode Devil Room item pool](/wiki/Devil_Room_(Greed_Mode_Item_Pool) "Devil Room (Greed Mode Item Pool)").
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns `floor - 1` regular wisps with no unique effect, up to a maximum of 8. No wisps are spawned on the first floor.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns `floor - 1` regular wisps with no unique effect, up to a maximum of 8. No wisps are spawned on the first floor.
 * (Added in Repentance)[(Strange Key)](/wiki/Strange_Key "Strange Key") [Strange Key](/wiki/Strange_Key "Strange Key"): Instead of its normal effect, Pandora's Box spawns six generally higher quality items from a set of item pools. Both items are consumed.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Afterbirth)[(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
 * (Added in Afterbirth / Removed in Repentance)[(? Card)](/wiki/%3F_Card "? Card") [? Card](/wiki/%3F_Card "? Card"): Will consume both the card and Pandora's Box, but nothing will happen, wasting both of them.
-	+ (Added in Repentance) Will activate Pandora's Box without consuming it, allowing for multiple activations. [(Tarot Cloth)](/wiki/Tarot_Cloth "Tarot Cloth") [Tarot Cloth](/wiki/Tarot_Cloth "Tarot Cloth") will not double ? Card's effect in this situation.
+	+ (Added in Repentance) Will activate Pandora's Box without consuming it, allowing for multiple activations. [![image](/image/Tarot_Cloth.png)](/wiki/Tarot_Cloth "Tarot Cloth") [Tarot Cloth](/wiki/Tarot_Cloth "Tarot Cloth") will not double ? Card's effect in this situation.
 
 

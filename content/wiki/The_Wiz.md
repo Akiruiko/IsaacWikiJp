@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # The Wiz ![image](/image/The_Wiz.png) 
+
+
+Effects
 ---------
 
 
@@ -9,22 +12,22 @@ Effects[]
 	+ Each kill increases damage by 0.5, up to a maximum of 5 damage after 10 kills.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* (Added in Repentance)[(Meat Cleaver)](/wiki/Meat_Cleaver "Meat Cleaver") [Meat Cleaver](/wiki/Meat_Cleaver "Meat Cleaver"): Both of the smaller enemies produced by Meat Cleaver add to the damage bonus, allowing rooms with few enemies to grant much more damage.
+* (Added in Repentance)[![image](/image/Meat_Cleaver.png)](/wiki/Meat_Cleaver "Meat Cleaver") [Meat Cleaver](/wiki/Meat_Cleaver "Meat Cleaver"): Both of the smaller enemies produced by Meat Cleaver add to the damage bonus, allowing rooms with few enemies to grant much more damage.
 * [(Samson's Lock)](/wiki/Samson%27s_Lock "Samson's Lock") [Samson's Lock](/wiki/Samson%27s_Lock "Samson's Lock"): Both the item and the trinket stack, granting 1 damage per kill. With 100% proc rate on the Lock, Isaac may gain up to 10 damage after 10 kills.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* (Added in Repentance)[(Uranus)](/wiki/Uranus "Uranus") [Uranus](/wiki/Uranus "Uranus"): Only enemies killed by icicles from statues, bombs, familiars and other sources will increment Lusty Blood counter, thus rendering Lusty Blood quite difficult to use.
+* (Added in Repentance)[![image](/image/Uranus.png)](/wiki/Uranus "Uranus") [Uranus](/wiki/Uranus "Uranus"): Only enemies killed by icicles from statues, bombs, familiars and other sources will increment Lusty Blood counter, thus rendering Lusty Blood quite difficult to use.
 
 
-Notes[]
+Notes
 -------
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # The Hourglass ![image](/image/The_Hourglass.png) 
+
+
+Effects
 ---------
 
 
@@ -9,14 +12,14 @@ Effects[]
 * +1 [damage](/wiki/Damage "Damage").
 
 
-Notes[]
+Notes
 -------
 
 
 * When purchased at a (Devil Room) [Devil Room](/wiki/Devil_Room "Devil Room") by  [(???)](/wiki/%3F%3F%3F_(Character) "???") [???](/wiki/%3F%3F%3F_(Character) "??? (Character)") (or another character who has lost all Red Heart containers) this item effectively converts 3 [Soul Hearts](/wiki/Soul_Heart "Soul Heart") into 3 black hearts, increasing damage at no downside.
 
 
-Synergies[]
+Synergies
 -----------
 
 

@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Dead Cat ![image](/image/Dead_Cat.png) 
+
+
+Effects
 ---------
 
 
@@ -15,7 +18,7 @@ Effects[]
 	+ 1 [trinket](/wiki/Trinket "Trinket")
 
 
-Notes[]
+Notes
 -------
 
 

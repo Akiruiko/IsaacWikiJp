@@ -1,7 +1,10 @@
 +++
 +++
 
-Effects[]
+ # Friendly Ball ![image](/image/Friendly_Ball.png) 
+
+
+Effects
 ---------
 
 
@@ -14,7 +17,7 @@ Effects[]
 * If the Friendly Ball does not capture an enemy, it will simply disappear after a couple seconds being on the ground. The next throw will work the same.
 
 
-Notes[]
+Notes
 -------
 
 
@@ -39,30 +42,30 @@ Notes[]
 		- This explosion immunity also applies to enemies that explode on death, and even the [Troll Bombs](/wiki/Troll_Bomb "Troll Bomb") left behind by [Mulligoons](/wiki/Mulligoon "Mulligoon").
 	+ The head of [Rag Man](/wiki/Rag_Man "Rag Man") can be captured by the ball while detached. It will not become a Ragling after being released, and only chases enemies by rolling.
 	+ (Added in Repentance) Captured [Bishops](/wiki/Bishop "Bishop") will protect Isaac with their shield generation ability, as well as all other friendly enemies. Isaac cannot take any damage while the Bishop is alive, as it will protect him with the shield. Protecting the Bishop can be a powerful defensive tool, especially when playing as  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost").
-		- The shield does not protect against instant death effects such as [(Suicide King)](/wiki/Suicide_King "Suicide King") [Suicide King](/wiki/Suicide_King "Suicide King") or [(Plan C)](/wiki/Plan_C "Plan C") [Plan C](/wiki/Plan_C "Plan C").
+		- The shield does not protect against instant death effects such as [(Suicide King)](/wiki/Suicide_King "Suicide King") [Suicide King](/wiki/Suicide_King "Suicide King") or [![image](/image/Plan_C.png)](/wiki/Plan_C "Plan C") [Plan C](/wiki/Plan_C "Plan C").
 	+ (Added in Repentance) Captured [Cultists](/wiki/Cultist "Cultist") will revive killed enemies as friendlies, allowing one to slowly amass an army of friendlies by protecting the Cultist.
 		- Bosses and degraded bosses can be revived by a friendly Cultist, but will not persist between rooms.
 
 
-Synergies[]
+Synergies
 -----------
 
 
-* [(The Battery)](/wiki/The_Battery "The Battery") [The Battery](/wiki/The_Battery "The Battery"): Walking over a captured enemy will double charge the ball, allowing the enemy to be released, and allowing to catch a new one in the same room, and the process repeats. This allows the Friendly Ball to be used much, *much* more often, and gathering many more friends. Note: trying to catch a new enemy while the old one is in the process of spawning will result in the ball phasing thru, catching nothing, thus wasting charge.
-* (Added in Repentance)[(Book of Virtues)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a wisp, all on the middle ring, whenever a charmed enemy dies. Depending on the enemy that dies, the wisp may have a different effect:
+* [![image](/image/The_Battery.png)](/wiki/The_Battery "The Battery") [The Battery](/wiki/The_Battery "The Battery"): Walking over a captured enemy will double charge the ball, allowing the enemy to be released, and allowing to catch a new one in the same room, and the process repeats. This allows the Friendly Ball to be used much, *much* more often, and gathering many more friends. Note: trying to catch a new enemy while the old one is in the process of spawning will result in the ball phasing thru, catching nothing, thus wasting charge.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a wisp, all on the middle ring, whenever a charmed enemy dies. Depending on the enemy that dies, the wisp may have a different effect:
 	+ Normal: Enemies captured by Friendly Ball spawn this wisp when they die if they wouldn't spawn any of the other variants listed below.
 	+ Homing: Enemies captured by Friendly Ball spawn this wisp when they die if they were psychic or had homing shots in some way. Wisps' tears are [homing](/wiki/Tear_Effects "Tear Effects").
 	+ Explosive: Enemies captured by Friendly Ball spawn this wisp when they die if they created explosions in some way. Wisps' tears have a 33% chance to explode. Explosive tears deal no extra damage.
-	+ Brimstone: Enemies captured by Friendly Ball spawn this wisp when they die if they fired lasers in some way. Wisps fire [(Brimstone)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") lasers. The laser does not need to be charged to be fired, and can tick up to 8 times for a total of 20 damage.
+	+ Brimstone: Enemies captured by Friendly Ball spawn this wisp when they die if they fired lasers in some way. Wisps fire [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") lasers. The laser does not need to be charged to be fired, and can tick up to 8 times for a total of 20 damage.
 
 
-Interactions[]
+Interactions
 --------------
 
 
-* [(Car Battery)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
-* [(Hive Mind)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): No effect on captured flies or spiders.
-* [(Skatole)](/wiki/Skatole "Skatole") [Skatole](/wiki/Skatole "Skatole") or [(Bursting Sack)](/wiki/Bursting_Sack "Bursting Sack") [Bursting Sack](/wiki/Bursting_Sack "Bursting Sack"): Friendly Fly/Spider enemies will be unable able to shoot, slowed down, and/or reverted to a weaker form, hindering this item's effectiveness on those enemies.
-* (Added in Repentance)[(Void)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Walking over a thrown Friendly Ball that captured an enemy will not recharge Void.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* [![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): No effect on captured flies or spiders.
+* [![image](/image/Skatole.png)](/wiki/Skatole "Skatole") [Skatole](/wiki/Skatole "Skatole") or [![image](/image/Bursting_Sack.png)](/wiki/Bursting_Sack "Bursting Sack") [Bursting Sack](/wiki/Bursting_Sack "Bursting Sack"): Friendly Fly/Spider enemies will be unable able to shoot, slowed down, and/or reverted to a weaker form, hindering this item's effectiveness on those enemies.
+* (Added in Repentance)[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Walking over a thrown Friendly Ball that captured an enemy will not recharge Void.
 
 
