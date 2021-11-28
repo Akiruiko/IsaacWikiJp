@@ -1,29 +1,29 @@
 +++
 title = "About"
-date = 2021-03-29
+date = 2021-11-28
 page_template = "page.html"
 +++
 
-## このブログについて
+## このウィキについて
 
-読んだり読まなかったりした本について書きます。
-見たり見なかったりした映画についても書くかもしれません。
-書くことが苦手で忘れっぽいのでブログを作りました。
+The binding of Isaac の日本語wikiです。
+wikiの雛形として[英語wiki](https://bindingofisaacrebirth.fandom.com/wiki/Binding_of_Isaac:_Rebirth_Wiki)を参考にしています。
+クリエイティブコモンズを継承しており[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja)のライセンス元で自由に使用できます。
+
+## 編集について
+このwikiのデータ
+はmarkdownファイルによる個別記事とスプレッドシートによるリストの2つのみから成ります。
+こちらの[github](https://github.com/Akiruiko/IsaacWikiJp)で編集を管理しています。
 
 ## このサイトについて
 
 Rust製の静的サイトジェネレータ[Zola](https://www.getzola.org/)を使っています。
-テーマは[slim](https://github.com/jameshclrk/zola-slim)を改変したものを使っています。
+テーマは[hyde](https://github.com/getzola/hyde.git)を改変したものを使っています。
 共に[MITライセンス](https://opensource.org/licenses/mit-license.php)の下で公開されており、誰でも使うことができます。
-興味のある方は公式サイトやこのブログでも紹介している記事があるので、そちらを見てください。
 
-## 私について
+## 連絡先
 
-プロの素人。
-
-## その他のことについて
-
-記事についてのメッセージ（内容に関する指摘、感想）とそれ以外の全ての連絡はAmnesiaAndAgraphia@gmail.comにお願いします。
+記事についての連絡は[@ruikoaki](https://twitter.com/ruikoaki)にお願いします。
 <!-- メニューのメールアイコンをクリックするとメーラーが開きます。 -->
 
 
