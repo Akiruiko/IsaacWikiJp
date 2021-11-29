@@ -1,193 +1,193 @@
-norm_name,Item name,アイテム名,ID,効果
-%3F%3F%3F%27s_Soul,???'s Soul,,5.350.57,Spawns a familiar that floats slowly around the room on a zig-zag pattern similar to The Peeper and fires spectral and homing tears.
-A_Missing_Page,A Missing Page,,5.350.48,5% chance to induce The Necronomicon's effect upon taking damage. Adds +40 damage to Black Hearts and The Necromonicon-like effects.
-AAA_Battery,AAA Battery,,5.350.3,"Automatically recharges the last energy slot of an activated item, effectively reducing recharge rates by one."
-Ace_of_Spades,Ace of Spades,,5.350.45,"Increases the chance of tarot cards or playing cards dropping after clearing a room, and the chance of finding cards when opening a chest."
-Bible_Tract,Bible Tract,,5.350.18,Increases the chance of Eternal Hearts appearing.
-Black_Lipstick,Black Lipstick,,5.350.17,Increases the chance of Black Hearts appearing.
-Bloody_Penny,Bloody Penny,,5.350.49,Gives a chance to drop a Half Red Heart when a coin is collected.
-Broken_Ankh,Broken Ankh,,5.350.28,"When held, Isaac has a 22.22% chance to be revived as ??? in the most recent non-hostile room. Can occur multiple times in the same run."
-Broken_Magnet,Broken Magnet,,5.350.6,"Pulls coins towards Isaac, but ignores other pickups."
-Broken_Remote,Broken Remote,,5.350.4,Triggers the Teleport! effect whenever an activated item is used.
-Burnt_Penny,Burnt Penny,,5.350.50,Gives a chance to drop a bomb when a coin is collected.
-Butt_Penny,Butt Penny,,5.350.24,Isaac will fart when he picks up a coin. Coins have a higher chance to drop from poops.
-Cain%27s_Eye,Cain's Eye,,5.350.59,"When starting a floor, 25% chance to gain the effect of The Compass for the duration of the floor."
-Callus,Callus,,5.350.14,Prevents damage from creep and spikes.
-Cancer_(Trinket),Cancer,,5.350.39,-2 tear delay (effectively increases fire rate of tears).
-Cartridge,Cartridge,,5.350.8,Chance to trigger The Gamekid effect upon taking damage.
-Child%27s_Heart,Child's Heart,,5.350.34,"Increases the chance of a heart pickup dropping after clearing a room, and the chance of finding a heart when opening a Chest."
-Counterfeit_Penny,Counterfeit Penny,,5.350.52,Gives a 50% chance of increasing the value of every coin pickup by one.
-Cursed_Skull,Cursed Skull,,5.350.43,"If Isaac has less than one full Red Heart after taking damage, he will be immediately teleported to the last cleared room he was in."
-Curved_Horn,Curved Horn,,5.350.35,Increases damage by 2.
-Daemon%27s_Tail,Daemon's Tail,,5.350.22,"Most non-specific heart drops become Black Hearts, but heart drops are significantly less common."
-Eve%27s_Bird_Foot,Eve's Bird Foot,,5.350.60,5% chance to spawn a Dead Bird familiar for the current room each time an enemy dies.
-Fish_Head,Fish Head,,5.350.29,Spawns a Blue Fly every time Isaac takes damage.
-Flat_Penny,Flat Penny,,5.350.51,Gives a chance to drop a key when a coin is collected.
-Flat_Worm,Flat Worm,,5.350.12,Isaac's tears take on an oblong appearance. They also push enemies back.
-Goat_Hoof,Goat Hoof,,5.350.37,+0.15 speed.
-Hook_Worm,Hook Worm,,5.350.26,Tears move shifting left to right on a square-wave-like path. +10 to range (effective range remains about the same).
-Isaac%27s_Fork,Isaac's Fork,,5.350.46,Isaac has a chance to heal for 1/2 a Red Heart upon clearing a room.
-Isaac%27s_Head,Isaac's Head,,5.350.54,Spawns Isaac's severed head as a tear-firing familiar. Fires piercing tears.
-Judas%27_Tongue,Judas' Tongue,,5.350.56,Items in the Devil Room only cost 1 heart. Soul heart trades still cost 3 soul hearts.
+norm_name,Item name,アイテム名,ID,効果,DLC
+%3F%3F%3F%27s_Soul,???'s Soul,,5.350.57,Spawns a familiar that floats slowly around the room on a zig-zag pattern similar to The Peeper and fires spectral and homing tears.,Rebirth
+A_Missing_Page,A Missing Page,,5.350.48,5% chance to induce The Necronomicon's effect upon taking damage. Adds +40 damage to Black Hearts and The Necromonicon-like effects.,Rebirth
+AAA_Battery,AAA Battery,,5.350.3,"Automatically recharges the last energy slot of an activated item, effectively reducing recharge rates by one.",Rebirth
+Ace_of_Spades,Ace of Spades,,5.350.45,"Increases the chance of tarot cards or playing cards dropping after clearing a room, and the chance of finding cards when opening a chest.",Rebirth
+Bible_Tract,Bible Tract,,5.350.18,Increases the chance of Eternal Hearts appearing.,Rebirth
+Black_Lipstick,Black Lipstick,,5.350.17,Increases the chance of Black Hearts appearing.,Rebirth
+Bloody_Penny,Bloody Penny,,5.350.49,Gives a chance to drop a Half Red Heart when a coin is collected.,Rebirth
+Broken_Ankh,Broken Ankh,,5.350.28,"When held, Isaac has a 22.22% chance to be revived as ??? in the most recent non-hostile room. Can occur multiple times in the same run.",Rebirth
+Broken_Magnet,Broken Magnet,,5.350.6,"Pulls coins towards Isaac, but ignores other pickups.",Rebirth
+Broken_Remote,Broken Remote,,5.350.4,Triggers the Teleport! effect whenever an activated item is used.,Rebirth
+Burnt_Penny,Burnt Penny,,5.350.50,Gives a chance to drop a bomb when a coin is collected.,Rebirth
+Butt_Penny,Butt Penny,,5.350.24,Isaac will fart when he picks up a coin. Coins have a higher chance to drop from poops.,Rebirth
+Cain%27s_Eye,Cain's Eye,,5.350.59,"When starting a floor, 25% chance to gain the effect of The Compass for the duration of the floor.",Rebirth
+Callus,Callus,,5.350.14,Prevents damage from creep and spikes.,Rebirth
+Cancer_(Trinket),Cancer,,5.350.39,-2 tear delay (effectively increases fire rate of tears).,Rebirth
+Cartridge,Cartridge,,5.350.8,Chance to trigger The Gamekid effect upon taking damage.,Rebirth
+Child%27s_Heart,Child's Heart,,5.350.34,"Increases the chance of a heart pickup dropping after clearing a room, and the chance of finding a heart when opening a Chest.",Rebirth
+Counterfeit_Penny,Counterfeit Penny,,5.350.52,Gives a 50% chance of increasing the value of every coin pickup by one.,Rebirth
+Cursed_Skull,Cursed Skull,,5.350.43,"If Isaac has less than one full Red Heart after taking damage, he will be immediately teleported to the last cleared room he was in.",Rebirth
+Curved_Horn,Curved Horn,,5.350.35,Increases damage by 2.,Rebirth
+Daemon%27s_Tail,Daemon's Tail,,5.350.22,"Most non-specific heart drops become Black Hearts, but heart drops are significantly less common.",Rebirth
+Eve%27s_Bird_Foot,Eve's Bird Foot,,5.350.60,5% chance to spawn a Dead Bird familiar for the current room each time an enemy dies.,Rebirth
+Fish_Head,Fish Head,,5.350.29,Spawns a Blue Fly every time Isaac takes damage.,Rebirth
+Flat_Penny,Flat Penny,,5.350.51,Gives a chance to drop a key when a coin is collected.,Rebirth
+Flat_Worm,Flat Worm,,5.350.12,Isaac's tears take on an oblong appearance. They also push enemies back.,Rebirth
+Goat_Hoof,Goat Hoof,,5.350.37,+0.15 speed.,Rebirth
+Hook_Worm,Hook Worm,,5.350.26,Tears move shifting left to right on a square-wave-like path. +10 to range (effective range remains about the same).,Rebirth
+Isaac%27s_Fork,Isaac's Fork,,5.350.46,Isaac has a chance to heal for 1/2 a Red Heart upon clearing a room.,Rebirth
+Isaac%27s_Head,Isaac's Head,,5.350.54,Spawns Isaac's severed head as a tear-firing familiar. Fires piercing tears.,Rebirth
+Judas%27_Tongue,Judas' Tongue,,5.350.56,Items in the Devil Room only cost 1 heart. Soul heart trades still cost 3 soul hearts.,Rebirth
 Liberty_Cap,Liberty Cap,,5.350.32,"Adds a chance when entering a room to gain Mini Mush, Odd Mushroom, Odd Mushroom, or The Compass for one room.
-Adds a chance when entering a room to gain a random passive mushroom item for one room."
-Lucky_Rock,Lucky Rock,,5.350.15,Rocks and their variants drop 1 penny when destroyed.
-Lucky_Toe,Lucky Toe,,5.350.42,"+1 Luck. Adds a chance to drop an extra pickup when opening a chest, destroying a machine, or blowing up a tinted rock."
-Maggy%27s_Faith,Maggy's Faith,,5.350.55,Gives an eternal heart at the start of every floor.
-Match_Stick,Match Stick,,5.350.41,"Increases the chance of bombs dropping after clearing a room, and the chance of finding Bombs when opening a Chest."
+Adds a chance when entering a room to gain a random passive mushroom item for one room.",Rebirth
+Lucky_Rock,Lucky Rock,,5.350.15,Rocks and their variants drop 1 penny when destroyed.,Rebirth
+Lucky_Toe,Lucky Toe,,5.350.42,"+1 Luck. Adds a chance to drop an extra pickup when opening a chest, destroying a machine, or blowing up a tinted rock.",Rebirth
+Maggy%27s_Faith,Maggy's Faith,,5.350.55,Gives an eternal heart at the start of every floor.,Rebirth
+Match_Stick,Match Stick,,5.350.41,"Increases the chance of bombs dropping after clearing a room, and the chance of finding Bombs when opening a Chest.",Rebirth
 Missing_Poster,Missing Poster,,5.350.23,"If Isaac dies to a Sacrifice Room's spikes, a puzzle piece will appear on his last will.
-Dying in Sacrifice Room while holding it unlocks The Lost. If The Lost is unlocked, revives Isaac as The Lost on death, then disappears."
-Mom%27s_Pearl,Mom's Pearl,,5.350.38,Grants a secondary 10% chance of any non-specific heart drop turning into a soul heart.
-Mom%27s_Toenail,Mom's Toenail,,5.350.16,"Once a minute, Mom's foot randomly stomps down somewhere in the room."
-Monkey_Paw,Monkey Paw,,5.350.20,"If the character has half a heart after taking damage, it drops a black heart. The effect can trigger up to three times, after which the trinket will disappear."
-Mysterious_Candy,Mysterious Candy,,5.350.25,Isaac farts or poops at random intervals. Getting hit can also trigger the effect.
-Mysterious_Paper,Mysterious Paper,,5.350.21,"Has a chance to replicate the effects of A Missing Page, The Polaroid, The Negative, or Missing Poster."
-Paper_Clip,Paper Clip,,5.350.19,Golden Chests can be opened without using a Key.
-Petrified_Poop,Petrified Poop,,5.350.2,Greatly increases the chances of a pickup dropping when destroying poop.
-Pinky_Eye,Pinky Eye,,5.350.30,"Adds a 10% chance to shoot a poison tear, dealing damage over time when inflicted."
-Pulse_Worm,Pulse Worm,,5.350.9,Tears pulsate in size as they travel.
-Purple_Heart,Purple Heart,,5.350.5,Increases the chance of encountering champion enemies and bosses.
-Push_Pin,Push Pin,,5.350.31,Adds a 10% chance to shoot a piercing and spectral tear.
-Red_Patch,Red Patch,,5.350.40,Grants a chance of increasing damage by 1.8 for the current room upon taking damage.
-Ring_Worm,Ring Worm,,5.350.11,Isaac fires in a fast spiraling pattern. Also grants spectral tears.
-Rosary_Bead,Rosary Bead,,5.350.7,"Increases the chance of Angel Rooms appearing, as well as the chance to find The Bible in the Library and Shop."
-Rusted_Key,Rusted Key,,5.350.36,"Increases the chance of keys dropping after clearing a room, and the chance of finding keys when opening a chest."
-Safety_Cap,Safety Cap,,5.350.44,"Improves the chance of pills dropping after clearing a room, and the chance of finding a pill when opening a chest."
-Samson%27s_Lock,Samson's Lock,,5.350.58,1/15 chance to increase damage by 0.5 for the current room each time an enemy dies.
-Store_Credit,Store Credit,,5.350.13,The next Shop purchase is free. The trinket disappears after purchasing anything there.
-Swallowed_Penny,Swallowed Penny,,5.350.1,"Upon taking damage, Isaac drops a coin."
-The_Left_Hand,The Left Hand,,5.350.61,Replaces all types of Chests with Red Chests.
-Tick,Tick,,5.350.53,Drains 15% health from enemies with more than 60 HP. Restores one Red Heart when entering an uncleared boss room. The Tick cannot be dropped or swapped for another trinket (except for Match Stick).
-Umbilical_Cord,Umbilical Cord,,5.350.33,"When brought down to only a Half Red Heart, spawns a Little Steven familiar for the current room. Adds a high chance to spawn a Gemini familiar for the current room after taking damage."
-Whip_Worm,Whip Worm,,5.350.27,"Increases shot speed by 0.5, increasing effective range."
-Wiggle_Worm,Wiggle Worm,,5.350.10,Isaac's tears travel in a wave-like pattern. +0.4 Tears up. Also grants spectral tears.
-Black_Feather,Black Feather,,5.350.80,Increases Isaac's Damage by +0.2 +0.5 for each of the following items or trinkets he possesses:
-Blasting_Cap,Blasting Cap,,5.350.73,Exploding bombs have a chance to drop another Bomb pickup.
-Blind_Rage,Blind Rage,,5.350.81,Increases invincibility time after getting hit.
-Blister,Blister,,5.350.77,Increases knockback of tears.
-Bob%27s_Bladder,Bob's Bladder,,5.350.71,"Leaves a pool of green creep under all bombs Isaac places, which damages enemies that walk over it."
-Brown_Cap,Brown Cap,,5.350.90,Poop explodes upon being destroyed.
-Child_Leash,Child Leash,,5.350.89,Causes familiars to stay closer to each other.
-Cracked_Dice,Cracked Dice,,5.350.67,"Activates the effect of The D6, D8, D12, or D20 (chosen randomly) whenever Isaac takes damage."
-Endless_Nameless,Endless Nameless,,5.350.79,"Has a 25% chance of creating a duplicate of any pill, card, or rune Isaac uses."
-Error,Error,,5.350.75,Gives a random trinket effect each room.
-Faded_Polaroid,Faded Polaroid,,5.350.69,"Occasionally causes Isaac to blend into the ground, which briefly confuses all enemies in the room."
-Golden_Horse_Shoe,Golden Horse Shoe,,5.350.82,+15% chance for Treasure Rooms to have two items. Only one item can be taken.
-Karma,Karma,,5.350.85,Donating to a donation machine has a chance to heal Isaac for a full red heart or spawn a beggar. Increases the chance that donating to a Donation Machine will increase Isaac's luck.
-Lazy_Worm,Lazy Worm,,5.350.66,Increases range by 4 and decreases shot speed by .4.
-Lil_Larva,Lil Larva,,5.350.86,Spawns a Blue Fly from every pile of poop that Isaac destroys.
-Louse,Louse,,5.350.70,Occasionally spawns a Blue Spider.
-Mom%27s_Locket,Mom's Locket,,5.350.87,Grants half a red heart each time a key is used. Converts half red heart pickups into full red hearts.
-NO!,NO!,,5.350.88,"Prevents active items from being generated, if possible."
-Poker_Chip,Poker Chip,,5.350.76,Chests have a 50% chance of paying out with extra pickups and a 50% chance of paying out with nothing or enemies.
-Rainbow_Worm,Rainbow Worm,,5.350.64,Isaac's tears gain a worm effect that changes every 3 seconds.
-Rib_of_Greed,Rib of Greed,,5.350.84,"Prevents Greed and Super Greed from appearing in shops and secret rooms, and makes coin drops after clearing rooms more likely."
-Safety_Scissors,Safety Scissors,,5.350.63,Troll bombs turn into Bomb pickups before they explode. Mega troll bombs turn into double bombs before they explode.
-Second_Hand,Second Hand,,5.350.78,Increases the time that status effects stay on enemies.
-Shiny_Rock,Shiny Rock,,5.350.62,Tinted rocks and rocks with Crawl Spaces underneath flash white upon entering the room and every 10 seconds afterward.
-Store_Key,Store Key,,5.350.83,Shops can be opened without using Keys.
-Stud_Finder,Stud Finder,,5.350.74,Increases the chance to find a Crawl Space.
-Super_Magnet,Super Magnet,,5.350.68,Pulls enemies and pickups towards Isaac.
-Tape_Worm,Tape Worm,,5.350.65,Doubles Isaac's range and halves his tear height.
-Watch_Battery,Watch Battery,,5.350.72,Increased chance of batteries spawning. Has a chance to add an extra charge to Isaac's activated item upon completing a room.
-Baby-Bender,Baby-Bender,,5.350.127,Grants Isaac's familiars homing shots.
-Bag_Lunch,Bag Lunch,,5.350.105,Taking damage has a small chance to destroy the trinket and spawn Lunch.
-Bat_Wing,Bat Wing,,5.350.118,"Upon killing an enemy, has a chance to grant flight for the rest of the room."
-Black_Tooth,Black Tooth,,5.350.95,Adds a chance to fire a black tooth that deals double damage and poisons enemies.
-Bloody_Crown,Bloody Crown,,5.350.111,Treasure Rooms appear in chapter 4.
-Butter!,Butter!,,5.350.122,Using an active item will drop it onto a pedestal on the ground. Taking damage may result in dropping a passive item.
+Dying in Sacrifice Room while holding it unlocks The Lost. If The Lost is unlocked, revives Isaac as The Lost on death, then disappears.",Rebirth
+Mom%27s_Pearl,Mom's Pearl,,5.350.38,Grants a secondary 10% chance of any non-specific heart drop turning into a soul heart.,Rebirth
+Mom%27s_Toenail,Mom's Toenail,,5.350.16,"Once a minute, Mom's foot randomly stomps down somewhere in the room.",Rebirth
+Monkey_Paw,Monkey Paw,,5.350.20,"If the character has half a heart after taking damage, it drops a black heart. The effect can trigger up to three times, after which the trinket will disappear.",Rebirth
+Mysterious_Candy,Mysterious Candy,,5.350.25,Isaac farts or poops at random intervals. Getting hit can also trigger the effect.,Rebirth
+Mysterious_Paper,Mysterious Paper,,5.350.21,"Has a chance to replicate the effects of A Missing Page, The Polaroid, The Negative, or Missing Poster.",Rebirth
+Paper_Clip,Paper Clip,,5.350.19,Golden Chests can be opened without using a Key.,Rebirth
+Petrified_Poop,Petrified Poop,,5.350.2,Greatly increases the chances of a pickup dropping when destroying poop.,Rebirth
+Pinky_Eye,Pinky Eye,,5.350.30,"Adds a 10% chance to shoot a poison tear, dealing damage over time when inflicted.",Rebirth
+Pulse_Worm,Pulse Worm,,5.350.9,Tears pulsate in size as they travel.,Rebirth
+Purple_Heart,Purple Heart,,5.350.5,Increases the chance of encountering champion enemies and bosses.,Rebirth
+Push_Pin,Push Pin,,5.350.31,Adds a 10% chance to shoot a piercing and spectral tear.,Rebirth
+Red_Patch,Red Patch,,5.350.40,Grants a chance of increasing damage by 1.8 for the current room upon taking damage.,Rebirth
+Ring_Worm,Ring Worm,,5.350.11,Isaac fires in a fast spiraling pattern. Also grants spectral tears.,Rebirth
+Rosary_Bead,Rosary Bead,,5.350.7,"Increases the chance of Angel Rooms appearing, as well as the chance to find The Bible in the Library and Shop.",Rebirth
+Rusted_Key,Rusted Key,,5.350.36,"Increases the chance of keys dropping after clearing a room, and the chance of finding keys when opening a chest.",Rebirth
+Safety_Cap,Safety Cap,,5.350.44,"Improves the chance of pills dropping after clearing a room, and the chance of finding a pill when opening a chest.",Rebirth
+Samson%27s_Lock,Samson's Lock,,5.350.58,1/15 chance to increase damage by 0.5 for the current room each time an enemy dies.,Rebirth
+Store_Credit,Store Credit,,5.350.13,The next Shop purchase is free. The trinket disappears after purchasing anything there.,Rebirth
+Swallowed_Penny,Swallowed Penny,,5.350.1,"Upon taking damage, Isaac drops a coin.",Rebirth
+The_Left_Hand,The Left Hand,,5.350.61,Replaces all types of Chests with Red Chests.,Rebirth
+Tick,Tick,,5.350.53,Drains 15% health from enemies with more than 60 HP. Restores one Red Heart when entering an uncleared boss room. The Tick cannot be dropped or swapped for another trinket (except for Match Stick).,Rebirth
+Umbilical_Cord,Umbilical Cord,,5.350.33,"When brought down to only a Half Red Heart, spawns a Little Steven familiar for the current room. Adds a high chance to spawn a Gemini familiar for the current room after taking damage.",Rebirth
+Whip_Worm,Whip Worm,,5.350.27,"Increases shot speed by 0.5, increasing effective range.",Rebirth
+Wiggle_Worm,Wiggle Worm,,5.350.10,Isaac's tears travel in a wave-like pattern. +0.4 Tears up. Also grants spectral tears.,Rebirth
+Black_Feather,Black Feather,,5.350.80,Increases Isaac's Damage by +0.2 +0.5 for each of the following items or trinkets he possesses:,AB
+Blasting_Cap,Blasting Cap,,5.350.73,Exploding bombs have a chance to drop another Bomb pickup.,AB
+Blind_Rage,Blind Rage,,5.350.81,Increases invincibility time after getting hit.,AB
+Blister,Blister,,5.350.77,Increases knockback of tears.,AB
+Bob%27s_Bladder,Bob's Bladder,,5.350.71,"Leaves a pool of green creep under all bombs Isaac places, which damages enemies that walk over it.",AB
+Brown_Cap,Brown Cap,,5.350.90,Poop explodes upon being destroyed.,AB
+Child_Leash,Child Leash,,5.350.89,Causes familiars to stay closer to each other.,AB
+Cracked_Dice,Cracked Dice,,5.350.67,"Activates the effect of The D6, D8, D12, or D20 (chosen randomly) whenever Isaac takes damage.",AB
+Endless_Nameless,Endless Nameless,,5.350.79,"Has a 25% chance of creating a duplicate of any pill, card, or rune Isaac uses.",AB
+Error,Error,,5.350.75,Gives a random trinket effect each room.,AB
+Faded_Polaroid,Faded Polaroid,,5.350.69,"Occasionally causes Isaac to blend into the ground, which briefly confuses all enemies in the room.",AB
+Golden_Horse_Shoe,Golden Horse Shoe,,5.350.82,+15% chance for Treasure Rooms to have two items. Only one item can be taken.,AB
+Karma,Karma,,5.350.85,Donating to a donation machine has a chance to heal Isaac for a full red heart or spawn a beggar. Increases the chance that donating to a Donation Machine will increase Isaac's luck.,AB
+Lazy_Worm,Lazy Worm,,5.350.66,Increases range by 4 and decreases shot speed by .4.,AB
+Lil_Larva,Lil Larva,,5.350.86,Spawns a Blue Fly from every pile of poop that Isaac destroys.,AB
+Louse,Louse,,5.350.70,Occasionally spawns a Blue Spider.,AB
+Mom%27s_Locket,Mom's Locket,,5.350.87,Grants half a red heart each time a key is used. Converts half red heart pickups into full red hearts.,AB
+NO!,NO!,,5.350.88,"Prevents active items from being generated, if possible.",AB
+Poker_Chip,Poker Chip,,5.350.76,Chests have a 50% chance of paying out with extra pickups and a 50% chance of paying out with nothing or enemies.,AB
+Rainbow_Worm,Rainbow Worm,,5.350.64,Isaac's tears gain a worm effect that changes every 3 seconds.,AB
+Rib_of_Greed,Rib of Greed,,5.350.84,"Prevents Greed and Super Greed from appearing in shops and secret rooms, and makes coin drops after clearing rooms more likely.",AB
+Safety_Scissors,Safety Scissors,,5.350.63,Troll bombs turn into Bomb pickups before they explode. Mega troll bombs turn into double bombs before they explode.,AB
+Second_Hand,Second Hand,,5.350.78,Increases the time that status effects stay on enemies.,AB
+Shiny_Rock,Shiny Rock,,5.350.62,Tinted rocks and rocks with Crawl Spaces underneath flash white upon entering the room and every 10 seconds afterward.,AB
+Store_Key,Store Key,,5.350.83,Shops can be opened without using Keys.,AB
+Stud_Finder,Stud Finder,,5.350.74,Increases the chance to find a Crawl Space.,AB
+Super_Magnet,Super Magnet,,5.350.68,Pulls enemies and pickups towards Isaac.,AB
+Tape_Worm,Tape Worm,,5.350.65,Doubles Isaac's range and halves his tear height.,AB
+Watch_Battery,Watch Battery,,5.350.72,Increased chance of batteries spawning. Has a chance to add an extra charge to Isaac's activated item upon completing a room.,AB
+Baby-Bender,Baby-Bender,,5.350.127,Grants Isaac's familiars homing shots.,AB+
+Bag_Lunch,Bag Lunch,,5.350.105,Taking damage has a small chance to destroy the trinket and spawn Lunch.,AB+
+Bat_Wing,Bat Wing,,5.350.118,"Upon killing an enemy, has a chance to grant flight for the rest of the room.",AB+
+Black_Tooth,Black Tooth,,5.350.95,Adds a chance to fire a black tooth that deals double damage and poisons enemies.,AB+
+Bloody_Crown,Bloody Crown,,5.350.111,Treasure Rooms appear in chapter 4.,AB+
+Butter!,Butter!,,5.350.122,Using an active item will drop it onto a pedestal on the ground. Taking damage may result in dropping a passive item.,AB+
 Cracked_Crown,Cracked Crown,,5.350.92,"Decreases Isaac's tear delay by 20%, and improves the effectiveness of his other stat upgrades by ~33%.
-Improves the effectiveness of other stat upgrades by ~20%."
-Crow_Heart,Crow Heart,,5.350.107,"Red Heart damage will be taken before Soul Heart, Black Heart, and Rotten Heart damage."
-Dim_Bulb,Dim Bulb,,5.350.101,Provides a boost to all stats when Isaac's active item is completely uncharged.
-Door_Stop,Door Stop,,5.350.124,"The last door Isaac went through stays open, allowing him to leave the room even if enemies are in it."
-Duct_Tape,Duct Tape,,5.350.109,Holds Isaac's familiars in place relative to his position.
-Equality!,Equality!,,5.350.103,"Turns pickups into their doubled versions while Isaac's numbers of coins, bombs, and keys are equal."
-Extension_Cord,Extension Cord,,5.350.125,"Bolts of electricity arc between Isaac and his familiars, damaging any enemies between them."
-Filigree_Feather,Filigree Feather,,5.350.123,Angels drop Angel Room items instead of key pieces when defeated.
-Finger_Bone,Finger Bone,,5.350.128,Grants a chance to gain a Bone Heart upon taking damage.
-Fish_Tail,Fish Tail,,5.350.94,Items and trinkets that generate Blue Flies or locusts will generate twice as many.
-Fragmented_Card,Fragmented Card,,5.350.102,Makes two Secret Rooms spawn on each floor.
-Hairpin,Hairpin,,5.350.120,Fully recharges Isaac's active item upon entering a boss fight.
-Locust_of_Conquest,Locust of Conquest,,5.350.117,"Upon entering a room with enemies, spawns 2-5 White Locusts which damage enemies."
-Locust_of_Death,Locust of Death,,5.350.116,"Upon entering a room with enemies, spawns a Black Locust that does a very high amount of damage."
-Locust_of_Famine,Locust of Famine,,5.350.115,"Upon entering a room with enemies, spawns a Yellow Locust that damages and slows enemies."
-Locust_of_Pestilence,Locust of Pestilence,,5.350.114,"Upon entering a room with enemies, spawns a Green Locust which damages and poisons enemies."
-Locust_of_War,Locust of War,,5.350.113,"Upon entering a room with enemies for the first time, spawns a Red Locust which detonates upon impact with enemies."
-Lost_Cork,Lost Cork,,5.350.106,Increases the radius of any creep produced by Isaac.
-Meconium,Meconium,,5.350.91,Black poop can drop black hearts when destroyed. Poop has a chance to turn into black poop.
-Nose_Goblin,Nose Goblin,,5.350.98,Chance to fire a homing booger that sticks to enemies and deals damage over time.
-Ouroboros_Worm,Ouroboros Worm,,5.350.96,"Tears travel in a large spiral pattern and become spectral, with a small chance to home."
-Pay_to_Win,Pay to Win,,5.350.112,Restock boxes always spawn in Item Rooms.
-Rotten_Penny,Rotten Penny,,5.350.126,Spawns a Blue Fly every time a coin is picked up.
-Silver_Dollar,Silver Dollar,,5.350.110,Shops appear in Chapter 4.
+Improves the effectiveness of other stat upgrades by ~20%.",AB+
+Crow_Heart,Crow Heart,,5.350.107,"Red Heart damage will be taken before Soul Heart, Black Heart, and Rotten Heart damage.",AB+
+Dim_Bulb,Dim Bulb,,5.350.101,Provides a boost to all stats when Isaac's active item is completely uncharged.,AB+
+Door_Stop,Door Stop,,5.350.124,"The last door Isaac went through stays open, allowing him to leave the room even if enemies are in it.",AB+
+Duct_Tape,Duct Tape,,5.350.109,Holds Isaac's familiars in place relative to his position.,AB+
+Equality!,Equality!,,5.350.103,"Turns pickups into their doubled versions while Isaac's numbers of coins, bombs, and keys are equal.",AB+
+Extension_Cord,Extension Cord,,5.350.125,"Bolts of electricity arc between Isaac and his familiars, damaging any enemies between them.",AB+
+Filigree_Feather,Filigree Feather,,5.350.123,Angels drop Angel Room items instead of key pieces when defeated.,AB+
+Finger_Bone,Finger Bone,,5.350.128,Grants a chance to gain a Bone Heart upon taking damage.,AB+
+Fish_Tail,Fish Tail,,5.350.94,Items and trinkets that generate Blue Flies or locusts will generate twice as many.,AB+
+Fragmented_Card,Fragmented Card,,5.350.102,Makes two Secret Rooms spawn on each floor.,AB+
+Hairpin,Hairpin,,5.350.120,Fully recharges Isaac's active item upon entering a boss fight.,AB+
+Locust_of_Conquest,Locust of Conquest,,5.350.117,"Upon entering a room with enemies, spawns 2-5 White Locusts which damage enemies.",AB+
+Locust_of_Death,Locust of Death,,5.350.116,"Upon entering a room with enemies, spawns a Black Locust that does a very high amount of damage.",AB+
+Locust_of_Famine,Locust of Famine,,5.350.115,"Upon entering a room with enemies, spawns a Yellow Locust that damages and slows enemies.",AB+
+Locust_of_Pestilence,Locust of Pestilence,,5.350.114,"Upon entering a room with enemies, spawns a Green Locust which damages and poisons enemies.",AB+
+Locust_of_War,Locust of War,,5.350.113,"Upon entering a room with enemies for the first time, spawns a Red Locust which detonates upon impact with enemies.",AB+
+Lost_Cork,Lost Cork,,5.350.106,Increases the radius of any creep produced by Isaac.,AB+
+Meconium,Meconium,,5.350.91,Black poop can drop black hearts when destroyed. Poop has a chance to turn into black poop.,AB+
+Nose_Goblin,Nose Goblin,,5.350.98,Chance to fire a homing booger that sticks to enemies and deals damage over time.,AB+
+Ouroboros_Worm,Ouroboros Worm,,5.350.96,"Tears travel in a large spiral pattern and become spectral, with a small chance to home.",AB+
+Pay_to_Win,Pay to Win,,5.350.112,Restock boxes always spawn in Item Rooms.,AB+
+Rotten_Penny,Rotten Penny,,5.350.126,Spawns a Blue Fly every time a coin is picked up.,AB+
+Silver_Dollar,Silver Dollar,,5.350.110,Shops appear in Chapter 4.,AB+
 Stem_Cell,Stem Cell,,5.350.119,"Heals Isaac for half a heart upon traveling to the next floor.
-Heals Isaac's Red Heart health to 50% of maximum upon traveling to the next floor. If his health is already equal to or above 50%, it heals half a Red Heart instead."
-Super_Ball,Super Ball,,5.350.99,Makes tears have a chance to bounce off enemies and obstacles.
-Tonsil,Tonsil,,5.350.97,"When hit, there is a small chance a removed tonsil familiar starts following Isaac, blocking enemy shots."
-Used_Diaper,Used Diaper,,5.350.93,Grants the Skatole effect in some rooms.
-Vibrant_Bulb,Vibrant Bulb,,5.350.100,Provides a boost to all stats when Isaac's active item is fully charged.
-Walnut,Walnut,,5.350.108,Being hit by explosions will eventually destroy the trinket and spawn various pickups.
-Wish_Bone,Wish Bone,,5.350.104,Taking damage has a small chance to destroy the trinket and spawn a random item.
-Wooden_Cross,Wooden Cross,,5.350.121,Grants a shield that negates the first damage taken once per floor.
-%27M,'M,,5.350.138,Using an activated item rerolls it.
-A_Lighter,A Lighter,,5.350.135,Adds a chance for enemies to burn upon entering a room.
-Adoption_Papers,Adoption Papers,,5.350.184,"Shops can sell familiars, which will always be at a discounted price."
-Apollyon%27s_Best_Friend,Apollyon's Best Friend,,5.350.186,Spawns an attack locust familiar which will fly forward while Isaac shoots.
-Apple_of_Sodom,Apple of Sodom,,5.350.140,"Picking up red hearts, even while at full health, can convert them into blue spiders. The effect may consume hearts needed for healing."
-Azazel%27s_Stump,Azazel's Stump,,5.350.162,"When clearing a room, adds a chance to turn into Azazel until clearing another."
-Beth%27s_Essence,Beth's Essence,,5.350.182,"Upon entering an Angel Room, spawns 5 wisp orbitals. Giving money to beggars can spawn wisps."
-Beth%27s_Faith,Beth's Faith,,5.350.142,"At the beginning of each floor, spawn 4-8 wisps that orbit Isaac and fires tears alongside him."
-Blessed_Penny,Blessed Penny,,5.350.131,Gives a chance to drop a Half Soul Heart when a coin is collected.
-Blue_Key,Blue Key,,5.350.150,"Doors can be unlocked without using keys. Opening a door this way brings Isaac to an in-between room that resembles ???, with a few monsters."
-Brain_Worm,Brain Worm,,5.350.144,Tears snap 90 degrees to target enemies that they may have missed.
-Broken_Glasses,Broken Glasses,,5.350.187,Gives a 33% chance to add a '?' item to Treasure Rooms. Only one item can be taken. The extra items on the alt path are revealed instead.
-Broken_Padlock,Broken Padlock,,5.350.136,Locks can be opened with explosions.
-Broken_Syringe,Broken Syringe,,5.350.132,Grants a chance to gain a random syringe effect for the current room.
-Charged_Penny,Charged Penny,,5.350.147,Picking up coins has a chance to give an Active Item charge.
-Chewed_Pen,Chewed Pen,,5.350.130,Adds a chance to fire tears that slow enemies.
-Cricket_Leg,Cricket Leg,,5.350.185,Adds a chance to spawn a random locust when killing an enemy.
-Crystal_Key,Crystal Key,,5.350.170,"Whenever Isaac clears a room, has a chance to open a neighboring Red Room."
-Cursed_Penny,Cursed Penny,,5.350.172,Picking up coins teleports Isaac to a random room.
-Devil%27s_Crown,Devil's Crown,,5.350.146,"Treasure Rooms are replaced with unique Red Treasure Rooms, offering a Deal with the Devil in place of an item."
-Dice_Bag,Dice Bag,,5.350.154,"When Isaac enters a new room, has a chance to give him a Dice item as a consumable for the current room."
-Dingle_Berry,Dingle Berry,,5.350.163,Spawns a Dip Familiar upon clearing a room.
-Expansion_Pack,Expansion Pack,,5.350.181,"Once per room, using an active item triggers another random active item effect."
-Flat_File,Flat File,,5.350.151,"Causes all spikes to retract, making them harmless. Also affects the doors to Curse Rooms."
-Forgotten_Lullaby,Forgotten Lullaby,,5.350.141,Improves the fire rate of Isaac's familiars.
-Found_Soul,Found Soul,,5.350.180,"Spawns a familiar that copies Isaac's movements and scales with damage and tears. If it takes damage, it will die and respawn on the next floor."
-Friendship_Necklace,Friendship Necklace,,5.350.148,Causes familiars to orbit Isaac.
-Gigante_Bean,Gigante Bean,,5.350.134,Increases the size of Isaac's farts.
-Gilded_Key,Gilded Key,,5.350.159,"Replaces all new chests, except Mega Chests, with Locked Chests."
-Hollow_Heart,Hollow Heart,,5.350.168,Grants an empty bone heart upon entering a new floor.
-Holy_Crown,Holy Crown,,5.350.155,A Treasure Room and Shop appears in the Cathedral.
-Ice_Cube,Ice Cube,,5.350.188,Adds a chance to petrify enemies when entering the room. Killing the petrified enemy freezes it.
-Jawbreaker,Jawbreaker,,5.350.129,Adds the chance to fire teeth that deal 3.2x damage; mechanically identical to the passive item Tough Love.
-Keeper%27s_Bargain,Keeper's Bargain,,5.350.171,Adds a chance for Devil Deals to cost money instead of health.
-Kid%27s_Drawing,Kid's Drawing,,5.350.169,"While held, counts towards the Guppy transformation."
-Lil_Clot,Lil Clot,,5.350.176,Spawns a clot familiar that mimics Isaac's movements and tears. It dies for the current room after taking too much damage.
-Lucky_Sack,Lucky Sack,,5.350.160,Spawns a Grab Bag upon traveling to the next floor.
-Modeling_Clay,Modeling Clay,,5.350.166,Grants the effect of a random passive Item each room.
-Mom%27s_Lock,Mom's Lock,,5.350.153,Grants the effects of a random Mom item each room.
-Mother%27s_Kiss,Mother's Kiss,,5.350.156,Grants one heart container.
-Myosotis,Myosotis,,5.350.137,"When entering a new floor, up to four uncollected pickups from the previous floor spawn in the starting room."
-Nuh_Uh!,Nuh Uh!,,5.350.165,Replaces keys and coins that spawn in Chapter 4 and beyond with more useful pickups.
-Number_Magnet,Number Magnet,,5.350.174,"Increases the chance of earning a Devil Room by 10%, prevents Krampus from spawning, and generates special Devil Room layouts."
-Old_Capacitor,Old Capacitor,,5.350.143,"Active items don't charge when clearing rooms. Adds a chance to spawn a Lil' Battery when clearing a room, independent of the room's original drop."
-Panic_Button,Panic Button,,5.350.149,Activates Isaac's active item just before he takes damage.
-Perfection,Perfection,,5.350.145,"+10 Luck. If Isaac takes damage, the trinket is destroyed and its effect is removed."
-Polished_Bone,Polished Bone,,5.350.167,"After clearing a room, adds a chance to spawn a friendly Bony."
-RC_Remote,RC Remote,,5.350.179,"Instead of trailing behind Isaac, familiars are directly controlled by the same inputs as Isaac's."
-Ring_Cap,Ring Cap,,5.350.164,Placing a bomb spawns an extra bomb for free.
-Short_Fuse,Short Fuse,,5.350.133,Bombs placed by Isaac explode quicker.
-Sigil_of_Baphomet,Sigil of Baphomet,,5.350.189,Grants an invulnerability shield for 1 second after killing an enemy.
-Strange_Key,Strange Key,,5.350.175,"Unlocks the passageway to ??? and the Hush fight, regardless of the run duration. Using Pandora's Box grants it a special effect, consuming the key."
-Swallowed_M80,Swallowed M80,,5.350.178,Isaac explodes upon taking damage.
-Teardrop_Charm,Teardrop Charm,,5.350.139,Luck-based tear effects have a higher chance of occurring.
-Telescope_Lens,Telescope Lens,,5.350.152,Increases the chance for Planetariums to spawn even if one has been visited and allows Planetariums to spawn in Chapter 4.
-Temporary_Tattoo,Temporary Tattoo,,5.350.177,"Drops a chest after clearing a Challenge Room, or an extra Boss item after clearing a Boss Challenge Room."
-The_Twins,The Twins,,5.350.183,Adds a chance to duplicate one of Isaac's familiars when entering a new room.
-Torn_Card,Torn Card,,5.350.157,"Every 15 shots, Isaac shoots an Ipecac + My Reflection tear."
-Torn_Pocket,Torn Pocket,,5.350.158,"Upon taking damage, Isaac drops 2 random Pickups from among those he's currently holding."
-Wicked_Crown,Wicked Crown,,5.350.161,A Treasure Room and Shop appears in Sheol.
-Your_Soul,Your Soul,,5.350.173,"Can be used to pay for a Devil deal without losing hearts, and is then consumed."
+Heals Isaac's Red Heart health to 50% of maximum upon traveling to the next floor. If his health is already equal to or above 50%, it heals half a Red Heart instead.",AB+
+Super_Ball,Super Ball,,5.350.99,Makes tears have a chance to bounce off enemies and obstacles.,AB+
+Tonsil,Tonsil,,5.350.97,"When hit, there is a small chance a removed tonsil familiar starts following Isaac, blocking enemy shots.",AB+
+Used_Diaper,Used Diaper,,5.350.93,Grants the Skatole effect in some rooms.,AB+
+Vibrant_Bulb,Vibrant Bulb,,5.350.100,Provides a boost to all stats when Isaac's active item is fully charged.,AB+
+Walnut,Walnut,,5.350.108,Being hit by explosions will eventually destroy the trinket and spawn various pickups.,AB+
+Wish_Bone,Wish Bone,,5.350.104,Taking damage has a small chance to destroy the trinket and spawn a random item.,AB+
+Wooden_Cross,Wooden Cross,,5.350.121,Grants a shield that negates the first damage taken once per floor.,AB+
+%27M,'M,,5.350.138,Using an activated item rerolls it.,Repentence
+A_Lighter,A Lighter,,5.350.135,Adds a chance for enemies to burn upon entering a room.,Repentence
+Adoption_Papers,Adoption Papers,,5.350.184,"Shops can sell familiars, which will always be at a discounted price.",Repentence
+Apollyon%27s_Best_Friend,Apollyon's Best Friend,,5.350.186,Spawns an attack locust familiar which will fly forward while Isaac shoots.,Repentence
+Apple_of_Sodom,Apple of Sodom,,5.350.140,"Picking up red hearts, even while at full health, can convert them into blue spiders. The effect may consume hearts needed for healing.",Repentence
+Azazel%27s_Stump,Azazel's Stump,,5.350.162,"When clearing a room, adds a chance to turn into Azazel until clearing another.",Repentence
+Beth%27s_Essence,Beth's Essence,,5.350.182,"Upon entering an Angel Room, spawns 5 wisp orbitals. Giving money to beggars can spawn wisps.",Repentence
+Beth%27s_Faith,Beth's Faith,,5.350.142,"At the beginning of each floor, spawn 4-8 wisps that orbit Isaac and fires tears alongside him.",Repentence
+Blessed_Penny,Blessed Penny,,5.350.131,Gives a chance to drop a Half Soul Heart when a coin is collected.,Repentence
+Blue_Key,Blue Key,,5.350.150,"Doors can be unlocked without using keys. Opening a door this way brings Isaac to an in-between room that resembles ???, with a few monsters.",Repentence
+Brain_Worm,Brain Worm,,5.350.144,Tears snap 90 degrees to target enemies that they may have missed.,Repentence
+Broken_Glasses,Broken Glasses,,5.350.187,Gives a 33% chance to add a '?' item to Treasure Rooms. Only one item can be taken. The extra items on the alt path are revealed instead.,Repentence
+Broken_Padlock,Broken Padlock,,5.350.136,Locks can be opened with explosions.,Repentence
+Broken_Syringe,Broken Syringe,,5.350.132,Grants a chance to gain a random syringe effect for the current room.,Repentence
+Charged_Penny,Charged Penny,,5.350.147,Picking up coins has a chance to give an Active Item charge.,Repentence
+Chewed_Pen,Chewed Pen,,5.350.130,Adds a chance to fire tears that slow enemies.,Repentence
+Cricket_Leg,Cricket Leg,,5.350.185,Adds a chance to spawn a random locust when killing an enemy.,Repentence
+Crystal_Key,Crystal Key,,5.350.170,"Whenever Isaac clears a room, has a chance to open a neighboring Red Room.",Repentence
+Cursed_Penny,Cursed Penny,,5.350.172,Picking up coins teleports Isaac to a random room.,Repentence
+Devil%27s_Crown,Devil's Crown,,5.350.146,"Treasure Rooms are replaced with unique Red Treasure Rooms, offering a Deal with the Devil in place of an item.",Repentence
+Dice_Bag,Dice Bag,,5.350.154,"When Isaac enters a new room, has a chance to give him a Dice item as a consumable for the current room.",Repentence
+Dingle_Berry,Dingle Berry,,5.350.163,Spawns a Dip Familiar upon clearing a room.,Repentence
+Expansion_Pack,Expansion Pack,,5.350.181,"Once per room, using an active item triggers another random active item effect.",Repentence
+Flat_File,Flat File,,5.350.151,"Causes all spikes to retract, making them harmless. Also affects the doors to Curse Rooms.",Repentence
+Forgotten_Lullaby,Forgotten Lullaby,,5.350.141,Improves the fire rate of Isaac's familiars.,Repentence
+Found_Soul,Found Soul,,5.350.180,"Spawns a familiar that copies Isaac's movements and scales with damage and tears. If it takes damage, it will die and respawn on the next floor.",Repentence
+Friendship_Necklace,Friendship Necklace,,5.350.148,Causes familiars to orbit Isaac.,Repentence
+Gigante_Bean,Gigante Bean,,5.350.134,Increases the size of Isaac's farts.,Repentence
+Gilded_Key,Gilded Key,,5.350.159,"Replaces all new chests, except Mega Chests, with Locked Chests.",Repentence
+Hollow_Heart,Hollow Heart,,5.350.168,Grants an empty bone heart upon entering a new floor.,Repentence
+Holy_Crown,Holy Crown,,5.350.155,A Treasure Room and Shop appears in the Cathedral.,Repentence
+Ice_Cube,Ice Cube,,5.350.188,Adds a chance to petrify enemies when entering the room. Killing the petrified enemy freezes it.,Repentence
+Jawbreaker,Jawbreaker,,5.350.129,Adds the chance to fire teeth that deal 3.2x damage; mechanically identical to the passive item Tough Love.,Repentence
+Keeper%27s_Bargain,Keeper's Bargain,,5.350.171,Adds a chance for Devil Deals to cost money instead of health.,Repentence
+Kid%27s_Drawing,Kid's Drawing,,5.350.169,"While held, counts towards the Guppy transformation.",Repentence
+Lil_Clot,Lil Clot,,5.350.176,Spawns a clot familiar that mimics Isaac's movements and tears. It dies for the current room after taking too much damage.,Repentence
+Lucky_Sack,Lucky Sack,,5.350.160,Spawns a Grab Bag upon traveling to the next floor.,Repentence
+Modeling_Clay,Modeling Clay,,5.350.166,Grants the effect of a random passive Item each room.,Repentence
+Mom%27s_Lock,Mom's Lock,,5.350.153,Grants the effects of a random Mom item each room.,Repentence
+Mother%27s_Kiss,Mother's Kiss,,5.350.156,Grants one heart container.,Repentence
+Myosotis,Myosotis,,5.350.137,"When entering a new floor, up to four uncollected pickups from the previous floor spawn in the starting room.",Repentence
+Nuh_Uh!,Nuh Uh!,,5.350.165,Replaces keys and coins that spawn in Chapter 4 and beyond with more useful pickups.,Repentence
+Number_Magnet,Number Magnet,,5.350.174,"Increases the chance of earning a Devil Room by 10%, prevents Krampus from spawning, and generates special Devil Room layouts.",Repentence
+Old_Capacitor,Old Capacitor,,5.350.143,"Active items don't charge when clearing rooms. Adds a chance to spawn a Lil' Battery when clearing a room, independent of the room's original drop.",Repentence
+Panic_Button,Panic Button,,5.350.149,Activates Isaac's active item just before he takes damage.,Repentence
+Perfection,Perfection,,5.350.145,"+10 Luck. If Isaac takes damage, the trinket is destroyed and its effect is removed.",Repentence
+Polished_Bone,Polished Bone,,5.350.167,"After clearing a room, adds a chance to spawn a friendly Bony.",Repentence
+RC_Remote,RC Remote,,5.350.179,"Instead of trailing behind Isaac, familiars are directly controlled by the same inputs as Isaac's.",Repentence
+Ring_Cap,Ring Cap,,5.350.164,Placing a bomb spawns an extra bomb for free.,Repentence
+Short_Fuse,Short Fuse,,5.350.133,Bombs placed by Isaac explode quicker.,Repentence
+Sigil_of_Baphomet,Sigil of Baphomet,,5.350.189,Grants an invulnerability shield for 1 second after killing an enemy.,Repentence
+Strange_Key,Strange Key,,5.350.175,"Unlocks the passageway to ??? and the Hush fight, regardless of the run duration. Using Pandora's Box grants it a special effect, consuming the key.",Repentence
+Swallowed_M80,Swallowed M80,,5.350.178,Isaac explodes upon taking damage.,Repentence
+Teardrop_Charm,Teardrop Charm,,5.350.139,Luck-based tear effects have a higher chance of occurring.,Repentence
+Telescope_Lens,Telescope Lens,,5.350.152,Increases the chance for Planetariums to spawn even if one has been visited and allows Planetariums to spawn in Chapter 4.,Repentence
+Temporary_Tattoo,Temporary Tattoo,,5.350.177,"Drops a chest after clearing a Challenge Room, or an extra Boss item after clearing a Boss Challenge Room.",Repentence
+The_Twins,The Twins,,5.350.183,Adds a chance to duplicate one of Isaac's familiars when entering a new room.,Repentence
+Torn_Card,Torn Card,,5.350.157,"Every 15 shots, Isaac shoots an Ipecac + My Reflection tear.",Repentence
+Torn_Pocket,Torn Pocket,,5.350.158,"Upon taking damage, Isaac drops 2 random Pickups from among those he's currently holding.",Repentence
+Wicked_Crown,Wicked Crown,,5.350.161,A Treasure Room and Shop appears in Sheol.,Repentence
+Your_Soul,Your Soul,,5.350.173,"Can be used to pay for a Devil deal without losing hearts, and is then consumed.",Repentence
