@@ -3,7 +3,6 @@
 
  # Polydactyly ![image](/image/Polydactyly.png) 
 
-
 Effects
 ---------
 

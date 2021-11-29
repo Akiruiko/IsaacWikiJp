@@ -3,7 +3,6 @@
 
  # Box of Spiders ![image](/image/Box_of_Spiders.png) 
 
-
 Effects
 ---------
 

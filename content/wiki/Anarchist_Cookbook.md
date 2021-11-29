@@ -3,33 +3,38 @@
 
  # Anarchist Cookbook ![image](/image/Anarchist_Cookbook.png) 
 
+Effect
+--------
 
-Effects
----------
 
-
-* Spawns a red crack in the ground somewhere in the room while Isaac is in a room with enemies. Walking over the crack summons a ghost that homes in on the nearest enemy, exploding when it hits it. After the ghost is summoned, cracks will keep showing up in the room until it is cleared.
-	+ The ghost spends one second spawning in before it attacks.
-	+ The ghost deals double Isaac's damage per tick, up to 4 times.
+* Spawns six [(Troll Bomb)](/wiki/Troll_Bomb "Troll Bomb") [Troll Bombs](/wiki/Troll_Bomb "Troll Bomb"), usually near the center of the [room](/wiki/Room "Room").
+* (Added in Afterbirth †) This item belongs to the [Bookworm](/wiki/Bookworm "Bookworm") set. Collecting three items from this set will transform Isaac into Bookworm.
 
 
 Notes
 -------
 
 
-* Only one crack is active at a time.
-* The explosion does not hurt Isaac.
-* If a crack is stepped on and the room is cleared before the ghost spawns, it will fly to a random location and explode there.
-* The explosions from the ghosts will destroy enemy tears.
-* Cracks don't spawn in (Challenge Room) [Challenge Rooms](/wiki/Challenge_Room "Challenge Room").
+* This item can drop from [(Pride)](/wiki/Pride "Pride") [Pride](/wiki/Pride "Pride").
+* Although visually unchanged, all passive [bomb](/wiki/Bomb "Bomb") effect items affect the spawned Troll Bombs unless otherwise noted.
+* The Troll Bombs created by Anarchist Cookbook spawn in one at a time; if Isaac leaves the [room](/wiki/Room "Room") soon after using it, not all 6 Troll Bombs will spawn.
+* Using this item without any blast protection is not always recommended as it is very easy to be caught in the blast.
+
+
+Synergies
+-----------
+
+
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps in the center ring, looking like bombs. The wisps spawn [troll bombs](/wiki/Bombs "Bombs") when destroyed. These troll bombs will use Isaac's bomb synergies.
 
 
 Interactions
 --------------
 
 
-* The ghosts aren't considered familiars, therefore they're unaffected by items or trinkets that alter familiars or their behavior, such as [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"), [![image](/image/King_Baby.png)](/wiki/King_Baby "King Baby") [King Baby](/wiki/King_Baby "King Baby"), [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends") or [(Friendship Necklace)](/wiki/Friendship_Necklace "Friendship Necklace") [Friendship Necklace](/wiki/Friendship_Necklace "Friendship Necklace").
-* [![image](/image/Dark_Arts.png)](/wiki/Dark_Arts "Dark Arts") [Dark Arts](/wiki/Dark_Arts "Dark Arts"): Walking over cracks will not summon ghosts while under the effect of Dark Arts.
-* [![image](/image/Spindown_Dice.png)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice"): When used on Purgatory, turns the item into [![image](/image/Dogma_(Item).png)](/wiki/Dogma_(Item) "Dogma") [Dogma](/wiki/Dogma_(Item) "Dogma (Item)"), a unique item usually only able to be obtained by killing the boss [Dogma](/wiki/Dogma "Dogma").
+* [![image](/image/Mr._Mega.png)](/wiki/Mr._Mega "Mr. Mega") [Mr. Mega](/wiki/Mr._Mega "Mr. Mega"): No effect.
+* (Added in Afterbirth)[![image](/image/Bomber_Boy.png)](/wiki/Bomber_Boy "Bomber Boy") [Bomber Boy](/wiki/Bomber_Boy "Bomber Boy"): Not recommended. The cross pattern explosion makes it very hard to avoid taking damage.
+* (Added in Afterbirth †)[![image](/image/Scatter_Bombs.png)](/wiki/Scatter_Bombs "Scatter Bombs") [Scatter Bombs](/wiki/Scatter_Bombs "Scatter Bombs"): Not recommended. Each Troll Bomb will spawn several smaller bombs upon exploding, making it very hard to avoid taking damage.
+	+ (Added in Repentance) No visual change can be seen with the Troll Bombs, but the smaller bombs have the sprite of the smaller normal bombs.
 
 

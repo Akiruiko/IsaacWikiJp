@@ -3,30 +3,23 @@
 
  # Cracked Orb ![image](/image/Cracked_Orb.png) 
 
-
 Effects
 ---------
 
 
-* Spawns a glass [familiar](/wiki/Familiar "Familiar") that follows Isaac and spills on the floor upon taking damage.
-* When the milk spills, Isaac receives -2 [tear delay](/wiki/Attributes#Tear_Delay "Attributes") ((Added in Repentance) +1) (increased rate of fire) until leaving the [room](/wiki/Rooms "Rooms").
-	+ Direct tear delay reduction can take Isaac's tears stat below the normal soft cap of 5.
-* The milk puddle is purely visual, and will stay on the ground for a few seconds before disappearing. The familiar will reappear in the next room.
+* Upon taking damage, activates the following effects:
+	+ Unlocks all doors in the room.
+		- It will not open already-unlocked doors, however.
+	+ Reveals a random unmapped room on the floor.
+	+ Destroys all [tinted rocks](/wiki/Tinted_rock "Tinted rock") and rocks with [Crawl Spaces](/wiki/Crawl_Space "Crawl Space") in the room.
 
 
-Synergies
------------
+Notes
+-------
 
 
-* (Removed in Repentance) [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): The milk familiar is not duplicated; instead, tear delay decreases by 2 upon use even if the player has not taken damage in the current room.
-	+ (Added in Repentance) No extra tear delay is granted, neither before or after breaking.
-* (Added in Repentance)[![image](/image/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom"): If activated at least once, the increased rate of fire will always be active.
-
-
-Interactions
---------------
-
-
-* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Familiar is bigger but no effect on tear delay.
+* The effect is able to reveal the [Ultra Secret Room](/wiki/Ultra_Secret_Room "Ultra Secret Room").
+* The effect will not open the door to the [Challenge Room](/wiki/Challenge_Room "Challenge Room") from the outside.
+* The unlocking effect is able to open the golden door to [Mega Satan](/wiki/Mega_Satan "Mega Satan"), doors leading to [(Downpour)](/wiki/Downpour "Downpour") [Downpour](/wiki/Downpour "Downpour") / [(Mines)](/wiki/Mines "Mines") [Mines](/wiki/Mines "Mines") / [(Mausoleum)](/wiki/Mausoleum "Mausoleum") [Mausoleum](/wiki/Mausoleum "Mausoleum"), the entrance to the [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") fight in the [(Mausoleum)](/wiki/Mausoleum "Mausoleum") [Mausoleum](/wiki/Mausoleum "Mausoleum") and [(Gehenna)](/wiki/Gehenna "Gehenna") [Gehenna](/wiki/Gehenna "Gehenna"), and the [Strange Door](/wiki/A_Strange_Door "A Strange Door").
 
 

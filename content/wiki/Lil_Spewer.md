@@ -3,7 +3,6 @@
 
  # Lil Spewer ![image](/image/Lil_Spewer.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Lodestone ![image](/image/Lodestone.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Glyph of Balance ![image](/image/Glyph_of_Balance.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Anima Sola ![image](/image/Anima_Sola.png) 
 
-
 Effects
 ---------
 

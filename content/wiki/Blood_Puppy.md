@@ -3,48 +3,62 @@
 
  # Blood Puppy ![image](/image/Blood_Puppy.png) 
 
-
 Effects
 ---------
 
 
-* Spawns a pile of [poop](/wiki/Poops "Poops") where Isaac is standing and [knocks back](/wiki/Knock-back "Knock-back") nearby enemies. This pile of poop may yield [pickups](/wiki/Pickups "Pickups") like regular poop.
-	+ (Added in Afterbirth) Also knocks back pickups and enemy shots upon use.
-* (Added in Afterbirth) This item belongs to the [Oh Crap](/wiki/Oh_Crap "Oh Crap") set. Collecting three items from this set will transform Isaac into a walking pile of poop.
+* Spawns a [familiar](/wiki/Familiar "Familiar") that chases nearby enemies and deals 2 contact damage to them per tick (4 per second).
+* After killing 15 enemies, Blood Puppy becomes angry, and changes in the following ways:
+	+ Deals 7.5 damage per tick instead of 2 (15 per second).
+	+ Charges at enemies that are aligned with it in the cardinal directions.
+		- If Blood Puppy charges into a live [bomb](/wiki/Bomb "Bomb"), it will get caught on its mouth, preventing it from moving until it explodes.
+	+ Drops a [half red heart](/wiki/Hearts#Half_Red_Heart "Hearts") for every 10 enemies it kills.
+	+ Will also try to attack Isaac, dealing a half heart of contact damage to him.
+	+ Can be damaged by Isaac, returning it to normal after it takes enough damage. Blood Puppy has 20 health and 90 [Armor](/wiki/Damage_Scaling "Damage Scaling") (effective health is ~140-180).
+* After getting 25 more kills (40 total), the angry version evolves, gaining the following modifications:
+	+ Becomes much larger and deals 15 damage per tick instead of 7.5 (30 per second).
+	+ Destroys [obstacles](/wiki/Obstacles "Obstacles") it runs into while charging.
+	+ Deals a full heart of damage to Isaac instead of half a heart.
+	+ Drops a [full red heart](/wiki/Hearts#Red_Heart "Hearts") after every 10 kills instead of a half red heart.
+	+ Has 50 health instead of 20 (effective health is ~400-500).
 
 
 Notes
 -------
 
 
-* [(???)](/wiki/%3F%3F%3F_(Character) "???") [???](/wiki/%3F%3F%3F_(Character) "??? (Character)") starts with this item by default.
-* Can bridge gaps when bombed from the opposite side (as if it was a [rock](/wiki/Rocks "Rocks")).
-* Poops spawned by The Poop may give [(Petrified Poop)](/wiki/Petrified_Poop "Petrified Poop") [Petrified Poop](/wiki/Petrified_Poop "Petrified Poop"), which gives better odds at future poop drops.
-* If used on top of an obstacle while flying, it will only produce its sound effect, but no poop will be spawned.
-	+ (Removed in Repentance) The also applies to destroyed obstacles.
-* If you have [![image](/image/Thunder_Thighs.png)](/wiki/Thunder_Thighs "Thunder Thighs") [Thunder Thighs](/wiki/Thunder_Thighs "Thunder Thighs") or [![image](/image/Leo.png)](/wiki/Leo "Leo") [Leo](/wiki/Leo "Leo"), the poop will be destroyed beneath you as soon as it is placed.
-* After defeating [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier"), all remaining piles of poop in the room will be converted into golden poops.
-* (Added in Repentance) The Poop can be used to destroy retractable spikes when they're retracted.
-
-
-Synergies
------------
-
-
-* (Added in Repentance)[![image](/image/Bird%27s_Eye.png)](/wiki/Bird%27s_Eye "Bird's Eye") [Bird's Eye](/wiki/Bird%27s_Eye "Bird's Eye") / (Added in Afterbirth †)[![image](/image/Ghost_Pepper.png)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Fire will appear behind Isaac when The Poop is used.
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps on the outer ring, looking like miniature [dips](/wiki/Dip "Dip"). Wisps' tears have a 2.5% chance to apply [![image](/image/E._Coli.png)](/wiki/E._Coli "E. Coli") [E. Coli](/wiki/E._Coli "E. Coli") to enemies, turning them to poop.
-* (Added in Afterbirth)[(Brown Cap)](/wiki/Brown_Cap "Brown Cap") [Brown Cap](/wiki/Brown_Cap "Brown Cap"): The Poop may be used as a discounted (Added in Afterbirth)[![image](/image/Mine_Crafter.png)](/wiki/Mine_Crafter "Mine Crafter") [Mine Crafter](/wiki/Mine_Crafter "Mine Crafter"), both for utility, as well as combat.
-* (Added in Repentance)[![image](/image/Dirty_Mind.png)](/wiki/Dirty_Mind "Dirty Mind") [Dirty Mind](/wiki/Dirty_Mind "Dirty Mind"): Allows the creation of extra [friendly](/wiki/Status_Effects#Friendly "Status Effects") [Dips](/wiki/Dip "Dip").
-* (Added in Afterbirth †)[![image](/image/Hallowed_Ground.png)](/wiki/Hallowed_Ground "Hallowed Ground") [Hallowed Ground](/wiki/Hallowed_Ground "Hallowed Ground"): Using The Poop will always spawn a [white poop](/wiki/Poops#White_Poop "Poops").
-* (Added in Afterbirth †)[(Meconium)](/wiki/Meconium "Meconium") [Meconium](/wiki/Meconium "Meconium"): Using The Poop has chance to spawn a [black poop](/wiki/Poops#Black_Poop "Poops").
-* [![image](/image/Midas%27_Touch.png)](/wiki/Midas%27_Touch "Midas' Touch") [Midas' Touch](/wiki/Midas%27_Touch "Midas' Touch"): Using The Poop has a chance to spawn a [golden poop](/wiki/Poops#Golden_Poop "Poops"). The chance of this effect is 100% at 4 [Luck](/wiki/Luck "Luck").
-* [(Petrified Poop)](/wiki/Petrified_Poop "Petrified Poop") [Petrified Poop](/wiki/Petrified_Poop "Petrified Poop"): Significantly increases the chance that poop may drop a pickup.
+* Blood Puppy appears in the [bestiary](/wiki/Bestiary "Bestiary") as a type of monster, if the player turns it back to normal after it becomes angry. This is required to complete the bestiary.
+* Blood Puppy is not targeted by other familiars while it is angry.
+	+ [Blue Flies](/wiki/Blue_Fly "Blue Fly") and other familiars that deal contact damage will still damage Blood Puppy if they happen to collide.
+* Since [bombs](/wiki/Bombs "Bombs") ignore armor, a single bomb will tame the Blood Puppy.
+* Stages 2 and 3 of Blood Puppy are an enemy for all intents and purposes, similar to [Dark Esau](/wiki/Dark_Esau "Dark Esau"). This means it can be affected by, for example, the slow effect of [![image](/image/Broken_Watch.png)](/wiki/Broken_Watch "Broken Watch") [Broken Watch](/wiki/Broken_Watch "Broken Watch").
+* Friendly Blood Puppies will spawn beside Isaac when he enters a new room while hostile ones will spawn in the middle or opposite ends of the room.
+* Starting the [Dogma](/wiki/Dogma "Dogma") or [Mega Satan](/wiki/Mega_Satan "Mega Satan") fight while Blood Puppy is angry can be dangerous, as it will let Blood Puppy attack the player while the player is unable to move during the boss spawning animation.
 
 
 Interactions
 --------------
 
 
-* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Only spawns one poop.
+* [(Ace of Spades)](/wiki/Cards_and_Runes "Ace of Spades") [Ace of Spades](/wiki/Cards_and_Runes "Cards and Runes") / [(Ace of Clubs)](/wiki/Cards_and_Runes "Ace of Clubs") [Ace of Clubs](/wiki/Cards_and_Runes "Cards and Runes") / [(Ace of Diamonds)](/wiki/Cards_and_Runes "Ace of Diamonds") [Ace of Diamonds](/wiki/Cards_and_Runes "Cards and Runes") / [(Ace of Hearts)](/wiki/Cards_and_Runes "Ace of Hearts") [Ace of Hearts](/wiki/Cards_and_Runes "Cards and Runes"): Using them on an angry Blood Puppy will spawn the respective pickup and tame it.
+
+
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Only increases the size and damage of Blood Puppy during its first phase.
+* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Tames an angry Blood Puppy and spawns another temporary one.
+* [![image](/image/Camo_Undies.png)](/wiki/Camo_Undies "Camo Undies") [Camo Undies](/wiki/Camo_Undies "Camo Undies"): While the camo effect is active, stages 2 and 3 of the Blood Puppy will not target Isaac, but will still target other enemies, making it safer for the player.
+* [![image](/image/Eraser.png)](/wiki/Eraser "Eraser") [Eraser](/wiki/Eraser "Eraser"): Using Eraser on Blood Puppy while it's angry will permanently prevent it from advancing to the erased phase. Using it on phase two will prevent it from becoming angry altogether.
+* [![image](/image/Friendly_Ball.png)](/wiki/Friendly_Ball "Friendly Ball") [Friendly Ball](/wiki/Friendly_Ball "Friendly Ball"): Using the ball on an angered Blood Puppy will instantly tame it. Using the ball again results in a purely cosmetic blood explosion.
+* [![image](/image/Humbling_Bundle.png)](/wiki/Humbling_Bundle "Humbling Bundle") [Humbling Bundle](/wiki/Humbling_Bundle "Humbling Bundle") will allow angry Blood Puppy to drop [double red hearts](/wiki/Hearts "Hearts").
+* [![image](/image/GB_Bug.png)](/wiki/GB_Bug "GB Bug") [GB Bug](/wiki/GB_Bug "GB Bug"): Hitting Blood Puppy with GB Bug will transform it into a random enemy and spawn a tamed Blood Puppy.
+* [![image](/image/Meat_Cleaver.png)](/wiki/Meat_Cleaver "Meat Cleaver") [Meat Cleaver](/wiki/Meat_Cleaver "Meat Cleaver"): If Blood Puppy is angry, splits it into two copies. One copy can level up and be tamed like normal, but the other cannot level up and dies instead of being tamed.
+
+
+  
+
+
+
+  
+
+
 
 

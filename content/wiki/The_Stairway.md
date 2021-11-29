@@ -3,49 +3,68 @@
 
  # The Stairway ![image](/image/The_Stairway.png) 
 
-
 Effects
 ---------
 
 
-* Upon pickup and from then onwards, locks [attributes](/wiki/Attributes "Attributes") to their highest values reached.
-	+ This applies to everything that alters Isaac's attributes, including temporary buffs from activated items and pickups. This also makes him immune to any stat downgrades.
+* At the start of every floor, generates a ladder which leads to a special (Angel Room) [Angel Room](/wiki/Angel_Room "Angel Room") Shop, regardless of whether a devil deal has been taken. These angel shops always contain the following:
+	+ Three items/pickups for sale. These items/pickups can be on sale, just like with normal (Shop) [Shop](/wiki/Shop "Shop").
+		- An item from the [Angel Room Item Pool](/wiki/Angel_Room_(Item_Pool) "Angel Room (Item Pool)") for 15 or 30 pennies.
+		- An [Eternal heart](/wiki/Hearts "Hearts") for 5 pennies.
+		- A Soul heart for 5 pennies.
+		- A key for 5 pennies.
+		- A [(Holy Card)](/wiki/Holy_Card "Holy Card") [Holy Card](/wiki/Holy_Card "Holy Card") for 5 pennies.
+	+ An [Angel](/wiki/Angel "Angel") statue. The Angel can be fought for a Key Piece like normal.
+	+ A normal [(Beggar.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/f/fa/Beggar.png/revision/latest?cb=20210821090921) [Beggar](/wiki/Beggar#Beggar "Beggar") or [(Rotten Beggar.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/2/2a/Rotten_Beggar.png/revision/latest?cb=20210825165538) [Rotten Beggar](/wiki/Beggar#Rotten_Beggar "Beggar") next to the entrance.
+	+ A [(Confessional.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/1d/Confessional.png/revision/latest?cb=20210824103001) [Confessional](/wiki/Machines#Confessional "Machines"), if it has been unlocked.
 
 
 Notes
 -------
 
 
-* Health downs do not count as stat downgrades for Rock Bottom.
-* Isaac's stats are still calculated normally behind the scenes, only their effective values are locked to their highest point. This means picking up an item such as [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk") with a severe damage penalty will make it difficult to reach a higher damage stat.
-	+ For example, using [![image](/image/The_Book_of_Belial.png)](/wiki/The_Book_of_Belial "The Book of Belial") [The Book of Belial](/wiki/The_Book_of_Belial "The Book of Belial") to gain +2 damage will stay in effect indefinitely, but while it's not currently activated, Isaac must earn more than +2 damage from other items to see a difference.
-	+ To best utilize Rock Bottom, the player should gain as much of a single stat as they can in a single room. For example, if a player finds a Strength card and a Devil card, using them in the same room will provide a larger permanent damage boost then if they were used in separate rooms.
-	+ If the player finds an item that lowers a stat, such as Soy Milk, it may be beneficial to not take the item immediately. Instead, it's best to explore the floor for any potential damage ups, then take the stat-lowering item.
-* If Rock Bottom is removed, Isaac's stats will no longer be locked, and return to match his current items/effects.
-
-
-Synergies
------------
-
-
-Refer to the articles on [Damage](/wiki/Damage "Damage"), [Tears](/wiki/Tears "Tears"), [Range](/wiki/Range "Range"), [Shot Speed](/wiki/Shot_Speed "Shot Speed"), [Speed](/wiki/Speed "Speed"), and [Luck](/wiki/Luck "Luck") for lists of items granting otherwise temporary boosts.
+* The following items cost 30 coins to purchase:
 
 
 
-* [![image](/image/20/20.png)](/wiki/20/20 "20/20") [20/20](/wiki/20/20 "20/20") / [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye") / [![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider"): Multiple tears will be shot without the items' respective stat downgrades. The damage and tear multipliers will still affect future stat ups.
-* [(Azazel's Stump)](/wiki/Azazel%27s_Stump "Azazel's Stump") [Azazel's Stump](/wiki/Azazel%27s_Stump "Azazel's Stump"): Isaac will keep Azazel’s base stats after transforming back. This includes 1.25 base speed, +0.5 tears per second, and a 1.5x damage multiplier. The tear delay multiplier will not be given, including while Isaac is Azazel.
-* [![image](/image/Berserk!.png)](/wiki/Berserk! "Berserk!") [Berserk!](/wiki/Berserk! "Berserk!") +3 flat damage and +0.4 speed last indefinitely. Will also give a tears up if (½ tears fired per second + 2), unless Isaac’s tears fired per second is already 4 or higher.
-* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") / [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk") / [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung"): Charged shot can be fired at Isaac’s normal fire rate.
-* [(VII - The Chariot?)](/wiki/Cards_and_Runes "VII - The Chariot?") [VII - The Chariot?](/wiki/Cards_and_Runes "Cards and Runes"): Permanently gives Isaac a gigantic tears up.
-* [![image](/image/Clicker.png)](/wiki/Clicker "Clicker") [Clicker](/wiki/Clicker "Clicker"): will keep stat bonuses from items removed, and will retain the best stats of all characters that are cycled through.
-* [![image](/image/D8.png)](/wiki/D8 "D8") [D8](/wiki/D8 "D8") / [(Cracked Dice)](/wiki/Cracked_Dice "Cracked Dice") [Cracked Dice](/wiki/Cracked_Dice "Cracked Dice"): Only the highest multipliers received from the D8 will be applied to Isaac. With repeated use, a 1.5-2x stat multiplier can be applied to Isaac’s speed, tears, range, and damage.
-* [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten") /  [![image](/image/The_Soul.png)](/wiki/The_Soul_(Character) "The Soul") [The Soul](/wiki/The_Soul_(Character) "The Soul (Character)"): Allows transfer of stat-ups between the two. For example, collecting Ipecac as The Forgotten doesn't give him the +40 damage boost, but it does give it to The Soul. Switching to the Soul, then switching back to the Forgotten prevents him from losing the +40 damage.
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Gives Isaac a massive damage up without the tears down.
-	+ [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac") + [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") / [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): If Ipecac is taken before Brimstone / Tech X, its full damage up is applied to the beam/ring properly, but if the order of the items is reversed, Ipecac will only give +2 damage.
-* [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau") /  [(Tainted Lazarus)](/wiki/Tainted_Lazarus "Tainted Lazarus") [Tainted Lazarus](/wiki/Tainted_Lazarus "Tainted Lazarus"): Only the character that has Rock Bottom will be immune to stat downgrades.
-* [![image](/image/Jupiter.png)](/wiki/Jupiter "Jupiter") [Jupiter](/wiki/Jupiter "Jupiter"): The +0.5 speed boost becomes permanent, turning Jupiter into a +0.2 speed up. Farts made while moving still must be charged by standing still.
-* [![image](/image/Kidney_Stone.png)](/wiki/Kidney_Stone "Kidney Stone") [Kidney Stone](/wiki/Kidney_Stone "Kidney Stone"): Permanently gives Isaac a x6 fire rate multiplier after firing a kidney stone. Accuracy penalty from firing kidney stones is unaffected.
-* [![image](/image/Libra.png)](/wiki/Libra "Libra") [Libra](/wiki/Libra "Libra"): Stat balancing applies after Rock Bottom.
-* [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"): Gives Isaac the full tears up while keeping his previous damage; however, Soy Milk's damage divider still applies to any future damage increases.
+* [![image](/image/The_Body.png)](/wiki/The_Body "The Body") [The Body](/wiki/The_Body "The Body")
+* [![image](/image/Crown_of_Light.png)](/wiki/Crown_of_Light "Crown of Light") [Crown of Light](/wiki/Crown_of_Light "Crown of Light")
+* [![image](/image/Dead_Dove.png)](/wiki/Dead_Dove "Dead Dove") [Dead Dove](/wiki/Dead_Dove "Dead Dove")
+* [![image](/image/Godhead.png)](/wiki/Godhead "Godhead") [Godhead](/wiki/Godhead "Godhead")
+* [![image](/image/Holy_Grail.png)](/wiki/Holy_Grail "Holy Grail") [Holy Grail](/wiki/Holy_Grail "Holy Grail")
+* [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle")
+* [![image](/image/Immaculate_Heart.png)](/wiki/Immaculate_Heart "Immaculate Heart") [Immaculate Heart](/wiki/Immaculate_Heart "Immaculate Heart")
+* [![image](/image/The_Mind.png)](/wiki/The_Mind "The Mind") [The Mind](/wiki/The_Mind "The Mind")
+* [![image](/image/Paschal_Candle.png)](/wiki/Paschal_Candle "Paschal Candle") [Paschal Candle](/wiki/Paschal_Candle "Paschal Candle")
+* [![image](/image/Prayer_Card.png)](/wiki/Prayer_Card "Prayer Card") [Prayer Card](/wiki/Prayer_Card "Prayer Card")
+* [![image](/image/The_Relic.png)](/wiki/The_Relic "The Relic") [The Relic](/wiki/The_Relic "The Relic")
+* [![image](/image/Revelation.png)](/wiki/Revelation "Revelation") [Revelation](/wiki/Revelation "Revelation")
+* [![image](/image/Sacred_Heart.png)](/wiki/Sacred_Heart "Sacred Heart") [Sacred Heart](/wiki/Sacred_Heart "Sacred Heart")
+* [![image](/image/Sacred_Orb.png)](/wiki/Sacred_Orb "Sacred Orb") [Sacred Orb](/wiki/Sacred_Orb "Sacred Orb")
+* [![image](/image/The_Soul.png)](/wiki/The_Soul "The Soul") [The Soul](/wiki/The_Soul "The Soul")
+* [![image](/image/Spirit_Sword.png)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword")
+* [![image](/image/Trinity_Shield.png)](/wiki/Trinity_Shield "Trinity Shield") [Trinity Shield](/wiki/Trinity_Shield "Trinity Shield")
+* [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer")
+
+
+
+* The ladder to the angel room disappears if Isaac leaves the starting room, regardless of whether Isaac has climbed it or not.
+	+ The ladder also disappears after save-quitting.
+* [Weight decrementation](/wiki/Item_Pool#Weight_Decrementation "Item Pool") in the generated shops is the same as in regular Angel Rooms, so if an item is seen in the special shop, it won't be encountered regularly again for the rest of the run.
+* During the [Ascent](/wiki/Ascent "Ascent"), ladders will generate in the "starting rooms" (where light beams are located) on every floor.
+* The ladder will appear in [Greed Mode](/wiki/Greed_Mode "Greed Mode"), but the ladder may be blocked off depending on the room layout.
+* The ladder will appear in the [Mirrored World](/wiki/Mirrored_World "Mirrored World") in the starting room, and will lead to the same shop.
+* Since a beggar always spawns immediately to the right of the entrance way, caution should be taken to avoid accidental donation.
+
+
+Interactions
+--------------
+
+
+* [(Adoption Papers)](/wiki/Adoption_Papers "Adoption Papers") [Adoption Papers](/wiki/Adoption_Papers "Adoption Papers"): Does not affect the Angel shop.
+* [![image](/image/Coupon.png)](/wiki/Coupon "Coupon") [Coupon](/wiki/Coupon "Coupon") / [(Credit Card)](/wiki/Credit_Card "Credit Card") [Credit Card](/wiki/Credit_Card "Credit Card"): Can be used to obtain items for free.
+* [![image](/image/Keeper%27s_Sack.png)](/wiki/Keeper%27s_Sack "Keeper's Sack") [Keeper's Sack](/wiki/Keeper%27s_Sack "Keeper's Sack"): Buying items grants stats, same as with other shops.
+* [![image](/image/Restock.png)](/wiki/Restock "Restock") [Restock](/wiki/Restock "Restock") / [(Store Credit)](/wiki/Store_Credit "Store Credit") [Store Credit](/wiki/Store_Credit "Store Credit"): No effect in the Angel shop.
+* [![image](/image/Steam_Sale.png)](/wiki/Steam_Sale "Steam Sale") [Steam Sale](/wiki/Steam_Sale "Steam Sale"): Reduces the prices of the items on offer.
 
 

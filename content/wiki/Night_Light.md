@@ -3,7 +3,6 @@
 
  # Night Light ![image](/image/Night_Light.png) 
 
-
 Effects
 ---------
 

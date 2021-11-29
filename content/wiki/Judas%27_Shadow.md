@@ -3,7 +3,6 @@
 
  # Judas' Shadow ![image](/image/Judas%27_Shadow.png) 
 
-
 Effects
 ---------
 

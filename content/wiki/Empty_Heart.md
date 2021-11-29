@@ -3,39 +3,26 @@
 
  # Empty Heart ![image](/image/Empty_Heart.png) 
 
-
 Effects
 ---------
 
 
-* Grants one [Red Heart Container](/wiki/Red_Heart_Container "Red Heart Container") and replenishes all health.
-* x2.3 damage multiplier.
-* +1 flat [Damage](/wiki/Damage "Damage").
-* -0.4 [tears](/wiki/Tears "Tears").
-* -0.25 [Shot Speed](/wiki/Shot_Speed "Shot Speed").
-* +0.75 [Tear Height](/wiki/Tear_Height "Tear Height").
-* (Removed in Repentance) +4.125 [range](/wiki/Range "Range").
-* Grants [homing tears](/wiki/Homing_tears "Homing tears").
-* (Removed in Repentance) Grants homing bombs (the effect of [![image](/image/Bobby-Bomb.png)](/wiki/Bobby-Bomb "Bobby-Bomb") [Bobby-Bomb](/wiki/Bobby-Bomb "Bobby-Bomb")).
-* (Added in Repentance) This item belongs to the [Seraphim](/wiki/Seraphim_(Transformation) "Seraphim (Transformation)") set. Collecting three items from this set will transform Isaac into an angel.
+* If Isaac has one red heart or less at the beginning of a floor, an empty heart container is added.
 
 
 Notes
 -------
 
 
-* (Removed in Repentance) Sacred Heart is a [special item](/wiki/Special_item "Special item").
-* Sacred Heart has the highest damage multiplier of all passive items.
-* The flat damage gained by Sacred Heart is not affected by its damage multiplier. However, other flat damage upgrades (such as those gained by [(Curved Horn)](/wiki/Curved_Horn "Curved Horn") [Curved Horn](/wiki/Curved_Horn "Curved Horn") or (Added in Afterbirth †)[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")) will be affected normally.
-* (Removed in Repentance) Although Sacred Heart increases range, the reduction of shot speed results in a slight decrease in effective range, not accounting for homing.
-	+ (Added in Repentance) The item no longer decreases range, as shot speed no longer affects effective range.
+* As there is no special exception, this item will have no effect for characters that cannot have red hearts :  [(Dark Judas)](/wiki/Dark_Judas "Dark Judas") [Dark Judas](/wiki/Dark_Judas "Dark Judas"),  [(???)](/wiki/%3F%3F%3F_(Character) "???") [???](/wiki/%3F%3F%3F_(Character) "??? (Character)"),  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost"),  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper"),  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"),  [![image](/image/The_Soul.png)](/wiki/The_Soul_(Character) "The Soul") [The Soul](/wiki/The_Soul_(Character) "The Soul (Character)"),  [(Tainted Judas)](/wiki/Tainted_Judas "Tainted Judas") [Tainted Judas](/wiki/Tainted_Judas "Tainted Judas"),  [(Tainted ???)](/wiki/Tainted_%3F%3F%3F "Tainted ???") [Tainted ???](/wiki/Tainted_%3F%3F%3F "Tainted ???"),  [(Tainted Lost)](/wiki/Tainted_Lost "Tainted Lost") [Tainted Lost](/wiki/Tainted_Lost "Tainted Lost"),  [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper"),  [(Tainted Soul)](/wiki/Tainted_Soul "Tainted Soul") [Tainted Soul](/wiki/Tainted_Soul "Tainted Soul") and  [(Tainted Bethany)](/wiki/Tainted_Bethany "Tainted Bethany") [Tainted Bethany](/wiki/Tainted_Bethany "Tainted Bethany").
+* The empty heart containers will replace any other heart containers if the maximum has been reached.
 
 
-Interactions
---------------
+Synergies
+-----------
 
 
-* [![image](/image/Sacred_Heart.png)](/wiki/Sacred_Heart "Sacred Heart") Sacred Heart: Picking up multiple copies of the item will only result in acquiring additional heart containers, while decreasing fire rate and shot speed.
-* [(Tainted Bethany)](/wiki/Tainted_Bethany "Tainted Bethany") [Tainted Bethany](/wiki/Tainted_Bethany "Tainted Bethany"): On pickup, grants 12 blood charges.
+* [![image](/image/Guppy%27s_Paw.png)](/wiki/Guppy%27s_Paw "Guppy's Paw") [Guppy's Paw](/wiki/Guppy%27s_Paw "Guppy's Paw"): The heart containers granted by Empty Heart can be used by Guppy's Paw while staying at or below 1 red heart, granting massively increased survivability.
+* [![image](/image/Potato_Peeler.png)](/wiki/Potato_Peeler "Potato Peeler") [Potato Peeler](/wiki/Potato_Peeler "Potato Peeler"): The heart containers granted by Empty Heart can be used by Potato Peeler while staying at or below 1 red heart, granting increased damage and a [![image](/image/Cube_of_Meat.png)](/wiki/Cube_of_Meat "Cube of Meat") [Cube of Meat](/wiki/Cube_of_Meat "Cube of Meat") per floor.
 
 

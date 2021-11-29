@@ -3,7 +3,6 @@
 
  # Sister Maggy ![image](/image/Sister_Maggy.png) 
 
-
 Effects
 ---------
 

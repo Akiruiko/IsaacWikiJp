@@ -3,7 +3,6 @@
 
  # Large Zit ![image](/image/Large_Zit.png) 
 
-
 Effects
 ---------
 

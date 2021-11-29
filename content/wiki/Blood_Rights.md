@@ -3,7 +3,6 @@
 
  # Blood Rights ![image](/image/Blood_Rights.png) 
 
-
 Effect
 --------
 

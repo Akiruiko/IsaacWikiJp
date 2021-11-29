@@ -3,7 +3,6 @@
 
  # Harlequin Baby ![image](/image/Harlequin_Baby.png) 
 
-
 Effects
 ---------
 

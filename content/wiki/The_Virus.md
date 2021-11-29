@@ -3,7 +3,6 @@
 
  # The Virus ![image](/image/The_Virus.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Holy Mantle ![image](/image/Holy_Mantle.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Doctor's Remote ![image](/image/Doctor%27s_Remote.png) 
 
-
 Effect
 --------
 

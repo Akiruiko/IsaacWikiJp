@@ -3,7 +3,6 @@
 
  # Bomber Boy ![image](/image/Bomber_Boy.png) 
 
-
 Effects
 ---------
 

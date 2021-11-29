@@ -3,43 +3,30 @@
 
  # Empty Vessel ![image](/image/Empty_Vessel.png) 
 
+Effects
+---------
 
-Effect
---------
 
-
-* A trail of [blue creep](/wiki/Blue_creep "Blue creep") follows behind Isaac and damages enemies that walk over it.
-	+ (Removed in Repentance) The creep deals 2 damage per tick or 6 damage per second.
-		- (Added in Repentance) The creep deals 66% of Isaac's damage per hit.
+* When Isaac has no [Red Hearts](/wiki/Health#Red_Heart_Containers "Health"):
+	+ Grants [flight](/wiki/Flight "Flight").
+	+ Every 40 seconds since activation or pickup, when the seconds on the timer hit 00, 20, or 40, while in a room with enemies, a [shield](/wiki/Shield "Shield") triggers, nullifying all types of damage for 10 seconds.
+* Grants 2 [Black Hearts](/wiki/Health#Black_Hearts "Health") on pickup.
 
 
 Notes
 -------
 
 
-* (Added in Repentance) The creep copies Isaac's [tear effects](/wiki/Tear_effects "Tear effects") and changes colors based on Isaac's tears.
-	+ Chance for triggering the effects works like it does for tears.
-	+ The creep's color changes even if the items don't have an applicable tear effect.
+* Does not affect  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper")/ [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper").
+* (Removed in Repentance)This item is difficult to use for anyone with red health, as it is impossible to have no red hearts without removing all heart containers (such as through [Devil deals](/wiki/Devil_Room "Devil Room")). It is best used by characters that cannot gain red health at all, such as  [(???)](/wiki/%3F%3F%3F_(Character) "???") [???](/wiki/%3F%3F%3F_(Character) "??? (Character)").
+* (Added in Repentance)Characters can now deplete their red health fully through sources like [Blood Donation Machines](/wiki/Machines#Blood_Donation_Machine "Machines") while having other hearts like [soul hearts](/wiki/Health#Soul_Hearts "Health"). As a result, this item is usable for a wider amount of characters, and has synergies with characters who prefer to have no red health (such as  [(Eve)](/wiki/Eve "Eve") [Eve](/wiki/Eve "Eve")).
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Apple!.png)](/wiki/Apple! "Apple!") [Apple!](/wiki/Apple! "Apple!") / (Added in Repentance)[![image](/image/Tough_Love.png)](/wiki/Tough_Love "Tough Love") [Tough Love](/wiki/Tough_Love "Tough Love"): Creep does not appear visually different but has a chance to deal bonus damage.
-* (Added in Repentance)[![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Creep becomes green and poisons enemies but does not explode.
-* (Added in Repentance)[![image](/image/Knockout_Drops.png)](/wiki/Knockout_Drops "Knockout Drops") [Knockout Drops](/wiki/Knockout_Drops "Knockout Drops"): Creep knocks back any enemies that touch it.
-* [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): Creep does more damage the farther Isaac is from the enemy.
-* (Added in Repentance)[![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): Creep deals 2x Isaac's damage instead of 66%.
-* (Added in Afterbirth †)[(Lost Cork)](/wiki/Lost_Cork "Lost Cork") [Lost Cork](/wiki/Lost_Cork "Lost Cork"): The creep is 50% larger.
-
-
-Interactions
---------------
-
-
-* (Added in Repentance)[![image](/image/Godhead.png)](/wiki/Godhead "Godhead") [Godhead](/wiki/Godhead "Godhead"): Creep becomes homing as expected but does not have a larger radius.
-* (Added in Repentance)[![image](/image/Sulfuric_Acid.png)](/wiki/Sulfuric_Acid "Sulfuric Acid") [Sulfuric Acid](/wiki/Sulfuric_Acid "Sulfuric Acid"): Occasionally turns the creep yellow but doesn't destroy obstacles.
-* (Added in Repentance)[![image](/image/Montezuma%27s_Revenge.png)](/wiki/Montezuma%27s_Revenge "Montezuma's Revenge") [Montezuma's Revenge](/wiki/Montezuma%27s_Revenge "Montezuma's Revenge"): Turns the creep brown.
+* (Added in Afterbirth †)[![image](/image/Brittle_Bones.png)](/wiki/Brittle_Bones "Brittle Bones") [Brittle Bones](/wiki/Brittle_Bones "Brittle Bones"): The empty [bone hearts](/wiki/Health#Bone_Hearts "Health") will trigger Empty Vessel.
+* [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): If the player has no Red Hearts, they can stand still and wait for the shield to activate, allowing the player to deal damage without leaving invulnerability.
 
 

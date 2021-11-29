@@ -3,7 +3,6 @@
 
  # Seraphim ![image](/image/Seraphim.png) 
 
-
 Effects
 ---------
 

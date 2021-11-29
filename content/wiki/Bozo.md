@@ -3,7 +3,6 @@
 
  # Bozo ![image](/image/Bozo.png) 
 
-
 Effects
 ---------
 

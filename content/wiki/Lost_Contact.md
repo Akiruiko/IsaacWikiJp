@@ -3,7 +3,6 @@
 
  # Lost Contact ![image](/image/Lost_Contact.png) 
 
-
 Effects
 ---------
 

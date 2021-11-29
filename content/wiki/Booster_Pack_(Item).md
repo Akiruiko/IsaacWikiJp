@@ -3,7 +3,6 @@
 
  # Booster Pack ![image](/image/Booster_Pack_(Item).png) 
 
-
 Effects
 ---------
 

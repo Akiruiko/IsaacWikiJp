@@ -3,7 +3,6 @@
 
  # Ball of Tar ![image](/image/Ball_of_Tar.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Duality ![image](/image/Duality.png) 
 
-
 Effects
 ---------
 

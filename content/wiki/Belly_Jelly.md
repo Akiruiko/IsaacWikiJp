@@ -3,7 +3,6 @@
 
  # Belly Jelly ![image](/image/Belly_Jelly.png) 
 
-
 Effects
 ---------
 

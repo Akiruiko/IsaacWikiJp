@@ -3,7 +3,6 @@
 
  # The Wafer ![image](/image/The_Wafer.png) 
 
-
 Effects
 ---------
 

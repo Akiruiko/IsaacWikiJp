@@ -3,7 +3,6 @@
 
  # Divine Intervention ![image](/image/Divine_Intervention.png) 
 
-
 Effects
 ---------
 

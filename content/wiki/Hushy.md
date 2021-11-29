@@ -3,7 +3,6 @@
 
  # Hushy ![image](/image/Hushy.png) 
 
-
 Effects
 ---------
 

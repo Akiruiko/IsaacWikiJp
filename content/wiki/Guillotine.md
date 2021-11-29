@@ -3,63 +3,65 @@
 
  # Guillotine ![image](/image/Guillotine.png) 
 
-
 Effects
 ---------
 
 
-* Isaac's body becomes immune to all damage.
-* A heart [familiar](/wiki/Familiar "Familiar") appears and closely follows Isaac. If the heart is hurt, Isaac is hurt.
-* (Added in Repentance) The heart tries to position itself in the opposite direction of where Isaac is shooting.
-* (Added in Repentance) The heart charges up as Isaac fires. At full charge, upon releasing the fire button, it knocks back nearby enemies and tears, creates a small puddle of red [creep](/wiki/Creep "Creep") on the ground, and releases blood shots in 8 directions that deal 8 damage.
-* (Added in Repentance) Enemies that come in contact with Isaac take 2x Isaac's current damage per tick or 4x Isaac's damage per second.
-* (Removed in Repentance) Most enemies now target the heart instead of Isaac. [Eyes](/wiki/Eye "Eye") and other similar enemies, however, will still target Isaac.
+* Isaac's head rotates around his body and can be used to inflict contact damage similar to a [![image](/image/Cube_of_Meat.png)](/wiki/Cube_of_Meat "Cube of Meat") [Cube of Meat](/wiki/Cube_of_Meat "Cube of Meat"). Blocking tears with Isaac's head does not damage Isaac. His tears still originate from his head, so the line of fire is no longer constant while standing still.
+* +1 [damage](/wiki/Damage "Damage").
+
+
+* -1 [tear delay](/wiki/Tear_delay "Tear delay") (increased rate of fire)
+	+ Since this directly affects tear delay instead of changing the tears stat, it allows Isaac's rate of fire to go over the normal maximum rate.
+	+ Tear delay decreases are more noticeable and are a greater increase to DPS when the tears stat is high.
+
+
+* The head orbital deals 7 damage per tick or 105 damage per second ((Added in Repentance) 56 damage per second).
 
 
 Notes
 -------
 
 
-* (Added in Repentance) [Sacrifice Rooms](/wiki/Sacrifice_Room "Sacrifice Room") can't be used.
-* (Removed in Repentance) Blood Donation Machines and Devil Beggars can be used for free.
-	+ During (Added in Afterbirth)[(The Guardian)](/wiki/The_Guardian "The Guardian") [The Guardian](/wiki/The_Guardian "The Guardian") challenge, Devil Beggars and Blood Donation Machines deal damage to Isaac.
-* [Spikes](/wiki/Spikes "Spikes") (including [Curse Room](/wiki/Curse_Room "Curse Room") doors and [Spiked Chests](/wiki/Spiked_Chest "Spiked Chest")) do no damage. The door to [(Mausoleum)](/wiki/Mausoleum "Mausoleum") [Mausoleum](/wiki/Mausoleum "Mausoleum") does cause damage.
-* Picking up a non-orbital familiar will cause either Isaac's Heart or the other familiar to be layered over the other's sprite. This is due to the heart not taking up the spot that the other familiar follows in.
-* Co-op babies gain the immunity effect without spawning additional hearts.
-* (Removed in Afterbirth) Enemy Brimstone shots (such as from [The Bloat](/wiki/The_Bloat "The Bloat")) will not do any damage to the heart.
-* The tracking lasers from [Hush](/wiki/Hush "Hush") and light pillars from [Isaac (Boss)](/wiki/Isaac_(Boss) "Isaac (Boss)") do not damage the heart.
+* (Added in Repentance) Isaac's body will spew a fountain of blood.
+* Items that apply contact damage do not apply to the head.
+
+
+* In combination with other items, it can exceed a three-orbital cap.
+* The orbital is larger than most other orbitals, making it easier to use both offensively and defensively.
+	+ Despite changing size with Isaac, the orbital's hitbox does not change, which can be deceptive.
+* Using this item while near a wall may cause the head to go inside the wall while rotating and block tears shot.
 
 
 Synergies
 -----------
 
 
-* (Added in Afterbirth)[![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Box of Friends does not duplicate the heart, making it safe to use.
-* (Removed in Repentance)[![image](/image/Breath_of_Life.png)](/wiki/Breath_of_Life "Breath of Life") [Breath of Life](/wiki/Breath_of_Life "Breath of Life"): Isaac can be infinitely invulnerable, as invincibility carries out to the heart without hurting the player. Note that the item needs to be activated for longer than one second for the invulnerability to kick in, however.
-* (Added in Afterbirth †)[(Duct Tape)](/wiki/Duct_Tape "Duct Tape") [Duct Tape](/wiki/Duct_Tape "Duct Tape"): Makes dodging significantly easier.
-* [![image](/image/E._Coli.png)](/wiki/E._Coli "E. Coli") [E. Coli](/wiki/E._Coli "E. Coli"): Isaac can turn enemies into poop without taking damage.
-* [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): Invincibility carries over to the heart.
-* [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle"): The shield effect carries over to the heart.
-* (Removed in Repentance)[![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag"): Can be used without taking damage, resulting in an infinite amount of coins.
-* [![image](/image/Kamikaze!.png)](/wiki/Kamikaze! "Kamikaze!") [Kamikaze!](/wiki/Kamikaze! "Kamikaze!"): As long as the heart is away from the blast radius, no damage is taken. The character must be at high enough speed for this.
-* (Removed in Repentance)[![image](/image/Razor_Blade.png)](/wiki/Razor_Blade "Razor Blade") [Razor Blade](/wiki/Razor_Blade "Razor Blade"): Isaac cannot take damage from the Razor Blade, allowing for infinite uses of the item.
-* (Added in Afterbirth † / Removed in Repentance)[![image](/image/Sacrificial_Altar.png)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar"): Can remove the Isaac's Heart familiar while the item remains, making Isaac invulnerable.
-	+ (Added in Repentance) Sacrificial Altar now doesn't remove Isaac's Heart.
-* (Added in Afterbirth)[![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss"): Isaac can poison enemies by contact without taking damage, allowing for free black hearts.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Head orbital does not increase in size, but it does in damage.
+* (Added in Afterbirth)[![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Adds another rotating head on each use. Each head increases damage and tears and blocks projectiles. With more heads, it is easier to locate the position of the body, and Box of Friends can be used multiple times in the same room to continue gaining heads.
+* [Spectral tears](/wiki/Spectral_tears "Spectral tears"): Guillotine can move Isaac's head into walls, which results in lots of wasted shots. Spectral tears allow all shots to have a chance to hit, instead of being wasted by hitting the wall.
+* (Added in Repentance)[(The Twins)](/wiki/The_Twins "The Twins") [The Twins](/wiki/The_Twins "The Twins"): Has a chance to add another head, increasing damage and tears.
 
 
 Interactions
 --------------
 
 
-* (Added in Afterbirth †)[(Baby-Bender)](/wiki/Baby-Bender "Baby-Bender") [Baby-Bender](/wiki/Baby-Bender "Baby-Bender"): The heart's tears do not gain homing.
-* (Added in Repentance)[![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Fires additional shots in random directions, and leaves larger puddles of creep.
-* [![image](/image/Dry_Baby.png)](/wiki/Dry_Baby "Dry Baby") [Dry Baby](/wiki/Dry_Baby "Dry Baby") / (Added in Afterbirth)[![image](/image/Farting_Baby.png)](/wiki/Farting_Baby "Farting Baby") [Farting Baby](/wiki/Farting_Baby "Farting Baby"): If you have picked up either of the babies into the first familiar spot *before* Isaac's Heart, they will block enemy shots before they can hit the heart. Enemies touching the heart can still do damage, and picking up the babies after the heart will cause the heart's hitbox to be checked first against shots.
-* (Added in Repentance)[(Gigante Bean)](/wiki/Gigante_Bean "Gigante Bean") [Gigante Bean](/wiki/Gigante_Bean "Gigante Bean"): Increases the knockback amount and radius of the heart when fully charged. Highly useful.
-* (Added in Afterbirth †)[![image](/image/King_Baby.png)](/wiki/King_Baby "King Baby") [King Baby](/wiki/King_Baby "King Baby"): The Heart will follow King Baby. This makes it much harder to avoid damage, but also makes other synergies like [![image](/image/Kamikaze!.png)](/wiki/Kamikaze! "Kamikaze!") [Kamikaze!](/wiki/Kamikaze! "Kamikaze!") much easier to use.
-* (Added in Repentance)[![image](/image/A_Pound_of_Flesh.png)](/wiki/A_Pound_of_Flesh "A Pound of Flesh") [A Pound of Flesh](/wiki/A_Pound_of_Flesh "A Pound of Flesh"): Consumables can no longer be picked up in Shops.
-* [![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug"): Sharp Plug can no longer be used.
-* [![image](/image/The_Soul.png)](/wiki/The_Soul "The Soul") [The Soul](/wiki/The_Soul "The Soul"): Isaac's body repels projectiles, but Isaac's Heart doesn't.
-* (Added in Repentance)  [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten"): **Not recommended.** The heart follows Tainted Forgotten. Tainted Soul does not deal collision damage and can still be hurt by enemies. The heart will still damage Tainted Forgotten if hit by an enemy, effectively giving it two hitboxes.
+* (Added in Repentance)[![image](/image/Berserk!.png)](/wiki/Berserk! "Berserk!") [Berserk!](/wiki/Berserk! "Berserk!") / [(Tainted Samson)](/wiki/Tainted_Samson "Tainted Samson") [Tainted Samson](/wiki/Tainted_Samson "Tainted Samson"): The jawbone fires from Isaac's body, not his head.
+* [![image](/image/Big_Fan.png)](/wiki/Big_Fan "Big Fan") [Big Fan](/wiki/Big_Fan "Big Fan"): Slows down rotation speed.
+* (Added in Afterbirth)[![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"): Adds another head and damage up, but only fires tears from one of them. No further tear delay down.
+* (Removed in Repentance) (Added in Afterbirth †)[(Duct Tape)](/wiki/Duct_Tape "Duct Tape") [Duct Tape](/wiki/Duct_Tape "Duct Tape"): Causes tears to be fired from far below and to the right of Isaac. This causes tears to be out of bounds unless Isaac is standing in the top-left corner of the room.
+	+ (Added in Repentance) Tears are fired from whatever position the head is stuck in.
+* [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"): Attacks with the bone club will come from The Forgotten's body, not his head.
+* [![image](/image/Guardian_Angel.png)](/wiki/Guardian_Angel "Guardian Angel") [Guardian Angel](/wiki/Guardian_Angel "Guardian Angel"): Does not increase the head's rotation speed.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): The knife fires from Isaac's body, not his head.
+* (Added in Afterbirth †)[![image](/image/Sacrificial_Altar.png)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar"): No effect.
+* (Added in Repentance) [![image](/image/Scissors.png)](/wiki/Scissors "Scissors") [Scissors](/wiki/Scissors "Scissors"): Isaac will have two heads: the one from Scissors, who will shoot as normal, and the Guillotine one, which only acts as an orbital.
+* (Added in Repentance)[![image](/image/Spin_to_Win.png)](/wiki/Spin_to_Win "Spin to Win") [Spin to Win](/wiki/Spin_to_Win "Spin to Win"): Affects the head, which boosts its damage and defense properties at the cost of shots being harder to hit.
+* (Added in Repentance)[![image](/image/Spirit_Sword.png)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword"): The sword is swung from Isaac's body, not his head. This also applies to the sword's projectiles.
+* [(Tainted Lilith)](/wiki/Tainted_Lilith "Tainted Lilith") [Tainted Lilith](/wiki/Tainted_Lilith "Tainted Lilith"): The baby fires from Lilith's body, not her head.
+* (Added in Repentance) [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet"): Tears may fire from the head, but they orbit the body.
+* (Added in Afterbirth)[![image](/image/Tractor_Beam.png)](/wiki/Tractor_Beam "Tractor Beam") [Tractor Beam](/wiki/Tractor_Beam "Tractor Beam"): The tears fire from Isaac's body, not his head.
+* [![image](/image/Transcendence.png)](/wiki/Transcendence "Transcendence") [Transcendence](/wiki/Transcendence "Transcendence"): Makes Isaac's body invisible, leaving only a shadow where his body is. As a result, Isaac becomes very difficult to control.
 
 

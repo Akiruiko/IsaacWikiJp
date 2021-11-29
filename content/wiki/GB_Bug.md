@@ -3,7 +3,6 @@
 
  # GB Bug ![image](/image/GB_Bug.png) 
 
-
 Effects
 ---------
 

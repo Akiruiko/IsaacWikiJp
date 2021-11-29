@@ -3,7 +3,6 @@
 
  # Blue Map ![image](/image/Blue_Map.png) 
 
-
 Effects
 ---------
 

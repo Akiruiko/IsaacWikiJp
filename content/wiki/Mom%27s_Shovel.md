@@ -3,41 +3,31 @@
 
  # Mom's Shovel ![image](/image/Mom%27s_Shovel.png) 
 
-
 Effects
 ---------
 
 
-* Adds a chance to shoot [poison tears](/wiki/Poison "Poison"), dealing damage over time when inflicted.
-* (Removed in Afterbirth) The poison randomly hits either 2 or 3 times, dealing a total of 4 or 6 damage.
-	+ (Added in Afterbirth) The poison hits twice, dealing a total of double Isaac's damage.
+* Upon activation, creates a trapdoor that leads to the next floor or to a (Crawl Space) [Crawl Space](/wiki/Crawl_Space "Crawl Space"), identical to [![image](/image/We_Need_to_Go_Deeper!.png)](/wiki/We_Need_to_Go_Deeper! "We Need to Go Deeper!") [We Need to Go Deeper!](/wiki/We_Need_to_Go_Deeper! "We Need to Go Deeper!").
+* Using this on a dirt patch that appears in [Grave Rooms](/wiki/Grave_Room "Grave Room") in [(Dark Room)](/wiki/Dark_Room "Dark Room") [Dark Room](/wiki/Dark_Room "Dark Room") will unlock  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten").
+	+ Once the Forgotten is unlocked, digging into dirt patches will instead spawn a random type of [Chest](/wiki/Chest "Chest").
 
 
 Notes
 -------
 
 
-* The chance for a tear to be poisoned depends on the [luck](/wiki/Luck "Luck") stat. The activation rate is equal to 1/(4 - (Luck / 4)). At base luck (0), the chance is 25%, maxing out at 100% at 12 luck.
-	+ Due to how this formula works, increases in activation rate are only seen with every 4 points of luck, as this formula rounds down after dividing Isaac's luck by 4.
+* It is possible to unlock  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten") even if [![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative") has not yet been unlocked by teleporting straight to the dark room via a (Sacrifice Room) [Sacrifice Room](/wiki/Sacrifice_Room "Sacrifice Room").
+* Does nothing when used on [(???)](/wiki/%3F%3F%3F_(Floor) "???") [???](/wiki/%3F%3F%3F_(Floor) "??? (Floor)"), [(Sheol)](/wiki/Sheol "Sheol") [Sheol](/wiki/Sheol "Sheol"), [(Cathedral)](/wiki/Cathedral "Cathedral") [Cathedral](/wiki/Cathedral "Cathedral"), [(Dark Room)](/wiki/Dark_Room "Dark Room") [Dark Room](/wiki/Dark_Room "Dark Room") (except in a [Grave Room](/wiki/Grave_Room "Grave Room")), [(Chest)](/wiki/Chest_(Floor) "Chest") [Chest](/wiki/Chest_(Floor) "Chest (Floor)"), [(The Void)](/wiki/The_Void "The Void") [The Void](/wiki/The_Void "The Void"), or (Added in Repentance) [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home").
+* Once Mom's Shovel is complete, the stomping caused by [![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel") stops.
+* Unlike the Broken Shovel, Mom's Shovel will not disappear if it is left on a pedestal, and Isaac leaves and re-enters the room it was left in.
+* Like [![image](/image/We_Need_to_Go_Deeper!.png)](/wiki/We_Need_to_Go_Deeper! "We Need to Go Deeper!") [We Need to Go Deeper!](/wiki/We_Need_to_Go_Deeper! "We Need to Go Deeper!"), this item can be used to destroy rocks if used while Isaac is flying over a rock.
+* (Added in Repentance) This item can be obtained by using [![image](/image/Spindown_Dice.png)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice") on [![image](/image/Mucormycosis.png)](/wiki/Mucormycosis "Mucormycosis") [Mucormycosis](/wiki/Mucormycosis "Mucormycosis") without obtaining the Broken Shovels.
 
 
 Synergies
 -----------
 
 
-* (Added in Afterbirth †)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")/[![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body")/(Added in Afterbirth †)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria")/[![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Chance for tears and split tears to be poisonous. If the main tear is poisonous, the split tears are too.
-* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus")/[![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Chance for bombs/explosions to become poisonous like [![image](/image/Bob%27s_Curse.png)](/wiki/Bob%27s_Curse "Bob's Curse") [Bob's Curse](/wiki/Bob%27s_Curse "Bob's Curse").
-* (Added in Afterbirth †)[![image](/image/Finger!.png)](/wiki/Finger! "Finger!") [Finger!](/wiki/Finger! "Finger!"): Finger can also apply the poison effect.
-* (Added in Afterbirth †)[![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): If a poison tear is fed, all burst tears are poisonous. If a normal tear is fed, the burst tears are not poisonous.
-* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The tear flickers green, capable of poisoning enemies when it does.
-
-
-Interactions
---------------
-
-
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac")/[![image](/image/Scorpio.png)](/wiki/Scorpio "Scorpio") [Scorpio](/wiki/Scorpio "Scorpio"): Overrides The Common Cold.
-* (Added in Afterbirth)[![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss"): Both poison effects work, but poison caused by Common Cold will not cause black heart drops. There is no way to tell which poison is applied.
-* [(Pinky Eye)](/wiki/Pinky_Eye "Pinky Eye") [Pinky Eye](/wiki/Pinky_Eye "Pinky Eye"): Activation rates are individually applied to each tear, effectively allowing for higher amounts of poison tears. However at 12 Luck, the trinket will not do anything for Isaac as The Common Cold is guaranteed to make every tear poisoned at that point.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Creates two wisps on the middle ring: one looks like  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"), which has increased HP but does not fire tears, and the other looks like  [![image](/image/The_Soul.png)](/wiki/The_Soul_(Character) "The Soul") [The Soul](/wiki/The_Soul_(Character) "The Soul (Character)"), which fires tears that have a 10% chance of invoking [(II - The High Priestess)](/wiki/Cards_and_Runes "II - The High Priestess") [II - The High Priestess](/wiki/Cards_and_Runes "Cards and Runes") on enemies.
 
 

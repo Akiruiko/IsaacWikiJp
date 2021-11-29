@@ -3,74 +3,45 @@
 
  # Schoolbag ![image](/image/Schoolbag.png) 
 
+Effects
+---------
 
-Effect
---------
+
+* Allows Isaac to hold two active items.
+	+ Swap between active items by pressing the PC Control key, PS4 R2, XboxOne RT, or Switch ZR.
 
 
-* Grants a charged shot that fires 14 tears in the same fashion as [Monstro](/wiki/Monstro "Monstro").
-	+ The attack can be released only when fully charged.
-	+ (Removed in Repentance) Tears down: Delay * 4.3.
-	+ (Added in Repentance) Fire rate is divided by 4.3 (roughly 0.23x).
-	+ Each tear has a random size multiplier between 0.9x to 1.33x, but there is no effect on damage.
+Notes
+-------
+
+
+* The button to swap between active items is the same button used to swap between cards and pills.
+* Items in the secondary slot will recharge at the same rate as the primary item.
+* Items that grant temporary effects for the room, such as [![image](/image/The_Nail.png)](/wiki/The_Nail "The Nail") [The Nail](/wiki/The_Nail "The Nail"), may deactivate if switched with an item in the secondary slot.
+* The [(? Card)](/wiki/%3F_Card "? Card") [? Card](/wiki/%3F_Card "? Card") does not activate both active items.
+* While holding an active item that grants passive bonuses in the secondary slot, swapping the main slot item with a pedestal item may remove the bonuses. If this happens, Isaac can swap the bonus-granting item to the pedestal and pick it up again to regain them.
+* The swap key must be pressed twice if playing as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten").
+* This item cannot be unlocked if the player encounters more than one [(Curse of the Labyrinth.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/7/77/Curse_of_the_Labyrinth.png/revision/latest?cb=20211023085047) [Curse of the Labyrinth](/wiki/Curses "Curses") in Chapters 1-3, except by chance of finding [(Silver Dollar)](/wiki/Silver_Dollar "Silver Dollar") [Silver Dollar](/wiki/Silver_Dollar "Silver Dollar"), [![image](/image/Forget_Me_Now.png)](/wiki/Forget_Me_Now "Forget Me Now") [Forget Me Now](/wiki/Forget_Me_Now "Forget Me Now"), or a 5-pip (Dice Room) [Dice Room](/wiki/Dice_Room "Dice Room").
+	+ If *one* Curse of the Labyrinth is encountered, getting to [(???)](/wiki/%3F%3F%3F_(Floor) "???") [???](/wiki/%3F%3F%3F_(Floor) "??? (Floor)") and entering the (Shop) [Shop](/wiki/Shop "Shop") there will unlock the Schoolbag.
+* (Added in Repentance) If  [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac") drops Schoolbag, the 2nd active item in the player's inventory is destroyed. However, a duplicate active item spawns beside Schoolbag. Tainted Isaac's reroll ability applies to this new item, and the player can choose between the original active item or a new item. Picking up the original active item again will count as another item towards any transformation.
+* (Added in Repentance) In "True" [Co-op](/wiki/Co-op "Co-op"), when a player dies with this item, they will drop one of their active items if they have two. It is unknown if this is a bug or intended interaction.
 
 
 Synergies
 -----------
 
 
-* [![image](/image/20/20.png)](/wiki/20/20 "20/20") [20/20](/wiki/20/20 "20/20") / [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye") / [![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider"): Adds 2, 5 or 7 tears to the barrage respectively. For the latter two, greatly slows down the charge.
-	+ **20/20** + **The Inner Eye**: 10 extra tears.
-	+ **20/20** + **Mutant Spider**: 14 extra tears.
-	+ **The Inner Eye** + **Mutant Spider**: 14 extra tears.
-	+ **All three**: 19 extra tears.
-* [![image](/image/Anti-Gravity.png)](/wiki/Anti-Gravity "Anti-Gravity") [Anti-Gravity](/wiki/Anti-Gravity "Anti-Gravity"): overidden, but tear delay down still applies, which greatly reduced the charge time, leading to better damage output.
-* [![image](/image/Blood_Clot.png)](/wiki/Blood_Clot "Blood Clot") [Blood Clot](/wiki/Blood_Clot "Blood Clot"): All tears are larger, with increased damage (as opposed to every 2nd tear like Blood Clot alone)
-	+ (Added in Afterbirth †) Tears have a 50% chance to be Blood Clot tears.
-* (Added in Afterbirth) [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Fires 3-5 additional Brimstone lasers in random directions around Isaac. It does not increase the charge time. This effect also applies to  [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel") and (Added in Repentance) [(Tainted Azazel)](/wiki/Tainted_Azazel "Tainted Azazel") [Tainted Azazel](/wiki/Tainted_Azazel "Tainted Azazel")'s versions of Brimstone.
-	+ + (Added in Repentance)[![image](/image/Eye_Sore.png)](/wiki/Eye_Sore "Eye Sore") [Eye Sore](/wiki/Eye_Sore "Eye Sore") Not recommended. Overrides this synergy with a chance to shoot 1-3 additional Brimstone lasers in random directions.
-* (Added in Repentance)[![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"): Continuously fires shotgun-style tears without the need to release the attack button, resulting in a significant damage per second increase.
-* [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk"): Reduces Isaac's tear delay by 20%, and each tear from Monstro's Lung is a charged Chocolate Milk shot, massively increasing fire rate and damage.
-	+ This does not apply to  [(Lilith)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith")'s Incubus; picking up Chocolate Milk will significantly reduce damage and increase charge time.
-	+ (Added in Repentance) Tear delay is increased, and the tear damage, along with the amount of tears fired is dependent on charge time.
-* (Added in Afterbirth) [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Isaac spits multiple bombs but must charge to fire. Bombs detonate simultaneously.
-* (Added in Afterbirth) [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Launches 3-5 cursors that rotate around each other before the missiles land.
-* (Added in Afterbirth †)[![image](/image/Flat_Stone.png)](/wiki/Flat_Stone "Flat Stone") [Flat Stone](/wiki/Flat_Stone "Flat Stone"): All tears bounce simultaneously; the effective range is greatly increased.
-* (Removed in Repentance) [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Isaac spews multiple Ipecac tears, with no increase in charge time.
-	+ (Added in Repentance) Isaac spews multiple Ipecac tears. Charge time is greatly increased.
-* (Added in Repentance)[![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Grants a charged shot, but rather than firing a cluster of tears, fires a cluster of zigzagging lasers in a short-range spread pattern.
-	+ +[![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"): Continuously fires laser clusters without having to charge.
-* (Added in Afterbirth)[![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Fires a group of laser rings with size dependent on how long they were charged, with increased charge time.
-* (Added in Afterbirth) [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Tear becomes a cluster of variably sized tears spread over a small area. The tears move at the same speed when controlled but constantly move around each other.
-* (Added in Afterbirth) [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Fires an additional cluster of 3-5 knives when at maximum charge, each dealing 2x tear damage.
-	+ With two copies of Monstro's Lung, throws a fan of four extra knives alongside the basic attack regardless of charge.
-* (Removed in Afterbirth †) [![image](/image/Mom%27s_Wig.png)](/wiki/Mom%27s_Wig "Mom's Wig") [Mom's Wig](/wiki/Mom%27s_Wig "Mom's Wig"): All the spiders will spawn instantly while charging a shot.
-	+ (Added in Repentance) Amount of spiders spawned dependent on luck.
-* **Monstro's Lung**: Additional copies of the Lung add 10 tears to the barrage.
-* [![image](/image/My_Reflection.png)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection"): Tears stay in the air much longer and consistently, allowing better reach and more focused blasts before the tears returning to Isaac.
-* (Added in Afterbirth)[![image](/image/Tractor_Beam.png)](/wiki/Tractor_Beam "Tractor Beam") [Tractor Beam](/wiki/Tractor_Beam "Tractor Beam"): All the tears follow the beam at different heights without spreading out, making it much easier for multiple tears to hit a target.
+* (Added in Repentance) [![image](/image/Converter.png)](/wiki/Converter "Converter") [Converter](/wiki/Converter "Converter") + [![image](/image/Guppy%27s_Paw.png)](/wiki/Guppy%27s_Paw "Guppy's Paw") [Guppy's Paw](/wiki/Guppy%27s_Paw "Guppy's Paw") : Converter turns one soul heart into 1 red heart, while Guppy's paw turns 1 red heart into 3 soul hearts. This effectively gives you infinite health for the run.
+* [![image](/image/Kamikaze!.png)](/wiki/Kamikaze! "Kamikaze!") [Kamikaze!](/wiki/Kamikaze! "Kamikaze!"): The cooldown before the player can use Kamikaze! again is eliminated when switching items. Depending on how fast the player can push the buttons, Kamikaze! can be used multiple times during Isaac's invincibility frames.
+* [![image](/image/Mom%27s_Box.png)](/wiki/Mom%27s_Box "Mom's Box") [Mom's Box](/wiki/Mom%27s_Box "Mom's Box"): If a trinket is picked up while Mom's Box is in the active slot, swapping between active items will not remove the doubled trinket effect.
+* [![image](/image/A_Pony.png)](/wiki/A_Pony "A Pony") [A Pony](/wiki/A_Pony "A Pony") / [![image](/image/White_Pony.png)](/wiki/White_Pony "White Pony") [White Pony](/wiki/White_Pony "White Pony"): Will continue to grant [flight](/wiki/Flight "Flight") and the speed bonus while held in the secondary slot
 
 
 Interactions
 --------------
 
 
-* (Removed in Afterbirth †) [![image](/image/Chemical_Peel.png)](/wiki/Chemical_Peel "Chemical Peel") [Chemical Peel](/wiki/Chemical_Peel "Chemical Peel"): Overridden by Monstro's Lung.
-	+ (Added in Afterbirth †) Tears have a 50% chance to be Chemical Peel tears.
-* [![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye"): Overridden by Monstro's Lung.
-* (Removed in Afterbirth) [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overrides Monstro's Lung.
-* (Added in Afterbirth)[![image](/image/Epiphora.png)](/wiki/Epiphora "Epiphora") [Epiphora](/wiki/Epiphora "Epiphora"): No effect. Tears stat is increased properly but firing cancels the effect.
-* (Added in Afterbirth †) [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"): The Forgotten's bone club will shoot bones as it performs a melee swing.
-* (Removed in Afterbirth †) (Added in Afterbirth)[![image](/image/Kidney_Stone.png)](/wiki/Kidney_Stone "Kidney Stone") [Kidney Stone](/wiki/Kidney_Stone "Kidney Stone"): If Monstro's Lung is picked up while Kidney Stone is ready to fire, charge time for Monstro's Lung will be significantly decreased.
-	+ (Added in Afterbirth †) Only stat effects from Kidney Stone apply.
-* [![image](/image/Loki%27s_Horns.png)](/wiki/Loki%27s_Horns "Loki's Horns") [Loki's Horns](/wiki/Loki%27s_Horns "Loki's Horns")/[![image](/image/Mom%27s_Eye.png)](/wiki/Mom%27s_Eye "Mom's Eye") [Mom's Eye](/wiki/Mom%27s_Eye "Mom's Eye"): Isaac will still fire single tears in the other direction(s).
-* (Removed in Afterbirth) [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Overrides Monstro's Lung.
-	+ (Added in Afterbirth)Tear becomes a cluster of variably sized tears spread over a small area. The tears move at the same speed when controlled but constantly move around each other.
-* (Added in Afterbirth)[![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): Only stat effects from Marked apply.
-* [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor"): Due to the high concentration of tears enemies will be pulled into Isaac at great force, in certain cases enough force to pull enemies through rocks.
-* (Removed in Afterbirth) [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): If picked up after Technology, Monstro's Lung has no effect. Technology will override Monstro's Lung with a very low firerate.
-	+ (Added in Afterbirth / Removed in Repentance) Charge effect is removed and fire rate returned to normal. Extra lasers will be shot in random directions around Isaac while firing.
-	+ (Added in Repentance) Grants a charged shot, but rather than firing a cluster of tears, fires a cluster of zigzagging lasers in a short-range spread pattern.
-* (Added in Afterbirth)[![image](/image/The_Wiz.png)](/wiki/The_Wiz "The Wiz") [The Wiz](/wiki/The_Wiz "The Wiz"): 7-8 tears are fired at each diagonal direction instead of a full burst.
+* [(? Card)](/wiki/%3F_Card "? Card") [? Card](/wiki/%3F_Card "? Card"): Does not activate both active items.
+* [![image](/image/My_Little_Unicorn.png)](/wiki/My_Little_Unicorn "My Little Unicorn") [My Little Unicorn](/wiki/My_Little_Unicorn "My Little Unicorn") / [![image](/image/The_Gamekid.png)](/wiki/The_Gamekid "The Gamekid") [The Gamekid](/wiki/The_Gamekid "The Gamekid") / [![image](/image/Unicorn_Stump.png)](/wiki/Unicorn_Stump "Unicorn Stump") [Unicorn Stump](/wiki/Unicorn_Stump "Unicorn Stump"): Switching items breaks the invincibility effect. This does not apply to other sources of invincibility.
 
 

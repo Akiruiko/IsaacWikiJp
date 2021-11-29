@@ -3,7 +3,6 @@
 
  # Brimstone ![image](/image/Brimstone.png) 
 
-
 Effects
 ---------
 

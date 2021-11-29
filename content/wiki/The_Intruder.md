@@ -3,7 +3,6 @@
 
  # The Intruder ![image](/image/The_Intruder.png) 
 
-
 Effects
 ---------
 

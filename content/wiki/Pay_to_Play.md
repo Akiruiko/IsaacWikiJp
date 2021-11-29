@@ -3,7 +3,6 @@
 
  # Pay to Play ![image](/image/Pay_to_Play.png) 
 
-
 Effects
 ---------
 

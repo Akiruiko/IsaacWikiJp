@@ -3,7 +3,6 @@
 
  # Angelic Prism ![image](/image/Angelic_Prism.png) 
 
-
 Effects
 ---------
 

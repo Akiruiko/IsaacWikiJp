@@ -3,30 +3,26 @@
 
  # Lil Chest ![image](/image/Lil_Chest.png) 
 
-
-Effects
----------
-
-
-* Spawns an [Old Chest](/wiki/Old_Chest "Old Chest") at the start of each floor.
-* Old Chests are similar in appearance to [Golden Chests](/wiki/Golden_Chest "Golden Chest") and likewise require a [Key](/wiki/Key "Key") to unlock, but have the color of a normal Chest and a worn-down appearance. When opened, they contain one of the following:
-	+ 1-3 [Soul Hearts](/wiki/Soul_Hearts "Soul Hearts") (43% chance)
-	+ 3 [trinkets](/wiki/Trinkets "Trinkets") (42% chance)
-	+ An [Old Chest item](/wiki/Old_Chest_(Item_Pool) "Old Chest (Item Pool)") (10% chance)
-	+ An [Angel Room item](/wiki/Angel_Room_(Item_Pool) "Angel Room (Item Pool)") (5% chance)
+Effect
+--------
 
 
-Notes
--------
+* Spawns a chest [familiar](/wiki/Familiar "Familiar") that has a 25% chance to spawn a [pickup](/wiki/Pickups "Pickups") and a 10% chance to spawn a trinket after clearing a [room](/wiki/Rooms "Rooms"). The possible rewards are:
+	+ [Hearts](/wiki/Hearts "Hearts")
+	+ [Coins](/wiki/Coins "Coins")
+	+ [Bombs](/wiki/Bombs "Bombs")
+	+ [Keys](/wiki/Keys "Keys")
+	+ [Pills](/wiki/Pills "Pills")
+	+ [Cards](/wiki/Cards "Cards")
+	+ [Runes](/wiki/Runes "Runes")
+	+ [Little Batteries](/wiki/Little_Battery "Little Battery")
+	+ [Trinkets](/wiki/Trinkets "Trinkets")
 
 
-* The chest also spawns in the mirrored floor of [(Downpour)](/wiki/Downpour "Downpour") [Downpour](/wiki/Downpour "Downpour") II and [(Dross)](/wiki/Dross "Dross") [Dross](/wiki/Dross "Dross") II if picked up before entering.
+Synergies
+-----------
 
 
-Interactions
---------------
-
-
-* [(Gilded Key)](/wiki/Gilded_Key "Gilded Key") [Gilded Key](/wiki/Gilded_Key "Gilded Key") / [(The Left Hand)](/wiki/The_Left_Hand "The Left Hand") [The Left Hand](/wiki/The_Left_Hand "The Left Hand") / [![image](/image/Mom%27s_Key.png)](/wiki/Mom%27s_Key "Mom's Key") [Mom's Key](/wiki/Mom%27s_Key "Mom's Key") / [(Poker Chip)](/wiki/Poker_Chip "Poker Chip") [Poker Chip](/wiki/Poker_Chip "Poker Chip"): No effect.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The chance to spawn a pickup increases to 31.25%, and the chance to spawn a trinket increases to 12.5%.
 
 

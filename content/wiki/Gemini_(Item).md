@@ -3,7 +3,6 @@
 
  # Gemini ![image](/image/Gemini_(Item).png) 
 
-
 Effect
 --------
 

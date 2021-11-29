@@ -3,7 +3,6 @@
 
  # The Compass ![image](/image/The_Compass.png) 
 
-
 Effects
 ---------
 

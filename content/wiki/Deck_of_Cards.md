@@ -3,7 +3,6 @@
 
  # Deck of Cards ![image](/image/Deck_of_Cards.png) 
 
-
 Effect
 --------
 

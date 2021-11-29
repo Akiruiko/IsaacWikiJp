@@ -3,26 +3,30 @@
 
  # Vade Retro ![image](/image/Vade_Retro.png) 
 
-
 Effects
 ---------
 
 
-* Continuously shooting for 2.35 seconds allows Isaac to fire a short-ranged brown [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") laser and corn shots behind himself by releasing the fire button.
-	+ The laser deals Isaac's [damage](/wiki/Damage "Damage") per tick (15x Isaac's damage per second), ticks up to 19 times and lasts ~1.28 seconds (77 frames).
-	+ Corn shots deal 6 damage, and a random amount are created each blast.
-* This item belongs to the [Oh Crap](/wiki/Oh_Crap "Oh Crap") set. Collecting three items from this set will transform Isaac into a walking pile of poop.
+* While held, non-ghost enemies leave behind small, red ghosts on death; using the item causes the ghosts to explode, dealing damage to nearby enemies.
+	+ The damage exploding ghosts deal is equal to 3 + 0.04x the health of the enemy the ghost spawned from, and each explosion can hit the same enemy up to 3 times. Explosion range increases the more powerful the explosion is.
+	+ Enemies with high health, such as champion enemies, minibosses and bosses will leave behind a larger ghost that creates three explosions, instead of just one.
+	+ Explosions from this item do not damage the player or terrain, but can destroy enemy projectiles.
+	+ Can be used as long there are ghosts in the room.
+	+ Ghosts can be moved by shooting at them.
+
+
+Notes
+-------
+
+
+* Ghosts that are currently not visible on the screen (e.g. in larger rooms) will not be detonated when using the item.
 
 
 Synergies
 -----------
 
 
-* [(Brain Worm)](/wiki/Brain_Worm "Brain Worm") [Brain Worm](/wiki/Brain_Worm "Brain Worm"): Can cause the poop laser to hook to a target anywhere in the room, potentially hitting a target far outside of its usual range.
-* [![image](/image/Dark_Arts.png)](/wiki/Dark_Arts "Dark Arts") [Dark Arts](/wiki/Dark_Arts "Dark Arts"): The corn Isaac poops out can be sliced, giving Isaac an insane damage up in seconds.
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): The poop beam will unleash a barrage of explosions at the end of it.
-* [![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): Spawns a large amount of tears at the end of the poop beam, heavily increasing Isaac's damage output.
-* [![image](/image/My_Reflection.png)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection"): Causes the beam range behind Isaac to become significantly increased as well as having a short range similar to Azazel's beam in front of him. This greatly eases the use of this item allowing for high DPS.
-* [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Beam splits into two horizontal beams meaning less risk for Isaac and a bigger area for enemies to be hit.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): No wisps are created when using Vade Retro. Instead, ghosts created by enemies very slowly move and shoot tears in the same direction Isaac is shooting. The ghosts' tears deal 3.5 damage, and are fired once every second.
+* [(Judas)](/wiki/Judas "Judas") [Judas](/wiki/Judas "Judas") +[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Ghosts home in on enemies upon use, similarly to ghosts spawned by[![image](/image/Purgatory.png)](/wiki/Purgatory "Purgatory") [Purgatory](/wiki/Purgatory "Purgatory"). The ghosts deal 2x Judas' damage.
 
 

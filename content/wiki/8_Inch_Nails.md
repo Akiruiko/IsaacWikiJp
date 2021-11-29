@@ -3,31 +3,33 @@
 
  # 8 Inch Nails ![image](/image/8_Inch_Nails.png) 
 
+Effects
+---------
 
-Effect
---------
 
-
-* Spawns a [charger](/wiki/Charger "Charger") [familiar](/wiki/Familiar "Familiar") that charges across the [room](/wiki/Room "Room") when Isaac shoots, dealing [damage](/wiki/Damage "Damage") to any enemies in its path until it hits an [obstacle](/wiki/Obstacle "Obstacle") or wall.
-	+ (Removed in Afterbirth) Little Chubby is fired directly from where Isaac is standing.
-	+ (Added in Afterbirth) Little Chubby is fired directly from where it is located in the chain of familiars behind Isaac.
-	+ The familiar deals 3.5 damage per tick (~52.5 damage per second).
-	+ The familiar's attack is affected by momentum, just as tears are. Thus, it can be shot diagonally.
+* +1.5 [damage](/wiki/Damage "Damage").
+* Isaac's tears are replaced with nails, which have increased [knockback](/wiki/Knockback "Knockback").
 
 
 Notes
 -------
 
 
-* For Little Chubby to recharge, it must first get back to Isaac. Therefore, running away from Little Chubby after firing it will extend the time required to recharge it.
-* The enemy [Chubber](/wiki/Vis#Chubber "Vis") can attack like this item, but they have limited range.
+* Does not grant penetrative shots, despite the appearance of Isaac's tears.
+* Any item that normally colors Isaac's tears red will cause the nails to become bloody.
 
 
-Interactions
---------------
+Synergies
+-----------
 
 
-* (Added in Afterbirth †)[(Duct Tape)](/wiki/Duct_Tape "Duct Tape") [Duct Tape](/wiki/Duct_Tape "Duct Tape"): Familiar will stay in place relative to Isaac, however, it will still charge across the room but will always return to the spot it first returned to after charging across a room.
-* (Added in Repentance)[![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): Little Chubby will charge at the direction that is marked on the floor.
+* [(Blister)](/wiki/Blister "Blister") [Blister](/wiki/Blister "Blister"): The knockback from Blister is stronger than from 8 Inch Nails, and knockback boosts do not stack.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The beam gains knockback.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus") / [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus") / [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Explosions also gain increased knockback.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The controlled tear gains knockback.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): The knife gains knockback.
+* [Piercing tears](/wiki/Piercing_tears "Piercing tears"): Allows tears to knock enemies back again.
+* [![image](/image/Tech.5.png)](/wiki/Tech.5 "Tech.5") [Tech.5](/wiki/Tech.5 "Tech.5") / [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X") / [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology") / [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2"): The lasers gain knockback. Especially powerful with Tech X, as the knockback helps keeps enemies within the ring for longer.
+* (Added in Afterbirth †)[![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): The blasts gain knockback.
 
 

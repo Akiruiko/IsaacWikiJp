@@ -3,47 +3,38 @@
 
  # Brittle Bones ![image](/image/Brittle_Bones.png) 
 
-
 Effects
 ---------
 
 
-* Spawns a [familiar](/wiki/Familiar "Familiar") that fires tears with the same [damage](/wiki/Damage "Damage") and [tear effects](/wiki/Tear_effects "Tear effects") as Isaac's tears.
-* Fires at half the normal fire rate of a familiar.
-* The familiar is not affected by [range](/wiki/Range "Range"), only [tear height](/wiki/Tear_height "Tear height").
+* Grants 6 empty [(Bone Heart)](/wiki/Bone_Heart "Bone Heart") [Bone Hearts](/wiki/Bone_Heart "Bone Heart").
+* Removes all [Red Heart containers](/wiki/Health#Red_Heart_Containers "Health"). Does not remove existing Bone Hearts, but does empty them.
+* Upon losing a Bone Heart, including ones acquired from other sources, Isaac fires a ring of 8 bones that split into more bones and gains a permanent +0.5 [tears](/wiki/Tears "Tears") up.
+	+ Each bone does twice Isaac's damage plus a flat 22 damage; split bones do half this amount.
+
+
+Notes
+-------
+
+
+* Picking this item up as  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost") or  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper") will give a one-time +0.5 tears up ((Added in Repentance) +0.4). This bonus is retained even if the item is later lost or rerolled.
+	+ Keeper will also gain 24 [Blue Flies](/wiki/Blue_Fly "Blue Fly").
+* (Added in Repentance) The tears up bonuses gained through this item will persist in the escape sequence of [(Mines)](/wiki/Mines "Mines") [Mines](/wiki/Mines "Mines") II.
+* (Added in Repentance) Losing Bone Hearts through a [Devil Deal](/wiki/Devil_Room_(Item_Pool) "Devil Room (Item Pool)") will not give the tears up effect.
+* If Brittle Bones is removed (such as with  [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac")), existing tear upgrades will not be removed.
 
 
 Synergies
 -----------
 
 
-* (Added in Afterbirth †)[![image](/image/Flat_Stone.png)](/wiki/Flat_Stone "Flat Stone") [Flat Stone](/wiki/Flat_Stone "Flat Stone"): Familiar's tears will travel very far and then bounce once, traveling up and hitting the nearest wall.
-* (Added in Afterbirth †)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria"): Will fire tears that burst into split tears. Does not affect fire rate.
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Will fire explosive tears. Does not affect fire rate.
-* (Added in Afterbirth †)[![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy") + [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The tears fired by the familiar will eventually explode in a star-like pattern of Brimstone lasers if they don't hit anything.
+* [![image](/image/Empty_Vessel.png)](/wiki/Empty_Vessel "Empty Vessel") [Empty Vessel](/wiki/Empty_Vessel "Empty Vessel"): The empty Bone Hearts will trigger Empty Vessel's effects.
 
 
 Interactions
 --------------
 
 
-* Following tear modifiers do not affect Fate's Reward, and the familiar will only fire normal tears:
-	+ [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone")
-	+ (Added in Repentance)[![image](/image/C_Section.png)](/wiki/C_Section "C Section") [C Section](/wiki/C_Section "C Section")
-	+ [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus")
-	+ [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus")
-	+ [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique")
-	+ [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife")
-	+ [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung")
-	+ [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology")
-	+ [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X")
-
-
-* [![image](/image/20/20.png)](/wiki/20/20 "20/20") [20/20](/wiki/20/20 "20/20") / [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye") / [![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider"): Fate's Reward only fires single tears. The items do not affect the fire rate of Fate's Reward.
-* [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk"): Familiar's tears will turn a brown color but can not be charged.
-* (Added in Repentance)[(Found Soul)](/wiki/Found_Soul "Found Soul") [Found Soul](/wiki/Found_Soul "Found Soul"): While the soul is alive, decreases Fate's Reward damage by 20%.
-* (Removed in Repentance) [![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): Fate's Reward will only fire while the crosshair is being moved, and can only fire in cardinal directions.
-	+ (Added in Repentance) Fate's Reward will aim and fire at the crosshair, wherever it's pointed.
-* [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"): Does not affect fire rate, but does affect damage.
+* (Added in Repentance)[![image](/image/Genesis.png)](/wiki/Genesis "Genesis") [Genesis](/wiki/Genesis "Genesis"): Removes the tear upgrades upon use.
 
 

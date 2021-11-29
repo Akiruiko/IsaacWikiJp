@@ -3,7 +3,6 @@
 
  # Little Horn ![image](/image/Little_Horn_(Item).png) 
 
-
 Effects
 ---------
 

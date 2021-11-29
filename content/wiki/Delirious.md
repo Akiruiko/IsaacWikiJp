@@ -3,7 +3,6 @@
 
  # Delirious ![image](/image/Delirious.png) 
 
-
 Effect
 --------
 

@@ -3,7 +3,6 @@
 
  # The Black Bean ![image](/image/The_Black_Bean.png) 
 
-
 Effects
 ---------
 

@@ -3,33 +3,23 @@
 
  # Ghost Bombs ![image](/image/Ghost_Bombs.png) 
 
-
 Effects
 ---------
 
 
-* Increases the size and doubles the damage of [Blue Spiders](/wiki/Blue_Spider "Blue Spider"), [Blue Flies](/wiki/Blue_Fly "Blue Fly") and (Added in Afterbirth †) [Locusts](/wiki/Locust "Locust").
-* (Added in Repentance) Fly and spider familiars become stronger, exactly like [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!").
-	+ Having both Hive Mind and BFFS! gives no further benefit.
-* This item belongs to the [Beelzebub](/wiki/Beelzebub "Beelzebub") set. Collecting three items from this set will transform Isaac into a giant humanoid fly.
-* (Added in Repentance)This item belongs to the [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)") set. Collecting three items from this set will transform Isaac into a humanoid spider.
-
-
-Notes
--------
-
-
-* Red Locusts' explosions will deal an additional 25 flat damage.
-* (Removed in Repentance) This item does not affect Fly familiars or orbitals.
-* No effect on flies made passive by [![image](/image/Skatole.png)](/wiki/Skatole "Skatole") [Skatole](/wiki/Skatole "Skatole").
+* Gives Isaac 5 [bombs](/wiki/Bombs "Bombs").
+* Isaac's bombs become spectral, and will pass through objects.
+* Isaac's bombs create ghosts when they explode, which rapidly chase and deal contact damage to enemies.
+	+ The ghost deals contact damage equal to half of Isaac's [damage](/wiki/Damage "Damage") per tick (2x Isaac's damage per second).
+* After 10 seconds, the ghost explodes, dealing 7 damage to nearby enemies up to 3 times and destroying nearby projectiles. Isaac does not take damage from the explosion.
+	+ If there are no enemies in the room, the ghost follows Isaac. However, it cannot follow Isaac between rooms.
 
 
 Synergies
 -----------
 
 
-* [Guppy](/wiki/Guppy "Guppy"): Doubles the damage of all of Blue Flies, greatly increasing damage output.
-* [![image](/image/Mom%27s_Wig.png)](/wiki/Mom%27s_Wig "Mom's Wig") [Mom's Wig](/wiki/Mom%27s_Wig "Mom's Wig"): Doubles spider limit of the wig to 10 spiders.
-* [![image](/image/Sissy_Longlegs.png)](/wiki/Sissy_Longlegs "Sissy Longlegs") [Sissy Longlegs](/wiki/Sissy_Longlegs "Sissy Longlegs"): Increases familiar's size. Spiders spawned by Sissy are affected by Hive Mind.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Spectral bombs are less likely to hit Isaac, but make it harder to blow up specific rocks.
+* [![image](/image/Scatter_Bombs.png)](/wiki/Scatter_Bombs "Scatter Bombs") [Scatter Bombs](/wiki/Scatter_Bombs "Scatter Bombs"): Split bombs create ghosts that instantly launch themselves at enemies and explode, similar to [![image](/image/Purgatory.png)](/wiki/Purgatory "Purgatory") [Purgatory](/wiki/Purgatory "Purgatory"). They each deal 2x Isaac's damage, up to 4 times.
 
 

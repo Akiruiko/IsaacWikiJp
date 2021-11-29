@@ -3,7 +3,6 @@
 
  # Treasure Map ![image](/image/Treasure_Map.png) 
 
-
 Effects
 ---------
 

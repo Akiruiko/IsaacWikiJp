@@ -3,7 +3,6 @@
 
  # Sworn Protector ![image](/image/Sworn_Protector.png) 
 
-
 Effects
 ---------
 

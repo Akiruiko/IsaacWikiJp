@@ -3,42 +3,38 @@
 
  # Experimental Treatment ![image](/image/Experimental_Treatment.png) 
 
-
 Effects
 ---------
 
 
-* Tears have a 1/6 chance of spawning allied [Blue Flies](/wiki/Blue_Fly "Blue Fly") when they hit an enemy.
-* This item belongs to the [Beelzebub](/wiki/Beelzebub "Beelzebub") set. Collecting three items from this set will transform Isaac into a giant humanoid fly.
+* (Removed in Afterbirth †) Randomly increases at least 1 and decreases 1-3 of Isaac's [stats](/wiki/Attributes "Attributes"). The same stats can be increased/decreased multiple times.
+* (Added in Afterbirth †) Randomly increases 4 and decreases 2 of Isaac's [stats](/wiki/Attributes "Attributes").
+* Each increase or decrease for a stat will change it by a fixed value:
+	+ ±1 [health](/wiki/Health "Health").
+	+ ±1 [damage](/wiki/Damage "Damage").
+	+ ±0.5 [tears](/wiki/Tears "Tears").
+	+ (Removed in Repentance) ±0.5 [range](/wiki/Range "Range").
+	+ (Added in Repentance) ±1.5 [range](/wiki/Range "Range").
+	+ ±0.2 [shot speed](/wiki/Shot_speed "Shot speed").
+	+ ±0.2 [speed](/wiki/Speed "Speed").
+		- (Removed in Repentance) Also affects maximum speed (may never exceed 2.0).
+	+ ±1 [luck](/wiki/Luck "Luck").
+* If a stat that is already at an upper or lower limit is chosen, there is no visible effect.
+* (Added in Afterbirth) This item belongs to the [Spun](/wiki/Spun "Spun") set. Collecting three items from this set will transform Isaac into a buff berserker.
 
 
 Notes
 -------
 
 
-* (Removed in Repentance) Because the [Guppy](/wiki/Guppy "Guppy") transformation includes the guaranteed ability to spawn flies on hit, the Mulligan's effect is nullified. This means individual tears cannot spawn more than one fly per hit.
-	+ (Added in Repentance) Guppy has been lowered to have a 50% chance of spawning a fly, allowing the 2 items to work together.
-* (Removed in Repentance) This item does not work for  [(Lilith)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith") since the (Added in Afterbirth)[![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") tears do not count for her tears.
-* Items and trinkets that increase tear firing rate synergize well with the Mulligan.
-* This item is not affected by [luck](/wiki/Luck "Luck").
+The stat changes are permanent and will not go away if the item is removed.
 
 
-Synergies
------------
+
+* (Added in Repentance) This makes the item especially useful for  [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac"), since he gets to keep the stats while having the option to switch Experimental Treatment for another item and the transformation progress isn't lost in the process.
 
 
-* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Constantly spawns blue flies when attacking.
-* [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk"): The Mulligan's ability isn't affected by the charge time, meaning rapidly firing uncharged shots will generate a ton of blue flies.
-* [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body") / [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Has a 1/6 chance to spawn a fly on every hit by a split shot, which boosts the spawning of flies immensely.
-* (Added in Afterbirth †)[![image](/image/Finger!.png)](/wiki/Finger! "Finger!") [Finger!](/wiki/Finger! "Finger!"): Rapidly spawns blue flies when pointed at an enemy.
+(Added in Repentance) The tears up from this item is allowed to go past the normal tear cap of 5.0. However if it decreases tears, the normal tear cap will also be decreased.
 
-
-Interactions
---------------
-
-
-* [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel"): Azazel's default brimstone spawns flies like regular tears.
-* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overrides The Mulligan.
-* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Flies only have a chance to spawn if the knife is stationary.
 
 

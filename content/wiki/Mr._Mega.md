@@ -3,7 +3,6 @@
 
  # Mr. Mega ![image](/image/Mr._Mega.png) 
 
-
 Effects
 ---------
 

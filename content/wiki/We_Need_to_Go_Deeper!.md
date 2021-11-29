@@ -3,7 +3,6 @@
 
  # We Need to Go Deeper! ![image](/image/We_Need_to_Go_Deeper!.png) 
 
-
 Effects
 ---------
 

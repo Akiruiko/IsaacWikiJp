@@ -3,7 +3,6 @@
 
  # The Ladder ![image](/image/The_Ladder.png) 
 
-
 Effects
 ---------
 

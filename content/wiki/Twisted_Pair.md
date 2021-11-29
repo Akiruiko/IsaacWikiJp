@@ -3,7 +3,6 @@
 
  # Twisted Pair ![image](/image/Twisted_Pair.png) 
 
-
 Effects
 ---------
 

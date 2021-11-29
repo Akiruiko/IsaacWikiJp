@@ -3,34 +3,34 @@
 
  # Curse of the Tower ![image](/image/Curse_of_the_Tower.png) 
 
-
-Effects
----------
-
-
-* On use:
-	+ (Removed in Repentance) Gives one [(Soul Heart)](/wiki/Soul_Heart "Soul Heart") [Soul Heart](/wiki/Soul_Heart "Soul Heart"), +0.7 [damage](/wiki/Damage "Damage"), -0.18 [speed](/wiki/Speed "Speed"), and the ability to destroy most [obstacles](/wiki/Obstacle "Obstacle") by walking into them. Cannot be stacked in one room.
-		- (Added in Repentance) Gives half a [(Black Heart)](/wiki/Black_Heart "Black Heart") [Black Heart](/wiki/Black_Heart "Black Heart"), +2 damage, -0.18 speed and the ability to destroy obstacles for the current room.
-			* If used multiple times in one room, the speed penalty only applies once, but the damage buff can stack. Each subsequent damage buff becomes less effective for each use
-	+ Allows Isaac to deal 40 contact damage to enemies for the current room. Does not prevent Isaac from taking contact damage. It can be applied only once per second per enemy.
-	+ (Added in Repentance) Isaac's tears become red for the current room.
+Effect
+--------
 
 
-* (Added in Afterbirth) This item belongs to the [Leviathan](/wiki/Leviathan "Leviathan") set. Collecting three items from this set will transform Isaac into Leviathan.
+* Upon taking damage, spawns six [Troll Bombs](/wiki/Troll_Bomb "Troll Bomb") around the room, similar to the effect of [(XVI - The Tower)](/wiki/Cards_and_Runes "XVI - The Tower") [XVI - The Tower](/wiki/Cards_and_Runes "Cards and Runes").
 
 
 Notes
 -------
 
 
-* Isaac makes a demon sound when taking damage while this item is in use. This is quieter than Isaac's standard damage sound and is easy to miss.
-* (Added in Repentance) The damage increase from The Nail can be stacked in the same room, but the speed penalty does not increase.
+* Despite appearing as Troll Bombs, the bombs are mechanically identical to player-placed bombs and will benefit from Isaac's bomb-enhancing items.
+* These bombs hurt the player as well as enemies.
+* Taking damage from the Troll Bombs spawned by Curse of the Tower or any other type of bomb, including Isaac's bombs, will not re-activate the effect.
+* (Removed in Repentance) Picking up this item will make all health transactions more difficult. [Devil Beggars](/wiki/Devil_Beggar "Devil Beggar") and [Blood Donation Machines](/wiki/Blood_Donation_Machine "Blood Donation Machine") will be almost impossible to use because they will very likely be destroyed by bombs.
+	+ (Added in Repentance) Taking damage from [Devil Beggars](/wiki/Devil_Beggar "Devil Beggar") and [Blood Donation Machines](/wiki/Blood_Donation_Machine "Blood Donation Machine") does not trigger the effect.
+* The bombs prefer to spawn near the center of the room.
+* The 6 [Troll Bombs](/wiki/Troll_Bomb "Troll Bomb") are difficult to dodge in small rooms.
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns black wisps on the inner ring. Wisps shoot nails that deal double damage from standard wisps, and have increased knockback, akin to [(Blister)](/wiki/Blister "Blister") [Blister](/wiki/Blister "Blister").
+* [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac"): Troll Bombs will heal Isaac instead, allowing for essentially infinite health with proper usage.
+	+ (Added in Repentance) Due to Pyromaniac being weakened to healing half a heart per explosion in *Repentance*, this synergy requires [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer") to continue being effective past [Chapter 3](/wiki/Chapter_3 "Chapter 3")/[Chapter 3.5](/wiki/Chapter_3.5 "Chapter 3.5").
+* [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid"): If Isaac is damaged when he has half a red heart or no red hearts, the shield will activate and protect him from the Troll Bombs.
+* [![image](/image/Remote_Detonator.png)](/wiki/Remote_Detonator "Remote Detonator") [Remote Detonator](/wiki/Remote_Detonator "Remote Detonator"): The Troll Bombs generated will not explode until Remote Detonator is activated, unlike regular Troll Bombs.
+* [(Safety Scissors)](/wiki/Safety_Scissors "Safety Scissors") [Safety Scissors](/wiki/Safety_Scissors "Safety Scissors"): The Troll Bombs generated will be converted into bomb pickups rather than exploding.
 
 

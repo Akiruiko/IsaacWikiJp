@@ -3,7 +3,6 @@
 
  # Scorpio ![image](/image/Scorpio.png) 
 
-
 Effects
 ---------
 

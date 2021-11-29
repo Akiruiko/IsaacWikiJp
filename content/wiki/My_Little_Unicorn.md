@@ -3,30 +3,29 @@
 
  # My Little Unicorn ![image](/image/My_Little_Unicorn.png) 
 
-
 Effects
 ---------
 
 
-* Gives Isaac [stat](/wiki/Attributes "Attributes") upgrades when he buys items/pickups from [shops](/wiki/Shop "Shop").
-	+ The three possible stat upgrades Keeper's Sack can give are +0.5 [damage](/wiki/Damage "Damage"), +0.03 [speed](/wiki/Speed "Speed"), and +0.25 [range](/wiki/Range "Range").
-	+ Keeper's Sack will always give one stat upgrade when Isaac makes a purchase, plus one for every 5 cents Isaac spent on the pickup/item.
-* Spawns three [coins](/wiki/Coins "Coins") and a [key](/wiki/Key "Key") on pickup.
+* Gives [invulnerability](/wiki/Invulnerability "Invulnerability") and +0.28 [speed](/wiki/Speed "Speed") for six seconds, removing the ability to shoot tears and replacing it with the ability to deal contact damage to enemies.
+	+ (Removed in Repentance) Isaac deals 40 contact damage to enemies, once per second.
+		- (Added in Repentance) Isaac deals 20 contact damage to enemies, twice per second.
 
 
 Notes
 -------
 
 
-* Keeper's Sack works with anything that costs coins, including [Devil deals](/wiki/Devil_deal "Devil deal")/[Black Markets](/wiki/Black_Market "Black Market") as  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper") / affected by [(Keeper's Bargain)](/wiki/Keeper%27s_Bargain "Keeper's Bargain") [Keeper's Bargain](/wiki/Keeper%27s_Bargain "Keeper's Bargain") or [![image](/image/A_Pound_of_Flesh.png)](/wiki/A_Pound_of_Flesh "A Pound of Flesh") [A Pound of Flesh](/wiki/A_Pound_of_Flesh "A Pound of Flesh"), items or pickups created by [![image](/image/Keeper%27s_Box.png)](/wiki/Keeper%27s_Box "Keeper's Box") [Keeper's Box](/wiki/Keeper%27s_Box "Keeper's Box"), the Angel shop created by [![image](/image/The_Stairway.png)](/wiki/The_Stairway "The Stairway") [The Stairway](/wiki/The_Stairway "The Stairway"), and the second shop created by [![image](/image/Member_Card.png)](/wiki/Member_Card "Member Card") [Member Card](/wiki/Member_Card "Member Card").
-* All stat upgrades are tied to the item itself; losing Keeper's Sack somehow will result in the loss of all obtained stat upgrades.
+* The invulnerability effect negates all forms of damage, including health loss from [Blood Donation Machines](/wiki/Blood_Donation_Machine "Blood Donation Machine") and [Devil Beggars](/wiki/Devil_Beggar "Devil Beggar").
+* Does not prevent [Heart Container](/wiki/Heart_Container "Heart Container") loss from [Health Down](/wiki/Health_Down "Health Down") [pills](/wiki/Pills "Pills") or [Devil Deals](/wiki/Devil_Room "Devil Room").
+* Ending the current run via opening the end chest while My Little Unicorn is active will cause the credits and main menu music to be sped up. The effect ends upon restarting the game or starting a new run.
+* [(VII - The Chariot)](/wiki/Cards_and_Runes "VII - The Chariot") [VII - The Chariot](/wiki/Cards_and_Runes "Cards and Runes") card provides the same effect of this item when used.
 
 
-Interactions
---------------
+Synergies
+-----------
 
 
-* [(Store Credit)](/wiki/Store_Credit "Store Credit") [Store Credit](/wiki/Store_Credit "Store Credit"): Anything bought will not give stats.
-* [![image](/image/Steam_Sale.png)](/wiki/Steam_Sale "Steam Sale") [Steam Sale](/wiki/Steam_Sale "Steam Sale"): Stat boosts for every 5 coins spent will only apply to the modified cost after picking up Steam Sale rather than the original cost.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns rainbow-colored wisps in the middle ring. The wisps orbit Isaac more quickly than normal wisps and change colors constantly, with both of these effects being boosted while My Little Unicorn is active. The wisps also deal an extra 8 contact damage, for a total of 15 contact damage per tick. When de-activated, the rainbow coloring slightly fades away.
 
 

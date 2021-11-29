@@ -3,7 +3,6 @@
 
  # Big Fan ![image](/image/Big_Fan.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Chocolate Milk ![image](/image/Chocolate_Milk.png) 
 
-
 Effects
 ---------
 

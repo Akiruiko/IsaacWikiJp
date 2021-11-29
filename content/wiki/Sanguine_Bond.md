@@ -3,7 +3,6 @@
 
  # Sanguine Bond ![image](/image/Sanguine_Bond.png) 
 
-
 Effects
 ---------
 

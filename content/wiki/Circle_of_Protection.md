@@ -3,27 +3,31 @@
 
  # Circle of Protection ![image](/image/Circle_of_Protection.png) 
 
-
 Effects
 ---------
 
 
-* Initiates the [Ascent](/wiki/Ascent "Ascent") sequence.
+* Surrounds Isaac with a large white halo.
+	+ Once per second, the halo deals Isaac's [Damage](/wiki/Damage "Damage") to all enemies currently inside it.
+	+ Each enemy shot has a 30% chance to be reflected by the halo.
+		- The chance is predetermined, and not affect by how long it is exposed by the halo.
+		- The reflectable tears are reflected once they touch the middle line of the halo, and is converted into friendly purple [homing tears](/wiki/Homing_tears "Homing tears") that have Isaac's Damage and no other tear modifiers.
+		- Projectiles that create other projectiles (e.g. (Added in Repentance) [(Shady)](/wiki/Fatty#Shady "Shady") [Shady](/wiki/Fatty#Shady "Fatty")) do not create the projectiles once reflected.
+		- Can reflect:
+			* Explosive projectiles (e.g. from [(Gurgle)](/wiki/Gaper#Gurgle "Gurgle") [Gurgle](/wiki/Gaper#Gurgle "Gaper")), which do not explode once reflected.
+			* Fireballs (e.g. from (Added in Repentance) [(Crackle)](/wiki/Gaper#Crackle "Crackle") [Crackle](/wiki/Gaper#Crackle "Gaper")), which do not create lines of fire once reflected.
+			* Fire projectiles (e.g. from [(Mega Satan)](/wiki/Mega_Satan "Mega Satan") [Mega Satan](/wiki/Mega_Satan "Mega Satan")).
+			* Obstacles thrown by (Added in Repentance) [(Polty)](/wiki/Polty "Polty") [Polty](/wiki/Polty "Polty") or (Added in Repentance) [(Kineti)](/wiki/Polty#Kineti "Kineti") [Kineti](/wiki/Polty#Kineti "Polty").
+		- Does not reflect:
+			* Lasers or beams.
+			* Lines of fire from fireballs.
+			* Projectiles from (Added in Repentance) [(Big Bony)](/wiki/Fatty#Big_Bony "Big Bony") [Big Bony](/wiki/Fatty#Big_Bony "Fatty"), (Added in Repentance) [(Coal Boy)](/wiki/Danny#Coal_Boy "Coal Boy") [Coal Boy](/wiki/Danny#Coal_Boy "Danny"), (Added in Repentance) [(Danny)](/wiki/Danny "Danny") [Danny](/wiki/Danny "Danny").
 
 
-Notes
--------
+Interactions
+--------------
 
 
-* Dad's Note cannot be rerolled or destroyed in most ways, such as with [![image](/image/The_D6.png)](/wiki/The_D6 "The D6") [The D6](/wiki/The_D6 "The D6"), [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void"), or [![image](/image/Abyss.png)](/wiki/Abyss "Abyss") [Abyss](/wiki/Abyss "Abyss").
-* Dad's Note cannot be duplicated via [![image](/image/Crooked_Penny.png)](/wiki/Crooked_Penny "Crooked Penny") [Crooked Penny](/wiki/Crooked_Penny "Crooked Penny"), even if other items in the same room would be duplicated. Other duplication items such as [![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia") work as normal.
-* The boss room containing Dad's Note cannot be exited once entered, similar to the [Mom](/wiki/Mom "Mom") boss fight. The only way to exit is through teleportation.
-* The only item that can be taken in the boss room of this special version of [(Mausoleum)](/wiki/Mausoleum "Mausoleum") [Mausoleum](/wiki/Mausoleum "Mausoleum")/[(Gehenna)](/wiki/Gehenna "Gehenna") [Gehenna](/wiki/Gehenna "Gehenna") is Dad's Note. No other items will be spawned.
-	+ [Treasure Room](/wiki/Treasure_Room "Treasure Room") and [Shop](/wiki/Shop "Shop") will still generate in this special floor as in usual floors, giving Isaac more options.
-	+ [![image](/image/Lemegeton.png)](/wiki/Lemegeton "Lemegeton") [Lemegeton](/wiki/Lemegeton "Lemegeton") pulls from the [Boss Pool](/wiki/Boss_(Item_Pool) "Boss (Item Pool)") when used.
-	+ In [Co-Op](/wiki/Repentance_Co-Op "Repentance Co-Op"), extra boss items will still spawn for other players. These should be picked up quickly before the Ascent sequence begins.
-* The Treasure Room of this floor works as expected, containing one visible item and one blind item. During the [Ascent](/wiki/Ascent "Ascent"), both items will be visible. It is recommended to wait to choose an item until the Ascent has started.
-	+ [![image](/image/Dream_Catcher.png)](/wiki/Dream_Catcher "Dream Catcher") [Dream Catcher](/wiki/Dream_Catcher "Dream Catcher") can circumvent this by showing both items in the floor transition.
-* If Dad's Note is obtained outside of the special boss room via cheats or by using [![image](/image/Spindown_Dice.png)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice") on [![image](/image/Sausage.png)](/wiki/Sausage "Sausage") [Sausage](/wiki/Sausage "Sausage"), the music will slowly fade out, but the Ascent will not start.
+* Circle of Protection: Multiple copy of this item from such as [![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia") or (Added in Afterbirth †)[![image](/image/Crooked_Penny.png)](/wiki/Crooked_Penny "Crooked Penny") [Crooked Penny](/wiki/Crooked_Penny "Crooked Penny") has no effect.
 
 

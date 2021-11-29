@@ -3,7 +3,6 @@
 
  # Isaac's Tears ![image](/image/Isaac%27s_Tears.png) 
 
-
 Effects
 ---------
 

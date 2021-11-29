@@ -3,7 +3,6 @@
 
  # Crooked Penny ![image](/image/Crooked_Penny.png) 
 
-
 Effect
 --------
 

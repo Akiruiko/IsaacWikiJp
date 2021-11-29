@@ -3,7 +3,6 @@
 
  # Cancer ![image](/image/Cancer.png) 
 
-
 Effects
 ---------
 

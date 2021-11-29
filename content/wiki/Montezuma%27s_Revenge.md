@@ -3,34 +3,25 @@
 
  # Montezuma's Revenge ![image](/image/Montezuma%27s_Revenge.png) 
 
-
 Effects
 ---------
 
 
-* Grants [homing tears](/wiki/Homing_tears "Homing tears").
+* Continuously shooting for 2.35 seconds allows Isaac to fire a short-ranged brown [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") laser and corn shots behind himself by releasing the fire button.
+	+ The laser deals Isaac's [damage](/wiki/Damage "Damage") per tick (15x Isaac's damage per second), ticks up to 19 times and lasts ~1.28 seconds (77 frames).
+	+ Corn shots deal 6 damage, and a random amount are created each blast.
+* This item belongs to the [Oh Crap](/wiki/Oh_Crap "Oh Crap") set. Collecting three items from this set will transform Isaac into a walking pile of poop.
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Aquarius.png)](/wiki/Aquarius "Aquarius") [Aquarius](/wiki/Aquarius "Aquarius"): Trail of creep is purple and homes in on enemies.
-* [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel") / [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") / (Added in Repentance) [(Tainted Azazel)](/wiki/Tainted_Azazel "Tainted Azazel") [Tainted Azazel](/wiki/Tainted_Azazel "Tainted Azazel") / [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology") / [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2") / (Added in Afterbirth)[![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Beams curve toward enemies.
-* (Added in Afterbirth †)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture") / [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body") / [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Tears and split tears are homing.
-* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): The bombs slide towards enemies.
-* (Added in Afterbirth)[![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): Tears will travel in the direction of the cross-hairs until close enough to home in on an enemy.
-* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): The knife curves towards enemies.
-
-
-Interactions
---------------
-
-
-* (Added in Afterbirth)[![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Cursor slides towards enemies.
-* (Added in Repentance)[![image](/image/Eye_of_the_Occult.png)](/wiki/Eye_of_the_Occult "Eye of the Occult") [Eye of the Occult](/wiki/Eye_of_the_Occult "Eye of the Occult"): Tears home in on enemies when not being maneuvered.
-* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The tear will attempt to home towards a single target, even if it hits a different enemy on its way there, making it difficult to control.
-	+ (Added in Repentance) The changes to homing tears make it nearly impossible to maintain control of the shot while it's near an enemy.
-* (Added in Afterbirth †)[![image](/image/Technology_Zero.png)](/wiki/Technology_Zero "Technology Zero") [Technology Zero](/wiki/Technology_Zero "Technology Zero"): The electricity is unaffected.
+* [(Brain Worm)](/wiki/Brain_Worm "Brain Worm") [Brain Worm](/wiki/Brain_Worm "Brain Worm"): Can cause the poop laser to hook to a target anywhere in the room, potentially hitting a target far outside of its usual range.
+* [![image](/image/Dark_Arts.png)](/wiki/Dark_Arts "Dark Arts") [Dark Arts](/wiki/Dark_Arts "Dark Arts"): The corn Isaac poops out can be sliced, giving Isaac an insane damage up in seconds.
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): The poop beam will unleash a barrage of explosions at the end of it.
+* [![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): Spawns a large amount of tears at the end of the poop beam, heavily increasing Isaac's damage output.
+* [![image](/image/My_Reflection.png)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection"): Causes the beam range behind Isaac to become significantly increased as well as having a short range similar to Azazel's beam in front of him. This greatly eases the use of this item allowing for high DPS.
+* [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Beam splits into two horizontal beams meaning less risk for Isaac and a bigger area for enemies to be hit.
 
 

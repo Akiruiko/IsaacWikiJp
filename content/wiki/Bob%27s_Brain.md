@@ -3,7 +3,6 @@
 
  # Bob's Brain ![image](/image/Bob%27s_Brain.png) 
 
-
 Effects
 ---------
 

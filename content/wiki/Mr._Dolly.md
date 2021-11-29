@@ -3,7 +3,6 @@
 
  # Mr. Dolly ![image](/image/Mr._Dolly.png) 
 
-
 Effects
 ---------
 

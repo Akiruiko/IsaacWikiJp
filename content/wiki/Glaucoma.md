@@ -3,7 +3,6 @@
 
  # Glaucoma ![image](/image/Glaucoma.png) 
 
-
 Effects
 ---------
 

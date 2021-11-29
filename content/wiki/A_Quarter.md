@@ -3,28 +3,19 @@
 
  # A Quarter ![image](/image/A_Quarter.png) 
 
-
-Effects
----------
-
-
-* Spawns a [familiar](/wiki/Familiar "Familiar") that follows Isaac around, leaving a trail of [red creep](/wiki/Red_creep "Red creep") that damages enemies.
-	+ The creep deals 2 damage per tick or 6 damage per second to non-flying enemies.
-	+ (Added in Repentance) The creep deals damage much more rapidly.
-* (Added in Afterbirth) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
+Effect
+--------
 
 
-Synergies
------------
+* Gives Isaac 25 [coins](/wiki/Coin "Coin").
 
 
-* (Added in Afterbirth †)[(Lost Cork)](/wiki/Lost_Cork "Lost Cork") [Lost Cork](/wiki/Lost_Cork "Lost Cork"): Creep trail size is bigger.
+Notes
+-------
 
 
-Interactions
---------------
-
-
-* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Familiar is bigger; however, no effect on creep damage.
+* It has a chance to spawn when [Urns](/wiki/Urn "Urn") are destroyed or by killing [Super Greed](/wiki/Super_Greed "Super Greed").
+	+ Multiple Quarters can be dropped in the same run by Super Greed, but will not spawn from Urns once picked up.
+* Rerolling this item with the  [![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4"),  [![image](/image/D100.png)](/wiki/D100 "D100") [D100](/wiki/D100 "D100") , [![image](/image/Missing_No..png)](/wiki/Missing_No. "Missing No.") [Missing No.](/wiki/Missing_No. "Missing No."), or a 1 or 6 pip [Dice Room](/wiki/Dice_Room "Dice Room") will not remove 25 coins.
 
 

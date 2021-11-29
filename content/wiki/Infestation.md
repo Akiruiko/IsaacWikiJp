@@ -3,7 +3,6 @@
 
  # Infestation ![image](/image/Infestation.png) 
 
-
 Effects
 ---------
 

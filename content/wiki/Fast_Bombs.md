@@ -3,27 +3,27 @@
 
  # Fast Bombs ![image](/image/Fast_Bombs.png) 
 
-
 Effects
 ---------
 
 
-* Spawns 2-4 friendly [Blue Flies](/wiki/Blue_Fly "Blue Fly").
-* This item belongs to the [Guppy](/wiki/Guppy "Guppy") set. Collecting three items from this set will transform Isaac into Guppy.
+* +7 [(Bomb)](/wiki/Bomb "Bomb") [Bombs](/wiki/Bomb "Bomb").
+* Removes the delay between bomb placements, allowing them to be placed rapidly.
 
 
 Notes
 -------
 
 
-* Each Blue Fly deals 2x Isaac's damage.
+* Holding the bomb button will not automatically place them. Each bomb needs to be manually placed.
+* On PC, it's possible to bind two buttons to lay bombs and use both for even higher rates of bombing.
+* (Added in Repentance) Fast Bombs deal no knockback to each other.
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Summons wisps in the outer ring instead of flies. Wisps summon Blue Flies when destroyed. One wisp contains one Blue Fly.
-* (Added in Afterbirth †)[(Fish Tail)](/wiki/Fish_Tail "Fish Tail") [Fish Tail](/wiki/Fish_Tail "Fish Tail"): Doubles flies spawned.
+* [![image](/image/Remote_Detonator.png)](/wiki/Remote_Detonator "Remote Detonator") [Remote Detonator](/wiki/Remote_Detonator "Remote Detonator"): Since bombs can be placed rapidly, this can be used to do lots of damage at once to a boss or enemy.
 
 

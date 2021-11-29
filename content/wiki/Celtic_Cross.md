@@ -3,7 +3,6 @@
 
  # Celtic Cross ![image](/image/Celtic_Cross.png) 
 
-
 Effect
 --------
 

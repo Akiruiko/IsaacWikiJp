@@ -3,7 +3,6 @@
 
  # Mega Mush ![image](/image/Mega_Mush.png) 
 
-
 Effects
 ---------
 

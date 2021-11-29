@@ -3,12 +3,10 @@
 
  # The Belt ![image](/image/The_Belt.png) 
 
+Effect
+--------
 
-Effects
----------
 
-
-* +1 [damage](/wiki/Damage "Damage").
-* +0.23 [shot speed](/wiki/Shot_speed "Shot speed").
+* +0.3 [speed](/wiki/Speed "Speed").
 
 

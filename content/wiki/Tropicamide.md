@@ -3,7 +3,6 @@
 
  # Tropicamide ![image](/image/Tropicamide.png) 
 
-
 Effects
 ---------
 

@@ -3,31 +3,39 @@
 
  # Ocular Rift ![image](/image/Ocular_Rift.png) 
 
-
 Effects
 ---------
 
 
-* On use, makes a random item in the current room that costs money or hearts free.
-* While held, guarantees a random item or pickup from the (Shop) [Shop](/wiki/Shop "Shop") to be half price.
+* Gives Isaac a 5% chance to fire tears that create rifts where they land, which damage nearby enemies and pull in [enemies](/wiki/Monsters "Monsters"), [pickups](/wiki/Pickups "Pickups"), and tears/shots from all sources for 2 seconds.
+	+ Rifts deal 0.5x Isaac's [damage](/wiki/Damage "Damage") twice each tick (3x Isaac's damage per second), and enemy shots pulled into the rift will damage other enemies.
+	+ The size of the rift increases with Isaac's damage.
 
 
 Notes
 -------
 
 
-* Using the Coupon in a (Devil Room) [Devil Room](/wiki/Devil_Room "Devil Room") and taking that free item does not affect or remove the chances for (Angel Room) [Angel Rooms](/wiki/Angel_Room "Angel Room").
-* Using the Coupon in [Greed Mode](/wiki/Greed_Mode "Greed Mode") does not restock the taken item or consumable.
-* Using the Coupon in a Shop while holding [![image](/image/Restock.png)](/wiki/Restock "Restock") [Restock](/wiki/Restock "Restock") will not respawn a new item after taking the free one.
-* (Added in Repentance) Using the Coupon as  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost") or  [(Tainted Lost)](/wiki/Tainted_Lost "Tainted Lost") [Tainted Lost](/wiki/Tainted_Lost "Tainted Lost") allows multiple Devil deals to be taken.
+* The chance to fire a rift is vaguely affected by [Luck](/wiki/Luck "Luck"), but caps at a certain point, and is never guaranteed to trigger.
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns green wisps on the middle ring. The wisps fire three tears at a time, similarly to [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye"). However, all of these wisps are destroyed if Isaac buys something using money. Does not affect wisps other than ones made by this item.
-* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Makes two items free upon use.
-* (Added in Repentance)[![image](/image/Satanic_Bible.png)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible"): The Devil deal in the boss room can be acquired for free.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Rifts may appear where a brimstone beam hits rock, walls or enemies.
+* [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite") / [![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture"): Causes many smaller rifts to also spawn.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Each tick of damage has chance of creating rift, which will be slightly bigger in size.
+* [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Works similarly to Brimstone.
+* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Works similarly to Brimstone.
+* [![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): May spawn a line of rifts where the laser travels.
+
+
+Interactions
+--------------
+
+
+* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overridden by Epic Fetus.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Overridden by Mom's Knife.
 
 

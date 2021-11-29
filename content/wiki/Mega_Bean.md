@@ -3,31 +3,28 @@
 
  # Mega Bean ![image](/image/Mega_Bean.png) 
 
-
 Effects
 ---------
 
 
-* Gives Isaac a flat [damage](/wiki/Damage "Damage") up based on how many empty [Heart containers](/wiki/Health#Red_Heart_Containers "Health") he has.
-	+ (Removed in Repentance) The damage up given is 0.2 for each empty Red Heart container Isaac has.
-		- (Added in Repentance) The damage up given is ((2 * MissingHearts) ^ 1.6) * 0.1, where MissingHearts is the number of full red hearts of health missing.
-	+ Damage ups are only applied for every fully empty heart container.
-* This item belongs to the [Spun](/wiki/Spun "Spun") set. Collecting three items from this set will transform Isaac into a buff berserker.
+* [Petrifies](/wiki/Status_Effects#Petrification "Status Effects") all enemies in the current room for a couple of seconds.
+* Deals 5 damage and [poisons](/wiki/Status_Effects#Poison "Status Effects") any enemies near Isaac.
+* Sends out a wave of rocks across the room in the direction Isaac is facing, dealing 10 damage to any enemies it comes in contact with.
 
 
 Notes
 -------
 
 
-* This item has no effect on characters that can't have any Red Heart containers, unless [(Bone Heart)](/wiki/Bone_Heart "Bone Heart") [Bone Hearts](/wiki/Bone_Heart "Bone Heart") are collected. If a Bone Heart is gone, so does the Adrenaline damage. This means that Adrenaline is only truly useless on  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost").
-* This item affects both  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper") and  [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper"); empty Coin Hearts increase damage.
-* As  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"), empty Bone Hearts increase damage, but if the Bone Hearts are broken, the damage buff is taken away.
+* The rock wave can be used to open [secret rooms](/wiki/Secret_Room "Secret Room").
+* The rock wave can break rocks to fill in gaps.
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Blood_Oath.png)](/wiki/Blood_Oath "Blood Oath") [Blood Oath](/wiki/Blood_Oath "Blood Oath"): Activates the damage up effect of Adrenaline for the resulting empty heart containers at the start of each floor.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns tiny magenta wisps on the middle ring. The wisps send rock waves outward when Mega Bean is used. They also [petrify and poison](/wiki/Tear_Effects "Tear Effects") all enemies in a large radius when destroyed.
+* (Added in Afterbirth †)[![image](/image/Ghost_Pepper.png)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Whenever Mega Bean is used, a fire will be shot out behind Isaac. Two flames will be shot if Isaac also has [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery").
 
 

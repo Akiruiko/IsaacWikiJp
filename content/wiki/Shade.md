@@ -3,7 +3,6 @@
 
  # Shade ![image](/image/Shade.png) 
 
-
 Effects
 ---------
 

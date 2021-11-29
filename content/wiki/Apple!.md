@@ -3,7 +3,6 @@
 
  # Apple! ![image](/image/Apple!.png) 
 
-
 Effects
 ---------
 

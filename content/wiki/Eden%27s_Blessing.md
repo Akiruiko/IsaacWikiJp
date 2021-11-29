@@ -3,7 +3,6 @@
 
  # Eden's Blessing ![image](/image/Eden%27s_Blessing.png) 
 
-
 Effects
 ---------
 

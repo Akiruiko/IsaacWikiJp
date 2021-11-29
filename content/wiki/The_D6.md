@@ -3,47 +3,46 @@
 
  # The D6 ![image](/image/The_D6.png) 
 
-
 Effect
 --------
 
 
-* Hurts Isaac without taking away health, activating any items that trigger upon taking damage.
+* Upon use, replaces every item in the current [room](/wiki/Rooms "Rooms") (not [pickups](/wiki/Pickups "Pickups") or [trinkets](/wiki/Trinkets "Trinkets")) with other random items corresponding to the current room's [item pool](/wiki/Item_Pool "Item Pool").
 
 
 Notes
 -------
 
 
-* As using the Dull Razor will grant invincibility frames like normal damage, this item can be used to enter (Curse Room) [Curse Rooms](/wiki/Curse_Room "Curse Room") for free, or, with proper timing, allow Isaac to avoid taking damage from an enemy or obstacle.
-* (Removed in Repentance) The invincibility frames allow Isaac to use [(Blood Donation Machine.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/6e/Blood_Donation_Machine.png/revision/latest?cb=20210821075842) [Blood Donation Machines](/wiki/Machines#Blood_Donation_Machine "Machines") and [(Devil Beggar.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/b/b6/Devil_Beggar.png/revision/latest?cb=20210821101216) [Devil Beggars](/wiki/Beggar#Devil_Beggar "Beggar") for free.
-* (Added in Repentance) Dull Razor ignores shields granted by [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle"), and similar items.
+* (Removed in Repentance) The D6 is a [special item](/wiki/Special_item "Special item").
+* [(Isaac)](/wiki/Isaac "Isaac") [Isaac](/wiki/Isaac "Isaac") starts with this item once it is unlocked.
+* Since it re-rolls every item in the room, it can be more efficient to use it in rooms where multiple items are in the same room. For instance:
+	+ In the (Shop) [Shop](/wiki/Shop "Shop"), when multiple items are available for purchase.
+	+ In the (Devil Room) [Devil Room](/wiki/Devil_Room "Devil Room"), when there are multiple deals offered.
+	+ In the (Boss Room) [Boss Room](/wiki/Boss_Room "Boss Room") after the [Mom](/wiki/Mom "Mom") fight, where both [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid") and [![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative") can be rerolled, at the cost of the opportunity to go to the [(Chest)](/wiki/Chest_(Floor) "Chest") [Chest](/wiki/Chest_(Floor) "Chest (Floor)")/[(Dark Room)](/wiki/Dark_Room "Dark Room") [Dark Room](/wiki/Dark_Room "Dark Room"). Once one item is picked up the other will disappear.
+	+ In the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") Room, where all 4 items can be rerolled at once.
+	+ When [![image](/image/There%27s_Options.png)](/wiki/There%27s_Options "There's Options") [There's Options](/wiki/There%27s_Options "There's Options") or (Added in Afterbirth)[![image](/image/More_Options.png)](/wiki/More_Options "More Options") [More Options](/wiki/More_Options "More Options") spawn two items.
+* Items from [chests](/wiki/Chests "Chests") can be rerolled.
+* When an item pool is exhausted, every item will be rerolled to [![image](/image/Breakfast.png)](/wiki/Breakfast "Breakfast") [Breakfast](/wiki/Breakfast "Breakfast").
+* If Isaac runs out of red hearts in the (Devil Room) [Devil Room](/wiki/Devil_Room "Devil Room"), then rerolls, the prices of the items switch over to soul hearts.
+* Using the D6 on an active item yields different rerolls depending on whether you picked up the active item first.
+* Using the D6 to reroll items duplicated with (Added in Afterbirth)[![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia") will reroll all the items into different items. The copied item will not be rerolled into the same one as the original item.
+* With [![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug") and any combination of items that can infinitely regenerate health, the D6 can be used to reroll items indefinitely.
+* Be careful when rerolling, as it will replace the item with another item from the **current** room's item pool. This can be used as an advantage in various ways; for example, after defeating [The Fallen](/wiki/The_Fallen "The Fallen"), the item will be drawn from the [Devil Room item pool](/wiki/Devil_Room_(Item_Pool) "Devil Room (Item Pool)"), so Isaac can safely roll the item into another from that pool. This behavior can also be an advantage in (Angel Room) [Angel Rooms](/wiki/Angel_Room "Angel Room") since [![image](/image/Key_Piece_1.png)](/wiki/Key_Piece_1 "Key Piece 1") [Key Piece 1](/wiki/Key_Piece_1 "Key Piece 1") and [![image](/image/Key_Piece_2.png)](/wiki/Key_Piece_2 "Key Piece 2") [Key Piece 2](/wiki/Key_Piece_2 "Key Piece 2") can be rerolled to get a free Angel Room item.
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a grey wisp on the middle ring. The wisp doesn't fire any tears. Whenever Isaac takes damage, there is a chance that the damage is negated and one of the wisps is destroyed instead. "Damage" taken from using Dull Razor does not count for this effect.
-* (Added in Repentance)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery") Dull Razor activates twice, triggering on-damage items twice.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns a white wisp in the middle ring. An extra wisp is spawned per item rerolled.
 
 
 Interactions
 --------------
 
 
-For a full list of items that work with Dull Razor, see the list of [damage triggered items](/wiki/Category:Damage-triggered_items "Category:Damage-triggered items"). Note that any specific extra conditions the items may have for their activation still apply.
-
-
-
-* (Removed in Repentance) [![image](/image/Blanket.png)](/wiki/Blanket "Blanket") [Blanket](/wiki/Blanket "Blanket") / [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle") / [(Wooden Cross)](/wiki/Wooden_Cross "Wooden Cross") [Wooden Cross](/wiki/Wooden_Cross "Wooden Cross"): Absorbs the "hit", wasting both items.
-* (Removed in Repentance) [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Dull Razor activates twice, but "damage" is only dealt once, not triggering synergies a second time.
-* [![image](/image/Cone_Head.png)](/wiki/Cone_Head "Cone Head") [Cone Head](/wiki/Cone_Head "Cone Head"): Can block the "hit" Dull Razor inflicts, causing no effect.
-* [![image](/image/Crown_of_Light.png)](/wiki/Crown_of_Light "Crown of Light") [Crown of Light](/wiki/Crown_of_Light "Crown of Light"): Disables the effect for the current room.
-* (Added in Repentance) [![image](/image/Habit.png)](/wiki/Habit "Habit") [Habit](/wiki/Habit "Habit"): Doesn't charge Dull Razor itself.
-	+ **Habit** + [![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"): The secondary item will be charged.
-	+ **Habit** + [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): The second activation causes Habit to charge Dull Razor.
-* [![image](/image/Isaac%27s_Heart.png)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart"): Completely nullifies the effect of Dull Razor.
-* [![image](/image/Purity.png)](/wiki/Purity "Purity") [Purity](/wiki/Purity "Purity"): Cancels the current effect of Purity, allowing a different aura to be gained instead.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Re-rolls twice instantly without any benefits.
+* (Added in Repentance)[(Soul of Isaac)](/wiki/Cards_and_Runes "Soul of Isaac") [Soul of Isaac](/wiki/Cards_and_Runes "Cards and Runes"): Using the D6 re-rolls the current item and cancels alternation.
 
 

@@ -3,60 +3,40 @@
 
  # Abaddon ![image](/image/Abaddon.png) 
 
-
 Effects
 ---------
 
 
-* (Removed in Repentance) +1.0 [damage](/wiki/Damage "Damage").
-* After firing tears for 2.35 seconds, releasing the fire button unleashes a black [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") ring around Isaac that expands and contracts, dealing damage at a rapid rate to all enemies touching it.
-	+ The charge is completed when a red upside-down cross appears on Isaac's forehead.
-	+ (Added in Afterbirth †) With charge bars enabled, there is also an indicator that displays the charge.
-	+ The black ring deals damage equal to Isaac's current damage per tick, and ticks a total of 30 times. It lasts ~1.97 seconds (118 frames).
-	+ (Removed in Repentance) Enemies killed by the black ring have a 5% chance to drop [Black Hearts](/wiki/Black_Heart "Black Heart").
-		- Black Hearts will drop as soon as the enemy is killed. (In other words, the heart will drop at the beginning of the death animation rather than at the end of the death animation.)
-* This item belongs to the [Leviathan](/wiki/Leviathan "Leviathan") set. Collecting three items from this set will transform Isaac into Leviathan.
+* +1.5 [damage](/wiki/Damage "Damage").
+* +0.2 [speed](/wiki/Speed "Speed")
+	+ (Removed in Repentance) Also affects maximum speed (may never exceed 2.0).
+* (Removed in Repentance) Removes all Red [Heart containers](/wiki/Heart_container "Heart container") and grants 6 [(Black Heart)](/wiki/Black_Heart "Black Heart") [Black Hearts](/wiki/Black_Heart "Black Heart").
+	+ (Added in Repentance) Converts all Red [Heart containers](/wiki/Heart_container "Heart container") into Black Hearts, and adds 2 additional Black Hearts.
+* (Added in Afterbirth †) Will not remove (Added in Afterbirth †) [(Bone Heart)](/wiki/Bone_Heart "Bone Heart") [Bone Hearts](/wiki/Bone_Heart "Bone Heart"), but will empty them.
+* Adds a chance to shoot [fear](/wiki/Fear "Fear") tears.
+* (Added in Afterbirth) This item belongs to the [Leviathan](/wiki/Leviathan "Leviathan") set. Collecting three items from this set will transform Isaac into Leviathan.
 
 
 Notes
 -------
 
 
-* (Removed in Repentance) This item does not work while playing a [blindfolded](/wiki/Blindfolded "Blindfolded") character, as it requires tears to charge.
-	+ This restriction can, however, be bypassed by picking up [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique").
-	+ This item's effect will not fully activate if picked up by  [(Lilith)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith"); its stat ups will still apply to her [![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") familiar, but the ring will not appear unless she also has the Ludovico Technique.
-* (Added in Repentance) This item will still work while playing as a [blindfolded](/wiki/Blindfolded "Blindfolded") character.
-* The ring will apply any tear status effects such as [poison](/wiki/Poison "Poison") if Isaac has them.
+* The fear effect chance depends on the [Luck](/wiki/Luck "Luck") stat, starting at 12.5% at 0 Luck, reaching 100% with 85 Luck.
+	+ [![image](/image/Dark_Matter.png)](/wiki/Dark_Matter "Dark Matter") [Dark Matter](/wiki/Dark_Matter "Dark Matter") is significantly better at inflicting fear than Abaddon.
+* Does not remove [(Soul Heart)](/wiki/Soul_Heart "Soul Heart") [Soul Hearts](/wiki/Soul_Heart "Soul Heart") or [(Eternal Heart)](/wiki/Eternal_Heart "Eternal Heart") [Eternal Hearts](/wiki/Eternal_Heart "Eternal Heart").
+* (Removed in Repentance) As it removes all Red Heart Containers, other Deals with the Devil can be taken for "free" as long as Abaddon is taken last while still having at least 1 Container.
+* (Removed in Repentance) Has no negative trade-off when taken as  [(???)](/wiki/%3F%3F%3F_(Character) "???") [???](/wiki/%3F%3F%3F_(Character) "??? (Character)"), minus losing the opportunity of an (Angel Room) [Angel Room](/wiki/Angel_Room "Angel Room").
+* Can always be taken when offered as a 3 Soul Heart Deal. Even if Isaac only has one or two Soul Hearts, the Black Hearts will be granted after taking the item.
+* (Added in Afterbirth † / Removed in Repentance) Will instantly kill the  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper") when picked up.
+	+ (Added in Repentance) Sets  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper")'s [Coin Hearts](/wiki/Coin_Heart "Coin Heart") to 1.
+* (Added in Repentance)  [(Bethany)](/wiki/Bethany "Bethany") [Bethany](/wiki/Bethany "Bethany") will be left with half a Red Heart with her other [Heart Containers](/wiki/Heart_Container "Heart Container") removed.
+* (Added in Repentance)  [(Tainted Bethany)](/wiki/Tainted_Bethany "Tainted Bethany") [Tainted Bethany](/wiki/Tainted_Bethany "Tainted Bethany") will not lose stored Red Hearts, but can't gain more black hearts from this item as a result.
 
 
 Synergies
 -----------
 
 
-* [Guppy](/wiki/Guppy "Guppy"): Damaging enemies with Maw of the Void allows flies to spawn from the Guppy transformation. Flies are spawned at a rate of approximately one fly per tick of damage for each enemy it hits. This causes a lot of flies to spawn very quickly. The spawned flies will also move to attack the nearest enemy immediately.
-* [Homing tears](/wiki/Homing_tears "Homing tears"): The ring curves towards enemies.
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Massively increases ring damage and poisons enemies.
-	+ (Added in Repentance) The ring also explodes on enemy or obstacle contact.
-* (Added in Repentance)[![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder"): The ring sends out electric currents when it hits something.
-* [![image](/image/Lost_Contact.png)](/wiki/Lost_Contact "Lost Contact") [Lost Contact](/wiki/Lost_Contact "Lost Contact"): Ring can destroy projectiles.
-* [![image](/image/Mysterious_Liquid.png)](/wiki/Mysterious_Liquid "Mysterious Liquid") [Mysterious Liquid](/wiki/Mysterious_Liquid "Mysterious Liquid"): Occasionally spawns a pool of creep where the ring makes contact with an enemy.
-* [![image](/image/Pisces.png)](/wiki/Pisces "Pisces") [Pisces](/wiki/Pisces "Pisces")/[![image](/image/8_Inch_Nails.png)](/wiki/8_Inch_Nails "8 Inch Nails") [8 Inch Nails](/wiki/8_Inch_Nails "8 Inch Nails"): Ring obtains knockback effect.
-* (Removed in Afterbirth †) [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): The ring is much larger and deals 1.5x damage per tick.
-	+ (Added in Afterbirth † / Removed in Repentance) The ring is larger but deals normal damage.
-	+ (Added in Repentance) No effect.
-* [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor"): Ring attracts pickups and enemies towards it.
-* [(Wiggle Worm)](/wiki/Wiggle_Worm "Wiggle Worm") [Wiggle Worm](/wiki/Wiggle_Worm "Wiggle Worm"): The ring has wavy edges.
-
-
-Interactions
---------------
-
-
-* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Tear must be moved before the ring activates.
-* [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): The ring damage is halved.
-	+ (Added in Afterbirth †) The ring deals normal damage.
-* [![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): (Removed in Repentance) Crosshair must be moved for 4 seconds before the ring activates.
-	+ (Added in Repentance) While firing, the ring charges automatically and activates immediately upon full charge.
-* [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"): No effect on charge time but massively reduces damage.
+* (Added in Afterbirth)[(Black Feather)](/wiki/Black_Feather "Black Feather") [Black Feather](/wiki/Black_Feather "Black Feather"): Grants a damage boost.
 
 

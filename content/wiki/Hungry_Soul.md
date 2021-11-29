@@ -3,25 +3,33 @@
 
  # Hungry Soul ![image](/image/Hungry_Soul.png) 
 
-
 Effects
 ---------
 
 
-* +1 [Red Heart container](/wiki/Red_Heart_container "Red Heart container").
-* (Added in Repentance) Heals 1 additional heart of [health](/wiki/Health "Health").
-* -0.4 [speed](/wiki/Speed "Speed") down.
-	+ (Removed in Repentance) Also affects maximum speed.
-* Isaac gains the ability to destroy [obstacles](/wiki/Obstacle "Obstacle") by walking into them.
+* Grants enemies a chance to spawn a friendly ghost upon death, which rapidly chases down and deals contact damage to enemies.
+	+ The chance to spawn a ghost is 33% and is not affected by [luck](/wiki/Luck "Luck").
+	+ Ghosts deal contact damage equal to half of Isaac's damage, 4 times per second (2x Isaac's damage per second).
+* After 7 seconds, the ghost explodes, dealing 7 flat damage to nearby enemies up to 3-4 times.
+	+ The explosion cannot damage Isaac or the environment.
 
 
 Notes
 -------
 
 
-* Holes in the ground can be filled if Isaac walks into adjacent [rocks](/wiki/Rocks "Rocks") from the right direction, similar to bombs.
-* Avoid walking over [Mushrooms](/wiki/Mushroom_(Obstacle) "Mushroom (Obstacle)") and [Bomb Rocks](/wiki/Bomb_Rock "Bomb Rock"), as they can damage Isaac upon destruction.
-* With this item, Isaac can walk over and destroy [Red Poop](/wiki/Red_Poop "Red Poop") without taking damage.
-* Walking over an [Angel](/wiki/Angel "Angel") Statue in the [Angel Room](/wiki/Angel_Room "Angel Room") will trigger the boss fight, and Isaac will take damage as the Angel spawns on top of him.
+* Enemies killed by ghosts are unable to spawn more ghosts, except for those killed by the ghost's final explosion.
+* The ghost's explosion is capable of damaging [friendly](/wiki/Friendly "Friendly") monsters, such as [Bonies](/wiki/Bony "Bony") summoned by [![image](/image/Book_of_the_Dead.png)](/wiki/Book_of_the_Dead "Book of the Dead") [Book of the Dead](/wiki/Book_of_the_Dead "Book of the Dead").
+* Ghosts cannot be taken outside the room they spawned in.
+* The ghosts are not considered to be [familiars](/wiki/Familiars "Familiars") and as such aren't affected by any items that modify the behavior of familiars.
+	+ This also means that Isaac can have more than 64 ghosts at a time and this won't override other familiars.
+
+
+Interactions
+--------------
+
+
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect.
+* [![image](/image/Sacrificial_Altar.png)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar"): Ghosts cannot be sacrificed.
 
 

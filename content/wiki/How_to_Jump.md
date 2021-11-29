@@ -3,7 +3,6 @@
 
  # How to Jump ![image](/image/How_to_Jump.png) 
 
-
 Effects
 ---------
 

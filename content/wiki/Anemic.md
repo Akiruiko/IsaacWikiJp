@@ -3,40 +3,22 @@
 
  # Anemic ![image](/image/Anemic.png) 
 
-
 Effects
 ---------
 
 
-* When used, the next shot will fire a large, [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone")-like laser in the direction Isaac shoots that deals double Isaac's tear damage. If Isaac is already shooting, the item immediately activates in that direction.
-	+ The laser hits up to 13 times.
-	+ (Added in Afterbirth †) [Status effects](/wiki/Status_effect "Status effect") can be applied by the laser.
+* Upon taking damage, Isaac leaves a trail of [red creep](/wiki/Red_creep "Red creep") that damages enemies until he leaves the room.
+	+ The creep deals 2 damage per tick (6 damage per second) to enemies that walk over it.
+* (Removed in Repentance) +5 [range](/wiki/Range "Range").
+* (Added in Repentance) +1.5 [range](/wiki/Range "Range").
 
 
 Notes
 -------
 
 
-* Despite the laser looking very similar to Brimstone, it doesn't share most of the Brimstone-specific interactions.
-* This item can drop from [Envy](/wiki/Envy "Envy").
-* Can still be used while [blindfolded](/wiki/Blindfolded "Blindfolded").
-* This item synergizes extremely well with items that significantly increase damage such as [![image](/image/Polyphemus.png)](/wiki/Polyphemus "Polyphemus") [Polyphemus](/wiki/Polyphemus "Polyphemus") and [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac").
-
-
-Synergies
------------
-
-
-* (Added in Repentance)[![image](/image/4.5_Volt.png)](/wiki/4.5_Volt "4.5 Volt") [4.5 Volt](/wiki/4.5_Volt "4.5 Volt"): Allows the item to be charged and used multiple times in a room, which can help with dealing extra damage in enduring fights like most endgame bosses.
-* [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): Can be used once every room, and more frequently in [Challenge Rooms](/wiki/Challenge_Room "Challenge Room").
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns white wisps in the outer ring. The wisps also fire lasers when Isaac uses Shoop Da Whoop!. The lasers deal 7 damage per tick (BUG: 3.5 if Isaac has [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!")), and can hit up to 10 times for a total of 70 damage. Multiple lasers can hit the same enemy.
-* [(Broken Remote)](/wiki/Broken_Remote "Broken Remote") [Broken Remote](/wiki/Broken_Remote "Broken Remote"): Since item charges aren't expended until Isaac chooses a direction to shoot, the player can teleport across the floor indefinitely.
-
-
-Interactions
---------------
-
-
-* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* The effects of this item do not stack if multiple copies of the item or its effects are acquired; Isaac only gets the range bonus once.
+* [(Lazarus)](/wiki/Lazarus "Lazarus") [Lazarus](/wiki/Lazarus "Lazarus"), or anyone holding [![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags"), is resurrected with this item upon his first death.
+	+ (Added in Afterbirth †) After [Backasswards](/wiki/Backasswards "Backasswards") (challenge #31) is beaten, Lazarus will start with Anemic, and Lazarus Risen will have its increased range and creep trail effect permanently active, regardless of whether he possesses the item.
 
 

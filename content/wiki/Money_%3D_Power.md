@@ -3,7 +3,6 @@
 
  # Money = Power ![image](/image/Money_%3D_Power.png) 
 
-
 Effects
 ---------
 

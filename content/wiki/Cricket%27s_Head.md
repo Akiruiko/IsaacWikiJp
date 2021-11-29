@@ -3,20 +3,18 @@
 
  # Cricket's Head ![image](/image/Cricket%27s_Head.png) 
 
+Effects
+---------
 
-Effect
---------
 
-
-* Spawns a [familiar](/wiki/Familiar "Familiar") that automatically shoots [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology") lasers towards enemies when aligned with them, dealing 3.5 damage per shot.
-	+ The familiar will move in the direction Isaac is shooting.
-* (Added in Repentance) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
+* +0.5 [Damage](/wiki/Damage "Damage").
+* x1.5 Damage multiplier.
 
 
 Notes
 -------
 
 
-* Unlike [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"), you can't control it with your mouse if you enabled the mouse control in the config files.
+* The x1.5 damage multiplier does not stack with the x1.5 damage multiplier from [![image](/image/Magic_Mushroom.png)](/wiki/Magic_Mushroom "Magic Mushroom") [Magic Mushroom](/wiki/Magic_Mushroom "Magic Mushroom"), from the combination of [![image](/image/The_Book_of_Belial.png)](/wiki/The_Book_of_Belial "The Book of Belial") [The Book of Belial](/wiki/The_Book_of_Belial "The Book of Belial") and [![image](/image/Blood_of_the_Martyr.png)](/wiki/Blood_of_the_Martyr "Blood of the Martyr") [Blood of the Martyr](/wiki/Blood_of_the_Martyr "Blood of the Martyr"), or itself (by using an item such as (Added in Afterbirth)[![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"), for example). However, it will stack with any other multipliers, such as [![image](/image/Sacred_Heart.png)](/wiki/Sacred_Heart "Sacred Heart") [Sacred Heart](/wiki/Sacred_Heart "Sacred Heart").
 
 

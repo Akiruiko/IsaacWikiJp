@@ -3,7 +3,6 @@
 
  # Contract From Below ![image](/image/Contract_From_Below.png) 
 
-
 Effects
 ---------
 

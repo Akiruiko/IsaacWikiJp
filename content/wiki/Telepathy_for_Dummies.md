@@ -3,7 +3,6 @@
 
  # Telepathy for Dummies ![image](/image/Telepathy_for_Dummies.png) 
 
-
 Effects
 ---------
 

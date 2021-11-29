@@ -3,80 +3,48 @@
 
  # Chemical Peel ![image](/image/Chemical_Peel.png) 
 
-
 Effects
 ---------
 
 
-* Identifies all [pills](/wiki/Pills "Pills") upon pickup.
-* Grants one [Black Heart](/wiki/Health#Black_Hearts "Health") on pickup.
-* Converts all good pills into their bad counterparts, but gives them positive secondary effects.
-
-
-
-
-| Pill | Changes Into
- |
-| --- | --- |
-| Stat up pill
- | Stat down pill
- |
-| *Bad Gas* & *Friends Till the End!* | *Health Down* |
-| *I can see forever!* & *Lemon Party* | *Amnesia* |
-| *Explosive Diarrhea* & *One makes you larger* | *Range Down* |
-| *Bombs are Key* & *Infested!* | *Tears Down* |
-| *48 Hour Energy* & *One makes you small* | *Speed Down* |
-| *Pretty Fly* & *Infested?* | *Luck Down* |
-| *Balls of Steel*, *Full Health*, & *Hematemesis* | *Bad Trip* |
-| *Pheromones* | *Paralysis* |
-| *Telepills* | *???* |
-| *I'm Drowsy...* | *I'm Excited!!!* |
-| *Percs!* | *Addicted!* |
-| *Feels Like I'm Walking on Sunshine!* | *Retro Vision* |
-| *Power Pill!* | *R U A Wizard?* |
-| *Something's wrong...* | *X-Lax* |
-| *Gulp!* & *Vurp!* | *Horf!* |
-| *Experimental Pill* | Only grants a stat down
- |
-| *Gold Pill* | Only has negative effects
- |
-| Neutral pills
- |
-| *I Found Pills* |
-| *Puberty* |
-| *Re-Lax* |
-
-
-* Stat down pills will also grant +0.6 [damage](/wiki/Damage "Damage"). If it is a [horse pill](/wiki/Pills#Horse_Pills "Pills"), it will grant +1.2 [damage](/wiki/Damage "Damage").
-* Other bad pills will also drop a [Black Heart](/wiki/Hearts#Black_Heart "Hearts") upon use.
+* +2 flat [damage](/wiki/Damage "Damage") to tears fired from Isaac's left eye.
 
 
 Notes
 -------
 
 
-* Bad Trip and Health Down pills will turn into I Found Pills when Isaac is at one heart.
-* Neutral pills will not have a secondary effect.
-* If any stat down pills were taken before picking up the item, a damage increase is given for each pill.
-* Pills are only converted while held by a character with False PHD. For example: If playing as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau") and  [(Jacob)](/wiki/Jacob "Jacob") [Jacob](/wiki/Jacob "Jacob") has this item, pills that got converted into 'bad' pills like a Tears Down pill can be given to  [(Esau)](/wiki/Esau "Esau") [Esau](/wiki/Esau "Esau") to convert them back into a Tears Up pill, or whatever the pill was originally.
-* Losing the item by either dropping it as  [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac") or re-rolling it via [![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4"), etc., causes the damage buffs given to be removed.
+* The damage bonus is unaffected by both positive and negative damage multipliers.
+* [(Cain)](/wiki/Cain "Cain") [Cain](/wiki/Cain "Cain") has a 50% chance of firing a shot with the effects of Chemical Peel whenever he fires.
+* [![image](/image/Blood_Clot.png)](/wiki/Blood_Clot "Blood Clot") [Blood Clot](/wiki/Blood_Clot "Blood Clot") applies to the same eye and the effects stack.
+	+ Generally every interaction and synergy that applies to Chemical Peel also applies to Blood Clot. See its page for any differences to what is listed here.
 
 
 Synergies
 -----------
 
 
-* [![image](/image/A_Pony.png)](/wiki/A_Pony "A Pony") [A Pony](/wiki/A_Pony "A Pony")/[![image](/image/White_Pony.png)](/wiki/White_Pony "White Pony") [White Pony](/wiki/White_Pony "White Pony"): Effectively converts all Speed Down pills into Damage Up as long as one of the ponies are being held, since they will always give a minimum of 1.5 speed.
-* [(Black Feather)](/wiki/Black_Feather "Black Feather") [Black Feather](/wiki/Black_Feather "Black Feather"): Counts as an 'evil item, granting a damage up.
-* [![image](/image/Lucky_Foot.png)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot") / [![image](/image/PHD.png)](/wiki/PHD "PHD") [PHD](/wiki/PHD "PHD") / [![image](/image/Virgo.png)](/wiki/Virgo "Virgo") [Virgo](/wiki/Virgo "Virgo"): Pills can now be both good and bad again. The other effects of False PHD still apply.
-* [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer"): Using a Bad Trip pill will only deal half a heart of damage and spawn a full Black Heart, resulting in a net gain of health.
-	+ The Wafer + [![image](/image/Placebo.png)](/wiki/Placebo "Placebo") [Placebo](/wiki/Placebo "Placebo"): Allows for farming infinite health using Bad Trip pills.
+* [![image](/image/20/20.png)](/wiki/20/20 "20/20") [20/20](/wiki/20/20 "20/20")/[![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye")/[![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider"): Every other set of tears has the Chemical Peel effect.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The entire laser has a high chance to have the Chemical Peel effect, with no visual difference.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): The damage bonus applies to every bomb, with no visual difference.
+* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): The missiles have a high chance to deal 40 points extra damage, with no visual difference.
+* (Added in Afterbirth †)[![image](/image/Lead_Pencil.png)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil"): All tears in the tear barrage will gain the Chemical Peel effect.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The tear flashes between normal and the higher-damaging Chemical Peel tear.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Each tick of the Knife's damage has a high chance to gain the bonus, with no visual difference.
+* [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"): Chemical Peel is unaffected by Soy Milk's damage down modifier, greatly increasing DPS.
+* [![image](/image/Tech.5.png)](/wiki/Tech.5 "Tech.5") [Tech.5](/wiki/Tech.5 "Tech.5"): Chemical Peel has a chance to apply to the laser, with no visual difference.
+* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Lasers have a high chance to gain extra damage, with no visual difference.
+* [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2"): Every tear fired has Chemical Peel applied to it, but the laser is unaffected.
 
 
 Interactions
 --------------
 
 
-* [![image](/image/Libra.png)](/wiki/Libra "Libra") [Libra](/wiki/Libra "Libra"): The balancing of stats mostly leads to a net decrease between Stat Downs and +0.6 [damage](/wiki/Damage "Damage") up, while Luck Down provides the balanced +0.6 damage and [luck](/wiki/Luck "Luck") -1.0.
+* (Added in Afterbirth)[![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus"): Has a 50% chance of firing a shot with the Chemical Peel effect.
+* [![image](/image/Sad_Bombs.png)](/wiki/Sad_Bombs "Sad Bombs") [Sad Bombs](/wiki/Sad_Bombs "Sad Bombs"): The last type of tear fired is used for the burst.
+* (Added in Repentance)[![image](/image/Stapler.png)](/wiki/Stapler "Stapler") [Stapler](/wiki/Stapler "Stapler"): Gives a 50% chance of firing a Chemical Peel shot, similar to Cain.
+* (Added in Afterbirth)[![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Overrides Chemical Peel.
+* (Added in Afterbirth †)[![image](/image/Varicose_Veins.png)](/wiki/Varicose_Veins "Varicose Veins") [Varicose Veins](/wiki/Varicose_Veins "Varicose Veins"): The last type of tear fired is used for the burst.
 
 

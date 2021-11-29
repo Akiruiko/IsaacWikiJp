@@ -3,7 +3,6 @@
 
  # Eternal D6 ![image](/image/Eternal_D6.png) 
 
-
 Effects
 ---------
 

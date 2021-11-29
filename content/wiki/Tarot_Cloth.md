@@ -3,7 +3,6 @@
 
  # Tarot Cloth ![image](/image/Tarot_Cloth.png) 
 
-
 Effects
 ---------
 

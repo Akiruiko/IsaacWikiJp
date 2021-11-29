@@ -3,7 +3,6 @@
 
  # The Gamekid ![image](/image/The_Gamekid.png) 
 
-
 Effects
 ---------
 

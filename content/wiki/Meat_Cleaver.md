@@ -3,7 +3,6 @@
 
  # Meat Cleaver ![image](/image/Meat_Cleaver.png) 
 
-
 Effects
 ---------
 

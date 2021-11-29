@@ -3,42 +3,46 @@
 
  # E. Coli ![image](/image/E._Coli.png) 
 
-
 Effects
 ---------
 
 
-* Grants 5 [bombs](/wiki/Bombs "Bombs").
-* Isaac's bombs have a chance to spawn a [pickup](/wiki/Pickup "Pickup") or [trinket](/wiki/Trinket "Trinket") when they explode.
-* Isaac's bombs have a chance to [charm](/wiki/Charm "Charm") random enemies in the room when they explode.
+* Enemies that touch Isaac are transformed into [poop](/wiki/Poops "Poops").
+* (Added in Afterbirth) This item belongs to the [Oh Crap](/wiki/Oh_Crap "Oh Crap") set. Collecting three items from this set will transform Isaac into a walking pile of poop.
 
 
 Notes
 -------
 
 
-* (Removed in Repentance) Picking up a [Golden Bomb](/wiki/Golden_Bomb "Golden Bomb"), [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"), [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"), or [![image](/image/No._2.png)](/wiki/No._2 "Number Two") [Number Two](/wiki/No._2 "No. 2") with Glitter Bombs allows infinite pickup generation.
-	+ In [Greed mode](/wiki/Greed_mode "Greed mode"), infinite pickup generation is still possible, but excludes coins, presumably to prevent the player from filling the [Greed Donation Machine](/wiki/Greed_Donation_Machine "Greed Donation Machine") in a single run. However, this can be worked around if Isaac has the [(Swallowed Penny)](/wiki/Swallowed_Penny "Swallowed Penny") [Swallowed Penny](/wiki/Swallowed_Penny "Swallowed Penny") or [![image](/image/Piggy_Bank.png)](/wiki/Piggy_Bank "Piggy Bank") [Piggy Bank](/wiki/Piggy_Bank "Piggy Bank"), since it does still produce health.
-* (Added in Repentance) There is a limit on the number of pickups that can be generated per floor, preventing items like [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus") or a [Golden Bomb](/wiki/Golden_Bomb "Golden Bomb") from providing unlimited resources. The maximum spawns per floor are between 63 and 65 pickups.
+* Bosses cannot be turned into poop.
+* Poop created by this item is not grid-aligned, and flashes red when hit, similar to damaging [monsters](/wiki/Monster "Monster").
+	+ (Added in Afterbirth †) Poops produced by E. Coli crumble upon being attacked, identically to regular poops.
+* If you touch the middle section of a [Grub](/wiki/Grub "Grub") with E. Coli, it will then split and become two heads (rather than destroying and spawning [Maggots](/wiki/Maggot "Maggot")).
+* [Mullibooms](/wiki/Mulliboom "Mulliboom") can be turned into poop without taking damage.
+* The poops vanish if the room is left and then returned to.
+* (Added in Afterbirth / Removed in Repentance) Poops created by E. Coli do not heal Isaac when he has the [Oh Crap](/wiki/Oh_Crap "Oh Crap") transformation.
+* (Added in Repentance) Poops created by E. Coli heal Isaac when he has the [Oh Crap](/wiki/Oh_Crap "Oh Crap") transformation.
 
 
 Synergies
 -----------
 
 
-* [![image](/image/Anarchist_Cookbook.png)](/wiki/Anarchist_Cookbook "Anarchist Cookbook") [Anarchist Cookbook](/wiki/Anarchist_Cookbook "Anarchist Cookbook"): Troll Bombs have a chance to spawn pickups.
-* [![image](/image/Bob%27s_Brain.png)](/wiki/Bob%27s_Brain "Bob's Brain") [Bob's Brain](/wiki/Bob%27s_Brain "Bob's Brain"): Has a chance to spawn pickups when exploding.
-* [![image](/image/Doctor%27s_Remote.png)](/wiki/Doctor%27s_Remote "Doctor's Remote") [Doctor's Remote](/wiki/Doctor%27s_Remote "Doctor's Remote") / [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Missiles have a chance of spawning pickups upon exploding.
-* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Bombs have a chance of spawning pickups upon exploding.
-* (Added in Repentance)[![image](/image/Everything_Jar.png)](/wiki/Everything_Jar "Everything Jar") [Everything Jar](/wiki/Everything_Jar "Everything Jar"): At eleven charges guarantees a golden bomb.
-* [![image](/image/Kamikaze!.png)](/wiki/Kamikaze! "Kamikaze!") [Kamikaze!](/wiki/Kamikaze! "Kamikaze!"): Has a chance to drop a pickup each time it is used.
-* [![image](/image/Scatter_Bombs.png)](/wiki/Scatter_Bombs "Scatter Bombs") [Scatter Bombs](/wiki/Scatter_Bombs "Scatter Bombs"): Each smaller bomb also has a chance of dropping a pickup.
+* [![image](/image/Isaac%27s_Heart.png)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart"): Isaac can turn enemies into poop without taking damage.
+* [![image](/image/Midas%27_Touch.png)](/wiki/Midas%27_Touch "Midas' Touch") [Midas' Touch](/wiki/Midas%27_Touch "Midas' Touch"): Enemies touched are turned into [Golden Poop](/wiki/Golden_Poop "Golden Poop").
+* [![image](/image/Unicorn_Stump.png)](/wiki/Unicorn_Stump "Unicorn Stump") [Unicorn Stump](/wiki/Unicorn_Stump "Unicorn Stump"): Provides invincibility during which enemies can be touched.
+* (Added in Repentance)[![image](/image/Lodestone.png)](/wiki/Lodestone "Lodestone") [Lodestone](/wiki/Lodestone "Lodestone"): If an enemy is hit by a lodestone tear perfectly simultaneously with it being turned into poop, the resulting poop will be tinted black and have a lodestone aura that sucks in enemies. This poop will return to normal after a few seconds.
+* (Added in Repentance) [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten"): The body will turn enemies into poop on contact.
 
 
 Interactions
 --------------
 
 
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): No effect on shots.
+* (Added in Afterbirth)[(Brown Cap)](/wiki/Brown_Cap "Brown Cap") [Brown Cap](/wiki/Brown_Cap "Brown Cap"): The generated poops are affected and will explode when destroyed.
+* (Added in Afterbirth †)[![image](/image/Hallowed_Ground.png)](/wiki/Hallowed_Ground "Hallowed Ground") [Hallowed Ground](/wiki/Hallowed_Ground "Hallowed Ground"): The generated poops cannot be white.
+* (Added in Afterbirth †)[(Meconium)](/wiki/Meconium "Meconium") [Meconium](/wiki/Meconium "Meconium"): The generated poops cannot be black.
+* (Added in Afterbirth)[![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss") / [![image](/image/The_Virus.png)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus"): The poops won't drop Black Hearts, negating the touch effect from these items on non-bosses.
 
 

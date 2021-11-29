@@ -3,7 +3,6 @@
 
  # Eye of Belial ![image](/image/Eye_of_Belial.png) 
 
-
 Effects
 ---------
 

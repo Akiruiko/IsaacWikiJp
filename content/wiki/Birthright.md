@@ -3,7 +3,6 @@
 
  # Birthright ![image](/image/Birthright.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Placenta ![image](/image/Placenta.png) 
 
-
 Effects
 ---------
 

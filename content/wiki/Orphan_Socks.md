@@ -3,7 +3,6 @@
 
  # Orphan Socks ![image](/image/Orphan_Socks.png) 
 
-
 Effects
 ---------
 

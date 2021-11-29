@@ -3,7 +3,6 @@
 
  # Dog Tooth ![image](/image/Dog_Tooth.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Ventricle Razor ![image](/image/Ventricle_Razor.png) 
 
-
 Effects
 ---------
 

@@ -3,31 +3,14 @@
 
  # Lil Gurdy ![image](/image/Lil_Gurdy.png) 
 
-
 Effects
 ---------
 
 
-* +1.7 [tears](/wiki/Tears "Tears").
-* +0.3 [speed](/wiki/Speed "Speed").
-* Makes Isaac's head smaller, which on its own is only a visual effect.
-	+ If combined with other size downs, the Mushroom also affects his hitbox.
-* Reduces [damage](/wiki/Damage "Damage") using the following formula: (Damage Ups from other items * 0.9) - 0.4.
-* (Added in Afterbirth) This item belongs to the [Fun Guy](/wiki/Fun_Guy "Fun Guy") set. Collecting three items from this set will transform Isaac into a walking mushroom.
-
-
-Notes
--------
-
-
-* There are two collectible items in the game named [Odd Mushroom](/wiki/Odd_Mushroom "Odd Mushroom"); you can tell them apart from the sprites.
-* This item affects damage differently than other items in the game. Instead of multiplying your damage stat, it directly alters the total added damage from other items. In practice, this means this item reduces your damage significantly if you have no items that grant extra damage (x0.72), but won't have as strong of an impact as you collect more 'damage up' items.
-
-
-Synergies
------------
-
-
-* [![image](/image/Odd_Mushroom_(Thin).png)](/wiki/Odd_Mushroom_(Thin) "Odd Mushroom") Odd Mushroom: Multiple copies of the item will grant a speed and fire rate boost with no additional decrease in damage.
+* Spawns a [familiar](/wiki/Familiar "Familiar") that can be launched in the direction the player is firing after a short charge-up period.
+	+ (Removed in Repentance) At full charge, it'll initially deal 6 damage per tick or 90 damage per second, but quickly drops towards 0 the slower the familiar moves.
+	+ (Added in Repentance) No longer deals damage per tick, instead deals a fix amount of damage depending on charge level, at lowest being ~5 and at max being ~20.
+* It bounces off walls multiple times, much like [Gurdy Jr.](/wiki/Gurdy_Jr. "Gurdy Jr.").
+	+ (Added in Repentance) It will also bounce off enemies.
 
 

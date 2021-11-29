@@ -3,7 +3,6 @@
 
  # Cube Baby ![image](/image/Cube_Baby.png) 
 
-
 Effects
 ---------
 

@@ -3,46 +3,36 @@
 
  # Pisces ![image](/image/Pisces.png) 
 
-
 Effects
 ---------
 
 
-* The first time Isaac takes damage while in an uncleared room, time is stopped for 2 seconds and Isaac becomes a ghost and leaves his body behind, which drops to the floor. While in ghost form, Isaac has [flight](/wiki/Flight "Flight") and [spectral tears](/wiki/Tear_Effects#Spectral "Tear Effects") and the next hit he takes is negated.
-	+ Isaac's tears and speed are greatly increased while time is stopped, although this is not shown on the HUD.
-	+ Isaac's ghost re-enters his body after the room is cleared or if he gets hit again.
+* Increases [tear knockback](/wiki/Knock-back "Knock-back").
+	+ If the player has [piercing tears](/wiki/Piercing_tears "Piercing tears"), the knockback effect is reduced.
+* Tear size multiplier: 1.25x.
 
 
-Notes
--------
+* -1 [tear delay](/wiki/Tear_delay "Tear delay") (increased rate of fire)
+	+ Since this directly affects tear delay instead of changing the tears stat, it allows Isaac's rate of fire to go over the normal maximum rate.
+	+ Tear delay decreases are more noticeable and are a greater increase to DPS when the tears stat is high.
 
 
-* The damage blocked by being in ghost form also affects self-damage and red-heart draining sources, like [(Devil Beggar.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/b/b6/Devil_Beggar.png/revision/latest?cb=20210821101216) [Devil Beggars](/wiki/Beggar#Devil_Beggar "Beggar"), [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag"), etc.
-* Receiving lethal damage can potentially save Isaac's life if he manages to heal before the ghost reenters the body.
-* Astral Projection can also save  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost") from death; however, it does not regenerate the Holy Mantle and kills the player when the room is clear.
-	+ This can be avoided if The Lost gains a [Soul Heart](/wiki/Hearts#Soul_Heart "Hearts") before the ghost reenters the body.
-		- [(Black Heart)](/wiki/Black_Heart "Black Heart") [Black Hearts](/wiki/Black_Heart "Black Heart") will not work for this method.
-* [![image](/image/Dull_Razor.png)](/wiki/Dull_Razor "Dull Razor") [Dull Razor](/wiki/Dull_Razor "Dull Razor") may be used to safely activate Astral Projection as The Lost.
-* It's also possible to leave the room while the ghost is outside the body, either by bombing it or having items that keep doors open, such as [(Door Stop)](/wiki/Door_Stop "Door Stop") [Door Stop](/wiki/Door_Stop "Door Stop") or [![image](/image/Mercurius.png)](/wiki/Mercurius "Mercurius") [Mercurius](/wiki/Mercurius "Mercurius"). This grants Isaac an additional chance to heal.
-	+ Teleporting outside of the room will not work.
-* Astral Projection cannot be triggered inside of (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush").
+  
 
 
-Synergies
------------
-
-
-* [![image](/image/Hypercoagulation.png)](/wiki/Hypercoagulation "Hypercoagulation") [Hypercoagulation](/wiki/Hypercoagulation "Hypercoagulation"): Due to the effective speed up, the heart used to activate Astral Projection can easily be collected before it disappears.
-* [![image](/image/Old_Bandage.png)](/wiki/Old_Bandage "Old Bandage") [Old Bandage](/wiki/Old_Bandage "Old Bandage"): When getting hit with only one heart left, Astral Projection allows for picking up the dropped heart in the brief time of invincibility even when the player has no hearts left. Failing to do so or having no hearts dropped results in guaranteed death however, but with luck this loop can be used to potentially save runs.
 
 
 Interactions
 --------------
 
 
-* [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle"): The shield will activate before Astral Projection.
-* [![image](/image/Plan_C.png)](/wiki/Plan_C "Plan C") [Plan C](/wiki/Plan_C "Plan C"): Will instantly kill Isaac without triggering the ghost effect.
-* [![image](/image/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom"): Does not preserve the tears and speed bonus Isaac receives after activating Astral Projection.
-* [![image](/image/Spirit_Shackles.png)](/wiki/Spirit_Shackles "Spirit Shackles") [Spirit Shackles](/wiki/Spirit_Shackles "Spirit Shackles"): This item will not activate if Isaac received lethal damage when Astral Projection activated.
+* (Added in Afterbirth)[(Blister)](/wiki/Blister "Blister") [Blister](/wiki/Blister "Blister"): Overrides Pisces.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The beam gains knockback.
+* [![image](/image/Cupid%27s_Arrow.png)](/wiki/Cupid%27s_Arrow "Cupid's Arrow") [Cupid's Arrow](/wiki/Cupid%27s_Arrow "Cupid's Arrow")/[![image](/image/Death%27s_Touch.png)](/wiki/Death%27s_Touch "Death's Touch") [Death's Touch](/wiki/Death%27s_Touch "Death's Touch")/[![image](/image/Dead_Onion.png)](/wiki/Dead_Onion "Dead Onion") [Dead Onion](/wiki/Dead_Onion "Dead Onion")/[![image](/image/Sagittarius.png)](/wiki/Sagittarius "Sagittarius") [Sagittarius](/wiki/Sagittarius "Sagittarius"): Tears gain knockback.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus")/[![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus")/[![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Explosions also gain increased knockback.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): The knife gains knockback.
+* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology")/[![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2")/(Added in Afterbirth)[![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): The lasers gain knockback.
+	+ Technology 2's constant laser has such strong knockback, it can pin enemies to walls.
+* (Added in Afterbirth †)[![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): Adds knockback to blasts, which can not only significantly repel enemies when used correctly, it can deal a high amount of damage to enemies unable to escape the knockback.
 
 

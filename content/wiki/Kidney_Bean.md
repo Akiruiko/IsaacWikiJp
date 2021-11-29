@@ -3,7 +3,6 @@
 
  # Kidney Bean ![image](/image/Kidney_Bean.png) 
 
-
 Effects
 ---------
 

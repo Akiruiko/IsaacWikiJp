@@ -3,19 +3,13 @@
 
  # Robo-Baby ![image](/image/Robo-Baby.png) 
 
-
-Effects
----------
-
-
-* Grants [spectral tears](/wiki/Spectral_tears "Spectral tears") and [flight](/wiki/Flight "Flight").
-* (Added in Afterbirth) This item belongs to the [Seraphim](/wiki/Seraphim_(Transformation) "Seraphim (Transformation)") set. Collecting three items from this set will transform Isaac into an angel.
+Effect
+--------
 
 
-Notes
--------
-
-
-* Useless for  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost") and  [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel"), who have spectral tears and flight by default.
+* Spawns a [familiar](/wiki/Familiar "Familiar") that shoots [spectral](/wiki/Spectral_tears "Spectral tears") [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology") lasers that deal 3.5 damage each.
+	+ (Removed in Repentance) Robo-Baby shoots once per second.
+	+ (Added in Repentance) Robo-Baby shoots once every 2/3rds of a second.
+* (Added in Afterbirth) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
 
 

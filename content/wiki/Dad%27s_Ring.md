@@ -3,28 +3,18 @@
 
  # Dad's Ring ![image](/image/Dad%27s_Ring.png) 
 
+Effect
+--------
 
-Effects
----------
 
-
-* Spawns an [orbital familiar](/wiki/Orbital_familiar "Orbital familiar") that blocks enemy shots and deals 7 damage per tick or 105 damage per second ((Added in Repentance) 56 damage per second) on contact.
-* Increases the speed of all orbital familiars.
-* (Removed in Repentance) This item belongs to the [Seraphim](/wiki/Seraphim_(Transformation) "Seraphim (Transformation)") set. Collecting three items from this set will transform Isaac into an angel.
-* (Added in Repentance) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
+* Creates a ring of light around Isaac that [petrifies](/wiki/Petrification "Petrification") enemies on contact.
+	+ Normal enemies stay permanently petrified as long as they are within the ring, whereas bosses get a standard petrification effect that stays even outside the ring but isn't permanent.
 
 
 Notes
 -------
 
 
-* The increased orbital speed improves odds of being protected from enemy shots.
-
-
-Interactions
---------------
-
-
-* [![image](/image/Big_Fan.png)](/wiki/Big_Fan "Big Fan") [Big Fan](/wiki/Big_Fan "Big Fan"): Guardian Angel counteracts most of the slower orbit speed.
+* Dad's Ring has no effect on the Mask of a [(Mask + Heart)](/wiki/Mask_%2B_Heart "Mask + Heart") [Mask + Heart](/wiki/Mask_%2B_Heart "Mask + Heart").
 
 

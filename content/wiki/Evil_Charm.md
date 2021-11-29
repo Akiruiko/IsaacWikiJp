@@ -3,7 +3,6 @@
 
  # Evil Charm ![image](/image/Evil_Charm.png) 
 
-
 Effects
 ---------
 

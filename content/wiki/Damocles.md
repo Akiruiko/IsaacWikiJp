@@ -3,7 +3,6 @@
 
  # Damocles ![image](/image/Damocles.png) 
 
-
 Effects
 ---------
 

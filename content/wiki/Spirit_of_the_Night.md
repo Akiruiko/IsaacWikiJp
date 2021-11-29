@@ -3,7 +3,6 @@
 
  # Spirit of the Night ![image](/image/Spirit_of_the_Night.png) 
 
-
 Effects
 ---------
 

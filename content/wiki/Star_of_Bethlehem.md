@@ -3,7 +3,6 @@
 
  # Star of Bethlehem ![image](/image/Star_of_Bethlehem.png) 
 
-
 Effects
 ---------
 

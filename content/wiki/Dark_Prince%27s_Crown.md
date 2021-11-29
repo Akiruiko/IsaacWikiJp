@@ -3,7 +3,6 @@
 
  # Dark Prince's Crown ![image](/image/Dark_Prince%27s_Crown.png) 
 
-
 Effects
 ---------
 

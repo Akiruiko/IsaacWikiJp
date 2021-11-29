@@ -3,38 +3,47 @@
 
  # Taurus ![image](/image/Taurus.png) 
 
-
 Effects
 ---------
 
 
-* Adds a chance to shoot a tooth instead of a tear, which deals x3.2 Isaac's [damage](/wiki/Damage "Damage").
+* -0.3 [speed](/wiki/Speed "Speed").
+	+ (Removed in Repentance) -0.3 maximum speed.
+* When in a room with enemies, Isaac gradually gains speed at a rate of +0.065 per tick.
+	+ (Removed in Repentance) This speed boost will be able to go past the lowered maximum.
+* Once Isaac's speed reaches 2.0, he gains the [![image](/image/My_Little_Unicorn.png)](/wiki/My_Little_Unicorn "My Little Unicorn") [My Little Unicorn](/wiki/My_Little_Unicorn "My Little Unicorn") effect for 5 seconds, becoming [invulnerable](/wiki/Invulnerability "Invulnerability"), and loses the speed bonus from Taurus afterward.
 
 
 Notes
 -------
 
 
-* + The chance for this to occur increases with [Luck](/wiki/Luck "Luck"). The activation rate is equal to 1/(10 - Luck). At base Luck (0), the chance is 10%, maxing out at 100% at 9 Luck[[1]](#cite_note-1).
+* Isaac slowly gains a red tint that becomes more intense as he gains speed.
+* The speed boost and invulnerability effect activate only once per room.
+* The higher Isaac's base speed, the quicker the effect activates. It can activate immediately upon entering a room if his base speed is already 2.0 .
+* The item doesn't trigger in rooms that don't have enemies when first entered. This includes [Challenge Rooms](/wiki/Challenge_Room "Challenge Room"), [Sacrifice Rooms](/wiki/Sacrifice_Room "Sacrifice Room") when spawning [Uriel](/wiki/Uriel "Uriel") or [Gabriel](/wiki/Gabriel "Gabriel"), and the [Boss Rush](/wiki/Boss_Rush "Boss Rush") room.
+* If Isaac gets teleported out of the room by any source, the [![image](/image/My_Little_Unicorn.png)](/wiki/My_Little_Unicorn "My Little Unicorn") [My Little Unicorn](/wiki/My_Little_Unicorn "My Little Unicorn") effect won't trigger if the room is re-entered.
+* Bombs can be placed during the charge.
+* (Added in Repentance) When playing as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau"), the speed changes apply for both, but only the character that is holding Taurus gains invincibility.
+
+
+Synergies
+-----------
+
+
+* (Removed in Repentance) [![image](/image/Blood_Rights.png)](/wiki/Blood_Rights "Blood Rights") [Blood Rights](/wiki/Blood_Rights "Blood Rights"): While Isaac is invincible, Blood Rights can be freely used without taking damage. This trivializes many rooms, and since Taurus can activate every room, this combination can be game-changing, especially if Isaac has high base speed.
+	+ (Added in Repentance) Isaac will still take damage from Blood Rights during the invincibility.
+* [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): Isaac's speed will still increase while he is invincible from Gnawed Leaf, allowing Taurus to activate with only a very small period of vulnerability when first entering a room.
+* (Added in Repentance)[![image](/image/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom"): Isaac keeps the maximum speed boost after reaching it once.
+* (Added in Afterbirth)[![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss")/[![image](/image/The_Virus.png)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus"): Isaac will poison enemies in addition to dealing damage to them on contact.
 
 
 Interactions
 --------------
 
 
-* (Added in Afterbirth †)[![image](/image/Apple!.png)](/wiki/Apple! "Apple!") [Apple!](/wiki/Apple! "Apple!"): With 14 [Luck](/wiki/Luck "Luck"), overrides Tough Love. With 13 Luck, Apple and Tough Love each have about an equal chance to trigger.
-* (Removed in Afterbirth)[![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Overridden by Brimstone.
-	+ (Added in Afterbirth) Occasionally fires Brimstone beam with damage multiplier of Tough Love.
-* [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body") / (Added in Afterbirth †)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture"): Teeth will split into smaller teeth.
-* (Removed in Repentance)[![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Bombs explode with the increased blast damage and radius of [![image](/image/Mr._Mega.png)](/wiki/Mr._Mega "Mr. Mega") [Mr. Mega](/wiki/Mr._Mega "Mr. Mega").
-	+ (Added in Repentance) Adds a chance for the bombs to deal increased damage. See the page for the specific damage formula.
-* [![image](/image/Fire_Mind.png)](/wiki/Fire_Mind "Fire Mind") [Fire Mind](/wiki/Fire_Mind "Fire Mind"): Adds a [flaming](/wiki/Tears_(weapon)#Flaming_Tears "Tears (weapon)") effect to the teeth, (Removed in Repentance) but without the chance of exploding.
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Teeth explode with the increased blast damage of [![image](/image/Mr._Mega.png)](/wiki/Mr._Mega "Mr. Mega") [Mr. Mega](/wiki/Mr._Mega "Mr. Mega").
-* (Removed in Repentance)[![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Overridden by Mom's Knife.
-	+ (Added in Repentance): Both damage multipliers apply, combined damage multiplier is x6.4.
-* (Added in Afterbirth †)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria"): Tears will not appear as teeth but may still gain the damage multiplier.
-* (Added in Repentance)[(Jawbreaker)](/wiki/Jawbreaker "Jawbreaker") [Jawbreaker](/wiki/Jawbreaker "Jawbreaker"): Activation rates are individually applied to each tear, effectively allowing for higher amounts of teeth. At 9 Luck, the trinket is no longer needed, as Tough Love will already guarantee that every shot is a tooth.
-* [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Split tears will not turn into teeth.
-* (Added in Repentance)[![image](/image/Spirit_Sword.png)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword"): Both the sword and projectiles can deal increased damage.
+* (Removed in Repentance) [![image](/image/Libra.png)](/wiki/Libra "Libra") [Libra](/wiki/Libra "Libra"): Isaac's [damage](/wiki/Damage "Damage") and [range](/wiki/Range "Range") increases as speed increases. However, if Isaac's base speed is not high enough, the invincibility never activates.
+	+ (Added in Repentance) Damage, Range, and Tear delay increase as speed increases. Speed increases much slower than normal.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Isaac cannot control the tear while invincible, but any enemies touching it will still take damage from it.
 
 

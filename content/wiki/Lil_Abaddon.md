@@ -3,30 +3,19 @@
 
  # Lil Abaddon ![image](/image/Lil_Abaddon.png) 
 
-
 Effects
 ---------
 
 
-* Fires a powerful [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") beam in the four cardinal directions, much like [The Fallen](/wiki/The_Fallen "The Fallen") and [Krampus](/wiki/Krampus "Krampus") shoot.
-	+ (Added in Afterbirth / Removed in Afterbirth †) Has a 50% chance to rotate all beams around the player 90 degrees, similar to Krampus' second Brimstone attack.
+* Gives Isaac a [familiar](/wiki/Familiar "Familiar") that creates a fluctuating black ring after a 1 second charge time that damages enemies that touch it, similarly to [![image](/image/Maw_of_the_Void.png)](/wiki/Maw_of_the_Void "Maw of the Void") [Maw of the Void](/wiki/Maw_of_the_Void "Maw of the Void").
+	+ The black ring deals 3.5 damage per tick, up to 15 times per ring, for a total of 52.5 damage.
+* This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
 
 
-Notes
--------
+Interactions
+--------------
 
 
-* (Removed in Repentance) Each beam deals 22 damage per tick, and they tick a total of 20 times, dealing a total of 440 damage per use.
-	+ (Added in Repentance) Each beam deals 10 damage over 19 ticks, dealing a total of 190 damage per use.
-* Damaging enemies with the effect of this item as [Guppy](/wiki/Guppy "Guppy") will spawn multiple [Blue Flies](/wiki/Blue_Fly "Blue Fly").
-* By standing really close to large enemies such as bosses, it's possible to hit them with multiple beams at once, dealing significantly more damage than a single beam.
-
-
-Synergies
------------
-
-
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps in the middle ring. The wisps fire small [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") lasers in the cardinal directions when destroyed. The lasers deal the wisps' tear damage per tick, and can hit up to 20 times. [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!") will not increase this damage, despite it scaling with the wisps' tear damage.
-* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Doubles the damage the brimstone beams deal (for a total of (Removed in Repentance) 880 damage/(Added in Repentance) 380 damage per use). Doesn't double the brimstone beams' duration.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): No effect.
 
 

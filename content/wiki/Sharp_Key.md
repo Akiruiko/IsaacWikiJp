@@ -3,7 +3,6 @@
 
  # Sharp Key ![image](/image/Sharp_Key.png) 
 
-
 Effects
 ---------
 

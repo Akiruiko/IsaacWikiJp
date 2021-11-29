@@ -3,7 +3,6 @@
 
  # Super Bandage ![image](/image/Super_Bandage.png) 
 
-
 Effects
 ---------
 

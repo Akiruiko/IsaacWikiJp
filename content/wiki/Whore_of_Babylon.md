@@ -3,7 +3,6 @@
 
  # Whore of Babylon ![image](/image/Whore_of_Babylon.png) 
 
-
 Effects
 ---------
 

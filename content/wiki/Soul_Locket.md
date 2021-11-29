@@ -3,7 +3,6 @@
 
  # Soul Locket ![image](/image/Soul_Locket.png) 
 
-
 Effects
 ---------
 

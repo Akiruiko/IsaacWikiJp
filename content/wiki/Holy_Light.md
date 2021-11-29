@@ -3,7 +3,6 @@
 
  # Holy Light ![image](/image/Holy_Light.png) 
 
-
 Effects
 ---------
 
@@ -55,7 +54,7 @@ Interactions
 	+ [![image](/image/Tammy%27s_Head.png)](/wiki/Tammy%27s_Head "Tammy's Head") [Tammy's Head](/wiki/Tammy%27s_Head "Tammy's Head")
 	+ (Added in Repentance)[![image](/image/Twisted_Pair.png)](/wiki/Twisted_Pair "Twisted Pair") [Twisted Pair](/wiki/Twisted_Pair "Twisted Pair")
 	+ (Added in Afterbirth †)[![image](/image/Varicose_Veins.png)](/wiki/Varicose_Veins "Varicose Veins") [Varicose Veins](/wiki/Varicose_Veins "Varicose Veins")
-* Following items does not trigger Holy Light effect:
+* Following items do not trigger Holy Light effect:
 	+ (Added in Repentance)[![image](/image/Akeldama.png)](/wiki/Akeldama "Akeldama") [Akeldama](/wiki/Akeldama "Akeldama")
 	+ [![image](/image/Athame.png)](/wiki/Athame "Athame") [Athame](/wiki/Athame "Athame")
 	+ (Added in Repentance)[![image](/image/Brimstone_Bombs.png)](/wiki/Brimstone_Bombs "Brimstone Bombs") [Brimstone Bombs](/wiki/Brimstone_Bombs "Brimstone Bombs")

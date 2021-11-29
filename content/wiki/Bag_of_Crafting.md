@@ -3,39 +3,65 @@
 
  # Bag of Crafting ![image](/image/Bag_of_Crafting.png) 
 
-
 Effects
 ---------
 
 
-* Upon use, converts one Red [Heart Container](/wiki/Heart_Container "Heart Container") into three [(Soul Heart)](/wiki/Soul_Heart "Soul Heart") [Soul Hearts](/wiki/Soul_Heart "Soul Heart").
-* This item belongs to the [Guppy](/wiki/Guppy "Guppy") set. Collecting three items from this set will transform Isaac into Guppy.
+* Upon use, pressing an attack direction will cause a swipe attack with high knockback and 3 damage.
+	+ The swipe scales in size with Isaac's size.
+	+ The swipe will appear further from Isaac the higher his [range](/wiki/Range "Range") is.
+	+ The swipe can be used to open [(Spiked Chest)](/wiki/Spiked_Chest "Spiked Chest") [Spiked Chests](/wiki/Spiked_Chest "Spiked Chest") and [(Mimic Chest)](/wiki/Mimic_Chest "Mimic Chest") [Mimic Chests](/wiki/Mimic_Chest "Mimic Chest") without taking damage.
+	+ The swipe can be used to block bullets.
+* Swiping a [pickup](/wiki/Pickup "Pickup") on the floor will add it to the bag. The bag's contents cannot be dropped. Up to 8 pickups can be stored.
+	+ Double pickups like Double Hearts will add two copies to the bag. Blended hearts will add one red heart and one soul heart.
+	+ Sticky nickels can't be picked up unless unstuck.
+	+ Chests and sacks can't be picked up, but can be opened with a swipe even behind obstacles.
+	+ If the player has enough money to buy a pickup from a [shop](/wiki/Shop "Shop"), using Bag of Crafting on that pickup will purchase it and automatically add it to the bag.
+* Once 8 pickups are held in the bag, the bag can be used once more to spawn an item pedestal.
+	+ If a recipe would result in an item that hasn't yet been unlocked, a random item will be crafted instead.
+* There are a total of 25 different types of consumables that can be placed in the bag. The ordering does not matter for the outcome.
 
 
-Notes
--------
+**As  [(Tainted Cain)](/wiki/Tainted_Cain "Tainted Cain") [Tainted Cain](/wiki/Tainted_Cain "Tainted Cain"):**
 
 
-* (Added in Afterbirth †) [(Bone Heart)](/wiki/Bone_Heart "Bone Heart") [Bone Hearts](/wiki/Bone_Heart "Bone Heart") cannot be converted.
 
-
-Synergies
------------
-
-
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns 3 wisps in the middle ring for every Red Heart Container consumed, in addition to granting Soul Hearts. These wisps have a large amount of health.
-* (Removed in Afterbirth)[(Broken Remote)](/wiki/Broken_Remote "Broken Remote") [Broken Remote](/wiki/Broken_Remote "Broken Remote"): The teleport will activate whenever Guppy's Paw is used, even if Isaac has no Red Heart Containers to trade. This can give any characters with no Red Hearts the ability to teleport any number of times for free.
-* (Removed in Repentance)[![image](/image/Converter.png)](/wiki/Converter "Converter") [Converter](/wiki/Converter "Converter"): Allows Isaac to attain up to 10 Red Heart Containers and 1 Soul Heart.
-	+ (Added in Repentance) Allows Isaac to attain up to 12 Red Heart Containers or any combination of Red Heart Containers and Soul Hearts.
+* If pickups are collected after the max of 8 is reached, the contents shift left and up, deleting the top left slot and adding at the bottom right. Tapping the switch key cycles the bag's contents left and up in a loop, making it possible to choose which pickup to overwrite.
+* Once 8 pickups are held in the bag, the bag will show a preview what would be crafted. Holding down the Use Pill/Card button will craft the item and place it directly in Tainted Cain's inventory.
+	+ Crafting an activated item while already holding one will turn the old one into pickups like collecting it would.
+	+ Curse of the Blind hides the crafting preview.
 
 
 Interactions
 --------------
 
 
-* (Added in Repentance)  [(Bethany)](/wiki/Bethany "Bethany") [Bethany](/wiki/Bethany "Bethany"): Guppy's Paw will remove one Heart Container in exchange for Soul Heart charges. This will kill Bethany if she has no health left afterward.
-* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
-* (Added in Afterbirth)  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper"): Guppy's Paw will take away one Coin Heart, but will only grant [Blue Flies](/wiki/Blue_Fly "Blue Fly") in return.
-* [(XI - Strength)](/wiki/Cards_and_Runes "XI - Strength") [XI - Strength](/wiki/Cards_and_Runes "Cards and Runes"): Converts the temporary Red Heart Container into three Soul Hearts (however, Isaac will still lose one Red Heart Container upon leaving the room if he has any left).
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* [(Wild Card)](/wiki/Cards_and_Runes "Wild Card") [Wild Card](/wiki/Cards_and_Runes "Cards and Runes"): Holding up Bag of Crafting counts as an active item use for Wild Card, and can be replicated.
+
+
+Bugs
+------
+
+
+
+
+| (Bug) Bug!
+ | After using [![image](/image/Glowing_Hour_Glass.png)](/wiki/Glowing_Hour_Glass "Glowing Hour Glass") [Glowing Hour Glass](/wiki/Glowing_Hour_Glass "Glowing Hour Glass") to revert the bag state, result preview shows nothing.
+ |
+
+
+
+
+| (Bug) Bug!
+ | If  [(Tainted Cain)](/wiki/Tainted_Cain "Tainted Cain") [Tainted Cain](/wiki/Tainted_Cain "Tainted Cain") dies in the exit of the [(Mines)](/wiki/Mines "Mines") [Mines](/wiki/Mines "Mines") / [(Ashpit)](/wiki/Ashpit "Ashpit") [Ashpit](/wiki/Ashpit "Ashpit") II [![image](/image/Knife_Piece_2.png)](/wiki/Knife_Piece_2 "Knife Piece 2") [Knife Piece 2](/wiki/Knife_Piece_2 "Knife Piece 2") area in multiplayer mode and then gets revived, Bag of crafting will remain inactive, making it impossible for Tainted Cain to obtain any more items.
+ |
+
+
+
+
+| (Bug) Bug!
+ | Swinging Bag of Crafting while holding [![image](/image/Evil_Eye.png)](/wiki/Evil_Eye "Evil Eye") [Evil Eye](/wiki/Evil_Eye "Evil Eye") may create evil eye tears in the direction fired. Upon pressing the fire buttons, these tears will create a swing identical to that of the Bag of Crafting, even removing pickups caught in the swing. Pickups removed this way will NOT be added to the bag.
+ |
 
 

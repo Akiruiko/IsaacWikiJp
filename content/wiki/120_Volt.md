@@ -3,7 +3,6 @@
 
  # 120 Volt ![image](/image/120_Volt.png) 
 
-
 Effects
 ---------
 

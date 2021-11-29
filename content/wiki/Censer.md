@@ -3,30 +3,34 @@
 
  # Censer ![image](/image/Censer.png) 
 
-
 Effects
 ---------
 
 
-* Upon use, Isaac farts and [knocks back](/wiki/Knock-back "Knock-back") nearby enemies.
-	+ (Added in Afterbirth) Projectiles are also deflected.
-		- (Added in Repentance) Enemies pushed into walls or [obstacles](/wiki/Obstacles "Obstacles") take `10 + 2 * (floor - 1)` damage. Projectiles that are reflected also deal damage to enemies
+* Spawns a [familiar](/wiki/Familiar "Familiar") projecting a circular aura that [slows](/wiki/Status_Effects#Effects "Status Effects") enemies and enemy shots within its radius and for some time once they exit.
 
 
 Notes
 -------
 
 
-* (Added in Afterbirth † / Removed in Repentance) If Isaac swaps Butter Bean for a different active item, then picks up Butter Bean again, it has a 10% chance to transform into [![image](/image/Wait_What%3F.png)](/wiki/Wait_What%3F "Wait What?") [Wait What?](/wiki/Wait_What%3F "Wait What?").
-* (Added in Repentance) When a run is started, the game may replace Butter Bean with [![image](/image/Wait_What%3F.png)](/wiki/Wait_What%3F "Wait What?") [Wait What?](/wiki/Wait_What%3F "Wait What?") in item pools. Both items are generally not available in the same run.
+* The aura does not affect bosses but slows down their shots.
+	+ Bosses that use tight volleys of projectiles are extremely difficult to avoid without additional items to block, remove, or redirect those shots, as the slowing effect will cause their attacks to clump together.
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Inner ring. The wisps are white and do not shoot tears, have only 1 health each, release farts that knockback upon death and cannot be carried across rooms.
-* (Added in Afterbirth †)[![image](/image/Ghost_Pepper.png)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Shoots a flame behind Isaac upon each use of Butter Bean. Two flames will be shot if Isaac also has (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery").
-* (Added in Repentance)[(Panic Button)](/wiki/Panic_Button "Panic Button") [Panic Button](/wiki/Panic_Button "Panic Button"): Activates Butter Bean upon taking damage. If the damage was from a projectile that Butter Bean can knock away, it will be negated.
+* (Added in Repentance)[![image](/image/2Spooky.png)](/wiki/2Spooky "2Spooky") [2Spooky](/wiki/2Spooky "2Spooky")/[![image](/image/Venus.png)](/wiki/Venus "Venus") [Venus](/wiki/Venus "Venus"): The slowing aura mitigates the delay between fast enemies that charge Isaac and the [status effect](/wiki/Status_Effects "Status Effects"), making it much harder for Isaac to take contact damage.
+* (Added in Repentance)[![image](/image/Bot_Fly.png)](/wiki/Bot_Fly "Bot Fly") [Bot Fly](/wiki/Bot_Fly "Bot Fly")/[![image](/image/Psy_Fly.png)](/wiki/Psy_Fly "Psy Fly") [Psy Fly](/wiki/Psy_Fly "Psy Fly"): The slowing aura allows these items to deal with the incoming projectiles more reliably.
+* [![image](/image/The_Soul.png)](/wiki/The_Soul "The Soul") [The Soul](/wiki/The_Soul "The Soul"): The slowing aura allows incoming enemies and shots to be more reliably deflected.
+
+
+Interactions
+--------------
+
+
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The aura does not slow things from further away despite increased visual size.
 
 

@@ -3,46 +3,54 @@
 
  # Rubber Cement ![image](/image/Rubber_Cement.png) 
 
-
 Effects
 ---------
 
 
-* Gives one [(Black Heart)](/wiki/Black_Heart "Black Heart") [Black Heart](/wiki/Black_Heart "Black Heart").
-* (Added in Repentance) Once used, the (Boss Room) [Boss Room](/wiki/Boss_Room "Boss Room") item pedestal for that [floor](/wiki/Floor "Floor") will be replaced by a Deal with the Devil. These items must be paid for as a normal [Devil Deal](/wiki/Devil_Room#Deals_with_the_Devil "Devil Room") would. This *does* affect (Angel Room) [Angel Room](/wiki/Angel_Room "Angel Room") / (Devil Room) [Devil Room](/wiki/Devil_Room "Devil Room") chance, so if Isaac takes this item, no Angel Rooms will appear for the rest of the run unless he has [![image](/image/Act_of_Contrition.png)](/wiki/Act_of_Contrition "Act of Contrition") [Act of Contrition](/wiki/Act_of_Contrition "Act of Contrition"), [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"), [![image](/image/Duality.png)](/wiki/Duality "Duality") [Duality](/wiki/Duality "Duality") or [![image](/image/Eucharist.png)](/wiki/Eucharist "Eucharist") [Eucharist](/wiki/Eucharist "Eucharist"). Alternatively, playing (Sacrifice Room) [Sacrifice Rooms](/wiki/Sacrifice_Room "Sacrifice Room") and [(Confessional.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/1/1d/Confessional.png/revision/latest?cb=20210824103001) [Confessionals](/wiki/Machines#Confessional "Machines") (usually) allows Angel Rooms to spawn on the current floor.
-	+ This does not affect [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid"), [![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative"), or [![image](/image/Dad%27s_Note.png)](/wiki/Dad%27s_Note "Dad's Note") [Dad's Note](/wiki/Dad%27s_Note "Dad's Note").
-* (Added in Afterbirth †) This item belongs to the [Bookworm](/wiki/Bookworm "Bookworm") set. Collecting three items from this set will transform Isaac into Bookworm.
-
-
-Notes
--------
-
-
-* (Added in Repentance) Bosses with set drops aside from [(Mom)](/wiki/Mom "Mom") [Mom](/wiki/Mom "Mom") will still drop their normal item, but at the cost of one [Heart Container](/wiki/Heart_Container "Heart Container").
-* (Added in Repentance) On XL floors, both items will become Devil Deals, even if Satanic Bible was only used once.
-* (Added in Repentance) During [Ascent](/wiki/Ascent "Ascent"), any devil items that were not picked up may be purchased for 15 pennies.
-* (Added in Repentance)  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost"),  [(Tainted Lost)](/wiki/Tainted_Lost "Tainted Lost") [Tainted Lost](/wiki/Tainted_Lost "Tainted Lost"), and  [(Tainted Jacob)](/wiki/Tainted_Jacob "Tainted Jacob") [Tainted Jacob](/wiki/Tainted_Jacob "Tainted Jacob") in his ghost form can safely take any (Boss Room) [Boss Room](/wiki/Boss_Room "Boss Room") item pedestals and it has no effect on subsequent devil deals.
-	+ This does not apply to the Lost form granted by the white fire on [(Downpour)](/wiki/Downpour "Downpour") [Downpour](/wiki/Downpour "Downpour") / [(Dross)](/wiki/Dross "Dross") [Dross](/wiki/Dross "Dross") II. Taking a deal in this form will still remove hearts.
-* (Added in Repentance) This does not affect the items dropped on [(The Void)](/wiki/The_Void "The Void") [The Void](/wiki/The_Void "The Void").
-* (Added in Repentance) Using the Satanic Bible changes the Boss Room's item pool to the [Devil Room item pool](/wiki/Devil_Room_(Item_Pool) "Devil Room (Item Pool)") for purposes other than direct boss rewards as well. This works even if the boss does not normally drop items, such as [(Mom)](/wiki/Mom "Mom") [Mom](/wiki/Mom "Mom"), [(Satan)](/wiki/Satan "Satan") [Satan](/wiki/Satan "Satan"), or [(???)](/wiki/%3F%3F%3F_(Boss)#.3F.3F.3F "???") [???](/wiki/%3F%3F%3F_(Boss)#.3F.3F.3F "??? (Boss)").
-	+ Rerolls such as [![image](/image/The_D6.png)](/wiki/The_D6 "The D6") [The D6](/wiki/The_D6 "The D6"), [(Rune of Perthro)](/wiki/Cards_and_Runes "Rune of Perthro") [Rune of Perthro](/wiki/Cards_and_Runes "Cards and Runes"), or [(Soul of Isaac)](/wiki/Cards_and_Runes "Soul of Isaac") [Soul of Isaac](/wiki/Cards_and_Runes "Cards and Runes") will generate Devil Room items.
-	+ Using Satanic Bible *after* the Boss Room item has spawned, followed by any reroll, causes the new item to be drawn from the Devil Room item pool, but it will have no heart cost.
+* Makes tears bounce off walls, [enemies](/wiki/Enemy "Enemy") and [environmental objects](/wiki/Obstacle "Obstacle").
+	+ Tears that bounce off of enemies bounce in random directions, whereas tears that bounce off of walls and other objects bounce directly back.
+	+ When tears bounce from enemies, they become able to hit the same enemy again should they bounce off of another enemy or obstacle.
+	+ (Added in Afterbirth †) Tears bounce off bombs.
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns black wisps in the middle ring, looking like a red inverted cross. Each wisp gives Isaac +10% [Devil Room chance](/wiki/Devil_Room#Conditions_to_Make_Devil_Rooms_Appear "Devil Room").
-* (Added in Repentance) [![image](/image/There%27s_Options.png)](/wiki/There%27s_Options "There's Options") [There's Options](/wiki/There%27s_Options "There's Options"): 2 Devil Deals will be offered, but only one can be taken.
+* (Added in Afterbirth) [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The blood laser bounces off of walls, creating a second beam that deals half damage.
+	+ (Added in Afterbirth)  [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel")'s Brimstone laser becomes a full length laser after bouncing, but will deal half of the damage.
+		- (Added in Afterbirth †)  [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel")'s Brimstone no longer becomes a full length laser after bouncing, and instead bounce as a regular mini-Brimstone.
+* [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): Both effects stack, with tears that bounce off of enemies being able to hit others for more damage.
+* [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Tears will bounce off of walls without splitting, but split and bounce when hitting enemies. The split tears and the original one will bounce off everything.
+* (Added in Afterbirth †)[![image](/image/Pop!.png)](/wiki/Pop! "Pop!") [Pop!](/wiki/Pop! "Pop!"): Significantly increases the uptime of tears, since they are not limited by range and each tear will bounce off of each other. Continuously firing tears will eventually create a positive feedback loop, as the tears will keep bouncing faster and faster while not dropping to the floor.
+	+ **Pop!** + [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): Extremely powerful combination; Lump of Coal's tear size increase will make it much easier for tears to bounce off of each other, while they increase in damage very rapidly. Given some time and enough tears, this can kill even final bosses such as [Hush](/wiki/Hush "Hush") and [Delirium](/wiki/Delirium "Delirium") quickly.
+* (Added in Afterbirth) [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology") / [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2") / [Tech.5](/wiki/Tech.5 "Tech.5"): Laser bounces off walls, creating a second beam that does half damage.
+* (Added in Repentance) [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): The laser rings bounce off walls once.
 
 
 Interactions
 --------------
 
 
-* (Added in Repentance)[![image](/image/Chaos.png)](/wiki/Chaos "Chaos") [Chaos](/wiki/Chaos "Chaos"): The item spawned will be chosen from a random [item pool](/wiki/Item_pool "Item pool") instead.
-* (Added in Repentance)[![image](/image/Lemegeton.png)](/wiki/Lemegeton "Lemegeton") [Lemegeton](/wiki/Lemegeton "Lemegeton"): Will generate wisps from the [Devil Room item pool](/wiki/Devil_Room_(Item_Pool) "Devil Room (Item Pool)") when used inside the (Boss Room) [Boss Room](/wiki/Boss_Room "Boss Room") after Satanic Bible is used.
-* (Added in Repentance)[![image](/image/Vanishing_Twin.png)](/wiki/Vanishing_Twin "Vanishing Twin") [Vanishing Twin](/wiki/Vanishing_Twin "Vanishing Twin"): The second boss spawned will also drop an item from the [Devil Room item pool](/wiki/Devil_Room_(Item_Pool) "Devil Room (Item Pool)").
+* (Removed in Afterbirth) [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Overrides Rubber Cement.
+* [![image](/image/Bob%27s_Rotten_Head.png)](/wiki/Bob%27s_Rotten_Head "Bob's Rotten Head") [Bob's Rotten Head](/wiki/Bob%27s_Rotten_Head "Bob's Rotten Head"): The bomb bounces back upon hitting an obstacle, and will not explode until it runs out of air time. **Not recommended**, as it can make self-damage more likely in small rooms.
+* (Added in Afterbirth)[![image](/image/Continuum.png)](/wiki/Continuum "Continuum") [Continuum](/wiki/Continuum "Continuum"): Overridden by Rubber Cement; tears will still bounce off of walls and obstacles.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Overrides Rubber Cement.
+* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overrides Rubber Cement.
+* (Added in Afterbirth †)  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"): No effect on the skeleton form's attacks.
+* [Homing tears](/wiki/Homing_tears "Homing tears"): Tears will bounce off enemies and home back in, but to deal damage to that enemy again they must bounce off a different object.
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Tears will bounce off of obstacles, but not enemies.
+* (Added in Afterbirth †)[![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder"): Tears don't generate arcs when hitting obstacles.
+* [![image](/image/Lost_Contact.png)](/wiki/Lost_Contact "Lost Contact") [Lost Contact](/wiki/Lost_Contact "Lost Contact"): Tears will bounce off of enemy tears. **Not recommended** unless the player's fire rate is high, as it can prove detrimental when trying to hit a shooting enemy.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Overrides Rubber Cement.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Overrides Rubber Cement.
+* [Piercing tears](/wiki/Piercing_tears "Piercing tears"): Tears that don't destroy enemies will bounce off of them instead of going straight through them. Tears can still damage enemies such as [Knights](/wiki/Knight "Knight") that are normally invulnerable from the front.
+* (Added in Afterbirth †)[![image](/image/Sinus_Infection.png)](/wiki/Sinus_Infection "Sinus Infection") [Sinus Infection](/wiki/Sinus_Infection "Sinus Infection"): Boogers stick to enemies, but otherwise they bounce normally.
+* [Spectral tears](/wiki/Spectral_tears "Spectral tears"): Overridden by Rubber Cement.
+	+ (Added in Afterbirth †) Tears pass through obstacles but bounce off walls.
+* (Added in Afterbirth †)[![image](/image/Sulfuric_Acid.png)](/wiki/Sulfuric_Acid "Sulfuric Acid") [Sulfuric Acid](/wiki/Sulfuric_Acid "Sulfuric Acid"): Overridden by Rubber Cement.
+* (Removed in Afterbirth) [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology") / [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2"): Overrides Rubber Cement.
+* [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet"): Tears no longer fly over obstacles but instead bounce very quickly along with them, appearing to "vibrate".
+	+ (Added in Afterbirth †) Tears pass through obstacles but coast along walls, trying to maintain the circular trajectory.
 
 

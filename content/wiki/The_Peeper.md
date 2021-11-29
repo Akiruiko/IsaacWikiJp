@@ -3,7 +3,6 @@
 
  # The Peeper ![image](/image/The_Peeper.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # BFFS! ![image](/image/BFFS!.png) 
 
-
 Effects
 ---------
 

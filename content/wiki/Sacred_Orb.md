@@ -3,7 +3,6 @@
 
  # Sacred Orb ![image](/image/Sacred_Orb.png) 
 
-
 Effects
 ---------
 

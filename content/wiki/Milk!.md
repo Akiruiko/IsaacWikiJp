@@ -3,20 +3,29 @@
 
  # Milk! ![image](/image/Milk!.png) 
 
-
 Effects
 ---------
 
 
-* Isaac builds up rage every time he clears a room, which is indicated by the patch of skin that spreads around his face.
-* After four rooms, Isaac's head will start to flash red; upon entering a room with enemies, he will fire a large [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") laser for ~3.33 seconds.
-	+ The laser deals Isaac's damage per tick (15x Isaac's damage per second).
+* Spawns a glass [familiar](/wiki/Familiar "Familiar") that follows Isaac and spills on the floor upon taking damage.
+* When the milk spills, Isaac receives -2 [tear delay](/wiki/Attributes#Tear_Delay "Attributes") ((Added in Repentance) +1) (increased rate of fire) until leaving the [room](/wiki/Rooms "Rooms").
+	+ Direct tear delay reduction can take Isaac's tears stat below the normal soft cap of 5.
+* The milk puddle is purely visual, and will stay on the ground for a few seconds before disappearing. The familiar will reappear in the next room.
 
 
-Notes
--------
+Synergies
+-----------
 
 
-* The counter for activation will go up during [Greed Mode](/wiki/Greed_Mode "Greed Mode"), (Challenge Room) [Challenge Rooms](/wiki/Challenge_Room "Challenge Room"), (Boss Challenge Room) [Boss Challenge Rooms](/wiki/Boss_Challenge_Room "Boss Challenge Room") and (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") waves. If the Brimstone laser is ready, it will fire automatically after clearing a wave.
+* (Removed in Repentance) [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): The milk familiar is not duplicated; instead, tear delay decreases by 2 upon use even if the player has not taken damage in the current room.
+	+ (Added in Repentance) No extra tear delay is granted, neither before or after breaking.
+* (Added in Repentance)[![image](/image/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom"): If activated at least once, the increased rate of fire will always be active.
+
+
+Interactions
+--------------
+
+
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Familiar is bigger but no effect on tear delay.
 
 

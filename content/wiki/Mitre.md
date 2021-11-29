@@ -3,7 +3,6 @@
 
  # Mitre ![image](/image/Mitre.png) 
 
-
 Effects
 ---------
 

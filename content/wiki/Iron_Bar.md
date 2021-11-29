@@ -3,7 +3,6 @@
 
  # Iron Bar ![image](/image/Iron_Bar.png) 
 
-
 Effects
 ---------
 

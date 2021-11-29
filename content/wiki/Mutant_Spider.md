@@ -3,7 +3,6 @@
 
  # Mutant Spider ![image](/image/Mutant_Spider.png) 
 
-
 Effects
 ---------
 

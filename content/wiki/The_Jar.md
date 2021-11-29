@@ -3,30 +3,40 @@
 
  # The Jar ![image](/image/The_Jar.png) 
 
-
 Effects
 ---------
 
 
-* Copies the effects of Isaac's held [rune](/wiki/Cards_and_Runes#Runes "Cards and Runes") or [soul stone](/wiki/Cards_and_Runes#Soul_Stones "Cards and Runes"), similar to the [![image](/image/Blank_Card.png)](/wiki/Blank_Card "Blank Card") [Blank Card](/wiki/Blank_Card "Blank Card") and [![image](/image/Placebo.png)](/wiki/Placebo "Placebo") [Placebo](/wiki/Placebo "Placebo").
-* Drops one random rune the first time it's picked up.
+* Isaac can store up to 4 extra [Red Hearts](/wiki/Hearts#Red_Heart "Hearts") in The Jar if there are no remaining empty [Heart Containers](/wiki/Health#Red_Heart_Containers "Health").
+* When used, all Red Hearts in the jar are dropped on the floor, rather than directly consuming them.
+
+
+Notes
+-------
+
+
+* Red hearts are the only type of heart that can be stored. Blended Hearts do not count.
+* If used in the two [Super Secret Rooms](/wiki/Super_Secret_Room "Super Secret Room") that contain nothing but a [Black Heart](/wiki/Hearts#Black_Heart "Hearts") or [Eternal Heart](/wiki/Hearts#Eternal_Heart "Hearts") (Room ID's 1 and 6), it will spawn those types of hearts instead.
+* If a whole red heart is picked up and Isaac only heals half a heart container, the other half is placed in the jar, indicated by the jar number increasing by one. Despite the jar indicating that it picked up a whole red heart in this fashion, it will only drop half a red heart on use. When picking up a double red heart, the jar will also store the remainder not healed in the same way.
+* [Co-op](/wiki/Co-op "Co-op") babies, except Magnet Baby, cannot add hearts to the jar, as they are unable to interact with pickups.
+* The short-lived half red hearts dropped by  [(Tainted Magdalene)](/wiki/Tainted_Magdalene "Tainted Magdalene") [Tainted Magdalene](/wiki/Tainted_Magdalene "Tainted Magdalene") can be picked up and stored.
 
 
 Synergies
 -----------
 
 
-* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns purple-glowing rune wisps on the middle ring. The wisps spawn [Runes/Soul Stones](/wiki/Cards_and_Runes#Runes "Cards and Runes") when destroyed, and enemies killed by the wisps' tears have a 15% chance to drop a Rune/Soul Stone. The effect of the wisps and the types of runes they spawn are independent from Clear Rune's charge time and the most recently used rune.
-* [(Butter!)](/wiki/Butter! "Butter!") [Butter!](/wiki/Butter! "Butter!"): Because Clear Rune is dropped upon usage, the recharge time for them is reset to 4, allowing to use more expensive runes much more frequently.
-* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Essentially uses the rune or soul stone twice.
-* [(Rune of Jera)](/wiki/Cards_and_Runes "Rune of Jera") [Rune of Jera](/wiki/Cards_and_Runes "Cards and Runes"): Allows Isaac to copy pickups with every use. This combination can double [Lil' Batteries](/wiki/Lil%27_Battery "Lil' Battery"), which can both circumvent the rune's high charge time and allow for game-breaking combos with repeated use of the synergy.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Consumes stored hearts to spawn heart wisps, rather than releasing heart pickups. Heart Wisps have a chance to drop a [half red heart](/wiki/Hearts#Half_Red_Heart "Hearts") when destroyed.
+* (Removed in Repentance) [![image](/image/Humbling_Bundle.png)](/wiki/Humbling_Bundle "Humbling Bundle") [Humbling Bundle](/wiki/Humbling_Bundle "Humbling Bundle") / [![image](/image/Maggy%27s_Bow.png)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): Spawn double the hearts put into the jar, allowing for infinite health to be spawned.
 
 
 Interactions
 --------------
 
 
-* [![image](/image/Tarot_Cloth.png)](/wiki/Tarot_Cloth "Tarot Cloth") [Tarot Cloth](/wiki/Tarot_Cloth "Tarot Cloth"): No effect.
-* [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void"): If Void absorbs both Clear Rune and a consumable-producing item like [![image](/image/Mom%27s_Bottle_of_Pills.png)](/wiki/Mom%27s_Bottle_of_Pills "Mom's Bottle of Pills") [Mom's Bottle of Pills](/wiki/Mom%27s_Bottle_of_Pills "Mom's Bottle of Pills") the latter takes effect first, shifting any rune you are holding out of the primary consumable slot and rendering the Clear Rune effect useless.
+* [(Broken Remote)](/wiki/Broken_Remote "Broken Remote") [Broken Remote](/wiki/Broken_Remote "Broken Remote"): Allows for teleportation with no recharge; however, it drops the contained red hearts in the room it was used.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): The Jar acts as usual, and doesn't double the hearts dropped upon activation.
+* (Added in Afterbirth †)[![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"): The player cannot pick up extra hearts while The Jar is in the inactive slot.
+* (Added in Repentance)[![image](/image/Shard_of_Glass.png)](/wiki/Shard_of_Glass "Shard of Glass") [Shard of Glass](/wiki/Shard_of_Glass "Shard of Glass"): Storing a heart in the jar does not stop the bleeding effect, despite playing the "heart collected" sound effect.
 
 

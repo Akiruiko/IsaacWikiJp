@@ -3,7 +3,6 @@
 
  # Sulfur ![image](/image/Sulfur.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Betrayal ![image](/image/Betrayal.png) 
 
-
 Effect
 --------
 

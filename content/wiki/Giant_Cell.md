@@ -3,7 +3,6 @@
 
  # Giant Cell ![image](/image/Giant_Cell.png) 
 
-
 Effects
 ---------
 

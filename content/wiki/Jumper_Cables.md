@@ -3,7 +3,6 @@
 
  # Jumper Cables ![image](/image/Jumper_Cables.png) 
 
-
 Effects
 ---------
 

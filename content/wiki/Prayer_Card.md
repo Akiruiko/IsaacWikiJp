@@ -3,7 +3,6 @@
 
  # Prayer Card ![image](/image/Prayer_Card.png) 
 
-
 Effects
 ---------
 

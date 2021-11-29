@@ -3,7 +3,6 @@
 
  # Mom's Knife ![image](/image/Mom%27s_Knife.png) 
 
-
 Effects
 ---------
 
@@ -49,7 +48,7 @@ Synergies
 	+ **The Ludovico Technique** + **Lost Contact**: Floating knife loses almost all ability to block bullets, with a tiny area around the hilt that can stop shots.
 	+ **The Ludovico Technique** + [![image](/image/Loki%27s_Horns.png)](/wiki/Loki%27s_Horns "Loki's Horns") [Loki's Horns](/wiki/Loki%27s_Horns "Loki's Horns"): Loses Loki's Horns effect; Isaac controls only one floating knife.
 	+ **The Ludovico Technique +**[![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Mom's Knife overrides Brimstone leaving only the floating knife.
-* Error: The given collectible ("Mom's Knife") does not exist.: Each additional copy of the item will grant an extra knife that fires slightly diagonally from the original one, up to a maximum of 16. Picking up more than 16 knives won't fire more knives but will still modify the angle at which they're shot.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") Mom's Knife: Each additional copy of the item will grant an extra knife that fires slightly diagonally from the original one, up to a maximum of 16. Picking up more than 16 knives won't fire more knives but will still modify the angle at which they're shot.
 * [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): The Knife deals double ((Added in Repentance) triple) damage regardless of range.
 * [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor"): Enemies are pulled towards the knife. The effect is minor while not firing and much stronger while the knife is launched.
 * [![image](/image/Tammy%27s_Head.png)](/wiki/Tammy%27s_Head "Tammy's Head") [Tammy's Head](/wiki/Tammy%27s_Head "Tammy's Head"): Fires 10 knives in a circle around Isaac, dealing massive damage.
@@ -88,6 +87,7 @@ Overridden by Mom's Knife:
 	+ (Added in Afterbirth) Firing a knife causes several other knives to shoot out at random directions.
 * (Removed in Afterbirth †)[![image](/image/Mysterious_Liquid.png)](/wiki/Mysterious_Liquid "Mysterious Liquid") [Mysterious Liquid](/wiki/Mysterious_Liquid "Mysterious Liquid")
 	+ (Added in Afterbirth †) The Knife leaves creep trails while fired.
+* (Added in Afterbirth †)[![image](/image/Parasitoid.png)](/wiki/Parasitoid "Parasitoid") [Parasitoid](/wiki/Parasitoid "Parasitoid")
 * [![image](/image/Rubber_Cement.png)](/wiki/Rubber_Cement "Rubber Cement") [Rubber Cement](/wiki/Rubber_Cement "Rubber Cement")
 * [(Tainted Azazel)](/wiki/Tainted_Azazel "Tainted Azazel") [Tainted Azazel](/wiki/Tainted_Azazel "Tainted Azazel")'s default attack
 * (Removed in Afterbirth † / Re-added in Repentance)[![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology")

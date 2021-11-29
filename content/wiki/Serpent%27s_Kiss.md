@@ -3,7 +3,6 @@
 
  # Serpent's Kiss ![image](/image/Serpent%27s_Kiss.png) 
 
-
 Effects
 ---------
 

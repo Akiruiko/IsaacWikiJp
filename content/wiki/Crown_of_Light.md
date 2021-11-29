@@ -3,7 +3,6 @@
 
  # Crown of Light ![image](/image/Crown_of_Light.png) 
 
-
 Effects
 ---------
 

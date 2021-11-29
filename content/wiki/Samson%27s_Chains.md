@@ -3,25 +3,26 @@
 
  # Samson's Chains ![image](/image/Samson%27s_Chains.png) 
 
-
 Effects
 ---------
 
 
-* +0.25 [speed](/wiki/Speed "Speed").
-	+ (Removed in Repentance) Also affects maximum speed (may never exceed 2.0).
-* (Removed in Repentance) Running into enemies while at a high speed will deal 18 damage.
-* (Added in Repentance) Running into enemies while at a high speed will deal 25 damage.
-	+ At least 0.85 speed is required to be able to move quickly enough.
-	+ (Added in Repentance) Moving at this speed also prevents contact damage.
+* Attaches a ball and chain to Isaac's ankle that blocks projectiles and deals 5 damage per tick (~10.7 damage per second).
+* If the ball is moving fast enough, it will destroy any [obstacles](/wiki/Obstacles#Destructible "Obstacles") it comes into contact with (aside from Iron Blocks).
+
+
+Notes
+-------
+
+
+* The item doesn't change the Speed [Attribute](/wiki/Attribute "Attribute"). Instead, whenever the chain is fully extended the ball will have to be dragged, which causes Isaac to slow down slightly.
+* Cannot be used to open [Secret Rooms](/wiki/Secret_Room "Secret Room") or [Super Secret Rooms](/wiki/Super_Secret_Room "Super Secret Room").
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance) (Added in Afterbirth)[![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss"): Allows Isaac to poison enemies without needing to take a hit, allowing for an impressive amount of [(Black Heart)](/wiki/Black_Heart "Black Heart") [Black Hearts](/wiki/Black_Heart "Black Heart") to be collected.
-* (Added in Repentance)  [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten"): Throwing the skeleton will deal 80 damage on contact.
-* (Added in Repentance)  [(Tainted Magdalene)](/wiki/Tainted_Magdalene "Tainted Magdalene") [Tainted Magdalene](/wiki/Tainted_Magdalene "Tainted Magdalene")'s hugs stack with Aries, dealing insane combined contact damage to enemies. This also makes T. Magdalene invulnerable at high speeds, whilst still generating a decent amount of red hearts.
+* [Flight](/wiki/Flight "Flight"): Any method of flight makes it easier and quicker to use Samson's Chains to smash rocks, making for an efficient way to search for [Crawl Spaces](/wiki/Crawl_Space "Crawl Space").
 
 

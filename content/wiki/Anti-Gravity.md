@@ -3,7 +3,6 @@
 
  # Anti-Gravity ![image](/image/Anti-Gravity.png) 
 
-
 Effects
 ---------
 

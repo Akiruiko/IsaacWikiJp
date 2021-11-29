@@ -3,7 +3,6 @@
 
  # Mercurius ![image](/image/Mercurius.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Polyphemus ![image](/image/Polyphemus.png) 
 
-
 Effects
 ---------
 

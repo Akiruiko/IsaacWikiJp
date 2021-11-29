@@ -3,76 +3,67 @@
 
  # Sinus Infection ![image](/image/Sinus_Infection.png) 
 
-
 Effects
 ---------
 
 
-* After Isaac takes damage from an enemy or donates health, he drops a [red heart](/wiki/Hearts "Hearts") that despawns after 1.5 seconds.
-	+ The heart dropped depends on the source: half-hearts of damage taken drop half-hearts, and full hearts of damage taken drop full hearts.
-	+ The hearts will get launched out of Isaac with momentum, making them difficult to pick up.
+* Grants a chance to fire a booger that sticks to an enemy and deals damage over time.
+	+ Multiple boogers can stick to one enemy to deal extra damage.
+	+ Each booger deals damage equal to Isaac's tear damage every second.
+	+ The booger lasts for 60 seconds or until the enemy dies.
+		- (Added in Repentance) The booger lasts 10 seconds.
+	+ Boogers cannot pierce and stick to the first enemy that they come in contact with, but will pass through fireplaces even without piercing shots.
 
 
 Notes
 -------
 
 
-* Damage sources that scale up from half a heart of damage to a full heart of damage starting on [(Womb)](/wiki/Womb "Womb") [Womb](/wiki/Womb "Womb")/[(Corpse)](/wiki/Corpse "Corpse") [Corpse](/wiki/Corpse "Corpse") will still only cause Hypercoagulation to spawn half a heart.
-* Red hearts are not spawned when Isaac loses heart containers (such as through health down [pills](/wiki/Pill "Pill"), buying [Devil Room](/wiki/Devil_Room "Devil Room") items, using [![image](/image/Guppy%27s_Paw.png)](/wiki/Guppy%27s_Paw "Guppy's Paw") [Guppy's Paw](/wiki/Guppy%27s_Paw "Guppy's Paw"), etc), with the only exception being [![image](/image/Potato_Peeler.png)](/wiki/Potato_Peeler "Potato Peeler") [Potato Peeler](/wiki/Potato_Peeler "Potato Peeler").
-* Red hearts will still drop regardless of the type of heart being subtracted from damage, making the item generally useless for characters who cannot utilize red hearts.
-* The following damage sources will activate Hypercoagulation:
-	+ Enemy attacks
-	+ Normal [spikes](/wiki/Spikes "Spikes")
-	+ [Spiked rocks](/wiki/Rocks#Spiked_Rocks "Rocks")
-	+ [Fireplaces](/wiki/Fire_Places "Fire Places")
-	+ Explosions
-	+ [Blood Donation Machines](/wiki/Machines#Blood_Donation_Machine "Machines")
-	+ [Devil Beggars](/wiki/Beggar#Devil_Beggar "Beggar")
-	+ [Confessionals](/wiki/Machines#Confessional "Machines")
-	+ [Hell Games](/wiki/Beggar#Hell_Game "Beggar")
-	+ [![image](/image/Razor_Blade.png)](/wiki/Razor_Blade "Razor Blade") [Razor Blade](/wiki/Razor_Blade "Razor Blade")
-	+ [![image](/image/Blood_Rights.png)](/wiki/Blood_Rights "Blood Rights") [Blood Rights](/wiki/Blood_Rights "Blood Rights")
-	+ [![image](/image/Dull_Razor.png)](/wiki/Dull_Razor "Dull Razor") [Dull Razor](/wiki/Dull_Razor "Dull Razor") (despite it not taking health)
-	+ [![image](/image/Potato_Peeler.png)](/wiki/Potato_Peeler "Potato Peeler") [Potato Peeler](/wiki/Potato_Peeler "Potato Peeler")
-	+ Extra damage taken from holding [![image](/image/Glass_Cannon.png)](/wiki/Glass_Cannon "Glass Cannon") [Glass Cannon](/wiki/Glass_Cannon "Glass Cannon")
-* The following damage sources will not activate Hypercoagulation:
-	+ [Curse Room](/wiki/Curse_Room "Curse Room") doors
-	+ [Sacrifice Room](/wiki/Sacrifice_Room "Sacrifice Room") spikes
-	+ [Spiked Chests/Mimics](/wiki/Chests#Spiked_Chest "Chests")
-	+ Bad Trip [pills](/wiki/Pills "Pills")
-	+ [Golden Batteries](/wiki/Batteries#Golden_Battery "Batteries")
-	+ [![image](/image/Kamikaze!.png)](/wiki/Kamikaze! "Kamikaze!") [Kamikaze!](/wiki/Kamikaze! "Kamikaze!")
-	+ [![image](/image/Breath_of_Life.png)](/wiki/Breath_of_Life "Breath of Life") [Breath of Life](/wiki/Breath_of_Life "Breath of Life")
-	+ [![image](/image/A_Pound_of_Flesh.png)](/wiki/A_Pound_of_Flesh "A Pound of Flesh") [A Pound of Flesh](/wiki/A_Pound_of_Flesh "A Pound of Flesh") shop spikes
-	+ [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag")
-	+ [![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug")
-	+ [![image](/image/Shard_of_Glass.png)](/wiki/Shard_of_Glass "Shard of Glass") [Shard of Glass](/wiki/Shard_of_Glass "Shard of Glass")
-	+ [![image](/image/Blood_Bombs.png)](/wiki/Blood_Bombs "Blood Bombs") [Blood Bombs](/wiki/Blood_Bombs "Blood Bombs")
-	+ [![image](/image/Blood_Oath.png)](/wiki/Blood_Oath "Blood Oath") [Blood Oath](/wiki/Blood_Oath "Blood Oath")
-
-
-Interactions
---------------
-
-
-* [Ace Cards](/wiki/Cards_and_Runes#Playing_Cards "Cards and Runes") / [![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia") / [![image](/image/D1.png)](/wiki/D1 "D1") [D1](/wiki/D1 "D1") / [(Rune of Jera)](/wiki/Cards_and_Runes "Rune of Jera") [Rune of Jera](/wiki/Cards_and_Runes "Cards and Runes"): Converted/duplicated hearts will not disappear.
-* [![image](/image/Compost.png)](/wiki/Compost "Compost") [Compost](/wiki/Compost "Compost"): The temporary heart will be converted into a [Blue Fly](/wiki/Familiar#Blue_Flies "Familiar")[/Spider](/wiki/Familiar#Blue_Spiders "Familiar").
-* [![image](/image/D20.png)](/wiki/D20 "D20") [D20](/wiki/D20 "D20") / [![image](/image/GB_Bug.png)](/wiki/GB_Bug "GB Bug") [GB Bug](/wiki/GB_Bug "GB Bug"): Rerolled hearts will still disappear.
-* [![image](/image/Glass_Cannon.png)](/wiki/Glass_Cannon "Glass Cannon") [Glass Cannon](/wiki/Glass_Cannon "Glass Cannon"): Spawns two more full red hearts when Glass Cannon breaks, regardless of how much health was lost to it.
-* [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper") /  [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper"): Spawns blue flies upon getting hit, essentially granting them the same effect as [![image](/image/Infestation.png)](/wiki/Infestation "Infestation") [Infestation](/wiki/Infestation "Infestation").
-* [(IX - The Hermit?)](/wiki/Cards_and_Runes "IX - The Hermit?") [IX - The Hermit?](/wiki/Cards_and_Runes "Cards and Runes"): The heart will not be converted to coins.
+* The booger falls off the enemy after they die. If it hits another enemy before it touches the ground, it will stick to them and deal damage.
+* Jumping enemies or bosses like [Monstro](/wiki/Monstro "Monstro") and [Leapers](/wiki/Leaper "Leaper") and burrowing enemies like [Round Worms](/wiki/Round_Worm "Round Worm") and [Lumps](/wiki/Lump "Lump") can get rid of the booger when they leap or burrow.
+	+ Bosses like [The Harbingers](/wiki/The_Harbingers "The Harbingers") or [Dark One](/wiki/Dark_One "Dark One"), or enemies like [Oob](/wiki/Oob "Oob") that have dash attacks do not lose the booger when they go off-screen.
+* The tear-sticking effect is similar to [![image](/image/Explosivo.png)](/wiki/Explosivo "Explosivo") [Explosivo](/wiki/Explosivo "Explosivo") and (Added in Repentance)[![image](/image/Mucormycosis.png)](/wiki/Mucormycosis "Mucormycosis") [Mucormycosis](/wiki/Mucormycosis "Mucormycosis")'s.
+* Booger shots behave like piercing shots against bombs and fireplaces, making it potentially difficult to evade hostile bombs or push bombs along.
+* The [(Nose Goblin)](/wiki/Nose_Goblin "Nose Goblin") [Nose Goblin](/wiki/Nose_Goblin "Nose Goblin") trinket's effect is almost identical to Sinus Infection, with an added [homing](/wiki/Homing_tears "Homing tears") bonus.
+	+ The effects have independent chances to trigger. If Isaac has both, there is a chance to fire either homing or non-homing boogers.
+* Not affected by [Luck](/wiki/Luck "Luck").
 
 
 Synergies
 -----------
 
 
-* [![image](/image/Blood_Rights.png)](/wiki/Blood_Rights "Blood Rights") [Blood Rights](/wiki/Blood_Rights "Blood Rights") / [![image](/image/Razor_Blade.png)](/wiki/Razor_Blade "Razor Blade") [Razor Blade](/wiki/Razor_Blade "Razor Blade"): Damage taken to use the item also spawns hearts, reducing the cost of using them.
-* [![image](/image/Cancer.png)](/wiki/Cancer "Cancer") [Cancer](/wiki/Cancer "Cancer") / [Percs!](/wiki/Pills "Pills") pill / [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer"): Damage sources that spawn full red hearts will still spawn a full red heart despite the cost being reduced to half a heart.
-* [![image](/image/Candy_Heart.png)](/wiki/Candy_Heart "Candy Heart") [Candy Heart](/wiki/Candy_Heart "Candy Heart") / [![image](/image/Immaculate_Conception.png)](/wiki/Immaculate_Conception "Immaculate Conception") [Immaculate Conception](/wiki/Immaculate_Conception "Immaculate Conception"): The hearts will count toward gaining stat boosts/familiars.
-* [![image](/image/Dull_Razor.png)](/wiki/Dull_Razor "Dull Razor") [Dull Razor](/wiki/Dull_Razor "Dull Razor"): Can be used to spawn full red hearts for Isaac to pick up. Ideally, this should be done in a confined space so Isaac can easily pick up the heart.
-* [(Equality!)](/wiki/Equality! "Equality!") [Equality!](/wiki/Equality! "Equality!"): As long as Equality is active, all hearts spawned will be doubled and never disappear. Hearts remain on the ground even after the effect is no longer active.
-* [![image](/image/Maggy%27s_Bow.png)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"): Doubles the healing received from the hearts spawned.
-* [![image](/image/Magneto.png)](/wiki/Magneto "Magneto") [Magneto](/wiki/Magneto "Magneto") / [(Super Magnet)](/wiki/Super_Magnet "Super Magnet") [Super Magnet](/wiki/Super_Magnet "Super Magnet"): Will immediately start pulling the dropped hearts to Isaac, breaking their momentum and making collection much easier.
+* [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body"): Booger tears will split into split booger tears that can attach to enemies.
+* [![image](/image/Godhead.png)](/wiki/Godhead "Godhead") [Godhead](/wiki/Godhead "Godhead"): Shots retain their aura while stuck to an enemy, but the aura can damage only enemies other than the booger victim. If the enemy dies while duration remains, it will resume homing and will often stick to a second enemy.
+* [Guppy](/wiki/Guppy "Guppy"): Every damage instance that a booger shot does while attached to an enemy will trigger a fly to spawn.
+* [![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): All tears have a chance to burst into boogers. Boogers will always burst into more boogers, though some of the boogers may incorrectly appear to be normal tears. When a booger sticks to an enemy, it will burst into 8 boogers which have a high chance of sticking again to the same enemy.
+* [![image](/image/Lost_Contact.png)](/wiki/Lost_Contact "Lost Contact") [Lost Contact](/wiki/Lost_Contact "Lost Contact"): Boogers that stick to enemies will block shots, and will not be destroyed in the process.
+* [![image](/image/Polyphemus.png)](/wiki/Polyphemus "Polyphemus") [Polyphemus](/wiki/Polyphemus "Polyphemus"): Booger shots lose the Polyphemus pierce effect, but stick to enemies while dealing the full damage of the Polyphemus shot. Damage does not degrade.
+* (Added in Repentance)[![image](/image/Spirit_Sword.png)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword"): Swing has chance to apply booger on enemy.
+* [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor"): Attraction effect will remain on the booger shot stuck to an enemy. This can drag the enemy across the whole room until they reach one wall and get stuck on it, effectively disabling their normal movement.
+
+
+Interactions
+--------------
+
+
+* Any [status effect](/wiki/Status_effect "Status effect"): A booger tear cannot inflict status effects, even if the booger's appearance changes.
+* (Removed in Repentance) [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Overrides Sinus Infection.
+	+ (Added in Repentance) Hit enemies have a chance for a booger to be applied to them.
+* [![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")/[![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Booger tears will not split after killing enemies.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Overrides Sinus Infection.
+* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overrides Sinus Infection.
+* [![image](/image/Holy_Light.png)](/wiki/Holy_Light "Holy Light") [Holy Light](/wiki/Holy_Light "Holy Light"): Holy light strikes do not activate on booger shots.
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Overrides Sinus Infection. Booger tears will still appear, but will act identically to other Ipecac shots.
+* [![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder"): Lightning strikes do not activate on booger shots.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The large tear has a chance to stick to enemies. The tear cannot be controlled while it is stuck to an enemy, and cannot be removed until the enemy has died.
+	+ (Added in Repentance) The Ludovico tear no longer forcibly sticks to an enemy. Instead, damaging an enemy can create an individual booger that sticks to them. Can proc off of every tick of damage, multiple times on the same enemy, like usual.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Overrides Sinus Infection.
+* (Removed in Repentance) [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Overrides Sinus Infection.
+	+ (Added in Repentance) Hit enemies have a chance for a booger to be applied to them.
+* (Removed in Repentance) [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Overrides Sinus Infection.
+	+ (Added in Repentance) Hit enemies have a chance for a booger to be applied to them.
+* (Removed in Repentance) [![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): Overrides Sinus Infection.
+	+ (Added in Repentance) Each tick of damage has a chance to attach a booger tear to the affected enemy.
 
 

@@ -3,7 +3,6 @@
 
  # Eye of Greed ![image](/image/Eye_of_Greed.png) 
 
-
 Effects
 ---------
 

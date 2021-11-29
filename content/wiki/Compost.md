@@ -3,7 +3,6 @@
 
  # Compost ![image](/image/Compost.png) 
 
-
 Effects
 ---------
 

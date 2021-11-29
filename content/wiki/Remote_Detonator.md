@@ -3,7 +3,6 @@
 
  # Remote Detonator ![image](/image/Remote_Detonator.png) 
 
-
 Effects
 ---------
 

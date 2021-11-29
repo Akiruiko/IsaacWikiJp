@@ -3,7 +3,6 @@
 
  # The Bible ![image](/image/The_Bible.png) 
 
-
 Effects
 ---------
 

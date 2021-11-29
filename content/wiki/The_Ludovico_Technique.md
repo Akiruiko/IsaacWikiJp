@@ -3,7 +3,6 @@
 
  # The Ludovico Technique ![image](/image/The_Ludovico_Technique.png) 
 
-
 Effects
 ---------
 

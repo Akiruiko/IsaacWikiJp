@@ -3,7 +3,6 @@
 
  # Safety Pin ![image](/image/Safety_Pin.png) 
 
-
 Effects
 ---------
 

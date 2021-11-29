@@ -3,7 +3,6 @@
 
  # Lazarus' Rags ![image](/image/Lazarus%27_Rags.png) 
 
-
 Effects
 ---------
 

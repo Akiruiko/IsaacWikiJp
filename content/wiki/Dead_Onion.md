@@ -3,7 +3,6 @@
 
  # Dead Onion ![image](/image/Dead_Onion.png) 
 
-
 Effects
 ---------
 

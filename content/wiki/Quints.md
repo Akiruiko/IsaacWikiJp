@@ -3,57 +3,51 @@
 
  # Quints ![image](/image/Quints.png) 
 
-
 Effects
 ---------
 
 
-* Tears bounce off the floor.
-	+ Whenever a tear bounces, it deals splash damage to all nearby enemies for 25% of Isaac's [tear damage](/wiki/Damage "Damage").
+* Upon killing enemies, spawns a stationary [familiar](/wiki/Familiar "Familiar") in their place for the [room](/wiki/Rooms "Rooms"), up to a maximum of 5. These familiars do not follow Isaac.
+* The following familiars can spawn:
+	+ [![image](/image/Abel.png)](/wiki/Abel "Abel") [Abel](/wiki/Abel "Abel")
+	+ [![image](/image/Boiled_Baby.png)](/wiki/Boiled_Baby "Boiled Baby") [Boiled Baby](/wiki/Boiled_Baby "Boiled Baby")
+	+ [![image](/image/Brother_Bobby.png)](/wiki/Brother_Bobby "Brother Bobby") [Brother Bobby](/wiki/Brother_Bobby "Brother Bobby")
+	+ [![image](/image/Demon_Baby.png)](/wiki/Demon_Baby "Demon Baby") [Demon Baby](/wiki/Demon_Baby "Demon Baby")
+	+ [![image](/image/Freezer_Baby.png)](/wiki/Freezer_Baby "Freezer Baby") [Freezer Baby](/wiki/Freezer_Baby "Freezer Baby")
+	+ [![image](/image/Ghost_Baby.png)](/wiki/Ghost_Baby "Ghost Baby") [Ghost Baby](/wiki/Ghost_Baby "Ghost Baby")
+	+ [![image](/image/Guardian_Angel.png)](/wiki/Guardian_Angel "Guardian Angel") [Guardian Angel](/wiki/Guardian_Angel "Guardian Angel")
+	+ [![image](/image/Harlequin_Baby.png)](/wiki/Harlequin_Baby "Harlequin Baby") [Harlequin Baby](/wiki/Harlequin_Baby "Harlequin Baby")
+	+ [![image](/image/Lil_Brimstone.png)](/wiki/Lil_Brimstone "Lil Brimstone") [Lil Brimstone](/wiki/Lil_Brimstone "Lil Brimstone")
+	+ [![image](/image/Little_Steven.png)](/wiki/Little_Steven "Little Steven") [Little Steven](/wiki/Little_Steven "Little Steven")
+	+ [![image](/image/Multidimensional_Baby.png)](/wiki/Multidimensional_Baby "Multidimensional Baby") [Multidimensional Baby](/wiki/Multidimensional_Baby "Multidimensional Baby")
+	+ [![image](/image/Robo-Baby.png)](/wiki/Robo-Baby "Robo-Baby") [Robo-Baby](/wiki/Robo-Baby "Robo-Baby")
+	+ [![image](/image/Rotten_Baby.png)](/wiki/Rotten_Baby "Rotten Baby") [Rotten Baby](/wiki/Rotten_Baby "Rotten Baby")
+	+ [![image](/image/Seraphim.png)](/wiki/Seraphim "Seraphim") [Seraphim](/wiki/Seraphim "Seraphim")
+	+ [![image](/image/Sister_Maggy.png)](/wiki/Sister_Maggy "Sister Maggy") [Sister Maggy](/wiki/Sister_Maggy "Sister Maggy")
+* This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
 
 
 Notes
 -------
 
 
-* The bounces increase effective [range](/wiki/Range "Range") without affecting the stat, usually by around one third.
-* Indirectly acquiring [![image](/image/Rubber_Cement.png)](/wiki/Rubber_Cement "Rubber Cement") [Rubber Cement](/wiki/Rubber_Cement "Rubber Cement") through starting an  [(Eden)](/wiki/Eden "Eden") [Eden](/wiki/Eden "Eden") run or the [![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4") and [![image](/image/D100.png)](/wiki/D100 "D100") [D100](/wiki/D100 "D100") counts towards unlocking the item.
-
-
-Synergies
------------
-
-
-* (Added in Repentance)[![image](/image/Bob%27s_Rotten_Head.png)](/wiki/Bob%27s_Rotten_Head "Bob's Rotten Head") [Bob's Rotten Head](/wiki/Bob%27s_Rotten_Head "Bob's Rotten Head"): Will now bounce once, causing two explosions and two gas clouds to appear.
-* [![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture"): Bone tears will bounce normally, and bone shards will only bounce once.
-* [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body") / [![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria") / [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Tears release smaller tears every time they bounce.
-* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Bombs bounce, dealing damage to nearby enemies when they bounce.
-* [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"): The bone club bounces when thrown.
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): The explosive shot bounces, poisoning and dealing high damage to nearby enemies every time it bounces.
-* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The tear constantly bounces.
-	+ With [![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture"), bone shards burst on every bounce.
-	+ With [![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder"), electricity sparks on every bounce.
-* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): The knife bounces as it flies away from Isaac. Each bounce splashes, dealing the current damage of Isaac's tears.
-* [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung"): All tears bounce simultaneously, greatly increasing reach of the burst.
-* [![image](/image/Mysterious_Liquid.png)](/wiki/Mysterious_Liquid "Mysterious Liquid") [Mysterious Liquid](/wiki/Mysterious_Liquid "Mysterious Liquid"): Tears leave a pool of creep with each bounce.
-* [![image](/image/Pop!.png)](/wiki/Pop! "Pop!") [Pop!](/wiki/Pop! "Pop!"): Eyeball tears bounce repeatedly against the floor when they are about to disappear, but can be knocked by other tears to reset their range, meaning tears can be kept in the air forever as long as they are hit when they are bouncing against the floor.
+* Killing the heads thrown by [Rag Man](/wiki/Rag_Man "Rag Man") before they turn into a [Ragling](/wiki/Rag_man%27s_Rag_Ling "Rag man's Rag Ling") is not counted as a kill and will not spawn a baby.
+* Getting hit by an enemy and Spawning a Baby from the same enemy at the same time crashes the game.
+* The same familiar can spawn multiple times.
+* Despite being stationary, tear-shooting babies will still inherit Isaac's movement, angling their tears accordingly.
+* Enemies killed by [Dark Esau](/wiki/Dark_Esau "Dark Esau") count as yours and will spawn a baby.
+* During [The Beast](/wiki/The_Beast "The Beast") fight, familiars spawned by Quints stay on screen throughout the chase sequence.
+* When playing as  [(Tainted Lazarus)](/wiki/Tainted_Lazarus "Tainted Lazarus") [Tainted Lazarus](/wiki/Tainted_Lazarus "Tainted Lazarus"), Quints will not disappear on [![image](/image/Flip.png)](/wiki/Flip "Flip") [Flip](/wiki/Flip "Flip") but instead give you the ability to spawn more Quints if you Flip again. This is very effective in Greed mode and Boss rush because you flip automatically when completing a wave, giving you more Quints for every other wave.
 
 
 Interactions
 --------------
 
 
-* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Overrides Flat Stone.
-* [![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture"): No split tears on bounces.
-* [![image](/image/Dead_Eye.png)](/wiki/Dead_Eye "Dead Eye") [Dead Eye](/wiki/Dead_Eye "Dead Eye"): Each time the tear touches the ground, there is a chance for the damage bonus to reset, making it nearly impossible to stack or keep it.
-* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overrides Flat Stone.
-* [![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus"): The effective range of Incubus' tears is roughly doubled, with a single bounce in the middle of the flight.
-* [![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder"): No electricity on bounces.
-* [![image](/image/Kidney_Stone.png)](/wiki/Kidney_Stone "Kidney Stone") [Kidney Stone](/wiki/Kidney_Stone "Kidney Stone"): The stone fired by Kidney Stone doesn't bounce.
-* [![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): Initial tears will act as normal for Lachryphagy but tears from burst will bounce.
-* [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Overrides Flat Stone.
-* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Overrides Flat Stone.
-* [![image](/image/Technology_Zero.png)](/wiki/Technology_Zero "Technology Zero") [Technology Zero](/wiki/Technology_Zero "Technology Zero"): Only the last two tears will connect via electricity..
-* [![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): Beams continually shrink and grow. Shrunken beams do roughly 75% of normal beams' damage.
+* [(Baby-Bender)](/wiki/Baby-Bender "Baby-Bender") [Baby-Bender](/wiki/Baby-Bender "Baby-Bender"): All shooting familiars spawned are affected, save for Little Steven and Seraphim.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Affects Quints familiars, doubling their damage.
+* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Existing Quints familiars will not be duplicated, nor more will be created. If Isaac has no other familiars, the generated Demon Baby will hover with the Quints instead of following Isaac.
+* [![image](/image/King_Baby.png)](/wiki/King_Baby "King Baby") [King Baby](/wiki/King_Baby "King Baby"): Familiars do not follow King Baby, nor are the familiars aiming independently at enemies.
+* [![image](/image/Sacrificial_Altar.png)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar"): The item will be lost, and each spawned familiar counts as one sacrifice. If Quints is sacrificed first (or is the only item available to sacrifice) and at least two familiars are summoned, two Devil Room items will be spawned while only losing one item.
 
 

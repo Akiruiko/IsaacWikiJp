@@ -3,39 +3,24 @@
 
  # 1up! ![image](/image/1up!.png) 
 
-
 Effects
 ---------
 
 
-* On use, Isaac raises the candle above his head. On pressing a fire button, a red flame, similar to a [red fireplace](/wiki/Fire_Places "Fire Places"), will fire in the chosen direction.
-	+ The flame deals 23 damage per tick, and can hit up to 5 times for a maximum of 115 damage per flame.
-	+ The flame also destroys enemy shots it comes into contact with, which decreases its size each time being hit until the flame is entirely extinguished by this process.
-* (Removed in Repentance) The flame projectile is persistent and will remain active in the [room](/wiki/Room "Room") until it deals a set amount of damage. It can pass over pits, but can not travel through [obstacles](/wiki/Obstacles "Obstacles").
-	+ (Added in Repentance) Flames will also disappear after 10 seconds.
-* While Isaac holds the candle above his head, his movement speed is reduced.
-* (Removed in Repentance) Flames remain active until depleted by dealing damage to enemies or upon changing rooms.
-* (Removed in Repentance) There is no limit to the number of fires that can be active. This is useful in situations where mob spawning can be controlled: for example, beating [Boss Rush](/wiki/Boss_Rush "Boss Rush") or [Greed Mode](/wiki/Greed_Mode "Greed Mode") as  [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost"). This is time-consuming but can be viable if your other sources of damage are weak or unreliable.
-	+ (Added in Afterbirth) Boss behavior in Boss Rush is not as predictable as in the original game, so more fires must be placed around the room.
-* (Removed in Repentance) It will block Isaac's tears but won't burn him. Isaac's tears can also shrink the size of the flame.
-	+ (Added in Repentance) Flames do not block player shots, nor are they put out by them.
-* Flames will destroy [shopkeepers](/wiki/Shopkeeper "Shopkeeper").
-* (Added in Repentance) Flames will turn certain enemies (such as [Hoppers](/wiki/Hopper "Hopper") and [Clotties](/wiki/Clotty "Clotty")) into their flaming variants, making them stronger. The flame is unable to damage these monsters.
+* Gives Isaac an extra life. Upon death, he will respawn in the most recent non-hostile room with full health, after which 1up! will disappear.
+	+ If Isaac has no Red Heart Containers, he'll respawn with a Half [Soul Heart](/wiki/Soul_Heart "Soul Heart") instead.
+* The 1up! mushroom begins following Isaac like a familiar upon pickup, but doesn't do anything. It disappears when its life is used up.
+* (Added in Afterbirth) This item belongs to the [Fun Guy](/wiki/Fun_Guy "Fun Guy") set. Collecting three items from this set will transform Isaac into a walking mushroom.
 
 
-Synergies
------------
+Notes
+-------
 
 
-* [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): Decreases cooldown.
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps in the middle ring. The wisps shoot small flames instead of tears, with a very high tear delay; flames last for 5 seconds or until they block 2 shots and/or deal 2 ticks of damage. The wisps do not persist between rooms, and the damage they deal does not increase with [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!") or scale up on later floors.
-
-
-Interactions
---------------
-
-
-* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
-* (Removed in Repentance)[![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): When the fire hits the tear, the tear resets and appears again on the player.
+* Resurrection items activate in a [set order](/wiki/Category:Revival_items "Category:Revival items"). 1up! is (Removed in Repentance) 1st / (Added in Repentance) 2nd in this order after [(Soul of Lazarus)](/wiki/Cards_and_Runes "Soul of Lazarus") [Soul of Lazarus](/wiki/Cards_and_Runes "Cards and Runes").
+* [(???)](/wiki/%3F%3F%3F_(Character) "???") [???](/wiki/%3F%3F%3F_(Character) "??? (Character)") / (Added in Repentance)  [(Tainted ???)](/wiki/Tainted_%3F%3F%3F "Tainted ???") [Tainted ???](/wiki/Tainted_%3F%3F%3F "Tainted ???") /  [(Tainted Bethany)](/wiki/Tainted_Bethany "Tainted Bethany") [Tainted Bethany](/wiki/Tainted_Bethany "Tainted Bethany") /  [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten") will each respawn with 3 [Soul Hearts](/wiki/Soul_Hearts "Soul Hearts").
+* (Added in Afterbirth †)  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten") will respawn with 3 filled [Bone Hearts](/wiki/Bone_Heart "Bone Heart") (notably more than his starting total) and  [![image](/image/The_Soul.png)](/wiki/The_Soul_(Character) "The Soul") [The Soul](/wiki/The_Soul_(Character) "The Soul (Character)") with whatever Soul and Black Hearts he had on death.
+	+ Dying as The Soul respawns him with a Half Soul Heart and The Forgotten with whatever Bone Hearts he had on death.
+* (Added in Repentance)  [(Dark Judas)](/wiki/Dark_Judas "Dark Judas") [Dark Judas](/wiki/Dark_Judas "Dark Judas") /  [(Tainted Judas)](/wiki/Tainted_Judas "Tainted Judas") [Tainted Judas](/wiki/Tainted_Judas "Tainted Judas") will respawn with 2 [Black Hearts](/wiki/Black_Heart "Black Heart").
 
 

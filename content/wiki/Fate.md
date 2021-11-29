@@ -3,7 +3,6 @@
 
  # Fate ![image](/image/Fate.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Knockout Drops ![image](/image/Knockout_Drops.png) 
 
-
 Effects
 ---------
 

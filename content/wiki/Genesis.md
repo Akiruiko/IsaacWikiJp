@@ -3,7 +3,6 @@
 
  # Genesis ![image](/image/Genesis.png) 
 
-
 Effects
 ---------
 

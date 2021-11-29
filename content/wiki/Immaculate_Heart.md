@@ -3,55 +3,41 @@
 
  # Immaculate Heart ![image](/image/Immaculate_Heart.png) 
 
-
 Effects
 ---------
 
 
-* Adds a 20% chance to shoot [petrifying tears](/wiki/Petrification "Petrification"), which stop enemies in place and prevent them from moving or attacking.
-* (Removed in Repentance) +0.25 [range](/wiki/Range "Range"). ((Removed in Afterbirth) not applied until the next time Isaac's range stat is updated).
-* (Added in Repentance) +0.38 [range](/wiki/Range "Range").
-* +0.5 [tear height](/wiki/Tear_height "Tear height"). ((Removed in Afterbirth) not applied until the next time Isaac's tear height is updated).
-* (Added in Afterbirth) This item belongs to the [Yes Mother?](/wiki/Yes_Mother%3F "Yes Mother?") set. Collecting three items from this set will transform Isaac into his mother.
-
-
-Notes
--------
-
-
-* The activation chance depends on the [luck](/wiki/Luck "Luck") stat, and goes up to around 50% with approximately 20 luck.
-* Petrifying a [Heart](/wiki/Mask_%2B_Heart "Mask + Heart") also freezes the Mask bound to it.
-* Petrifying an enemy with a weak zone (Scolex or Carrion Queen) will make the enemy take damage anywhere while it is petrified, making combat significantly easier.
+* Isaac will frequently fire extra [spectral tears](/wiki/Spectral_tears "Spectral tears") that orbit around him until they hit the ground, similar to [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet"). These tears mimic Isaac's in most cases.
+* x1.2 [damage](/wiki/Damage "Damage") multiplier. This multiplier does not stack with multiple Immaculate Hearts.
+* Adds one Red [Heart Container](/wiki/Heart_Container "Heart Container") and fully replenishes Isaac's health.
+* This item belongs to the [Seraphim](/wiki/Seraphim_(Transformation) "Seraphim (Transformation)") set. Collecting three items from this set will transform Isaac into an angel.
 
 
 Synergies
 -----------
 
 
-* (Added in Afterbirth †)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")/[![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body")/(Added in Afterbirth †)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria")/[![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): If the main tear causes petrification, split tears will too.
-* (Added in Afterbirth †)[![image](/image/Finger!.png)](/wiki/Finger! "Finger!") [Finger!](/wiki/Finger! "Finger!"): Finger can also apply the petrification effect.
-* (Added in Afterbirth †)[![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): If freezing tears are fed first when they burst, the split tears can also freeze enemies.
-* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The tear flickers red, capable of petrifying enemies when it does.
+* [![image](/image/Angelic_Prism.png)](/wiki/Angelic_Prism "Angelic Prism") [Angelic Prism](/wiki/Angelic_Prism "Angelic Prism"): The extra tears share the same orbit as Angelic Prism, making them very easy to split.
+* [![image](/image/Chemical_Peel.png)](/wiki/Chemical_Peel "Chemical Peel") [Chemical Peel](/wiki/Chemical_Peel "Chemical Peel"): Some of the orbiting tears will gain Chemical Peel's 2 flat damage bonus.
+* [![image](/image/Death%27s_Touch.png)](/wiki/Death%27s_Touch "Death's Touch") [Death's Touch](/wiki/Death%27s_Touch "Death's Touch"): Death's Touch tear modification will also affect the orbiting tears.
+* [![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria"): The orbiting tears will be affected by Haemolacria but the tears created upon hit will not orbit.
+* [![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): Lachryphagy will affect the orbiting tears and become bigger when in contact with other tears. The Lachryphagy tears will split upon hit and the split shots will orbit around the point where the original tear had split.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Immaculate Heart will shoot orbiting tears at all times.
+* [![image](/image/Urn_of_Souls.png)](/wiki/Urn_of_Souls "Urn of Souls") [Urn of Souls](/wiki/Urn_of_Souls "Urn of Souls"): Each individual flame shot from the Urn has a chance to spawn an orbiting tear.
 
 
 Interactions
 --------------
 
 
-* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The beam can occasionally freeze enemies with no visual difference.
-* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Occasionally fires missiles that can freeze enemies. No visual difference.
-* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Lasers can occasionally freeze enemies with no visual difference.
-* (Added in Afterbirth †)[![image](/image/Technology_Zero.png)](/wiki/Technology_Zero "Technology Zero") [Technology Zero](/wiki/Technology_Zero "Technology Zero"): The electricity that is connecting tears has a chance to freeze enemies.
+* [![image](/image/Anti-Gravity.png)](/wiki/Anti-Gravity "Anti-Gravity") [Anti-Gravity](/wiki/Anti-Gravity "Anti-Gravity"): Tears will orbit very close and fast around Isaac's body, and return to normal orbit once he stops firing.
 
 
-Bugs
-------
-
-
-
-
-| (Bug) Bug!
- | Enemies with multiple segments ([Chub](/wiki/Chub "Chub"), [Pin](/wiki/Pin "Pin"), etc.) can be petrified and have their segments destroyed individually, but continue to live with any remaining health. This can be problematic at times especially with [Carrion Queen](/wiki/Carrion_Queen "Carrion Queen"), as you could destroy the "tail" or center body segment when Carrion Queen is petrified, thus making you have to petrify her again, or use bombs to do damage.
- |
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") / [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus") / [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus") / [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife") / [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology") / [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): No unique interactions; regular tears are generated which orbit Isaac normally.
+* [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk"): The orbiting tears will not scale with the charge of the tears.
+* [![image](/image/Eye_of_the_Occult.png)](/wiki/Eye_of_the_Occult "Eye of the Occult") [Eye of the Occult](/wiki/Eye_of_the_Occult "Eye of the Occult"): Orbiting tears cannot be controlled.
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Orbiting tears explode.
+* [(Tainted Bethany)](/wiki/Tainted_Bethany "Tainted Bethany") [Tainted Bethany](/wiki/Tainted_Bethany "Tainted Bethany"): On pickup, grants 12 blood charges.
+* [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2"): The laser does not contribute in generating orbiting tears.
 
 

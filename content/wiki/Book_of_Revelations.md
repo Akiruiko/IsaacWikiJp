@@ -3,7 +3,6 @@
 
  # Book of Revelations ![image](/image/Book_of_Revelations.png) 
 
-
 Effects
 ---------
 

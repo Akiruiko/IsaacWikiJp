@@ -3,7 +3,6 @@
 
  # Mom's Pearls ![image](/image/Mom%27s_Pearls.png) 
 
-
 Effects
 ---------
 

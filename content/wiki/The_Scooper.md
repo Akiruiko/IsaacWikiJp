@@ -3,29 +3,20 @@
 
  # The Scooper ![image](/image/The_Scooper.png) 
 
-
 Effects
 ---------
 
 
-* Spawns a [familiar](/wiki/Familiar "Familiar") that follows Isaac and charges across the [room](/wiki/Rooms "Rooms") when Isaac fires, dealing 2.7 damage per tick or 40.5 damage per second to enemies it comes in contact with.
-	+ The familiar's charging speed is very slow, unlike its counterpart [![image](/image/Little_Chubby.png)](/wiki/Little_Chubby "Little Chubby") [Little Chubby](/wiki/Little_Chubby "Little Chubby").
-	+ The familiar blocks enemy shots.
+* Summons [![image](/image/The_Peeper.png)](/wiki/The_Peeper "The Peeper") [The Peeper](/wiki/The_Peeper "The Peeper") for the current room, which also leaves a trail of red [creep](/wiki/Creep "Creep").
+	+ The Peeper deals 12 contact damage per tick (36 per second) and the creep it trails deals 2 damage per tick (20 per second).
+	+ The Peeper can block enemy shots.
+	+ All tears shot from the right eye will deal 34% more damage, same as with [![image](/image/The_Peeper.png)](/wiki/The_Peeper "The Peeper") [The Peeper](/wiki/The_Peeper "The Peeper") affecting the left eye.
 
 
-Notes
--------
+Synergies
+-----------
 
 
-* Big Chubby takes 6 seconds to travel the other end of normal-sized rooms.
-* Big Chubby will travel forward until hitting an obstacle or wall.
-* Big Chubby will continue to travel forward between rooms.
-
-
-Interactions
---------------
-
-
-* [(Duct Tape)](/wiki/Duct_Tape "Duct Tape") [Duct Tape](/wiki/Duct_Tape "Duct Tape"): Big Chubby stays in place relative to Isaac until it is fired.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns white-glowing eyeball wisps on the middle ring. They function the same as normal wisps, though with slightly lower health.
 
 

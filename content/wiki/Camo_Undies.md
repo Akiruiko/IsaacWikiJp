@@ -3,7 +3,6 @@
 
  # Camo Undies ![image](/image/Camo_Undies.png) 
 
-
 Effects
 ---------
 

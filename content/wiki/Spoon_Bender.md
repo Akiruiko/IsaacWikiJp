@@ -3,41 +3,33 @@
 
  # Spoon Bender ![image](/image/Spoon_Bender.png) 
 
-
 Effects
 ---------
 
 
-* Upon use, re-rolls all [monsters](/wiki/Monsters "Monsters") in the [room](/wiki/Room "Room").
-* (Added in Repentance) Will attempt to re-roll monsters into ones with a similar amount of HP.
-
-
-Notes
--------
-
-
-* (Removed in Repentance) Re-rolling a monster will replace it with an entirely new one from any floor, making it dangerous to use early on in the game (as Isaac could get monsters from [(Depths)](/wiki/Depths "Depths") [Depths](/wiki/Depths "Depths") or later).
-* (Added in Repentance) D10 attempts to reroll monsters into those with similar max HP, making it somewhat safer to use.
-* (Removed in Repentance) The D10 generally will not reroll [Bosses](/wiki/Boss "Boss") but can reroll monsters spawned by bosses.
-* Using this item can cause some rooms to become impossible to clear. Jumping or flying monsters may become trapped behind rocks after being rerolled, and therefore become unbeatable.
-	+ Sealed doors open after 2 minutes, though there are situations that can prevent this failsafe from triggering.
-* (Added in Afterbirth) Flying monsters will only be rerolled into other flying monsters, (Removed in Repentance) and ground monsters can only be rerolled into ground monsters ( [(Horf)](/wiki/Horf "Horf") [Horfs](/wiki/Horf "Horf") are classified as ground monsters by the D10).
-* (Added in Repentance) Some invincible enemies will be rerolled, while others (including most Grimace variants) are completely unaffected.
-* Using this item in a room with [(Mom's Hand)](/wiki/Mom%27s_Hand "Mom's Hand") [Mom's Hand](/wiki/Mom%27s_Hand "Mom's Hand") can be very dangerous, as unless they have already landed, they will be directly on top of Isaac, resulting in the new monsters spawning directly on top of Isaac, instantly dealing contact damage.
-* Using this item, then exiting the room, such as by teleporting or a bombed door, will cause the enemies to be in their original forms upon Isaac's return.
+* Grants [homing tears](/wiki/Homing_tears "Homing tears").
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns orange wisps in the middle ring. Tears shot from these wisps have a 10% chance to reroll enemies on hit.
+* (Added in Repentance)[![image](/image/Aquarius.png)](/wiki/Aquarius "Aquarius") [Aquarius](/wiki/Aquarius "Aquarius"): Trail of creep is purple and homes in on enemies.
+* [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel") / [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") / (Added in Repentance) [(Tainted Azazel)](/wiki/Tainted_Azazel "Tainted Azazel") [Tainted Azazel](/wiki/Tainted_Azazel "Tainted Azazel") / [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology") / [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2") / (Added in Afterbirth)[![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Beams curve toward enemies.
+* (Added in Afterbirth †)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture") / [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body") / [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Tears and split tears are homing.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): The bombs slide towards enemies.
+* (Added in Afterbirth)[![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): Tears will travel in the direction of the cross-hairs until close enough to home in on an enemy.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): The knife curves towards enemies.
 
 
 Interactions
 --------------
 
 
-* (Removed in Repentance)[(Broken Remote)](/wiki/Broken_Remote "Broken Remote") [Broken Remote](/wiki/Broken_Remote "Broken Remote"): Using D10 while holding this will first teleport Isaac, and then reroll the enemies in the new room.
+* (Added in Afterbirth)[![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Cursor slides towards enemies.
+* (Added in Repentance)[![image](/image/Eye_of_the_Occult.png)](/wiki/Eye_of_the_Occult "Eye of the Occult") [Eye of the Occult](/wiki/Eye_of_the_Occult "Eye of the Occult"): Tears home in on enemies when not being maneuvered.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The tear will attempt to home towards a single target, even if it hits a different enemy on its way there, making it difficult to control.
+	+ (Added in Repentance) The changes to homing tears make it nearly impossible to maintain control of the shot while it's near an enemy.
+* (Added in Afterbirth †)[![image](/image/Technology_Zero.png)](/wiki/Technology_Zero "Technology Zero") [Technology Zero](/wiki/Technology_Zero "Technology Zero"): The electricity is unaffected.
 
 

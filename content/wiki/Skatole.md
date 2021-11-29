@@ -3,7 +3,6 @@
 
  # Skatole ![image](/image/Skatole.png) 
 
-
 Effects
 ---------
 

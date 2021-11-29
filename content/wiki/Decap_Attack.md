@@ -3,30 +3,35 @@
 
  # Decap Attack ![image](/image/Decap_Attack.png) 
 
+Effects
+---------
 
-Effect
---------
 
-
-* Spawns a [familiar](/wiki/Familiar "Familiar") that follows Isaac around and fires tears with random effects similar to other familiars.
-* The shot types and their damage are:
-	+ Short-range blood tear for 3 damage.
-	+ Plain red tear for 3.5 damage.
-	+ V-pattern double shot for 3.5 damage each.
-	+ [Charming](/wiki/Charm "Charm") purple tear for 3.5 damage.
-	+ [Slowing](/wiki/Slow "Slow") black tear for 3.5 damage.
-	+ [Spectral](/wiki/Spectral_tears "Spectral tears") tear for 3.5 damage.
-	+ Long-range [homing](/wiki/Homing_tears "Homing tears") violet tear for 3.5 damage.
-	+ Long-range [spectral](/wiki/Spectral_tears "Spectral tears") and [homing](/wiki/Homing_tears "Homing tears") tear for 3.5 damage.
-	+ Blood tear for 4 damage.
-	+ Large blood tear for 5 damage.
+* Throws Isaac's head while allowing to shoot from the spot it lands, blocking enemy shots as well as dealing contact damage to nearby enemies. Meanwhile, Isaac's body can no longer shoot tears.
+	+ The head does 24 damage on impact and 4 damage per tick (8 damage per second) on contact when it's on the ground.
+	+ The head can return by picking it up with the body, or by using the item again without requiring charges. Both the throwing and retaking of the head can deal damage to enemies passing through.
 
 
 Notes
 -------
 
 
-* The type of tear is randomized with each familiar shot.
-* (Added in Repentance) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
+* The operation acts similar to  [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten").
+
+
+Synergies
+-----------
+
+
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): A stationary wisp spawns where Isaac was when he threw his head that fires tears in the same direction Isaac does. The wisps do not persist between rooms.
+
+
+Interactions
+--------------
+
+
+* [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"): The head changes in sync when switching between The Forgotten and  [![image](/image/The_Soul.png)](/wiki/The_Soul_(Character) "The Soul") [The Soul](/wiki/The_Soul_(Character) "The Soul (Character)"). The Forgotten's bone attack still belongs to the body, while The Soul's tear attack belongs to the head as expected.
+* [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten"): Throws the head of Tainted Forgotten, but the bone attack still remains on his body.  [(Tainted Soul)](/wiki/Tainted_Soul "Tainted Soul") [Tainted Soul](/wiki/Tainted_Soul "Tainted Soul") can't help to retake his head. Due to lack of movement, the head can only be recalled by reactivating the item, or by throwing the body towards with Tainted Soul.
+* [![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus")/  [(Tainted Lilith)](/wiki/Tainted_Lilith "Tainted Lilith") [Tainted Lilith](/wiki/Tainted_Lilith "Tainted Lilith"): The tear from the Incubus fires from near the head, but Incubus still visually follows / comes from the body.
 
 

@@ -3,42 +3,46 @@
 
  # Hot Bombs ![image](/image/Hot_Bombs.png) 
 
-
 Effects
 ---------
 
 
-* Spawns a wisp that orbits Isaac, fires tears, blocks enemy shots, and deals contact damage to enemies, much like the ones spawned by [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues").
-* Isaac can have up to 3 rings of wisps; an inner, counter-clockwise spinning ring of 6 wisps, a center, clockwise-spinning ring of 8 wisps, and an outer, counter-clockwise spinning ring of 12 wisps, for a total of 26.
-	+ The jar initially spawns only one wisp, but spawns an additional wisp each time the jar is used, up to a maximum of 12 per use.
-
-
-Synergies
------------
-
-
-* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): The wisp amount spawned is doubled with one more added.
-
-
-Interactions
---------------
-
-
-* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Only spawns one extra wisp per use, regardless of the current wisp count.
-* [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Will spawn only one wisp per use.
+* Isaac gains +5 [(Bomb)](/wiki/Bomb "Bomb") [Bombs](/wiki/Bomb "Bomb") on pickup.
+* Placed bombs deal damage to enemies on contact and will leave behind a fire that damages enemies on contact upon exploding for 10 seconds.
+	+ (Removed in Repentance) The fire does 22 damage per tick (66 damage per second).
+	+ (Added in Repentance) The fire can block four shots and/or deal four ticks of contact damage before expiring. It deals 23 damage at full durability, 17.25 damage after taking one hit, and 11.5 damage otherwise for a maximum damage of 63.25 damage.
+	+ Fire from a Hot Bomb doesn't damage Isaac.
+	+ (Removed in Repentance) Bombs deal 1 point of contact damage to enemies.
+	+ (Added in Repentance) Bombs deal 16 contact damage to enemies.
+* (Added in Repentance) Isaac can no longer take damage from fire.
+* (Added in Repentance) Isaac produces a large circle of light, mitigating [(Curse of Darkness.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/4/4f/Curse_of_Darkness.png/revision/latest?cb=20211023084927) [Curse of Darkness](/wiki/Curses "Curses").
 
 
 Notes
 -------
 
 
-* The wisps spawned by the jar can be ones created by any Book of Virtues synergy, but the vanilla version is much more common than the variants.
-	+ While most wisps that can be given act similarly to normal wisps, there are some with effects that can potentially harm Isaac. There are two types of wisps to watch out for especially:
-		- Wisps that look like bombs will spawn [Troll Bombs](/wiki/Bombs "Bombs") when destroyed. Ones that are tinted yellow are specially notable in that they spawn Golden Troll Bombs.
-			* The only exceptions are bomb wisps with a gray tint; they do not spawn bombs when destroyed.
-		- Wisps that look like gray cubes will invoke the effect of the [![image](/image/D7.png)](/wiki/D7 "D7") [D7](/wiki/D7 "D7") when they take damage. If this happens during a Boss fight, Isaac will be teleported to a random room on the floor, which will have its enemies respawned.
-		- Wisps that fade into and out of existence have a chance to teleport non-boss enemies to a random spot in the current room when their tears hit them.
-* If jar is held, in the top left corner you will be able to see how many wisps it will spawn when used.
-* Switching the jar with other active items and then picking it up again does not reset the number of wisps that will be spawned on use.
+* If a [(Hopper)](/wiki/Hopper "Hopper") [Hopper](/wiki/Hopper "Hopper") touches a Hot Bomb, it will become a [(Flaming Hopper)](/wiki/Hopper#Flaming_Hopper "Flaming Hopper") [Flaming Hopper](/wiki/Hopper#Flaming_Hopper "Hopper").
+* The contact damage does not scale with Isaac's damage and is completely removed if Isaac acquires another bomb item that overrides the flaming bomb graphic such as [![image](/image/Mr._Mega.png)](/wiki/Mr._Mega "Mr. Mega") [Mr. Mega](/wiki/Mr._Mega "Mr. Mega") or (Added in Afterbirth)[![image](/image/Glitter_Bombs.png)](/wiki/Glitter_Bombs "Glitter Bombs") [Glitter Bombs](/wiki/Glitter_Bombs "Glitter Bombs").
+* (Added in Afterbirth †) [(Big Horn)](/wiki/Big_Horn "Big Horn") [Big Horn](/wiki/Big_Horn "Big Horn") will throw Hot Bombs at Isaac that deal contact damage.
+* If eaten by a boss such as [(Chub)](/wiki/Chub "Chub") [Chub](/wiki/Chub "Chub"), a Hot Bomb will continously deal damage to the boss until it explodes.
+
+
+Synergies
+-----------
+
+
+* [![image](/image/BBF.png)](/wiki/BBF "BBF") [BBF](/wiki/BBF "BBF") / [![image](/image/Bob%27s_Brain.png)](/wiki/Bob%27s_Brain "Bob's Brain") [Bob's Brain](/wiki/Bob%27s_Brain "Bob's Brain") / [![image](/image/Bob%27s_Rotten_Head.png)](/wiki/Bob%27s_Rotten_Head "Bob's Rotten Head") [Bob's Rotten Head](/wiki/Bob%27s_Rotten_Head "Bob's Rotten Head") / (Added in Afterbirth †)[(Locust of War)](/wiki/Locust_of_War "Locust of War") [Locust of War](/wiki/Locust_of_War "Locust of War"): These explosions are affected by Hot Bombs.
+* (Added in Afterbirth)[![image](/image/Bomber_Boy.png)](/wiki/Bomber_Boy "Bomber Boy") [Bomber Boy](/wiki/Bomber_Boy "Bomber Boy"): Bombs leave behind nine fires in a cross shaped pattern.
+
+
+Interactions
+--------------
+
+
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus") / [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Bombs/missiles are not affected by Hot Bombs.
+	+ (Added in Afterbirth) Bombs/missiles are affected by Hot Bombs.
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Shots are not affected, for Isaac shoots tears, not bombs.
+* (Added in Repentance) [![image](/image/Scatter_Bombs.png)](/wiki/Scatter_Bombs "Scatter Bombs") [Scatter Bombs](/wiki/Scatter_Bombs "Scatter Bombs"): Fires from extra bombs start with 1 less durability.
 
 

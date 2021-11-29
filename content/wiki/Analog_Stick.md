@@ -3,7 +3,6 @@
 
  # Analog Stick ![image](/image/Analog_Stick.png) 
 
-
 Effects
 ---------
 

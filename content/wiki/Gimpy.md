@@ -3,7 +3,6 @@
 
  # Gimpy ![image](/image/Gimpy.png) 
 
-
 Effects
 ---------
 

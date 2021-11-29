@@ -3,7 +3,6 @@
 
  # Tech X ![image](/image/Tech_X.png) 
 
-
 Effects
 ---------
 

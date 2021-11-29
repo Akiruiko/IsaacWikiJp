@@ -3,7 +3,6 @@
 
  # Pageant Boy ![image](/image/Pageant_Boy.png) 
 
-
 Effects
 ---------
 

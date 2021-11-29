@@ -3,7 +3,6 @@
 
  # Moving Box ![image](/image/Moving_Box.png) 
 
-
 Effects
 ---------
 

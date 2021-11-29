@@ -3,7 +3,6 @@
 
  # 3 Dollar Bill ![image](/image/3_Dollar_Bill.png) 
 
-
 Effects
 ---------
 

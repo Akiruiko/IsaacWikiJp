@@ -3,7 +3,6 @@
 
  # Vengeful Spirit ![image](/image/Vengeful_Spirit.png) 
 
-
 Effects
 ---------
 

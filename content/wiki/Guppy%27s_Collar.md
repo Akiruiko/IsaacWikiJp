@@ -3,52 +3,24 @@
 
  # Guppy's Collar ![image](/image/Guppy%27s_Collar.png) 
 
-
 Effects
 ---------
 
 
-* Causes Isaac to dash a short distance. If Isaac runs into an enemy while dashing, he picks them up and a crosshair spawns under him that can be controlled with tear controls. After one second, Isaac leaps up and slams down on the crosshair with the enemy, dealing damage to them and any enemies he lands on depending on his size. On impact, this move creates circular rock waves that damage nearby enemies and destroy obstacles.
-	+ The damage the slam deals is 50 +/- 10 for each size up/down Isaac has.
-	+ Each spike in the rock wave deals 10 damage, and the range of the rock waves increases/decreases for each size up/down Isaac has.
-	+ Isaac is immune to damage for the duration of the effect, which allows him to use it to get into curse rooms and travel over spikes without taking damage.
+* Grants a permanent 50% chance to resurrect on [death](/wiki/Death "Death").
+	+ Resurrection leaves Isaac at 1/2 of a [Red Heart](/wiki/Red_Heart "Red Heart"), or half a [Soul Heart](/wiki/Soul_Heart "Soul Heart") if he had no Red Heart Containers.
+* This item belongs to the [Guppy](/wiki/Guppy "Guppy") set. Collecting three items from this set will transform Isaac into Guppy.
 
 
 Notes
 -------
 
 
-* In addition to normal enemies, Isaac is able to suplex:
-	+ [Bombs](/wiki/Bombs "Bombs") of any kind
-	+ [Bosses](/wiki/Bosses "Bosses")
-	+ [Shopkeepers](/wiki/Shopkeeper "Shopkeeper")
-	+ [Poky](/wiki/Poky "Poky") type enemies
-	+ Movable [TNT](/wiki/TNT "TNT")
-	+ [Stone Grimace](/wiki/Stone_Grimace "Stone Grimace") type enemies (they will move back to their original position after the suplex)
-	+ Fires (including [Fire Places](/wiki/Fire_Places "Fire Places"); if Isaac suplexes a fireplace, it will glitch out and leave an invisible damaging fireplace where he lands)
-	+ Using this on immobile enemies and bosses such as [Mega Maw](/wiki/Mega_Maw "Mega Maw") will result in Isaac and the enemy returning to the original location of the enemy after hitting the ground
-	+ Enemies that are normally invincible, such as the ghost of [Blighted Ovum](/wiki/Blighted_Ovum "Blighted Ovum") (which deals no damage to it) and [The Haunt](/wiki/The_Haunt "The Haunt") before it moves to the top of the room.
-	+ [(Tainted ???)](/wiki/Tainted_%3F%3F%3F "Tainted ???") [Tainted ???](/wiki/Tainted_%3F%3F%3F "Tainted ???")'s poops, making it easier to break tinted rocks and open secret rooms. After being suplexed, the broken poop can be repeatedly suplexed as well. The broken poop will block the movement of Isaac and enemies, as it is still technically intact, even though it is visually destroyed. If the broken poop is shot at by Isaac, it will be 'destroyed' and is no longer able to be suplexed.
-
-
-  
-
-
-
-
-Synergies
------------
-
-
-* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): 3 wisps are summoned where Isaac lands after using Suplex; the wisps rotate around the spot Isaac landed and fire tears in the same direction Isaac does. The wisps do not persist between rooms.
-* [![image](/image/Berserk!.png)](/wiki/Berserk! "Berserk!") [Berserk!](/wiki/Berserk! "Berserk!"), [(Soul of Samson)](/wiki/Cards_and_Runes "Soul of Samson") [Soul of Samson](/wiki/Cards_and_Runes "Cards and Runes"), or  [(Tainted Samson)](/wiki/Tainted_Samson "Tainted Samson") [Tainted Samson](/wiki/Tainted_Samson "Tainted Samson"): Suplex when used in berserk state has a unique visual effect, and will deal massive damage to the target while setting off a [![image](/image/Mama_Mega!.png)](/wiki/Mama_Mega! "Mama Mega!") [Mama Mega!](/wiki/Mama_Mega! "Mama Mega!") style explosion, destroying all [obstacles](/wiki/Obstacle "Obstacle") in the current room and dealing 200 damage to every enemy (including [Bosses](/wiki/Boss "Boss")).
-
-
-Interactions
---------------
-
-
-* [(Panic Button)](/wiki/Panic_Button "Panic Button") [Panic Button](/wiki/Panic_Button "Panic Button"): As long as Suplex! is fully charged, Panic Button automatically triggers when about to take damage, avoiding the damage and potentially grabbing an enemy in the process. Allows Isaac to grab an enemy by simply walking into them, provided the item is charged.
+* Resurrection items activate in a [set order](/wiki/Category:Revival_items "Category:Revival items"). Guppy's Collar is (Removed in Repentance) 4th / (Added in Repentance) 6th in this order after (Added in Repentance)[(Soul of Lazarus)](/wiki/Cards_and_Runes "Soul of Lazarus") [Soul of Lazarus](/wiki/Cards_and_Runes "Cards and Runes"), [![image](/image/1up!.png)](/wiki/1up! "1up!") [1up!](/wiki/1up! "1up!"),  [(Lazarus)](/wiki/Lazarus "Lazarus") [Lazarus](/wiki/Lazarus "Lazarus")' extra life, [![image](/image/Dead_Cat.png)](/wiki/Dead_Cat "Dead Cat") [Dead Cat](/wiki/Dead_Cat "Dead Cat"), and (Added in Repentance)[![image](/image/Inner_Child.png)](/wiki/Inner_Child "Inner Child") [Inner Child](/wiki/Inner_Child "Inner Child").
+* It is possible to obtain two collars by finding one in a [Red Chest](/wiki/Red_Chest "Red Chest"), without picking it up, and then finding another collar in a different Red Chest. (Removed in Repentance) However, this does not have any additional effects and does not count towards transforming into Guppy.
+	+ (Added in Repentance) Obtaining multiple copies of Guppy's Collar now grants extra lives, depending on how many copies are obtained (obtaining a second collar displays the lives count as '2?', and so on). The chance for Guppy's Collar to activate is defined with separate rolls, but increases the odds for one of the collars to revive Isaac. Additional collars also count towards the Guppy transformation.
+* Resurrecting in a (Curse Room) [Curse Room](/wiki/Curse_Room "Curse Room") may trap Isaac if he has no way of recovering health or exiting them without losing health.
+* (Added in Afterbirth †) Resurrecting via Guppy's Collar during a [Daily Challenge](/wiki/Daily_Challenge "Daily Challenge") will count as a death, even if the run is eventually completed.
 
 
 Bugs
@@ -58,41 +30,12 @@ Bugs
 
 
 | (Bug) Bug!
- | Using Suplex! in combination with [![image](/image/Mega_Mush.png)](/wiki/Mega_Mush "Mega Mush") [Mega Mush](/wiki/Mega_Mush "Mega Mush") makes you grab enemies and move them around until you leave the room. Doing this on any of the Ultra Harbingers or [The Beast](/wiki/The_Beast "The Beast") will make the enemy disappear and render you unable to move at all.
- |
+ | (Removed in Afterbirth †) When the  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper") is resurrected by Guppy's Collar, there is a chance he spawns with a Half Soul Heart instead of Coin Hearts. When an HP up is obtained, Keeper will have 1 Coin Heart, as well as the Half Soul Heart he had previously. When a second HP up is obtained, Keeper will lose the Half Soul Heart and have 2 Coin Hearts, like normal. |
 
 
 
 
 | (Bug) Bug!
- | When using Suplex! with T.Jacob on Dark Esau, then using a pill while offscreen, it will cause Dark Esau to become fused to your body. He will not be able to hurt you, and he will stay stuck on you permanently until you are put into an animation (on hit, grabbing/using items,going to the next floor, etc;) which ends the bug, reverting him to his normal properties. It can also be used on anything that is or the game considers an enemy, (ex: Mom's Couch, Mom's Dresser, Shopkeepers, etc). It can also be used on bosses as well. Using this on either stage of [Dogma](/wiki/Dogma "Dogma") will softlock the game.
- |
-
-
-  
-
-
-
-
-
-| [(Jacob and Esau Unlocks)](/wiki/Jacob_and_Esau "Jacob and Esau Unlocks") [Jacob and Esau Unlocks](/wiki/Jacob_and_Esau "Jacob and Esau") [(Jacob and Esau Unlocks)](/wiki/Jacob_and_Esau "Jacob and Esau Unlocks") |
-| --- |
-| (Added in Repentance)[(Double Baby)](/wiki/Co-op#Repentance_babies "Double Baby")[![image](/image/The_Stairway.png)](/wiki/The_Stairway "The Stairway")[![image](/image/Red_Stew.png)](/wiki/Red_Stew "Red Stew")[![image](/image/Birthright.png)](/wiki/Birthright "Birthright")[![image](/image/Damocles.png)](/wiki/Damocles "Damocles")[![image](/image/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom")[![image](/image/Inner_Child.png)](/wiki/Inner_Child "Inner Child")[![image](/image/Vanishing_Twin.png)](/wiki/Vanishing_Twin "Vanishing Twin")[![image](/image/Genesis.png)](/wiki/Genesis "Genesis")[![image](/image/Suplex!.png)](/wiki/Suplex! "Suplex!")[(Solomon's Baby)](/wiki/Co-op#Repentance_babies "Solomon's Baby")[(Illusion Baby)](/wiki/Co-op#Repentance_babies "Illusion Baby")[![image](/image/Magic_Skin.png)](/wiki/Magic_Skin "Magic Skin")[![image](/image/Friend_Finder.png)](/wiki/Friend_Finder "Friend Finder")[(The Deserter)](/wiki/Tainted_Jacob "The Deserter") |
-
-
-
-
-| [(Delirium Unlocks)](/wiki/Delirium "Delirium Unlocks") [Delirium Unlocks](/wiki/Delirium "Delirium") [(Delirium Unlocks)](/wiki/Delirium "Delirium Unlocks") |
-| --- |
-| (Added in Afterbirth †)[![image](/image/D_Infinity.png)](/wiki/D_Infinity "D Infinity")[![image](/image/Eucharist.png)](/wiki/Eucharist "Eucharist")[(Silver Dollar)](/wiki/Silver_Dollar "Silver Dollar")[![image](/image/Shade.png)](/wiki/Shade "Shade")[![image](/image/King_Baby.png)](/wiki/King_Baby "King Baby")[(Bloody Crown)](/wiki/Bloody_Crown "Bloody Crown")[![image](/image/Dull_Razor.png)](/wiki/Dull_Razor "Dull Razor")[![image](/image/Eden%27s_Soul.png)](/wiki/Eden%27s_Soul "Eden's Soul")[![image](/image/Dark_Prince%27s_Crown.png)](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown")[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture")[![image](/image/Euthanasia.png)](/wiki/Euthanasia "Euthanasia")[(Holy Card)](/wiki/Holy_Card "Holy Card")[![image](/image/Crooked_Penny.png)](/wiki/Crooked_Penny "Crooked Penny")[![image](/image/Void.png)](/wiki/Void "Void")[![image](/image/Delirious.png)](/wiki/Delirious "Delirious")[![image](/image/Lil_Delirium.png)](/wiki/Lil_Delirium "Lil Delirium")[![image](/image/Book_of_the_Dead.png)](/wiki/Book_of_the_Dead "Book of the Dead") | (Added in Repentance)[![image](/image/Star_of_Bethlehem.png)](/wiki/Star_of_Bethlehem "Star of Bethlehem")[![image](/image/Suplex!.png)](/wiki/Suplex! "Suplex!")[![image](/image/Spindown_Dice.png)](/wiki/Spindown_Dice "Spindown Dice")[![image](/image/Hypercoagulation.png)](/wiki/Hypercoagulation "Hypercoagulation")[![image](/image/Bag_of_Crafting.png)](/wiki/Bag_of_Crafting "Bag of Crafting")[![image](/image/Dark_Arts.png)](/wiki/Dark_Arts "Dark Arts")[![image](/image/IBS.png)](/wiki/IBS "IBS")[![image](/image/Sumptorium.png)](/wiki/Sumptorium "Sumptorium")[![image](/image/Berserk!.png)](/wiki/Berserk! "Berserk!")[![image](/image/Hemoptysis.png)](/wiki/Hemoptysis "Hemoptysis")[![image](/image/Flip.png)](/wiki/Flip "Flip")[(Corrupted Data)](/wiki/Corrupted_Data "Corrupted Data")[![image](/image/Ghost_Bombs.png)](/wiki/Ghost_Bombs "Ghost Bombs")[![image](/image/Gello.png)](/wiki/Gello "Gello")[![image](/image/Keeper%27s_Kin.png)](/wiki/Keeper%27s_Kin "Keeper's Kin")[![image](/image/Abyss.png)](/wiki/Abyss "Abyss")[![image](/image/Decap_Attack.png)](/wiki/Decap_Attack "Decap Attack")[![image](/image/Lemegeton.png)](/wiki/Lemegeton "Lemegeton")[![image](/image/Anima_Sola.png)](/wiki/Anima_Sola "Anima Sola") |
-
-
-
-
-| [(The Binding of Isaac: Rebirth)](/wiki/Binding_of_Isaac:_Rebirth_Wiki "The Binding of Isaac: Rebirth") [The Binding of Isaac: Rebirth](/wiki/Binding_of_Isaac:_Rebirth_Wiki "Binding of Isaac: Rebirth Wiki") [(The Binding of Isaac: Rebirth)](/wiki/Binding_of_Isaac:_Rebirth_Wiki "The Binding of Isaac: Rebirth") |
-| --- |
-| [(Achievements)](/wiki/Achievement "Achievements") [Achievements](/wiki/Achievement "Achievement") | [(Attributes)](/wiki/Attribute "Attributes") [Attributes](/wiki/Attribute "Attribute") | [(Bosses)](/wiki/Boss "Bosses") [Bosses](/wiki/Boss "Boss") | [(TarotCard.png)](/wiki/Cards_and_Runes "Cards and Runes") [Cards and Runes](/wiki/Cards_and_Runes "Cards and Runes") | [(Challenges)](/wiki/Challenge "Challenges") [Challenges](/wiki/Challenge "Challenge") | [(Chapters)](/wiki/Chapter "Chapters") [Chapters](/wiki/Chapter "Chapter") |
-| [(Characters)](/wiki/Character "Characters") [Characters](/wiki/Character "Character") | [(MainPageBabies.png)](/wiki/Co-op "Co-op") [Co-op](/wiki/Co-op "Co-op") | [(Items)](/wiki/Item "Items") [Items](/wiki/Item "Item") | [(Item pools)](/wiki/Item_pool "Item pools") [Item pools](/wiki/Item_pool "Item pool") | [(Monsters)](/wiki/Monster "Monsters") [Monsters](/wiki/Monster "Monster") | [(Objects)](/wiki/Category:Objects "Objects") [Objects](/wiki/Category:Objects "Category:Objects") |
-| [(Pickups)](/wiki/Pickup "Pickups") [Pickups](/wiki/Pickup "Pickup") | [(Pills)](/wiki/Pill "Pills") [Pills](/wiki/Pill "Pill") | [(Rooms)](/wiki/Room "Rooms") [Rooms](/wiki/Room "Room") | [(Seeds)](/wiki/Seed "Seeds") [Seeds](/wiki/Seed "Seed") | [(Transformations)](/wiki/Transformation "Transformations") [Transformations](/wiki/Transformation "Transformation") | [(Trinkets)](/wiki/Trinket "Trinkets") [Trinkets](/wiki/Trinket "Trinket") |
+ | (Removed in Afterbirth †) Guppy's Collar can be exploited to gain infinite lives. When Isaac's last will is on the screen, close the game, re-open it, and continue the run. Isaac will appear to die again, and will also have a separate chance to be resurrected. |
 
 

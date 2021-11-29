@@ -3,7 +3,6 @@
 
  # Synthoil ![image](/image/Synthoil.png) 
 
-
 Effects
 ---------
 

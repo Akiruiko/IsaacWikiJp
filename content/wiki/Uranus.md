@@ -3,7 +3,6 @@
 
  # Uranus ![image](/image/Uranus.png) 
 
-
 Effects
 ---------
 

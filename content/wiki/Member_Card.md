@@ -3,7 +3,6 @@
 
  # Member Card ![image](/image/Member_Card.png) 
 
-
 Effects
 ---------
 

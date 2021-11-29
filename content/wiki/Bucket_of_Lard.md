@@ -3,7 +3,6 @@
 
  # Bucket of Lard ![image](/image/Bucket_of_Lard.png) 
 
-
 Effects
 ---------
 

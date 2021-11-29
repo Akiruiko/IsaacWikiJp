@@ -3,60 +3,160 @@
 
  # Blank Card ![image](/image/Blank_Card.png) 
 
-
 Effects
 ---------
 
 
-* Isaac fires a spread of three tears at once.
-* (Removed in Repentance) Tears down: (Delay * 2.1) + 3
-	+ (Added in Repentance) Tears fired per second * 0.51.
+* Copies the effect of Isaac's held [card](/wiki/Card "Card") (Removed in Repentance) or [rune](/wiki/Rune "Rune").
+	+ (Added in Afterbirth / Removed in Repentance) Also mimics [(Dice Shard)](/wiki/Dice_Shard "Dice Shard") [Dice Shard](/wiki/Dice_Shard "Dice Shard") and [(Emergency Contact)](/wiki/Emergency_Contact "Emergency Contact") [Emergency Contact](/wiki/Emergency_Contact "Emergency Contact").
 
 
 Notes
 -------
 
 
-* The maximum amount of tears per volley that can be reached by combining and/or duplicating [![image](/image/20/20.png)](/wiki/20/20 "20/20") [20/20](/wiki/20/20 "20/20"), The Inner Eye, [![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider") and (Added in Afterbirth)[![image](/image/The_Wiz.png)](/wiki/The_Wiz "The Wiz") [The Wiz](/wiki/The_Wiz "The Wiz") is 16, or 20 with  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper").
+* Using the Blank Card does not expend the consumable.
+* [Pills](/wiki/Pill "Pill") can be mimicked only by (Added in Afterbirth)[![image](/image/Placebo.png)](/wiki/Placebo "Placebo") [Placebo](/wiki/Placebo "Placebo").
+* (Added in Repentance) Runes and soul stones can be mimicked only by [![image](/image/Clear_Rune.png)](/wiki/Clear_Rune "Clear Rune") [Clear Rune](/wiki/Clear_Rune "Clear Rune").
+* Using the Blank Card with a consumable that is not compatible, or no consumable at all, will spend the charge with no effect.
+
+
+### (Added in Repentance) Recharge Time
+
+
+Blank Card's recharge time changes upon use, depending on the card Isaac was holding when he used it (except in the case of using the item with no held card). This is a list of the following recharge times the card can have:
+
+
+
+**1 room:**
+
+* [(IX - The Hermit?)](/wiki/Cards_and_Runes "IX - The Hermit?") [IX - The Hermit?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(Rules Card)](/wiki/Rules_Card "Rules Card") [Rules Card](/wiki/Rules_Card "Rules Card")
+* [(Suicide King)](/wiki/Suicide_King "Suicide King") [Suicide King](/wiki/Suicide_King "Suicide King")
+
+
+
+**2 rooms:**
+
+* [(0 - The Fool)](/wiki/Cards_and_Runes "0 - The Fool") [0 - The Fool](/wiki/Cards_and_Runes "Cards and Runes")
+* [(I - The Magician)](/wiki/Cards_and_Runes "I - The Magician") [I - The Magician](/wiki/Cards_and_Runes "Cards and Runes")
+* [(II - The High Priestess)](/wiki/Cards_and_Runes "II - The High Priestess") [II - The High Priestess](/wiki/Cards_and_Runes "Cards and Runes")
+* [(IX - The Hermit)](/wiki/Cards_and_Runes "IX - The Hermit") [IX - The Hermit](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XVII - The Stars)](/wiki/Cards_and_Runes "XVII - The Stars") [XVII - The Stars](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XVIII - The Moon)](/wiki/Cards_and_Runes "XVIII - The Moon") [XVIII - The Moon](/wiki/Cards_and_Runes "Cards and Runes")
+* [(IV - The Emperor?)](/wiki/Cards_and_Runes "IV - The Emperor?") [IV - The Emperor?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(VII - The Chariot?)](/wiki/Cards_and_Runes "VII - The Chariot?") [VII - The Chariot?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XVIII - The Moon?)](/wiki/Cards_and_Runes "XVIII - The Moon?") [XVIII - The Moon?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XXI - The World?)](/wiki/Cards_and_Runes "XXI - The World?") [XXI - The World?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(Get out of Jail Free Card)](/wiki/Get_out_of_Jail_Free_Card "Get out of Jail Free Card") [Get out of Jail Free Card](/wiki/Get_out_of_Jail_Free_Card "Get out of Jail Free Card")
+* [(Joker)](/wiki/Cards_and_Runes "Joker") [Joker](/wiki/Cards_and_Runes "Cards and Runes")
+
+
+
+**3 rooms:**
+
+* [(III - The Empress)](/wiki/Cards_and_Runes "III - The Empress") [III - The Empress](/wiki/Cards_and_Runes "Cards and Runes")
+* [(VII - The Chariot)](/wiki/Cards_and_Runes "VII - The Chariot") [VII - The Chariot](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XI - Strength)](/wiki/Cards_and_Runes "XI - Strength") [XI - Strength](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XIII - Death)](/wiki/Cards_and_Runes "XIII - Death") [XIII - Death](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XV - The Devil)](/wiki/Cards_and_Runes "XV - The Devil") [XV - The Devil](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XVI - The Tower)](/wiki/Cards_and_Runes "XVI - The Tower") [XVI - The Tower](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XXI - The World)](/wiki/Cards_and_Runes "XXI - The World") [XXI - The World](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XI - Strength?)](/wiki/Cards_and_Runes "XI - Strength?") [XI - Strength?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XVI - The Tower?)](/wiki/Cards_and_Runes "XVI - The Tower?") [XVI - The Tower?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(Era Walk)](/wiki/Era_Walk "Era Walk") [Era Walk](/wiki/Era_Walk "Era Walk")
+* [(Huge Growth)](/wiki/Huge_Growth "Huge Growth") [Huge Growth](/wiki/Huge_Growth "Huge Growth")
+
+
+
+**4 rooms:**
+
+* [(IV - The Emperor)](/wiki/Cards_and_Runes "IV - The Emperor") [IV - The Emperor](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XII - The Hanged Man)](/wiki/Cards_and_Runes "XII - The Hanged Man") [XII - The Hanged Man](/wiki/Cards_and_Runes "Cards and Runes")
+* [(I - The Magician?)](/wiki/Cards_and_Runes "I - The Magician?") [I - The Magician?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(II - The High Priestess?)](/wiki/Cards_and_Runes "II - The High Priestess?") [II - The High Priestess?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(III - The Empress?)](/wiki/Cards_and_Runes "III - The Empress?") [III - The Empress?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(VI - The Lovers?)](/wiki/Cards_and_Runes "VI - The Lovers?") [VI - The Lovers?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(X - Wheel of Fortune?)](/wiki/Cards_and_Runes "X - Wheel of Fortune?") [X - Wheel of Fortune?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XIII - Death?)](/wiki/Cards_and_Runes "XIII - Death?") [XIII - Death?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XV - The Devil?)](/wiki/Cards_and_Runes "XV - The Devil?") [XV - The Devil?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(Holy Card)](/wiki/Holy_Card "Holy Card") [Holy Card](/wiki/Holy_Card "Holy Card")
+
+
+
+**6 rooms:**
+
+* [(VI - The Lovers)](/wiki/Cards_and_Runes "VI - The Lovers") [VI - The Lovers](/wiki/Cards_and_Runes "Cards and Runes")
+* [(VIII - Justice)](/wiki/Cards_and_Runes "VIII - Justice") [VIII - Justice](/wiki/Cards_and_Runes "Cards and Runes")
+* [(X - Wheel of Fortune)](/wiki/Cards_and_Runes "X - Wheel of Fortune") [X - Wheel of Fortune](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XIV - Temperance)](/wiki/Cards_and_Runes "XIV - Temperance") [XIV - Temperance](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XX - Judgement)](/wiki/Cards_and_Runes "XX - Judgement") [XX - Judgement](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XII - The Hanged Man?)](/wiki/Cards_and_Runes "XII - The Hanged Man?") [XII - The Hanged Man?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XIV - Temperance?)](/wiki/Cards_and_Runes "XIV - Temperance?") [XIV - Temperance?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XIX - The Sun?)](/wiki/Cards_and_Runes "XIX - The Sun?") [XIX - The Sun?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(Ace of Clubs)](/wiki/Cards_and_Runes "Ace of Clubs") [Ace of Clubs](/wiki/Cards_and_Runes "Cards and Runes")
+* [(Ace of Diamonds)](/wiki/Cards_and_Runes "Ace of Diamonds") [Ace of Diamonds](/wiki/Cards_and_Runes "Cards and Runes")
+* [(Ace of Hearts)](/wiki/Cards_and_Runes "Ace of Hearts") [Ace of Hearts](/wiki/Cards_and_Runes "Cards and Runes")
+* [(Ace of Spades)](/wiki/Cards_and_Runes "Ace of Spades") [Ace of Spades](/wiki/Cards_and_Runes "Cards and Runes")
+* [(A Card Against Humanity)](/wiki/A_Card_Against_Humanity "A Card Against Humanity") [A Card Against Humanity](/wiki/A_Card_Against_Humanity "A Card Against Humanity")
+* [(Chaos Card)](/wiki/Chaos_Card "Chaos Card") [Chaos Card](/wiki/Chaos_Card "Chaos Card")
+* [(Credit Card)](/wiki/Credit_Card "Credit Card") [Credit Card](/wiki/Credit_Card "Credit Card")
+* [(Wild Card)](/wiki/Cards_and_Runes "Wild Card") [Wild Card](/wiki/Cards_and_Runes "Cards and Runes")
+
+
+
+**12 rooms:**
+
+* [(V - The Hierophant)](/wiki/Cards_and_Runes "V - The Hierophant") [V - The Hierophant](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XIX - The Sun)](/wiki/Cards_and_Runes "XIX - The Sun") [XIX - The Sun](/wiki/Cards_and_Runes "Cards and Runes")
+* [(0 - The Fool?)](/wiki/Cards_and_Runes "0 - The Fool?") [0 - The Fool?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(V - The Hierophant?)](/wiki/Cards_and_Runes "V - The Hierophant?") [V - The Hierophant?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(VIII - Justice?)](/wiki/Cards_and_Runes "VIII - Justice?") [VIII - Justice?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XVII - The Stars?)](/wiki/Cards_and_Runes "XVII - The Stars?") [XVII - The Stars?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(XX - Judgement?)](/wiki/Cards_and_Runes "XX - Judgement?") [XX - Judgement?](/wiki/Cards_and_Runes "Cards and Runes")
+* [(2 of Clubs)](/wiki/Cards_and_Runes "2 of Clubs") [2 of Clubs](/wiki/Cards_and_Runes "Cards and Runes")
+* [(2 of Diamonds)](/wiki/Cards_and_Runes "2 of Diamonds") [2 of Diamonds](/wiki/Cards_and_Runes "Cards and Runes")
+* [(2 of Hearts)](/wiki/Cards_and_Runes "2 of Hearts") [2 of Hearts](/wiki/Cards_and_Runes "Cards and Runes")
+* [(2 of Spades)](/wiki/Cards_and_Runes "2 of Spades") [2 of Spades](/wiki/Cards_and_Runes "Cards and Runes")
+* [(Ancient Recall)](/wiki/Ancient_Recall "Ancient Recall") [Ancient Recall](/wiki/Ancient_Recall "Ancient Recall")
+* [(Queen of Hearts)](/wiki/Cards_and_Runes "Queen of Hearts") [Queen of Hearts](/wiki/Cards_and_Runes "Cards and Runes")
+
+
+
+**Single use:**
+* [(? Card)](/wiki/%3F_Card "? Card") [? Card](/wiki/%3F_Card "? Card")
+	+ ? Card has a unique interaction with Blank Card, noted in the synergies section.
+
+
+
+
+
 
 
 Synergies
 -----------
 
 
-* (Removed in Repentance)[![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye"): At full charge, fires 3 rows of 4 tears, resulting in 12 tears.
-	+ (Added in Repentance) At full charge, fires 3 rows of 5 tears, resulting in 15 tears.
-* [![image](/image/Doctor%27s_Remote.png)](/wiki/Doctor%27s_Remote "Doctor's Remote") [Doctor's Remote](/wiki/Doctor%27s_Remote "Doctor's Remote") / [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Replaces the single missile strike with a barrage of three consecutive missiles.
-* (Added in Afterbirth / Removed in Repentance)[![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") The Inner Eye: Effects stack, resulting in 6 tears being shot with no further decrease in fire rate.
-	+ (Added in Repentance) Adds an additional tear with no further decrease in fire rate. This can be stacked up to 16 tears.
-* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The tear gains two orbiting tears.
-* (Removed in Repentance)[![image](/image/Polyphemus.png)](/wiki/Polyphemus "Polyphemus") [Polyphemus](/wiki/Polyphemus "Polyphemus"): Tear rate is not lowered further. Damage is increased by a flat +5 instead of a normal Polyphemus boost.
-	+ (Added in Repentance) Damage is increased by a flat +5 instead of a normal Polyphemus boost. Decreases fire rate by a little.
-* [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2"): The laser is not affected by The Inner Eye.
-* (Added in Afterbirth)[![image](/image/Tractor_Beam.png)](/wiki/Tractor_Beam "Tractor Beam") [Tractor Beam](/wiki/Tractor_Beam "Tractor Beam"): All tears are fired along the beam, but some may be hard to see as they overlap each other.
+* (Added in Repentance)[(Butter!)](/wiki/Butter! "Butter!") [Butter!](/wiki/Butter! "Butter!"): Because Blank Card is dropped upon usage, the recharge time for it is reset to 4, allowing to use more expensive cards much more frequently.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps in the center ring, looking like cards. The wisps spawn [Cards](/wiki/Cards_and_Runes#Cards "Cards and Runes") when destroyed, and enemies killed by the wisps' tears have a 15% chance to drop a Card. The effect of the wisps and the types of cards they spawn are independent from Blank Card's charge time and the most recently used card.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery")/(Added in Afterbirth † / Removed in Repentance)[![image](/image/Tarot_Cloth.png)](/wiki/Tarot_Cloth "Tarot Cloth") [Tarot Cloth](/wiki/Tarot_Cloth "Tarot Cloth"): Essentially uses the card twice. If used with the Two of Hearts/Diamonds/etc. cards it will quadruple whatever amount Isaac has.
+	+ **Car Battery** + **Tarot Cloth**: The card is used 4 times at once.
+* (Added in Afterbirth / Removed in Repentance) [(2 of Diamonds)](/wiki/Cards_and_Runes "2 of Diamonds") [2 of Diamonds](/wiki/Cards_and_Runes "Cards and Runes") + [![image](/image/Restock.png)](/wiki/Restock "Restock") [Restock](/wiki/Restock "Restock") or in [Greed mode](/wiki/Greed_mode "Greed mode"): [Coins](/wiki/Coins "Coins") can be infinitely generated by buying [Lil' Batteries](/wiki/Lil%27_Battery "Lil' Battery"). As Lil' Batteries only cost 5 coins, as long as Isaac starts with at least 11, the maximum of 99 coins can be quickly reached.
+	+ (Added in Repentance) This cannot be repeated infinitely, as **Restock** now increases the price of a shop slot every time something is purchased from it. Having 12 coins will very slowly allow Isaac to obtain 99 coins, however.
+		- This does not apply in greed mode.
+		- Having [![image](/image/Deep_Pockets.png)](/wiki/Deep_Pockets "Deep Pockets") [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets") allows this to once again be repeated infinitely, as the price will cap at 999 coins.
+* (Added in Afterbirth)[(? Card)](/wiki/%3F_Card "? Card") [? Card](/wiki/%3F_Card "? Card"): Teleports Isaac to the (I AM ERROR) [I AM ERROR](/wiki/I_AM_ERROR "I AM ERROR") room. This will consume both the Blank Card and the ? Card.
+	+ An exception is when they are used on [(Chest)](/wiki/Chest_(Floor) "Chest") [Chest](/wiki/Chest_(Floor) "Chest (Floor)"), [(Dark Room)](/wiki/Dark_Room "Dark Room") [Dark Room](/wiki/Dark_Room "Dark Room"), or [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") floors. Using them here consumes both the Blank Card and the ? Card and spawns an I AM ERROR [Shopkeeper](/wiki/Shopkeeper "Shopkeeper").
+		- (Added in Repentance) Likewise occurs on [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") floors.
+* (Removed in Repentance) [(Rune of Jera)](/wiki/Cards_and_Runes "Rune of Jera") [Rune of Jera](/wiki/Cards_and_Runes "Cards and Runes"): Allows Isaac to copy pickups with every use. This combination can double [Lil' Batteries](/wiki/Lil%27_Battery "Lil' Battery"), which can allow for game-breaking combos, due to repeated use of the synergy.
+	+ Spawning too many items will cause objects to despawn. This can even despawn the [End](/wiki/Endings "Endings") Chest after finishing a final boss fight.
 
 
 Interactions
 --------------
 
 
-* (Removed in Afterbirth)[![image](/image/20/20.png)](/wiki/20/20 "20/20") [20/20](/wiki/20/20 "20/20"): Overridden by The Inner Eye.
-	+ (Added in Afterbirth / Removed in Repentance) Shoots 5 tears with no further decrease in fire rate.
-	+ (Added in Repentance) Removes the fire rate penalty while reducing damage to 75%. Additional copies will add one additional tear with no further change to damage/fire rate.
-* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Fires 3 beams. Affects Azazel's short-ranged version the same way.
-* (Added in Afterbirth †) [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"): Triples bones thrown and swung. Significant increase in tear delay.
-* (Added in Afterbirth / Removed in Repentance) [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper"): Fires 6 tears with significantly increased tear delay.
-	+ (Added in Repentance) Fires 4 tears with significantly increased tear delay.
-* (Added in Repentance) [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper"): Only fires 5 tears in the volley, while still gaining significantly increased tear delay.
-* (Added in Afterbirth)[![image](/image/Kidney_Stone.png)](/wiki/Kidney_Stone "Kidney Stone") [Kidney Stone](/wiki/Kidney_Stone "Kidney Stone"): Increase number of tears in tear barrage; however, only fires one stone.
-* (Added in Afterbirth †)[![image](/image/Lead_Pencil.png)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil"): The barrage will activate as normal but Isaac will sometimes fire red tears.
-* [![image](/image/Loki%27s_Horns.png)](/wiki/Loki%27s_Horns "Loki's Horns") [Loki's Horns](/wiki/Loki%27s_Horns "Loki's Horns"): Only occasionally fires one tear in the other three directions.
-* [![image](/image/Mom%27s_Eye.png)](/wiki/Mom%27s_Eye "Mom's Eye") [Mom's Eye](/wiki/Mom%27s_Eye "Mom's Eye"): Only occasionally fires one tear out of the back of Isaac's head.
-* (Removed in Afterbirth)[![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider"): Overrides The Inner Eye.
-	+ (Added in Afterbirth / Removed in Repentance) Shoots 7 tears instead of 3. No further decrease in fire rate.
-		- (Added in Repentance) Shoots 5 tears instead of 3. Decreases fire rate by a little.
-* [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung"): Adds 5 tears to barrage with a significant increase in tear delay.
-* [![image](/image/Sad_Bombs.png)](/wiki/Sad_Bombs "Sad Bombs") [Sad Bombs](/wiki/Sad_Bombs "Sad Bombs"): Does not affect the number of tears when bombs explode.
-* (Added in Afterbirth †)[![image](/image/Varicose_Veins.png)](/wiki/Varicose_Veins "Varicose Veins") [Varicose Veins](/wiki/Varicose_Veins "Varicose Veins"): No effect on number of tears when taking damage.
+* [![image](/image/Little_Baggy.png)](/wiki/Little_Baggy "Little Baggy") [Little Baggy](/wiki/Little_Baggy "Little Baggy"): All cards are replaced by pills, rendering Blank Card useless, unless Isaac also has [![image](/image/Starter_Deck.png)](/wiki/Starter_Deck "Starter Deck") [Starter Deck](/wiki/Starter_Deck "Starter Deck").
+* (Added in Repentance)[(Wild Card)](/wiki/Cards_and_Runes "Wild Card") [Wild Card](/wiki/Cards_and_Runes "Cards and Runes"): Does nothing if used through Blank Card. Wild Card can, however, copy the last card that was used through Blank Card.
 
 

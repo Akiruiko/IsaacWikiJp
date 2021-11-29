@@ -3,7 +3,6 @@
 
  # Roid Rage ![image](/image/Roid_Rage.png) 
 
-
 Effects
 ---------
 

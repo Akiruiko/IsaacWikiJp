@@ -3,7 +3,6 @@
 
  # Depression ![image](/image/Depression.png) 
 
-
 Effects
 ---------
 

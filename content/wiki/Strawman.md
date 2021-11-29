@@ -3,7 +3,6 @@
 
  # Strawman ![image](/image/Strawman.png) 
 
-
 Effects
 ---------
 

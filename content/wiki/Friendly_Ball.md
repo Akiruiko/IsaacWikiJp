@@ -3,7 +3,6 @@
 
  # Friendly Ball ![image](/image/Friendly_Ball.png) 
 
-
 Effects
 ---------
 

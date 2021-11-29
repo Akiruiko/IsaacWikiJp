@@ -3,7 +3,6 @@
 
  # The Book of Sin ![image](/image/The_Book_of_Sin.png) 
 
-
 Effect
 --------
 

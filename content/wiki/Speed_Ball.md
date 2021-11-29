@@ -3,7 +3,6 @@
 
  # Speed Ball ![image](/image/Speed_Ball.png) 
 
-
 Effects
 ---------
 

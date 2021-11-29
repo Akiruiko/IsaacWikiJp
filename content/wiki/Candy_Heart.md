@@ -3,7 +3,6 @@
 
  # Candy Heart ![image](/image/Candy_Heart.png) 
 
-
 Effects
 ---------
 

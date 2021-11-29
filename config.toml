@@ -31,4 +31,8 @@ anchors = "off"
 [extra]
 hyde_links = [
     {url = "/about/", name = "About"},
+    {url = "/", name = "Items"},
+    {url = "/Trinkets/", name = "Trinkets"},
+    {url = "/CardsAndRunes/", name = "Cards and Runes"},
+    {url = "/Characters/", name = "Characters"},
 ]

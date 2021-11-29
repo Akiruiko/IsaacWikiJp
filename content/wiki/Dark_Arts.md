@@ -3,7 +3,6 @@
 
  # Dark Arts ![image](/image/Dark_Arts.png) 
 
-
 Effects
 ---------
 

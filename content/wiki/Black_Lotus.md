@@ -3,13 +3,10 @@
 
  # Black Lotus ![image](/image/Black_Lotus.png) 
 
+Effect
+--------
 
-Effects
----------
 
-
-* +0.16 [shot speed](/wiki/Shot_speed "Shot speed").
-* Upon pickup, drops a random [tarot card](/wiki/Tarot_card "Tarot card") near Isaac.
-* (Added in Repentance) Adds an additional 15% chance for the first [Planetarium](/wiki/Planetarium "Planetarium") to appear.
+* Grants a full Red [Heart container](/wiki/Heart_container "Heart container"), a [Soul Heart](/wiki/Soul_Heart "Soul Heart"), and a [Black Heart](/wiki/Black_Heart "Black Heart").
 
 

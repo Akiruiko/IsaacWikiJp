@@ -3,23 +3,29 @@
 
  # Head of Krampus ![image](/image/Head_of_Krampus.png) 
 
-
 Effects
 ---------
 
 
-* Upon taking damage, Isaac leaves a trail of [red creep](/wiki/Red_creep "Red creep") that damages enemies until he leaves the room.
-	+ The creep deals 2 damage per tick (6 damage per second) to enemies that walk over it.
-* (Removed in Repentance) +5 [range](/wiki/Range "Range").
-* (Added in Repentance) +1.5 [range](/wiki/Range "Range").
+* Fires a powerful [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") beam in the four cardinal directions, much like [The Fallen](/wiki/The_Fallen "The Fallen") and [Krampus](/wiki/Krampus "Krampus") shoot.
+	+ (Added in Afterbirth / Removed in Afterbirth †) Has a 50% chance to rotate all beams around the player 90 degrees, similar to Krampus' second Brimstone attack.
 
 
 Notes
 -------
 
 
-* The effects of this item do not stack if multiple copies of the item or its effects are acquired; Isaac only gets the range bonus once.
-* [(Lazarus)](/wiki/Lazarus "Lazarus") [Lazarus](/wiki/Lazarus "Lazarus"), or anyone holding [![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags"), is resurrected with this item upon his first death.
-	+ (Added in Afterbirth †) After [Backasswards](/wiki/Backasswards "Backasswards") (challenge #31) is beaten, Lazarus will start with Anemic, and Lazarus Risen will have its increased range and creep trail effect permanently active, regardless of whether he possesses the item.
+* (Removed in Repentance) Each beam deals 22 damage per tick, and they tick a total of 20 times, dealing a total of 440 damage per use.
+	+ (Added in Repentance) Each beam deals 10 damage over 19 ticks, dealing a total of 190 damage per use.
+* Damaging enemies with the effect of this item as [Guppy](/wiki/Guppy "Guppy") will spawn multiple [Blue Flies](/wiki/Blue_Fly "Blue Fly").
+* By standing really close to large enemies such as bosses, it's possible to hit them with multiple beams at once, dealing significantly more damage than a single beam.
+
+
+Synergies
+-----------
+
+
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps in the middle ring. The wisps fire small [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") lasers in the cardinal directions when destroyed. The lasers deal the wisps' tear damage per tick, and can hit up to 20 times. [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!") will not increase this damage, despite it scaling with the wisps' tear damage.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): Doubles the damage the brimstone beams deal (for a total of (Removed in Repentance) 880 damage/(Added in Repentance) 380 damage per use). Doesn't double the brimstone beams' duration.
 
 

@@ -3,7 +3,6 @@
 
  # Salvation ![image](/image/Salvation.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # 2Spooky ![image](/image/2Spooky.png) 
 
-
 Effects
 ---------
 

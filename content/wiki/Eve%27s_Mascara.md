@@ -3,35 +3,42 @@
 
  # Eve's Mascara ![image](/image/Eve%27s_Mascara.png) 
 
-
 Effects
 ---------
 
 
-* Isaac shouts, damaging and pushing away nearby enemies.
-	+ The item can be used when not fully charged, but deals more damage and has increased range the more charges it has when used.
-	+ The damage the shout deals is 20 + 28 per charge used.
-		- The shout also deals extra ticks of damage to enemies that are close enough. These extra ticks deal damage equal to 2.5 + 3.5 per charge used, and can tick a number of times up to half the charges used (rounding up).
-			* The range of the extra ticks also varies depending on the charges used: enemies that are closer to Isaac will receive more ticks of damage.
-	+ The shout is able to destroy [obstacles](/wiki/Obstacles "Obstacles"), such as [rocks](/wiki/Rocks "Rocks"), [(Poop)](/wiki/Poop "Poop") [Poops](/wiki/Poop "Poop") and [(Fire Place)](/wiki/Fire_Place "Fire Place") [Fire Places](/wiki/Fire_Place "Fire Place") and open bombable doors, including [Bedroom](/wiki/Bedroom "Bedroom") and (Secret Room) [Secret Room](/wiki/Secret_Room "Secret Room") doors.
-* Larynx gains 1 charge whenever Isaac takes damage, as well as through normal means.
+* 2x [damage](/wiki/Damage "Damage") multiplier.
+* -0.5 [shot speed](/wiki/Shot_speed "Shot speed").
+* (Removed in Repentance) 0.5x tears / 2x [tear delay](/wiki/Tear_delay "Tear delay") multiplier. (The player's tear value will always be halved.)
+* (Added in Repentance) 0.66x tears / 1.5x tear delay multiplier.
+
+
+Notes
+-------
+
+
+* (Removed in Repentance) Eve's Mascara is DPS neutral, though often the reduction of shot speed is a downgrade.
+* Combos very well with any item that scales with damage but not with fire rate, such as [![image](/image/Rotten_Baby.png)](/wiki/Rotten_Baby "Rotten Baby") [Rotten Baby](/wiki/Rotten_Baby "Rotten Baby") or (Added in Afterbirth)[![image](/image/Fate%27s_Reward.png)](/wiki/Fate%27s_Reward "Fate's Reward") [Fate's Reward](/wiki/Fate%27s_Reward "Fate's Reward").
+* (Added in Repentance) Eve's Mascara is effectively a 33% increase in DPS, and the shot speed down is no longer as detrimental due to changes in how range works.
 
 
 Synergies
 -----------
 
 
-* [![image](/image/The_Battery.png)](/wiki/The_Battery "The Battery") [The Battery](/wiki/The_Battery "The Battery"): Larynx can hold up to two full charges. Only up to 12 charges will be used at a time.
-* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps on the middle ring. The wisps deals contact damage equal to 30% of Isaac's damage * Charges Used. Charges Used equals the number of charges Larynx had at the time it was used. Health = `1 * Charges Used`. Tear Damage = `1.5 * Charges Used`.
-* [![image](/image/Habit.png)](/wiki/Habit "Habit") [Habit](/wiki/Habit "Habit"): Both on-hit charge effects stack, charging 2 points per hit.
-* [(Hairpin)](/wiki/Hairpin "Hairpin") [Hairpin](/wiki/Hairpin "Hairpin"): Fully recharges Larynx at the beginning of boss fights, giving Isaac a way to easily devastate several bosses.
+* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Missiles are not affected by low shot speed and the fire rate difference is negligible, granting double damage with nearly no downside.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): The Knife is not affected by shot speed. Tears down and 2x damage multiplier still apply.
+* (Added in Afterbirth †)[![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): Beams turn black and do double damage. The low shot speed makes beams damage enemies more frequently.
+* (Added in Afterbirth)[![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Tech X actually benefits from low shot speed due to it staying on enemies longer, and is also not effected by range giving pretty much no downside.
 
 
 Interactions
 --------------
 
 
-* [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): The first bar gains an automatic recharge, but the further bars will not be affected.
-* [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void"): **Very poor combination.** Absorbing Larynx and using it through Void will cause Isaac to only perform the 1-charge version regardless of how many times he has taken damage or how many charges Void has, resulting in minimal damage.
+* (Added in Afterbirth)[![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"): The damage and tear multipliers do not stack. The shot speed decrease does stack.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus") / [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Shots travel a very short distance, so having (Added in Afterbirth)[![image](/image/Host_Hat.png)](/wiki/Host_Hat "Host Hat") [Host Hat](/wiki/Host_Hat "Host Hat") or [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac") is strongly recommended.
+* [![image](/image/Eve%27s_Mascara.png)](/wiki/Eve%27s_Mascara "Eve's Mascara") Eve's Mascara: No further effect when stacked.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): **Not recommended.** Tear travels very slowly, making it hard to kill mobile enemies.
 
 

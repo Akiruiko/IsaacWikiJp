@@ -3,7 +3,6 @@
 
  # Spear of Destiny ![image](/image/Spear_of_Destiny.png) 
 
-
 Effect
 --------
 

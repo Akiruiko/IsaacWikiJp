@@ -3,7 +3,6 @@
 
  # Black Candle ![image](/image/Black_Candle.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Dirty Mind ![image](/image/Dirty_Mind.png) 
 
-
 Effects
 ---------
 
@@ -20,7 +19,7 @@ Effects
 	+ Rainbow Poops create Rainbow Dips that [charm](/wiki/Charm "Charm") enemies they hit and have a chance to drop a half [red heart](/wiki/Red_heart "Red heart") on death.
 	+ Black Poops create Black Dips that leave a trail of [slowing](/wiki/Slow "Slow") [creep](/wiki/Creep "Creep").
 	+ White Poops create White Dips that recreate the effect of [![image](/image/Hallowed_Ground.png)](/wiki/Hallowed_Ground "Hallowed Ground") [Hallowed Ground](/wiki/Hallowed_Ground "Hallowed Ground") and can take 3 hits before being destroyed.
-* Poops unique to  [(Tainted ???)](/wiki/Tainted_%3F%3F%3F "Tainted ???") [Tainted ???](/wiki/Tainted_%3F%3F%3F "Tainted ???") and [![image](/image/IBS.png)](/wiki/IBS "IBS") [IBS](/wiki/IBS "IBS") also spawn Dips with special effects:
+* Poops unique to  [(Tainted ???)](/wiki/Tainted_%3F%3F%3F "Tainted ???") [Tainted ???](/wiki/Tainted_%3F%3F%3F "Tainted ???") and [![image](/image/IBS.png)](/wiki/IBS "IBS") [IBS](/wiki/IBS "IBS") also spawn Dips with special effects:
 	+ Stone Poops create Rock Dips that deal an additional 3.5 damage per hit and can take 6 hits before dying instead of 2.
 	+ Stinky Poops create Stinky Dips that release toxic gas as they move and a larger cloud of toxic gas when they die.
 		- The toxic gas does 0.5x Isaac's damage per tick (~1.2x Isaac's damage per second) and [poisons](/wiki/Poison "Poison") enemies; clouds left behind while alive last 1.5 seconds and the cloud created on death lasts 8 seconds.
@@ -39,3 +38,5 @@ Synergies
 * [(Mysterious Candy)](/wiki/Mysterious_Candy "Mysterious Candy") [Mysterious Candy](/wiki/Mysterious_Candy "Mysterious Candy"): Allows a steady supply of Dips, with time. Useful for later chapters.
 * [![image](/image/The_Poop.png)](/wiki/The_Poop "The Poop") [The Poop](/wiki/The_Poop "The Poop"): Allows generation of extra Dips after every room.
 * [![image](/image/Sacrificial_Altar.png)](/wiki/Sacrificial_Altar "Sacrificial Altar") [Sacrificial Altar](/wiki/Sacrificial_Altar "Sacrificial Altar"): All Dips are sacrificed and a [coin](/wiki/Coin "Coin") is spawned for each Dip sacrificed. The Dips do not count towards the 2 [familiar](/wiki/Familiar "Familiar") limit of Sacrificial Altar.
+
+

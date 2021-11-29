@@ -3,7 +3,6 @@
 
  # Lucky Foot ![image](/image/Lucky_Foot.png) 
 
-
 Effects
 ---------
 

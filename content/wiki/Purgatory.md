@@ -3,31 +3,32 @@
 
  # Purgatory ![image](/image/Purgatory.png) 
 
-
 Effects
 ---------
 
 
-* +1 [damage](/wiki/Damage "Damage").
-* -0.2 [speed](/wiki/Speed "Speed") ((Removed in Afterbirth †) not applied until the next time Isaac's speed stat is updated).
-	+ (Removed in Repentance) -0.2 maximum speed.
-* +0.2 [tears](/wiki/Tears "Tears") ((Removed in Afterbirth †) not applied until the next time Isaac's tears stat is updated).
+* Spawns a red crack in the ground somewhere in the room while Isaac is in a room with enemies. Walking over the crack summons a ghost that homes in on the nearest enemy, exploding when it hits it. After the ghost is summoned, cracks will keep showing up in the room until it is cleared.
+	+ The ghost spends one second spawning in before it attacks.
+	+ The ghost deals double Isaac's damage per tick, up to 4 times.
 
 
 Notes
 -------
 
 
-* Has a small chance to be dropped from a destroyed [tinted rock](/wiki/Tinted_rock "Tinted rock").
-* Normally only appears once per run, but can appear again if Isaac's items are re-rolled with [![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4"), [![image](/image/D100.png)](/wiki/D100 "D100") [D100](/wiki/D100 "D100"), or a [Dice Room](/wiki/Dice_Room "Dice Room").
-* (Removed in Repentance) Always has a chance to spawn as long as Isaac does not currently have it. This includes the possibility of spawning and obtaining multiple copies of The Small Rock on the same floor if not picked up the first time.
-* Taking the rock in the [Boss Rush](/wiki/Boss_Rush "Boss Rush") from a tinted rock in the room will count as taking an item and consequently trigger Boss Rush. The other items do not disappear and will stay until one is picked up.
+* Only one crack is active at a time.
+* The explosion does not hurt Isaac.
+* If a crack is stepped on and the room is cleared before the ghost spawns, it will fly to a random location and explode there.
+* The explosions from the ghosts will destroy enemy tears.
+* Cracks don't spawn in (Challenge Room) [Challenge Rooms](/wiki/Challenge_Room "Challenge Room").
 
 
 Interactions
 --------------
 
 
-* [![image](/image/The_Small_Rock.png)](/wiki/The_Small_Rock "The Small Rock") The Small Rock: Grants an additional tears up and speed down with no further increase in damage.
+* The ghosts aren't considered familiars, therefore they're unaffected by items or trinkets that alter familiars or their behavior, such as [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"), [![image](/image/King_Baby.png)](/wiki/King_Baby "King Baby") [King Baby](/wiki/King_Baby "King Baby"), [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends") or [(Friendship Necklace)](/wiki/Friendship_Necklace "Friendship Necklace") [Friendship Necklace](/wiki/Friendship_Necklace "Friendship Necklace").
+* [![image](/image/Dark_Arts.png)](/wiki/Dark_Arts "Dark Arts") [Dark Arts](/wiki/Dark_Arts "Dark Arts"): Walking over cracks will not summon ghosts while under the effect of Dark Arts.
+* [![image](/image/Spindown_Dice.png)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice"): When used on Purgatory, turns the item into [![image](/image/Dogma_(Item).png)](/wiki/Dogma_(Item) "Dogma") [Dogma](/wiki/Dogma_(Item) "Dogma (Item)"), a unique item usually only able to be obtained by killing the boss [Dogma](/wiki/Dogma "Dogma").
 
 

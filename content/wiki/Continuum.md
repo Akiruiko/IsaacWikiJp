@@ -3,7 +3,6 @@
 
  # Continuum ![image](/image/Continuum.png) 
 
-
 Effects
 ---------
 

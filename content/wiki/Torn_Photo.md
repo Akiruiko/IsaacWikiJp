@@ -3,7 +3,6 @@
 
  # Torn Photo ![image](/image/Torn_Photo.png) 
 
-
 Effects
 ---------
 

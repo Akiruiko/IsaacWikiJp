@@ -3,7 +3,6 @@
 
  # Spirit Shackles ![image](/image/Spirit_Shackles.png) 
 
-
 Effects
 ---------
 

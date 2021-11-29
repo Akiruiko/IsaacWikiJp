@@ -3,7 +3,6 @@
 
  # Sissy Longlegs ![image](/image/Sissy_Longlegs.png) 
 
-
 Effect
 --------
 

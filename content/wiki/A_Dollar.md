@@ -3,7 +3,6 @@
 
  # A Dollar ![image](/image/A_Dollar.png) 
 
-
 Effect
 --------
 

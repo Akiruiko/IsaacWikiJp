@@ -3,56 +3,48 @@
 
  # Breath of Life ![image](/image/Breath_of_Life.png) 
 
-
-Effect
---------
-
-
-* Spawns a floating finger [familiar](/wiki/Familiar "Familiar") that can be aimed with the fire buttons in all directions.
-	+ The finger fires invisible [spectral](/wiki/Spectral "Spectral") lasers, doing 10% of Isaac's [Damage](/wiki/Damage "Damage"). The lasers fire 10 times per second and is not affected by Isaac's tear rate.
-	+ The laser has thickness based on Isaac Damage, making it easier to inflict damage on higher Damage.
-	+ While not being aimed with the fire buttons, the finger points in the direction of movement or downwards if standing still.
-* (Removed in Repentance) The Finger!'s lasers can apply Isaac's [Tear effects](/wiki/Tear_effects "Tear effects"), which makes status effects trigger very often.
-	+ (Added in Repentance) The Finger!'s lasers does not apply Isaac's [Tear effects](/wiki/Tear_effects "Tear effects").
+Effects
+---------
 
 
-Notes
--------
-
-
-* Finger! will fire in the exact direction it's pointed, meaning it can be fired diagonally, or at any angle, if using a controller - the same effect as [![image](/image/Analog_Stick.png)](/wiki/Analog_Stick "Analog Stick") [Analog Stick](/wiki/Analog_Stick "Analog Stick").
-* The beam can be used to destroy [TNT](/wiki/TNT "TNT") (among other destructible obstacles).
-* The Finger! can do damage to enemies through obstacles and other enemies.
-* The Finger! does not do contact damage.
+* Holding the active item button will gradually deplete the charge bar. As the charge gets closer to zero, Isaac turns bluer over time.
+	+ (Added in Afterbirth †) Once the invincibility takes effect, Isaac starts flashing rapidly.
+* Gives a brief moment of invincibility when the charge bar hits zero. If the spacebar is held for an additional second after hitting zero, Isaac will take damage.
+	+ (Added in Repentance) While Isaac is invincible, he deals 3.5 contact damage to enemies and beams of light will strike down enemies touching Isaac, similar to (Added in Afterbirth)[![image](/image/Holy_Light.png)](/wiki/Holy_Light "Holy Light") [Holy Light](/wiki/Holy_Light "Holy Light"), dealing 15 damage.
+		- While not time based, invincibility from Breath of Life is otherwise identical to damage immunity granted by the [shield](/wiki/Temporary_Buffs "Temporary Buffs") effect.
+* The item will recharge on its own but cannot be used again until it is fully charged (even if you didn't fully deplete the charge bar).
 
 
 Synergies
 -----------
 
 
-* (Removed in Repentance) All [Tear effects](/wiki/Tear_effects "Tear effects") items: The Finger will apply the [Tear effects](/wiki/Tear_effects "Tear effects") to multiple enemies.
-* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): Adds another finger on top of the previous one, effectively doubling its damage.
-* Finger!: Multiple fingers will stack on top of each other and move simultaneously, effectively boosting the damage of the original one.
-	+ Having too many fingers can cause the game to lag.
-* [(Guppy)](/wiki/Guppy "Guppy") [Guppy](/wiki/Guppy "Guppy"): Flies are generated from the damage the finger does.
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): The finger gains massive damage boost as expected.
-	+ (Removed in Repentance) The finger can [poison](/wiki/Poison "Poison") enemies.
-* [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"):
-	+ (Removed in Repentance) Almost doubles finger's damage as expected. Has no damage penalty with range.
-	+ (Added in Repentance) Triples finger's damage, but does not affect its laser's thickness. Has no penalty with range.
-* [![image](/image/Sulfuric_Acid.png)](/wiki/Sulfuric_Acid "Sulfuric Acid") [Sulfuric Acid](/wiki/Sulfuric_Acid "Sulfuric Acid") / (Added in Repentance)[![image](/image/Terra.png)](/wiki/Terra "Terra") [Terra](/wiki/Terra "Terra"): The finger has a chance to destroy rocks when pointing at them.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Creates a wisp after it's been held long enough for Isaac to take damage.
+* (Removed in Repentance)[![image](/image/Isaac%27s_Heart.png)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart"): When held down too long, Breath of Life no longer damages Isaac, resulting in infinite invincibility.
+* (Added in Afterbirth †)[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Using Void with Breath of Life will immediately grant invincibility frames.
 
 
 Interactions
 --------------
 
 
-* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Increases finger's size, however, does not increase finger's damage.
-* [![image](/image/Godhead.png)](/wiki/Godhead "Godhead") [Godhead](/wiki/Godhead "Godhead"): Only increases damage.
-* [Homing tears](/wiki/Homing_tears "Homing tears"): The finger laser does not become homing.
-* [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): No effect on the finger's damage.
-* [![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): While actively aiming, the finger behaves as normal and while fire keys are not pressed, it points towards the targeting crosshair.
-* [![image](/image/Trinity_Shield.png)](/wiki/Trinity_Shield "Trinity Shield") [Trinity Shield](/wiki/Trinity_Shield "Trinity Shield"): When not firing, the finger will point towards the nearest cardinal direction as to where the shield is left. This favors the vertical directions when the shield is at a 45° angle.
-* [![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): No effect on finger's damage.
+* (Added in Afterbirth)[(? Card)](/wiki/%3F_Card "? Card") [? Card](/wiki/%3F_Card "? Card")/[![image](/image/The_Battery.png)](/wiki/The_Battery "The Battery") [The Battery](/wiki/The_Battery "The Battery")/(Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery")/[![image](/image/Habit.png)](/wiki/Habit "Habit") [Habit](/wiki/Habit "Habit"): No effect.
+
+
+Bugs
+------
+
+
+
+
+| (Bug) Bug!
+ | (Removed in Afterbirth †) This item does not work with [Broken Remote](/wiki/Broken_Remote "Broken Remote"). |
+
+
+
+
+| (Bug) Bug!
+ | Replacing this item with another active item, switching into another active item with (Added in Afterbirth †)[![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"), or directly remove it via debug console while holding active item key cause Isaac to take damage (even if the charge bar isn't depleted at all).
+ |
 
 

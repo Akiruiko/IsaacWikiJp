@@ -3,7 +3,6 @@
 
  # Rosary ![image](/image/Rosary.png) 
 
-
 Effects
 ---------
 

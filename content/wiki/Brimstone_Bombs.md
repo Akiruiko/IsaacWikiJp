@@ -3,7 +3,6 @@
 
  # Brimstone Bombs ![image](/image/Brimstone_Bombs.png) 
 
-
 Effects
 ---------
 

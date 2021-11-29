@@ -3,64 +3,59 @@
 
  # Maw of the Void ![image](/image/Maw_of_the_Void.png) 
 
-
 Effects
 ---------
 
 
-* After taking 12-20 hits, a removed tonsil [familiar](/wiki/Familiar "Familiar") starts following Isaac, blocking enemy shots.
-	+ The effect can happen twice, after which the trinket will be destroyed.
-	+ The familiar does not deal damage to enemies.
-
+* (Removed in Repentance) +1.0 [damage](/wiki/Damage "Damage").
+* After firing tears for 2.35 seconds, releasing the fire button unleashes a black [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") ring around Isaac that expands and contracts, dealing damage at a rapid rate to all enemies touching it.
+	+ The charge is completed when a red upside-down cross appears on Isaac's forehead.
+	+ (Added in Afterbirth †) With charge bars enabled, there is also an indicator that displays the charge.
+	+ The black ring deals damage equal to Isaac's current damage per tick, and ticks a total of 30 times. It lasts ~1.97 seconds (118 frames).
+	+ (Removed in Repentance) Enemies killed by the black ring have a 5% chance to drop [Black Hearts](/wiki/Black_Heart "Black Heart").
+		- Black Hearts will drop as soon as the enemy is killed. (In other words, the heart will drop at the beginning of the death animation rather than at the end of the death animation.)
+* This item belongs to the [Leviathan](/wiki/Leviathan "Leviathan") set. Collecting three items from this set will transform Isaac into Leviathan.
 
 
 Notes
 -------
 
 
+* (Removed in Repentance) This item does not work while playing a [blindfolded](/wiki/Blindfolded "Blindfolded") character, as it requires tears to charge.
+	+ This restriction can, however, be bypassed by picking up [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique").
+	+ This item's effect will not fully activate if picked up by  [(Lilith)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith"); its stat ups will still apply to her [![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") familiar, but the ring will not appear unless she also has the Ludovico Technique.
+* (Added in Repentance) This item will still work while playing as a [blindfolded](/wiki/Blindfolded "Blindfolded") character.
+* The ring will apply any tear status effects such as [poison](/wiki/Poison "Poison") if Isaac has them.
 
 
-
-(T)(o)(n)(s)(i)(l)
-------------------
-
+Synergies
+-----------
 
 
-### Item Icon
+* [Guppy](/wiki/Guppy "Guppy"): Damaging enemies with Maw of the Void allows flies to spawn from the Guppy transformation. Flies are spawned at a rate of approximately one fly per tick of damage for each enemy it hits. This causes a lot of flies to spawn very quickly. The spawned flies will also move to attack the nearest enemy immediately.
+* [Homing tears](/wiki/Homing_tears "Homing tears"): The ring curves towards enemies.
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Massively increases ring damage and poisons enemies.
+	+ (Added in Repentance) The ring also explodes on enemy or obstacle contact.
+* (Added in Repentance)[![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder"): The ring sends out electric currents when it hits something.
+* [![image](/image/Lost_Contact.png)](/wiki/Lost_Contact "Lost Contact") [Lost Contact](/wiki/Lost_Contact "Lost Contact"): Ring can destroy projectiles.
+* [![image](/image/Mysterious_Liquid.png)](/wiki/Mysterious_Liquid "Mysterious Liquid") [Mysterious Liquid](/wiki/Mysterious_Liquid "Mysterious Liquid"): Occasionally spawns a pool of creep where the ring makes contact with an enemy.
+* [![image](/image/Pisces.png)](/wiki/Pisces "Pisces") [Pisces](/wiki/Pisces "Pisces")/[![image](/image/8_Inch_Nails.png)](/wiki/8_Inch_Nails "8 Inch Nails") [8 Inch Nails](/wiki/8_Inch_Nails "8 Inch Nails"): Ring obtains knockback effect.
+* (Removed in Afterbirth †) [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): The ring is much larger and deals 1.5x damage per tick.
+	+ (Added in Afterbirth † / Removed in Repentance) The ring is larger but deals normal damage.
+	+ (Added in Repentance) No effect.
+* [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor"): Ring attracts pickups and enemies towards it.
+* [(Wiggle Worm)](/wiki/Wiggle_Worm "Wiggle Worm") [Wiggle Worm](/wiki/Wiggle_Worm "Wiggle Worm"): The ring has wavy edges.
 
 
-(Item icon)
+Interactions
+--------------
 
 
-### Pickup Quote
-
-
-"Gross..."
-
-
-### Entity ID
-
-
-`5.100.474`
-
-
-### Item Pool
-
-
-*None*
-
-
-### Collection Grid
-
-
-*(page 4, column 9, row 6)*
-
-
-(Added in Afterbirth † / Removed in Repentance)
-* When the familiar is generated, Isaac will gain the familiar permanently as a passive item. This allows Isaac to drop the trinket while keeping the familiar.
-	+ (Removed in Repentance) The passive Tonsil item does not exist in any item pool; thus, this is the only way to find it and make it appear in the [Collection Page](/wiki/Collection_Page_(Afterbirth_%E2%80%A0)#Page_4 "Collection Page (Afterbirth †)") aside from starting with it as  [(Eden)](/wiki/Eden "Eden") [Eden](/wiki/Eden "Eden").
-* (Removed in Repentance) If Eden starts with the passive tonsil item and picks up the trinket, the trinket will spawn only one familiar before being consumed.
-* Sources of self-inflicted damage, like [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag") or [Blood Donation Machines](/wiki/Blood_Donation_Machine "Blood Donation Machine"), can spawn a familiar.
-* Damage that is blocked by [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle") or the (Added in Afterbirth †)[(Holy Card)](/wiki/Holy_Card "Holy Card") [Holy Card](/wiki/Holy_Card "Holy Card") does not count to the number of hits that are needed for the tonsil familiar to spawn.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Tear must be moved before the ring activates.
+* [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): The ring damage is halved.
+	+ (Added in Afterbirth †) The ring deals normal damage.
+* [![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): (Removed in Repentance) Crosshair must be moved for 4 seconds before the ring activates.
+	+ (Added in Repentance) While firing, the ring charges automatically and activates immediately upon full charge.
+* [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"): No effect on charge time but massively reduces damage.
 
 

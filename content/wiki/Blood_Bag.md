@@ -3,7 +3,6 @@
 
  # Blood Bag ![image](/image/Blood_Bag.png) 
 
-
 Effects
 ---------
 

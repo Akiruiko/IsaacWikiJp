@@ -3,7 +3,6 @@
 
  # Steam Sale ![image](/image/Steam_Sale.png) 
 
-
 Effects
 ---------
 

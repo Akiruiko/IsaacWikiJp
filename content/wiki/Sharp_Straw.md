@@ -3,7 +3,6 @@
 
  # Sharp Straw ![image](/image/Sharp_Straw.png) 
 
-
 Effects
 ---------
 

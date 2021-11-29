@@ -3,21 +3,24 @@
 
  # Inner Child ![image](/image/Inner_Child.png) 
 
-
 Effects
 ---------
 
 
-* Spawns a [familiar](/wiki/Familiar "Familiar") that follows Isaac and automatically fires at enemies in its range 3 times per second, dealing 3 damage per shot.
-* (Added in Repentance) This item belongs to the [Conjoined](/wiki/Conjoined "Conjoined") set. Collecting three items from this set will transform Isaac into a three-faced version of himself.
+* Gives Isaac an extra life. Upon [death](/wiki/Death "Death"), Isaac respawns in the current room with half of a Red Heart, a massive size down, and +0.2 [Speed](/wiki/Speed "Speed").
+	+ If Isaac doesn't have any [Red Heart Containers](/wiki/Red_Heart_Container "Red Heart Container"), he will respawn with half a [Soul Heart](/wiki/Soul_Heart "Soul Heart") instead of half a [Red Heart](/wiki/Hearts#Red_Heart "Hearts").
+* When Isaac respawns as the inner child, he emits a blood explosion that deals 35 flat damage to all nearby enemies.
 
 
-Synergies
------------
+Notes
+-------
 
 
-* (Added in Afterbirth)[![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends"): If used without having any familiars, a Demon Baby will be spawned for the remainder of the current [room](/wiki/Rooms "Rooms").
-* [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk"): Shoots at enemies while charging up a shot, thus giving Isaac an alternative way to kill enemies while charging a shot.
-* [Guppy](/wiki/Guppy "Guppy"): Spawns flies as if normal tears are hitting enemies.
+* Resurrection items activate in a [set order](/wiki/Category:Revival_items "Category:Revival items"). Inner Child is 5th in this order after [(Soul of Lazarus)](/wiki/Cards_and_Runes "Soul of Lazarus") [Soul of Lazarus](/wiki/Cards_and_Runes "Cards and Runes"), [![image](/image/1up!.png)](/wiki/1up! "1up!") [1up!](/wiki/1up! "1up!"),  [(Lazarus)](/wiki/Lazarus "Lazarus") [Lazarus](/wiki/Lazarus "Lazarus")' extra life, and [![image](/image/Dead_Cat.png)](/wiki/Dead_Cat "Dead Cat") [Dead Cat](/wiki/Dead_Cat "Dead Cat").
+* Once this item has been unlocked, if the current character's [Tainted](/wiki/Tainted_Characters "Tainted Characters") version was already unlocked or the current character is a Tainted character, it is guaranteed to spawn in the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home").
+	+ This item will appear even if Inner Child had been obtained earlier in the run, allowing Isaac to have two copies of the item.
+	+ Despite being hardcoded not to appear anywhere else for him, this specific occurrence of Inner Child will still spawn for  [(Tainted Lost)](/wiki/Tainted_Lost "Tainted Lost") [Tainted Lost](/wiki/Tainted_Lost "Tainted Lost").
+	+ If this item is obtained in Home, a viable strategy is to intentionally die towards the end of the fight with [Dogma](/wiki/Dogma "Dogma"). Isaac will be respawned with the size down and Speed up, and these effects will carry over to the Beast fight along with the healing provided by [![image](/image/Dogma_(Item).png)](/wiki/Dogma_(Item) "Dogma") [Dogma](/wiki/Dogma_(Item) "Dogma (Item)"), making Isaac much harder to hit for the fight.
+* The size down from being revived by Inner Child is the same as if Isaac had collected [![image](/image/Pluto.png)](/wiki/Pluto "Pluto") [Pluto](/wiki/Pluto "Pluto").
 
 

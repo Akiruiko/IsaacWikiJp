@@ -3,7 +3,6 @@
 
  # Head of the Keeper ![image](/image/Head_of_the_Keeper.png) 
 
-
 Effects
 ---------
 

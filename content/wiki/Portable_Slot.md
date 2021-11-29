@@ -3,31 +3,39 @@
 
  # Portable Slot ![image](/image/Portable_Slot.png) 
 
-
 Effects
 ---------
 
 
-* While held, non-ghost enemies leave behind small, red ghosts on death; using the item causes the ghosts to explode, dealing damage to nearby enemies.
-	+ The damage exploding ghosts deal is equal to 3 + 0.04x the health of the enemy the ghost spawned from, and each explosion can hit the same enemy up to 3 times. Explosion range increases the more powerful the explosion is.
-	+ Enemies with high health, such as champion enemies, minibosses and bosses will leave behind a larger ghost that creates three explosions, instead of just one.
-	+ Explosions from this item do not damage the player or terrain, but can destroy enemy projectiles.
-	+ Can be used as long there are ghosts in the room.
-	+ Ghosts can be moved by shooting at them.
+* Upon use, consumes 1 [penny](/wiki/Penny "Penny") and has a chance to drop a random [pickup](/wiki/Pickup "Pickup"), like a [Slot Machine](/wiki/Slot_Machine "Slot Machine").
+	+ Unlike a [Slot Machine](/wiki/Slot_Machine "Slot Machine"), the default reaction to using a bad [Pill](/wiki/Pill "Pill") will occur if the Portable Slot grants nothing.
 
 
 Notes
 -------
 
 
-* Ghosts that are currently not visible on the screen (e.g. in larger rooms) will not be detonated when using the item.
+* Unlike normal Slot Machines, the Portable Slot can't explode, nor can it drop [![image](/image/A_Dollar.png)](/wiki/A_Dollar "A Dollar") [A Dollar](/wiki/A_Dollar "A Dollar"), although it can still grant [Pretty Flies](/wiki/Pretty_Fly "Pretty Fly").
 
 
 Synergies
 -----------
 
 
-* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): No wisps are created when using Vade Retro. Instead, ghosts created by enemies very slowly move and shoot tears in the same direction Isaac is shooting. The ghosts' tears deal 3.5 damage, and are fired once every second.
-* [(Judas)](/wiki/Judas "Judas") [Judas](/wiki/Judas "Judas") +[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Ghosts home in on enemies upon use, similarly to ghosts spawned by[![image](/image/Purgatory.png)](/wiki/Purgatory "Purgatory") [Purgatory](/wiki/Purgatory "Purgatory"). The ghosts deal 2x Judas' damage.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Gives the wisps of the following items depending on the reward:
+	+ [(Fly)](/wiki/Fly "Fly") [Fly](/wiki/Fly "Fly"): Nothing.
+	+ [Bomb](/wiki/Bomb "Bomb"): [![image](/image/Mr._Boom.png)](/wiki/Mr._Boom "Mr. Boom") [Mr. Boom](/wiki/Mr._Boom "Mr. Boom") wisp.
+	+ [Coin](/wiki/Coin "Coin"): Coin wisp for each coin dropped.
+	+ [Heart](/wiki/Heart "Heart"): [![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart") wisp.
+	+ [Key](/wiki/Key "Key"): [![image](/image/Dad%27s_Key.png)](/wiki/Dad%27s_Key "Dad's Key") [Dad's Key](/wiki/Dad%27s_Key "Dad's Key") wisp.
+	+ [Pill](/wiki/Pill "Pill"): [![image](/image/Mom%27s_Bottle_of_Pills.png)](/wiki/Mom%27s_Bottle_of_Pills "Mom's Bottle of Pills") [Mom's Bottle of Pills](/wiki/Mom%27s_Bottle_of_Pills "Mom's Bottle of Pills") wisp.
+	+ [Pretty Fly](/wiki/Pretty_Fly "Pretty Fly"): 2-4 [![image](/image/Guppy%27s_Head.png)](/wiki/Guppy%27s_Head "Guppy's Head") [Guppy's Head](/wiki/Guppy%27s_Head "Guppy's Head") wisps.
+
+
+Interactions
+--------------
+
+
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
 
 

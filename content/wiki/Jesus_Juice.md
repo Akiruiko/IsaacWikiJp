@@ -3,19 +3,13 @@
 
  # Jesus Juice ![image](/image/Jesus_Juice.png) 
 
-
-Effect
---------
-
-
-* All normal [(Bomb)](/wiki/Bomb "Bomb") [Bombs](/wiki/Bomb "Bomb") become [(Double Bomb)](/wiki/Double_Bomb "Double Bomb") [Double Bombs](/wiki/Double_Bomb "Double Bomb").
+Effects
+---------
 
 
-Interactions
---------------
-
-
-* (Removed in Repentance)[![image](/image/Humbling_Bundle.png)](/wiki/Humbling_Bundle "Humbling Bundle") [Humbling Bundle](/wiki/Humbling_Bundle "Humbling Bundle"): No effect.
-	+ (Added in Repentance) Due to Humbling Bundle no longer guaranteeing double pickups, Bogo Bombs will *always* double bombs.
+* +0.5 [damage](/wiki/Damage "Damage").
+* (Removed in Repentance) +0.25 [range](/wiki/Range "Range").
+* (Added in Repentance) +0.38 [range](/wiki/Range "Range").
+* +0.5 [tear height](/wiki/Tear_height "Tear height").
 
 

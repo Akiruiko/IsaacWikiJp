@@ -3,7 +3,6 @@
 
  # Technology ![image](/image/Technology.png) 
 
-
 Effects
 ---------
 

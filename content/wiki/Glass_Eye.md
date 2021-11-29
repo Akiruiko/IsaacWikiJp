@@ -3,7 +3,6 @@
 
  # Glass Eye ![image](/image/Glass_Eye.png) 
 
-
 Effects
 ---------
 
@@ -16,6 +15,6 @@ Interactions
 --------------
 
 
-* [![image](/image/Glass_Eye.png)](/wiki/Glass_Eye "Glass Eye") Glass Eye: Picking up a second copy of the item gives Isaac a unique costume with both eyes replaced.
+* [![image](/image/Glass_Eye.png)](/wiki/Glass_Eye "Glass Eye") Glass Eye: Picking up a second copy of the item gives Isaac a unique costume with both eyes replaced. The damage up and luck up stack as expected.
 
 

@@ -3,7 +3,6 @@
 
  # Euthanasia ![image](/image/Euthanasia.png) 
 
-
 Effects
 ---------
 

@@ -3,34 +3,32 @@
 
  # Book of Secrets ![image](/image/Book_of_Secrets.png) 
 
+Effect
+--------
 
-Effects
----------
 
-
-* Upon use, any [trinkets](/wiki/Trinket "Trinket") that Isaac is holding are destroyed, and their effects are permanently applied to him.
-	+ (Added in Repentance) Trinkets that are absorbed show up on the pause menu and on the HUD's item tracker.
-* Increases the chance for a trinket to drop. (Has a 2% chance to turn the pickup variant into a trinket.)
+* Randomly adds the effect of [![image](/image/Treasure_Map.png)](/wiki/Treasure_Map "Treasure Map") [Treasure Map](/wiki/Treasure_Map "Treasure Map"), [![image](/image/The_Compass.png)](/wiki/The_Compass "The Compass") [The Compass](/wiki/The_Compass "The Compass"), or [![image](/image/Blue_Map.png)](/wiki/Blue_Map "Blue Map") [Blue Map](/wiki/Blue_Map "Blue Map") for the duration of the current [floor](/wiki/Chapters "Chapters").
+	+ (Added in Repentance) If all effects are active, [![image](/image/X-Ray_Vision.png)](/wiki/X-Ray_Vision "X-Ray Vision") [X-Ray Vision](/wiki/X-Ray_Vision "X-Ray Vision") is provided for the floor instead.
+* Repeated activations will continue to add the other items' effects.
+	+ (Removed in Repentance) The chosen effect on activation may be one that Isaac already has - effectively doing nothing.
+		- (Added in Repentance) Book of Secrets cannot give mapping effects that Isaac already has (whether from a previous activation or through possessing the equivalent item). After all effects have been given, further activations do nothing.
+* (Added in Repentance) Reveals rocks with (Crawl Space) [Crawl Spaces](/wiki/Crawl_Space "Crawl Space") in a room with one.
+* (Added in Afterbirth †) This item belongs to the [Bookworm](/wiki/Bookworm "Bookworm") set. Collecting three items from this set will transform Isaac into Bookworm.
 
 
 Notes
 -------
 
 
-* While held, [![image](/image/Mom%27s_Box.png)](/wiki/Mom%27s_Box "Mom's Box") [Mom's Box](/wiki/Mom%27s_Box "Mom's Box") will double the effect of all absorbed trinkets (if their effects can be doubled).
-* This item can remove the [(Tick)](/wiki/Tick "Tick") [Tick](/wiki/Tick "Tick").
-* Trinkets whose effects only activate once, such as [(Store Credit)](/wiki/Store_Credit "Store Credit") [Store Credit](/wiki/Store_Credit "Store Credit"), [(Missing Poster)](/wiki/Missing_Poster "Missing Poster") [Missing Poster](/wiki/Missing_Poster "Missing Poster"), and [(Walnut)](/wiki/Walnut "Walnut") [Walnut](/wiki/Walnut "Walnut"), will still only activate once after being absorbed.
-* (Added in Repentance)[(Perfection)](/wiki/Perfection "Perfection") [Perfection](/wiki/Perfection "Perfection") is still removed if Isaac takes damage from regular sources.
-* (Added in Repentance) [(Faded Polaroid)](/wiki/Faded_Polaroid "Faded Polaroid") [Faded Polaroid](/wiki/Faded_Polaroid "Faded Polaroid") cannot be used to open the [Strange Door](/wiki/A_Strange_Door "A Strange Door") while smelted.
-* It is possible to find previously smelted trinkets during a [victory lap](/wiki/Victory_Lap "Victory Lap"), or if the trinket Item Pool is exhausted.
-* (Removed in Repentance) Picking up a copy of a trinket which was already absorbed will not duplicate that trinket's effect.
-* (Removed in Repentance) The trinket will not be absorbed if Smelter is activated during the pickup animation.
+* (Removed in Repentance) Book of Secrets has no effect on floors affected by [(Curse of the Lost.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/e/e2/Curse_of_the_Lost.png/revision/latest?cb=20211023085107) [Curse of the Lost](/wiki/Curses "Curses") or an [Amnesia](/wiki/Amnesia "Amnesia") pill.
+	+ (Added in Repentance) If [(Curse of the Lost.png)](https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/e/e2/Curse_of_the_Lost.png/revision/latest?cb=20211023085107) [Curse of the Lost](/wiki/Curses "Curses") or an [Amnesia](/wiki/Amnesia "Amnesia") pill is active on a floor, X-Ray Vision effect is provided immediately.
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns yellow wisps on the middle ring. The wisps have a chance to spawn [trinkets](/wiki/Trinket "Trinket") when destroyed.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps in the middle ring, looking like tiny spinning question marks. The wisps invoke the effect of [![image](/image/Cracked_Orb.png)](/wiki/Cracked_Orb "Cracked Orb") [Cracked Orb](/wiki/Cracked_Orb "Cracked Orb") when destroyed.
+* (Added in Repentance)[![image](/image/The_Mind.png)](/wiki/The_Mind "The Mind") [The Mind](/wiki/The_Mind "The Mind"): Immediately gives the [![image](/image/X-Ray_Vision.png)](/wiki/X-Ray_Vision "X-Ray Vision") [X-Ray Vision](/wiki/X-Ray_Vision "X-Ray Vision") effect for the floor upon use.
 
 

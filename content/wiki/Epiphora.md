@@ -3,57 +3,55 @@
 
  # Epiphora ![image](/image/Epiphora.png) 
 
+Effects
+---------
 
-Effect
---------
 
-
-* [Monsters](/wiki/Monster "Monster"), [pickups](/wiki/Pickup "Pickup"), and [trinkets](/wiki/Trinket "Trinket") are magnetically attracted to the player character's tears.
-	+ (Added in Afterbirth) This also applies to Isaac's bombs.
-		- (Added in Repentance) Items will be attracted to where the magnetic tear lands.
-	+ The effect may not affect certain immobile enemies; [Round Worms](/wiki/Round_Worm "Round Worm") will start to vibrate in the presence of multiple magnetic tears, but will not change their position, [Hosts](/wiki/Host "Host") will only be attracted when readying to launch an attack.
+* [Tear delay](/wiki/Tear_delay "Tear delay") gradually decreases as the player shoots in one direction. Accuracy also decreases as the fire rate increases.
+	+ At max "charge", it will reduce tear delay by half, rounding down.
+* Rate of fire returns to its original value if Isaac stops firing, changes firing directions, uses an active item, or is hit.
+	+ (Added in Afterbirth †) Being hit, changing rooms, and using items no longer reset the Epiphora bonus.
+	+ (Added in Repentance) Entering an unexplored boss room will reset the Epiphora bonus.
+		- During the delay when transitioning between rooms, picking up an item, or using an active item, it's possible to change the firing direction without resetting the bonus.
 
 
 Notes
 -------
 
 
-* Extra caution must be taken when using this item, as the attraction effect will pull small, lightweight monsters like [Boom Flies](/wiki/Boom_Fly "Boom Fly") towards the character very fast and in an unpredictable manner, with the consequent risk of taking damage.
-* (Added in Repentance) This item has been reworked and doesn't function like usual anymore. Now tears will attract only when the tear lands on the ground/sticks to an enemy.
+* Epiphora technically works with items that require a charge (such as [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung")), but requires releasing the key or button, causing players to lose the effect.
 
 
 Synergies
 -----------
 
 
-* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Enemies and pickups are sucked towards the beam, increasing accuracy significantly.
-* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Enemies are sucked towards bombs, increasing accuracy and making enemies easier to kill.
-* (Added in Afterbirth)[![image](/image/Explosivo.png)](/wiki/Explosivo "Explosivo") [Explosivo](/wiki/Explosivo "Explosivo"): When the shot sticks to an enemy, every enemy near it will be attracted to them.
-* [![image](/image/Godhead.png)](/wiki/Godhead "Godhead") [Godhead](/wiki/Godhead "Godhead"): Enemies will be pulled into Godhead's damaging aura, increasing the aura's effectiveness at causing damage.
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Enemies and pickups are pulled towards the shots, increasing accuracy. The color of shots and their explosive effect is a darker green.
-* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Enemies, items, and even most bosses will be sucked to the single floating tear, dealing constant damage while keeping Isaac well away from harm, making this combination extremely effective in almost all scenarios.
-* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Enemies are pulled towards the knife. The effect is minor while not firing and much stronger while the knife is launched.
-* (Added in Afterbirth †)[(Nose Goblin)](/wiki/Nose_Goblin "Nose Goblin") [Nose Goblin](/wiki/Nose_Goblin "Nose Goblin")/(Added in Afterbirth †)[![image](/image/Sinus_Infection.png)](/wiki/Sinus_Infection "Sinus Infection") [Sinus Infection](/wiki/Sinus_Infection "Sinus Infection"): Attraction effect will remain on the booger shot stuck to an enemy. This can drag the enemy across the whole room until they reach one wall and get stuck on it, effectively disabling their normal movement.
-* (Added in Repentance)  [(Tainted Forgotten)](/wiki/Tainted_Forgotten "Tainted Forgotten") [Tainted Forgotten](/wiki/Tainted_Forgotten "Tainted Forgotten"): Tainted Forgotten attracts enemies, putting them in range of his bone club attack.
-* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology")/[![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2")/[![image](/image/Tech.5.png)](/wiki/Tech.5 "Tech.5") [Tech.5](/wiki/Tech.5 "Tech.5"): The beam will attract enemies, often sucking them into the beam and holding them there.
-* (Added in Afterbirth)[![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Enemies and pickups are attracted to the outer ring, increasing accuracy.
-* (Added in Afterbirth)[![image](/image/Tractor_Beam.png)](/wiki/Tractor_Beam "Tractor Beam") [Tractor Beam](/wiki/Tractor_Beam "Tractor Beam"): The lack of random spread and momentum-based trajectories on tears makes the way enemies are pulled around more predictable.
+* [![image](/image/Continuum.png)](/wiki/Continuum "Continuum") [Continuum](/wiki/Continuum "Continuum"): Reduces the need to change firing direction, allowing Isaac to maintain the increased rate of fire.
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus") / [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Firing bombs continually will decrease tear delay, although doing so is **not recommended** since it increases the risk of self-damage.
+* [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"): When tapping the attack button in a single direction repeatedly, the Ephiphora effect will cause the bone swings to speed up.
+* [![image](/image/How_to_Jump.png)](/wiki/How_to_Jump "How to Jump") [How to Jump](/wiki/How_to_Jump "How to Jump"): Changing firing direction while jumping does not reset the bonus, similar to when changing rooms.
+* [![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus"): Incubus's fire rate will match Isaac's.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Fire rate increases while moving the tear in one direction; it has a negligible effect during normal gameplay.
+* [![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): Rate of fire only increases so long as the mark is continuously moved in one direction.
+* [![image](/image/Rubber_Cement.png)](/wiki/Rubber_Cement "Rubber Cement") [Rubber Cement](/wiki/Rubber_Cement "Rubber Cement"): Reduces the need to change firing direction allowing Isaac to maintain the increased rate of fire.
+* (Added in Repentance)[![image](/image/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom"): Isaac will never lose the benefits of Epiphora, even after he stops firing. This effectively makes Epiphora a substantial tears up. Fully charging Ephiphora is still needed to gain a higher tears stat if an item that would increase the tears stat is picked up.
+* [![image](/image/Tractor_Beam.png)](/wiki/Tractor_Beam "Tractor Beam") [Tractor Beam](/wiki/Tractor_Beam "Tractor Beam"): Fire rate still increases when shooting in one direction, but will stay on the line (i.e. no loss in accuracy).
+* [![image](/image/Loki%27s_Horns.png)](/wiki/Loki%27s_Horns "Loki's Horns") [Loki's Horns](/wiki/Loki%27s_Horns "Loki's Horns") / [![image](/image/Mom%27s_Eye.png)](/wiki/Mom%27s_Eye "Mom's Eye") [Mom's Eye](/wiki/Mom%27s_Eye "Mom's Eye"): Allows for firing in multiple directions at once, decreasing need to change firing direction.
 
 
 Interactions
 --------------
 
 
-* [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body")/(Added in Afterbirth †)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture"): Since tears will split into more tears, all traveling different directions, enemies will be randomly moved around.
-* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overrides Strange Attractor.
-	+ (Added in Afterbirth) Enemies get drawn towards the target mark on the ground, ensuring that the missile will hit.
-* (Added in Afterbirth)[![image](/image/Explosivo.png)](/wiki/Explosivo "Explosivo") [Explosivo](/wiki/Explosivo "Explosivo"): Enemies will be pulled toward the stuck on tears, dragging them helplessly or grouping them for the explosion.
-* (Added in Afterbirth †)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria"): Enemies and pickups are attracted to the main tear, but not burst tears.
-* (Added in Afterbirth †)[![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): Enemies will often get sucked into tears, making it more difficult to feed tears or let them burst.
-* [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung"): Due to the high concentration of tears, enemies will be pulled towards Isaac at great force; in certain cases, enough force will be generated to pull enemies through rocks. This can greatly increase accuracy but depending on enemies' movements and positions can also damage Isaac.
-* [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Enemies will be pulled towards both fired tears and split tears. However, because they both travel in opposite directions, the split tears' magnetic effects tend to cancel each other out.
-* [![image](/image/Rubber_Cement.png)](/wiki/Rubber_Cement "Rubber Cement") [Rubber Cement](/wiki/Rubber_Cement "Rubber Cement"): Due to tears being reflected, enemies tend to be pulled towards Isaac with much force. Additionally, the random angle of tears being reflected results in erratic enemy movement. **Not recommended.**
-* [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"): The rapid tears will pull enemies quickly and erratically around the room. **Not recommended.**
-* [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet")/(Added in Repentance)[![image](/image/Immaculate_Heart.png)](/wiki/Immaculate_Heart "Immaculate Heart") [Immaculate Heart](/wiki/Immaculate_Heart "Immaculate Heart"): The orbiting tears will cause enemies to be pulled towards Isaac. **Not recommended.**
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Effect only activates when holding charge in a specific direction, and deactivates when the charge is released, effectively making Epiphora useless unless Isaac has exceedingly high tear delay.
+	+ (Added in Repentance) After charging an attack, continuing to hold the attack button will increase fire rate, but the fire rate is reverted when letting go of the attack button or changing the attack direction.
+* [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk"): Overrides Epiphora.
+* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overrides Epiphora.
+* [(Lilith)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith"): Lilith and her Incubus cannot gain extra fire rate from Epiphora.
+	+ (Added in Repentance) Incubus' fire rate will increase without the accuracy penalty
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Overrides Epiphora.
+* [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung"): Overrides Epiphora.
+* [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac"): If you pick up an item and drop Epiphora while holding the attack button you will keep the fire rate. The effect will disappear upon entering a new floor.
+* [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Overrides Epiphora.
 
 

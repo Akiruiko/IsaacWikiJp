@@ -3,27 +3,28 @@
 
  # Spider Bite ![image](/image/Spider_Bite.png) 
 
+Effects
+---------
 
-Effect
---------
 
-
-* Walking in a circle will spawn a pentagram symbol on the floor, which deals 10 damage per tick to enemies within it.
-	+ (Removed in Repentance) This does not affect flying enemies.
+* Adds a 20% chance to shoot [slowing tears](/wiki/Slow "Slow"), reducing the speed of enemy movement and any projectile fired by them.
+* (Added in Afterbirth †) This item belongs to the [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)") set. Collecting three items from this set will transform Isaac into a humanoid spider.
 
 
 Notes
 -------
 
 
-* The trail of black powder left on the floor will quickly disappear, meaning that there is an effective limit to the size of the pentagram that can be created, though bigger pentagrams can be created if the player has higher movement speed.
-* The traced pattern does not have to be even nearly circular: closed shapes such as squares or very narrow crescents will work, with some luck and practice.
+* The slow duration is 2.5 seconds.
+* The slow effect chance depends on the luck stat and goes up to 100% at 15 Luck.
 
 
-Interactions
---------------
+Synergies
+-----------
 
 
-* (Added in Afterbirth † / Removed in Repentance)[(Lost Cork)](/wiki/Lost_Cork "Lost Cork") [Lost Cork](/wiki/Lost_Cork "Lost Cork"): Although the powder trail is wider in appearance, it has no effect on how easily a valid shape is determined.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The beam turns light pink and can slow enemies.
+* (Added in Afterbirth †)[![image](/image/Finger!.png)](/wiki/Finger! "Finger!") [Finger!](/wiki/Finger! "Finger!"): Finger can also apply the slow effect.
+* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology")/[![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2")/[![image](/image/Tech.5.png)](/wiki/Tech.5 "Tech.5") [Tech.5](/wiki/Tech.5 "Tech.5")/(Added in Afterbirth)[![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): The laser turns light pink and can slow enemies.
 
 

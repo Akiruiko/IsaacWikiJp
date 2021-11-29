@@ -3,7 +3,6 @@
 
  # Divorce Papers ![image](/image/Divorce_Papers.png) 
 
-
 Effects
 ---------
 

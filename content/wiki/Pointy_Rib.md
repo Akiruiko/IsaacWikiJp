@@ -3,13 +3,28 @@
 
  # Pointy Rib ![image](/image/Pointy_Rib.png) 
 
-
 Effects
 ---------
 
 
-* Gives Isaac a large pulsing aura around him that deals damage to enemies inside of it.
-	+ The aura deals more damage the closer enemies are to Isaac, ranging from `0.4` on the edge up to `3.9 + 0.3 * floor` damage.
-	+ The aura deals damage up to 8 times per second.
+* Spawns a bone familiar that can be aimed with the fire buttons in all directions and does contact damage.
+	+ The familiar will continuously hover back and forth in the direction that it is pointing in.
+* The damage is equal to Isaac's [tear damage](/wiki/Damage "Damage") and is dealt 6 times per second.
+	+ The damage increases when Isaac is moving on the direction the familiar is pointing in based on Isaac's current speed, up to twice of its base damage.
+* The familiar will damage [(Poop)](/wiki/Poop "Poop") [Poops](/wiki/Poop "Poop") and [(Fire Place)](/wiki/Fire_Place "Fire Place") [Fire Places](/wiki/Fire_Place "Fire Place").
+
+
+Synergies
+-----------
+
+
+* [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): Triples the contact damage. Has no penalty with range.
+
+
+Interactions
+--------------
+
+
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Doubles the base contact damage, but not the bonus damage granted from Isaac's movement.
 
 

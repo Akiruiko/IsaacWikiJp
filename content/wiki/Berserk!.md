@@ -3,7 +3,6 @@
 
  # Berserk! ![image](/image/Berserk!.png) 
 
-
 Effects
 ---------
 

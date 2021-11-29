@@ -3,7 +3,6 @@
 
  # Toothpicks ![image](/image/Toothpicks.png) 
 
-
 Effects
 ---------
 

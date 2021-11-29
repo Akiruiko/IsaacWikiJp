@@ -3,7 +3,6 @@
 
  # Stitches ![image](/image/Stitches.png) 
 
-
 Effects
 ---------
 

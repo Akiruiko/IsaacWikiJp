@@ -3,7 +3,6 @@
 
  # Broken Glass Cannon ![image](/image/Broken_Glass_Cannon.png) 
 
-
 Effects
 ---------
 

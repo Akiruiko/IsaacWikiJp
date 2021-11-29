@@ -3,7 +3,6 @@
 
  # Nancy Bombs ![image](/image/Nancy_Bombs.png) 
 
-
 Effects
 ---------
 

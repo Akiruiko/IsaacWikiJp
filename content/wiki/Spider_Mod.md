@@ -3,7 +3,6 @@
 
  # Spider Mod ![image](/image/Spider_Mod.png) 
 
-
 Effects
 ---------
 

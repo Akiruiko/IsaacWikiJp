@@ -3,7 +3,6 @@
 
  # The Negative ![image](/image/The_Negative.png) 
 
-
 Effects
 ---------
 

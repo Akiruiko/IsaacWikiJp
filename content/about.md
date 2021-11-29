@@ -13,7 +13,7 @@ wikiの雛形として[英語wiki](https://bindingofisaacrebirth.fandom.com/wiki
 ## 編集について
 このwikiのデータ
 はmarkdownファイルによる個別記事とスプレッドシートによるリストの2つのみから成ります。
-こちらの[github](https://github.com/Akiruiko/IsaacWikiJp)で編集を管理しています。
+こちらの[GitHub](https://github.com/Akiruiko/IsaacWikiJp)で編集を管理しています。
 
 ## このサイトについて
 

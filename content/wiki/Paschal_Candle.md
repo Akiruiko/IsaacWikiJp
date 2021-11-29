@@ -3,7 +3,6 @@
 
  # Paschal Candle ![image](/image/Paschal_Candle.png) 
 
-
 Effects
 ---------
 

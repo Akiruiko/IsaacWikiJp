@@ -3,7 +3,6 @@
 
  # 9 Volt ![image](/image/9_Volt.png) 
 
-
 Effects
 ---------
 

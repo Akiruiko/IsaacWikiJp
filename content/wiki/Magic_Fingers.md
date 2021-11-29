@@ -3,35 +3,35 @@
 
  # Magic Fingers ![image](/image/Magic_Fingers.png) 
 
+Effects
+---------
 
-Effect
---------
 
-
-* Upon taking damage, spawns six [Troll Bombs](/wiki/Troll_Bomb "Troll Bomb") around the room, similar to the effect of [(XVI - The Tower)](/wiki/Cards_and_Runes "XVI - The Tower") [XVI - The Tower](/wiki/Cards_and_Runes "Cards and Runes").
+* Uses 1 [coin](/wiki/Coin "Coin") to deal damage to all enemies in the [room](/wiki/Rooms "Rooms").
+	+ (Removed in Repentance) Damage dealt is equal to twice Isaac's [damage](/wiki/Damage "Damage").
+		- (Added in Repentance) Damage dealt is twice Isaac's [damage](/wiki/Damage "Damage") +10.
 
 
 Notes
 -------
 
 
-* Despite appearing as Troll Bombs, the bombs are mechanically identical to player-placed bombs and will benefit from Isaac's bomb-enhancing items.
-* These bombs hurt the player as well as enemies.
-* Taking damage from the Troll Bombs spawned by Curse of the Tower or any other type of bomb, including Isaac's bombs, will not re-activate the effect.
-* (Removed in Repentance) Picking up this item will make all health transactions more difficult. [Devil Beggars](/wiki/Devil_Beggar "Devil Beggar") and [Blood Donation Machines](/wiki/Blood_Donation_Machine "Blood Donation Machine") will be almost impossible to use because they will very likely be destroyed by bombs.
-	+ (Added in Repentance) Taking damage from [Devil Beggars](/wiki/Devil_Beggar "Devil Beggar") and [Blood Donation Machines](/wiki/Blood_Donation_Machine "Blood Donation Machine") does not trigger the effect.
-* The bombs prefer to spawn near the center of the room.
-* The 6 [Troll Bombs](/wiki/Troll_Bomb "Troll Bomb") are difficult to dodge in small rooms.
+* This item becomes more valuable once [Shops](/wiki/Shop "Shop") stop appearing.
 
 
 Synergies
 -----------
 
 
-* [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac"): Troll Bombs will heal Isaac instead, allowing for essentially infinite health with proper usage.
-	+ (Added in Repentance) Due to Pyromaniac being weakened to healing half a heart per explosion in *Repentance*, this synergy requires [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer") to continue being effective past [Chapter 3](/wiki/Chapter_3 "Chapter 3")/[Chapter 3.5](/wiki/Chapter_3.5 "Chapter 3.5").
-* [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid"): If Isaac is damaged when he has half a red heart or no red hearts, the shield will activate and protect him from the Troll Bombs.
-* [![image](/image/Remote_Detonator.png)](/wiki/Remote_Detonator "Remote Detonator") [Remote Detonator](/wiki/Remote_Detonator "Remote Detonator"): The Troll Bombs generated will not explode until Remote Detonator is activated, unlike regular Troll Bombs.
-* [(Safety Scissors)](/wiki/Safety_Scissors "Safety Scissors") [Safety Scissors](/wiki/Safety_Scissors "Safety Scissors"): The Troll Bombs generated will be converted into bomb pickups rather than exploding.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps in the inner ring, looking like coins. The wisps have a chance to drop [coins](/wiki/Coins "Coins") when destroyed.
+* (Removed in Repentance)[![image](/image/Isaac%27s_Heart.png)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart") + (Added in Afterbirth †)[![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag") + [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag"): Allows for effectively infinite uses by switching to IV Bag when low on money, with Isaac's Heart preventing it from lowering the player's [health](/wiki/Health "Health").
+
+
+Interactions
+--------------
+
+
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* (Added in Repentance)[![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Damage boost is mostly ignored.
 
 

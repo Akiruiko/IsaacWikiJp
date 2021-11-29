@@ -3,7 +3,6 @@
 
  # Stop Watch ![image](/image/Stop_Watch.png) 
 
-
 Effects
 ---------
 

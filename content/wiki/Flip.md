@@ -3,7 +3,6 @@
 
  # Flip ![image](/image/Flip.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Friend Zone ![image](/image/Friend_Zone.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Mystery Gift ![image](/image/Mystery_Gift.png) 
 
-
 Effects
 ---------
 

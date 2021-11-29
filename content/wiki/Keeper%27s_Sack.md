@@ -3,31 +3,29 @@
 
  # Keeper's Sack ![image](/image/Keeper%27s_Sack.png) 
 
-
 Effects
 ---------
 
 
-* When Isaac has no [Red Hearts](/wiki/Health#Red_Heart_Containers "Health"):
-	+ Grants [flight](/wiki/Flight "Flight").
-	+ Every 40 seconds since activation or pickup, when the seconds on the timer hit 00, 20, or 40, while in a room with enemies, a [shield](/wiki/Shield "Shield") triggers, nullifying all types of damage for 10 seconds.
-* Grants 2 [Black Hearts](/wiki/Health#Black_Hearts "Health") on pickup.
+* Gives Isaac [stat](/wiki/Attributes "Attributes") upgrades when he buys items/pickups from [shops](/wiki/Shop "Shop").
+	+ The three possible stat upgrades Keeper's Sack can give are +0.5 [damage](/wiki/Damage "Damage"), +0.03 [speed](/wiki/Speed "Speed"), and +0.25 [range](/wiki/Range "Range").
+	+ Keeper's Sack will always give one stat upgrade when Isaac makes a purchase, plus one for every 5 cents Isaac spent on the pickup/item.
+* Spawns three [coins](/wiki/Coins "Coins") and a [key](/wiki/Key "Key") on pickup.
 
 
 Notes
 -------
 
 
-* Does not affect  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper")/ [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper").
-* (Removed in Repentance)This item is difficult to use for anyone with red health, as it is impossible to have no red hearts without removing all heart containers (such as through [Devil deals](/wiki/Devil_Room "Devil Room")). It is best used by characters that cannot gain red health at all, such as  [(???)](/wiki/%3F%3F%3F_(Character) "???") [???](/wiki/%3F%3F%3F_(Character) "??? (Character)").
-* (Added in Repentance)Characters can now deplete their red health fully through sources like [Blood Donation Machines](/wiki/Machines#Blood_Donation_Machine "Machines") while having other hearts like [soul hearts](/wiki/Health#Soul_Hearts "Health"). As a result, this item is usable for a wider amount of characters, and has synergies with characters who prefer to have no red health (such as  [(Eve)](/wiki/Eve "Eve") [Eve](/wiki/Eve "Eve")).
+* Keeper's Sack works with anything that costs coins, including [Devil deals](/wiki/Devil_deal "Devil deal")/[Black Markets](/wiki/Black_Market "Black Market") as  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper") / affected by [(Keeper's Bargain)](/wiki/Keeper%27s_Bargain "Keeper's Bargain") [Keeper's Bargain](/wiki/Keeper%27s_Bargain "Keeper's Bargain") or [![image](/image/A_Pound_of_Flesh.png)](/wiki/A_Pound_of_Flesh "A Pound of Flesh") [A Pound of Flesh](/wiki/A_Pound_of_Flesh "A Pound of Flesh"), items or pickups created by [![image](/image/Keeper%27s_Box.png)](/wiki/Keeper%27s_Box "Keeper's Box") [Keeper's Box](/wiki/Keeper%27s_Box "Keeper's Box"), the Angel shop created by [![image](/image/The_Stairway.png)](/wiki/The_Stairway "The Stairway") [The Stairway](/wiki/The_Stairway "The Stairway"), and the second shop created by [![image](/image/Member_Card.png)](/wiki/Member_Card "Member Card") [Member Card](/wiki/Member_Card "Member Card").
+* All stat upgrades are tied to the item itself; losing Keeper's Sack somehow will result in the loss of all obtained stat upgrades.
 
 
-Synergies
------------
+Interactions
+--------------
 
 
-* (Added in Afterbirth †)[![image](/image/Brittle_Bones.png)](/wiki/Brittle_Bones "Brittle Bones") [Brittle Bones](/wiki/Brittle_Bones "Brittle Bones"): The empty [bone hearts](/wiki/Health#Bone_Hearts "Health") will trigger Empty Vessel.
-* [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf"): If the player has no Red Hearts, they can stand still and wait for the shield to activate, allowing the player to deal damage without leaving invulnerability.
+* [(Store Credit)](/wiki/Store_Credit "Store Credit") [Store Credit](/wiki/Store_Credit "Store Credit"): Anything bought will not give stats.
+* [![image](/image/Steam_Sale.png)](/wiki/Steam_Sale "Steam Sale") [Steam Sale](/wiki/Steam_Sale "Steam Sale"): Stat boosts for every 5 coins spent will only apply to the modified cost after picking up Steam Sale rather than the original cost.
 
 

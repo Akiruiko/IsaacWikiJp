@@ -3,7 +3,6 @@
 
  # Dead Sea Scrolls ![image](/image/Dead_Sea_Scrolls.png) 
 
-
 Effect
 --------
 

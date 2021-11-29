@@ -3,7 +3,6 @@
 
  # Ghost Pepper ![image](/image/Ghost_Pepper.png) 
 
-
 Effects
 ---------
 

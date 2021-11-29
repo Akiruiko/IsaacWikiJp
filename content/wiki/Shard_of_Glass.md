@@ -3,7 +3,6 @@
 
  # Shard of Glass ![image](/image/Shard_of_Glass.png) 
 
-
 Effects
 ---------
 

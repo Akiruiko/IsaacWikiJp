@@ -3,7 +3,6 @@
 
  # Pause ![image](/image/Pause.png) 
 
-
 Effects
 ---------
 

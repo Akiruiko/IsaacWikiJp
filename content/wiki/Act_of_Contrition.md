@@ -3,7 +3,6 @@
 
  # Act of Contrition ![image](/image/Act_of_Contrition.png) 
 
-
 Effects
 ---------
 

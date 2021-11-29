@@ -3,26 +3,40 @@
 
  # Telekinesis ![image](/image/Telekinesis.png) 
 
-
 Effects
 ---------
 
 
-* While firing, creates an aura around Isaac that [poisons](/wiki/Status_Effects#Poison "Status Effects") any nearby enemies for 2 ticks.
-	+ The poison may stack up to 6 ticks at a time.
-* Poison damage is equal to Isaac's [damage](/wiki/Damage "Damage") stat.
+* Upon use, for the next three seconds, any enemy shots that come near Isaac are held in place. After the charge is depleted, they are fired back as tears.
+	+ The reflected tears always do 3.5 damage.
+* (Added in Repentance) Pushes enemies away for the duration of the item's usage.
+
+
+Notes
+-------
+
+
+* The tears can be rammed into enemies while they're held by Telekinesis. They won't disappear until the effect ends but do no further damage.
+* Catching shots from enemies that fire high into the air, like the [(Tube Worm)](/wiki/Round_Worm#Tube_Worm "Tube Worm") [Tube Worm](/wiki/Round_Worm#Tube_Worm "Round Worm"), is very difficult and not beneficial; in the case of the Tube Worm, shots that are caught will just fall to the ground rather than be fired at enemies.
+
+
+Synergies
+-----------
+
+
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Tears caught by Telekinesis become wisps. The wisps are outside the range of Telekinesis, making them vulnerable to shots before they can be converted to Wisps.
 
 
 Interactions
 --------------
 
 
-* [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel")/[![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone")/[![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk")/[![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife")/[![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung")/[![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): The green aura only activates when Isaacs' attack is charging.
-* [![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"): No effect.
-* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus")/[![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique")/[![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): The green aura only activates when pressing the attack buttons.
-* [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"): The green aura will activate when using melee and charging throw attack.
-* [(Lilith)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith"): No effect.
-* [![image](/image/Mega_Blast.png)](/wiki/Mega_Blast "Mega Blast") [Mega Blast](/wiki/Mega_Blast "Mega Blast"): The green aura will not activate while the beams are firing.
-* [![image](/image/Sprinkler.png)](/wiki/Sprinkler "Sprinkler") [Sprinkler](/wiki/Sprinkler "Sprinkler"): Green aura will not activate if only the sprinkler is firing, and the sprinkler does not get its own green aura.
+* [(? Card)](/wiki/%3F_Card "? Card") [? Card](/wiki/%3F_Card "? Card"): The cooldown applies even when used through the ? Card.
+* (Removed in Repentance)[![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): Does not benefit from 9 Volt, unlike other auto-recharge items.
+	+ (Added in Repentance) 9 Volt now grants half charge on use.
+* [![image](/image/The_Battery.png)](/wiki/The_Battery "The Battery") [The Battery](/wiki/The_Battery "The Battery"): A [battery](/wiki/Battery "Battery") has to be picked up for another charge. Both charges are expended at once for a longer duration effect.
+* [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): The Car Battery has no effect.
+	+ (Added in Repentance) Car Battery now grants 6 seconds of protection for 6 seconds of recharge time.
+* [![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug"): Charge gained from Sharp Plug is expended immediately and won't stop enemy shots.
 
 

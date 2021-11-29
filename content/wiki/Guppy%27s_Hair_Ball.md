@@ -3,7 +3,6 @@
 
  # Guppy's Hair Ball ![image](/image/Guppy%27s_Hair_Ball.png) 
 
-
 Effects
 ---------
 

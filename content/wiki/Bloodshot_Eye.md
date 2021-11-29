@@ -3,7 +3,6 @@
 
  # Bloodshot Eye ![image](/image/Bloodshot_Eye.png) 
 
-
 Effect
 --------
 

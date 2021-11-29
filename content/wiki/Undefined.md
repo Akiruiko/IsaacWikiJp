@@ -3,7 +3,6 @@
 
  # Undefined ![image](/image/Undefined.png) 
 
-
 Effects
 ---------
 

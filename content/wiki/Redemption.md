@@ -3,7 +3,6 @@
 
  # Redemption ![image](/image/Redemption.png) 
 
-
 Effects
 ---------
 

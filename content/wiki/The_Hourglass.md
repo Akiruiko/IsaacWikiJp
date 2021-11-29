@@ -3,26 +3,17 @@
 
  # The Hourglass ![image](/image/The_Hourglass.png) 
 
-
 Effects
 ---------
 
 
-* Grants 3 [Black Hearts](/wiki/Black_Heart "Black Heart").
-* +1 [damage](/wiki/Damage "Damage").
-
-
-Notes
--------
-
-
-* When purchased at a (Devil Room) [Devil Room](/wiki/Devil_Room "Devil Room") by  [(???)](/wiki/%3F%3F%3F_(Character) "???") [???](/wiki/%3F%3F%3F_(Character) "??? (Character)") (or another character who has lost all Red Heart containers) this item effectively converts 3 [Soul Hearts](/wiki/Soul_Heart "Soul Heart") into 3 black hearts, increasing damage at no downside.
+* All enemies in the [room](/wiki/Room "Room") are [slowed](/wiki/Status_Effects#Slow "Status Effects") for approximately 8 seconds.
 
 
 Synergies
 -----------
 
 
-* (Added in Afterbirth)[(Black Feather)](/wiki/Black_Feather "Black Feather") [Black Feather](/wiki/Black_Feather "Black Feather"): Ceremonial Robes counts as an 'evil' item, granting a damage boost.
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns hourglass-shaped wisps on the middle ring. The wisps [slow](/wiki/Status_Effects "Status Effects") all enemies in the room for 3 seconds when destroyed. If the Hourglass is used or extra wisps are destroyed while the slow is in effect, it's duration is extended.
 
 

@@ -3,29 +3,38 @@
 
  # Guppy's Paw ![image](/image/Guppy%27s_Paw.png) 
 
-
 Effects
 ---------
 
 
-* Isaac can break [obstacles](/wiki/Obstacle "Obstacle") by walking into them.
-* Increases Isaac's size.
-* (Added in Afterbirth †) This item belongs to the [Stompy](/wiki/Stompy "Stompy") set. Collecting three items from this set will transform Isaac into Stompy.
+* Upon use, converts one Red [Heart Container](/wiki/Heart_Container "Heart Container") into three [(Soul Heart)](/wiki/Soul_Heart "Soul Heart") [Soul Hearts](/wiki/Soul_Heart "Soul Heart").
+* This item belongs to the [Guppy](/wiki/Guppy "Guppy") set. Collecting three items from this set will transform Isaac into Guppy.
 
 
 Notes
 -------
 
 
-* Walking into [Bomb Rocks](/wiki/Bomb_Rock "Bomb Rock") will cause them to explode.
-* [Mushrooms](/wiki/Mushroom_(Obstacle) "Mushroom (Obstacle)") may hurt Isaac with a poison cloud if walked into.
-* [Polyps](/wiki/Polyp "Polyp") may hurt Isaac with blood shots or red creep if walked into.
-* [Flight](/wiki/Flight "Flight") does not prevent the effect from occurring.
-* Holes in the ground can be filled if Isaac walks into adjacent rocks from the right direction, similar to bombs.
-* TNT Barrels will not be destroyed or explode on contact, however Movable TNT Barrels will explode and may deal damage to Isaac if walked into.
-* Allows Isaac to walk over and destroy [Red Poop](/wiki/Red_Poop "Red Poop") without taking damage. Isaac will still take damage if he is standing on it when it reforms.
-* Walking into an Angel Statue in the [Angel Room](/wiki/Angel_Room "Angel Room") will trigger the boss fight, and Isaac will take damage as the Angel spawns on top of him.
-* (Removed in Afterbirth †) Nullifies effects of One Makes You Small [pills](/wiki/Pill "Pill"), One Makes You Larger pills, and other items which decrease size, such as [![image](/image/Caffeine_Pill.png)](/wiki/Caffeine_Pill "Caffeine Pill") [Caffeine Pill](/wiki/Caffeine_Pill "Caffeine Pill") and [![image](/image/Binky.png)](/wiki/Binky "Binky") [Binky](/wiki/Binky "Binky").
-* (Added in Repentance) [Spiked Rocks](/wiki/Rocks#Spiked_Rocks "Rocks") can be destroyed, but depending on Isaac's size, angle and velocity they may still hurt him.
+* (Added in Afterbirth †) [(Bone Heart)](/wiki/Bone_Heart "Bone Heart") [Bone Hearts](/wiki/Bone_Heart "Bone Heart") cannot be converted.
+
+
+Synergies
+-----------
+
+
+* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns 3 wisps in the middle ring for every Red Heart Container consumed, in addition to granting Soul Hearts. These wisps have a large amount of health.
+* (Removed in Afterbirth)[(Broken Remote)](/wiki/Broken_Remote "Broken Remote") [Broken Remote](/wiki/Broken_Remote "Broken Remote"): The teleport will activate whenever Guppy's Paw is used, even if Isaac has no Red Heart Containers to trade. This can give any characters with no Red Hearts the ability to teleport any number of times for free.
+* (Removed in Repentance)[![image](/image/Converter.png)](/wiki/Converter "Converter") [Converter](/wiki/Converter "Converter"): Allows Isaac to attain up to 10 Red Heart Containers and 1 Soul Heart.
+	+ (Added in Repentance) Allows Isaac to attain up to 12 Red Heart Containers or any combination of Red Heart Containers and Soul Hearts.
+
+
+Interactions
+--------------
+
+
+* (Added in Repentance)  [(Bethany)](/wiki/Bethany "Bethany") [Bethany](/wiki/Bethany "Bethany"): Guppy's Paw will remove one Heart Container in exchange for Soul Heart charges. This will kill Bethany if she has no health left afterward.
+* (Added in Afterbirth)[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery"): No effect.
+* (Added in Afterbirth)  [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper"): Guppy's Paw will take away one Coin Heart, but will only grant [Blue Flies](/wiki/Blue_Fly "Blue Fly") in return.
+* [(XI - Strength)](/wiki/Cards_and_Runes "XI - Strength") [XI - Strength](/wiki/Cards_and_Runes "Cards and Runes"): Converts the temporary Red Heart Container into three Soul Hearts (however, Isaac will still lose one Red Heart Container upon leaving the room if he has any left).
 
 

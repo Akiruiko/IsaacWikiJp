@@ -3,29 +3,17 @@
 
  # Mystery Sack ![image](/image/Mystery_Sack.png) 
 
-
 Effects
 ---------
 
 
-* Teleports Isaac to a random [room](/wiki/Rooms "Rooms") on the current [floor](/wiki/Chapters "Chapters").
-* (Added in Repentance) It is possible to loosely influence the direction teleported in by moving in that direction before using Teleport.
+* Spawns a [familiar](/wiki/Familiar "Familiar") that drops a [Heart](/wiki/Heart "Heart"), [coin](/wiki/Coin "Coin"), [bomb](/wiki/Bomb "Bomb"), or [key](/wiki/Key "Key") (or any of their variations) alternatingly every 5 or 6 [rooms](/wiki/Rooms "Rooms").
 
 
-Interactions
---------------
+Synergies
+-----------
 
 
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns blue wisps in the middle ring. Wisps' tears have a 10% chance of teleporting non-boss enemies to a random location in the current room on hit. Wisps also temporarily vanish every 5 seconds, preventing them from blocking shots or taking/dealing damage.
-
-
-Notes
--------
-
-
-* It is possible to teleport to the [Secret Room](/wiki/Secret_Room "Secret Room") or [Super Secret Room](/wiki/Super_Secret_Room "Super Secret Room").
-* It is not possible to teleport to the [I AM ERROR](/wiki/I_AM_ERROR "I AM ERROR") room.
-* It is not possible to teleport to the [Crawl Space](/wiki/Crawl_Space "Crawl Space") for the floor or the [Black Market](/wiki/Black_Market "Black Market").
-* (Added in Afterbirth) [(Greed mode only)](/wiki/Greed_Mode "Greed mode only") It is possible to teleport to a [Super Secret Room](/wiki/Super_Secret_Room "Super Secret Room") with no doors, resulting in the player being stuck.
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): The familiar drops pickups alternatingly every 4 or 5 rooms.
 
 

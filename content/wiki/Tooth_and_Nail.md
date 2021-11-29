@@ -3,7 +3,6 @@
 
  # Tooth and Nail ![image](/image/Tooth_and_Nail.png) 
 
-
 Effects
 ---------
 

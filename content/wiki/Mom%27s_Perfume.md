@@ -3,42 +3,44 @@
 
  # Mom's Perfume ![image](/image/Mom%27s_Perfume.png) 
 
-
 Effects
 ---------
 
 
-* Randomizes all [pickups](/wiki/Pickup "Pickup") and [chests](/wiki/Chest "Chest") within a [room](/wiki/Rooms "Rooms").
+* Adds a chance to shoot [fear tears](/wiki/Status_Effects#Effects "Status Effects"), causing enemies to run away from the player.
+
+
+* -1 [tear delay](/wiki/Tear_delay "Tear delay") (increased rate of fire)
+	+ Since this directly affects tear delay instead of changing the tears stat, it allows Isaac's rate of fire to go over the normal maximum rate.
+	+ Tear delay decreases are more noticeable and are a greater increase to DPS when the tears stat is high.
+
+
+* (Added in Repentance)Tears fired per second +0.5.
+* (Added in Afterbirth) This item belongs to the [Yes Mother?](/wiki/Yes_Mother%3F "Yes Mother?") set. Collecting three items from this set will transform Isaac into his mother.
 
 
 Notes
 -------
 
 
-* (Removed in Repentance) The empty chest object that is left behind after opening any kind of chest can be re-rolled.
-* On [(Chest)](/wiki/Chest_(Floor) "Chest") [Chest](/wiki/Chest_(Floor) "Chest (Floor)") and [(Dark Room)](/wiki/Dark_Room "Dark Room") [Dark Room](/wiki/Dark_Room "Dark Room"), the re-rolled chests will contain items.
-* Cannot re-roll pickups into [Lil' Batteries](/wiki/Lil%27_Battery "Lil' Battery"), but can re-roll pickups into [Grab Bags](/wiki/Grab_Bag "Grab Bag") which can contain Lil' Batteries.
-	+ (Added in Repentance) Can re-roll pickups into Lil' Batteries and other battery pickups.
-* It can re-roll pickups into chests.
-* It can re-roll pickups in the (Shop) [Shop](/wiki/Shop "Shop").
-* Re-rolling pickups duplicated by [(Rune of Jera)](/wiki/Cards_and_Runes "Rune of Jera") [Rune of Jera](/wiki/Cards_and_Runes "Cards and Runes"), (Added in Afterbirth)[![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia") and (Added in Afterbirth †)[![image](/image/Crooked_Penny.png)](/wiki/Crooked_Penny "Crooked Penny") [Crooked Penny](/wiki/Crooked_Penny "Crooked Penny") will result on both the original item and the duplicate being the exact same pickup.
-	+ (Added in Repentance) Can re-roll both items created by [![image](/image/Options%3F.png)](/wiki/Options%3F "Options?") [Options?](/wiki/Options%3F "Options?"), but only one can still be taken.
-* (Added in Repentance) [Golden trinkets](/wiki/Golden_Trinket "Golden Trinket") rerolled by D20 will cause the resulting pickup to have the golden effect applied to it. If this is a trinket, the affected trinket will act as a normal golden trinket would, otherwise the gold effect will do nothing and will disappear upon leaving and reentering the room.
-	+ Additionally, items spawned by chests with the gold effect applied will be golden as well, however other pickups dropped by chests will not be.
-* (Added in Repentance) Can reroll coins dropped by  [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper") into other pickups, but they will still disappear if not picked up quickly.
+* The fear effect chance depends on the [luck](/wiki/Luck "Luck") stat, starting at 12.5% at 0 luck, reaching 100% with 85 luck.
+	+ [![image](/image/Dark_Matter.png)](/wiki/Dark_Matter "Dark Matter") [Dark Matter](/wiki/Dark_Matter "Dark Matter") is significantly better at inflicting fear than Mom's Perfume.
 
 
 Synergies
 -----------
 
 
-* (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns wisps in the middle ring. In addition to summoning its specific wisp, instead of rerolling pickups, it will destroy all pickups in the room and has a chance to give a random wisp for each pickup destroyed.
+* (Added in Afterbirth †)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")/[![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body")/(Added in Afterbirth †)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria")/[![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): If the main tear causes fear, the split tears cause fear too.
+* (Added in Afterbirth †)[![image](/image/Finger!.png)](/wiki/Finger! "Finger!") [Finger!](/wiki/Finger! "Finger!"): Finger can also apply the fear effect.
+* (Added in Afterbirth †)[![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): If a fear tear is fed, all burst tears cause fear. If a normal tear is fed, the burst tears cannot cause fear.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique") The tear flickers yellow, capable of inflicting fear when it does.
 
 
 Interactions
 --------------
 
 
-* (Added in Repentance) When used to reroll pickups in  [(Tainted Keeper)](/wiki/Tainted_Keeper "Tainted Keeper") [Tainted Keeper](/wiki/Tainted_Keeper "Tainted Keeper")'s special shops, pickups may be rerolled into items instead.
+* (Added in Afterbirth)[![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"): Tear delay does not stack.
 
 

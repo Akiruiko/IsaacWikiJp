@@ -3,39 +3,34 @@
 
  # Larynx ![image](/image/Larynx.png) 
 
-
 Effects
 ---------
 
 
-* Upon picking up enough [heart pickups](/wiki/Hearts "Hearts"), Isaac gains a permanent angelic [familiar](/wiki/Familiar "Familiar") and generates a Soul Heart drop. Possible familiars include:
-	+ [![image](/image/Holy_Water.png)](/wiki/Holy_Water "Holy Water") [Holy Water](/wiki/Holy_Water "Holy Water")
-	+ [![image](/image/Guardian_Angel.png)](/wiki/Guardian_Angel "Guardian Angel") [Guardian Angel](/wiki/Guardian_Angel "Guardian Angel")
-	+ [![image](/image/Sworn_Protector.png)](/wiki/Sworn_Protector "Sworn Protector") [Sworn Protector](/wiki/Sworn_Protector "Sworn Protector")
-	+ [![image](/image/The_Relic.png)](/wiki/The_Relic "The Relic") [The Relic](/wiki/The_Relic "The Relic")
-	+ [![image](/image/Seraphim.png)](/wiki/Seraphim "Seraphim") [Seraphim](/wiki/Seraphim "Seraphim")
-* All five familiars will spawn in a random order, each after collecting 15 hearts.
-* After all familiars have been spawned, a [Soul Heart](/wiki/Hearts#Soul_Heart "Hearts") will still drop every 15 hearts collected.
-* Isaac will look progressively more pregnant as he collects heart pickups.
+* Isaac shouts, damaging and pushing away nearby enemies.
+	+ The item can be used when not fully charged, but deals more damage and has increased range the more charges it has when used.
+	+ The damage the shout deals is 20 + 28 per charge used.
+		- The shout also deals extra ticks of damage to enemies that are close enough. These extra ticks deal damage equal to 2.5 + 3.5 per charge used, and can tick a number of times up to half the charges used (rounding up).
+			* The range of the extra ticks also varies depending on the charges used: enemies that are closer to Isaac will receive more ticks of damage.
+	+ The shout is able to destroy [obstacles](/wiki/Obstacles "Obstacles"), such as [rocks](/wiki/Rocks "Rocks"), [(Poop)](/wiki/Poop "Poop") [Poops](/wiki/Poop "Poop") and [(Fire Place)](/wiki/Fire_Place "Fire Place") [Fire Places](/wiki/Fire_Place "Fire Place") and open bombable doors, including [Bedroom](/wiki/Bedroom "Bedroom") and (Secret Room) [Secret Room](/wiki/Secret_Room "Secret Room") doors.
+* Larynx gains 1 charge whenever Isaac takes damage, as well as through normal means.
 
 
-Notes
--------
+Synergies
+-----------
 
 
-* All types of hearts except [Gold Hearts](/wiki/Gold_Heart "Gold Heart") and [Blended Hearts](/wiki/Blended_Heart "Blended Heart") count.
-* Items that directly add health such as [![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart"), [![image](/image/Book_of_Revelations.png)](/wiki/Book_of_Revelations "Book of Revelations") [Book of Revelations](/wiki/Book_of_Revelations "Book of Revelations"), [![image](/image/Satanic_Bible.png)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible"), and [![image](/image/The_Nail.png)](/wiki/The_Nail "The Nail") [The Nail](/wiki/The_Nail "The Nail") do not count towards spawning a familiar.
-* Only one of each type of familiar can be spawned.
-* [(The Lost)](/wiki/The_Lost "The Lost") [The Lost](/wiki/The_Lost "The Lost") can pick up Soul Hearts and Black Hearts despite having no health and thus can activate Immaculate Conception.
-* [(Keeper)](/wiki/Keeper "Keeper") [Keeper](/wiki/Keeper "Keeper") cannot encounter hearts, thus the item is useless for him.
-* As the short-lived Half Red Hearts dropped by  [(Tainted Magdalene)](/wiki/Tainted_Magdalene "Tainted Magdalene") [Tainted Magdalene](/wiki/Tainted_Magdalene "Tainted Magdalene") also count, it is an excellent choice for her since she will constantly be picking up hearts and gain all five familiars quickly.
-* The familiars spawned by Immaculate Conception will still spawn even if Isaac has already obtained the familiar through their respective pedestal item.
+* [![image](/image/The_Battery.png)](/wiki/The_Battery "The Battery") [The Battery](/wiki/The_Battery "The Battery"): Larynx can hold up to two full charges. Only up to 12 charges will be used at a time.
+* [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues"): Spawns red wisps on the middle ring. The wisps deals contact damage equal to 30% of Isaac's damage * Charges Used. Charges Used equals the number of charges Larynx had at the time it was used. Health = `1 * Charges Used`. Tear Damage = `1.5 * Charges Used`.
+* [![image](/image/Habit.png)](/wiki/Habit "Habit") [Habit](/wiki/Habit "Habit"): Both on-hit charge effects stack, charging 2 points per hit.
+* [(Hairpin)](/wiki/Hairpin "Hairpin") [Hairpin](/wiki/Hairpin "Hairpin"): Fully recharges Larynx at the beginning of boss fights, giving Isaac a way to easily devastate several bosses.
 
 
 Interactions
 --------------
 
 
-* [![image](/image/The_Jar.png)](/wiki/The_Jar "The Jar") [The Jar](/wiki/The_Jar "The Jar"): Hearts collected in the jar do not count towards activation.
+* [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"): The first bar gains an automatic recharge, but the further bars will not be affected.
+* [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void"): **Very poor combination.** Absorbing Larynx and using it through Void will cause Isaac to only perform the 1-charge version regardless of how many times he has taken damage or how many charges Void has, resulting in minimal damage.
 
 

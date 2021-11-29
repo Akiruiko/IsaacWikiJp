@@ -3,18 +3,17 @@
 
  # Steven ![image](/image/Steven_(Item).png) 
 
-
-Effects
----------
-
-
-* Grants [flight](/wiki/Flight "Flight").
+Effect
+--------
 
 
-Interactions
---------------
+* +1 [damage](/wiki/Damage "Damage").
 
 
-* (Added in Repentance)[![image](/image/The_Intruder.png)](/wiki/The_Intruder "The Intruder") [The Intruder](/wiki/The_Intruder "The Intruder"): When the effect is activated Isaac becomes invisible.
+Notes
+-------
+
+
+* This item is more likely to be dropped by [Steven](/wiki/Steven "Steven") if [![image](/image/Little_Steven.png)](/wiki/Little_Steven "Little Steven") [Little Steven](/wiki/Little_Steven "Little Steven") has already been picked up.
 
 

@@ -3,21 +3,28 @@
 
  # Charged Baby ![image](/image/Charged_Baby.png) 
 
-
 Effects
 ---------
 
 
-* Grants two [Soul Hearts](/wiki/Soul_Heart "Soul Heart").
-* Isaac gains a pulsing blue aura that repels enemies and projectiles.
-	+ The power of the repel force alternates in strength at random, sometimes strong enough to counter a projectile well before it hits Isaac, sometimes only strong enough to slow it down.
-	+ Ground-based enemies will overcome the counterforce easier than flying enemies and projectiles.
+* Spawns a battery [familiar](/wiki/Familiar "Familiar") that:
+	+ Occasionally spawns a [Lil' Battery](/wiki/Lil%27_Battery "Lil' Battery").
+		- (Added in Repentance) Can also spawn a [Micro Battery](/wiki/Micro_Battery "Micro Battery") or [Mega Battery](/wiki/Batteries#Mega_Battery "Batteries") instead.
+	+ Occasionally adds a charge to Isaac's [activated item](/wiki/Items#Activated_Collectibles "Items"). It does this a maximum of 2 times per [room](/wiki/Rooms "Rooms").
+	+ Occasionally [petrifies](/wiki/Status_Effects#Petrification "Status Effects") all enemies.
 
 
 Notes
 -------
 
 
-* (Added in Repentance) A stronger effect of this item is given temporarily by [(I - The Magician?)](/wiki/Cards_and_Runes "I - The Magician?") [I - The Magician?](/wiki/Cards_and_Runes "Cards and Runes").
+* Charged Baby becomes very powerful as  [(Lilith)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith") in [Greed mode](/wiki/Greed_mode "Greed mode"), as the duplicates will continue to spawn Lil' Batteries, leading to a huge chain of familiars.
+
+
+Synergies
+-----------
+
+
+* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Familiar is bigger and drops Lil' Batteries more often. No effect on its other abilities.
 
 

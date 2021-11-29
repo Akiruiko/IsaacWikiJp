@@ -3,7 +3,6 @@
 
  # Jaw Bone ![image](/image/Jaw_Bone.png) 
 
-
 Effects
 ---------
 

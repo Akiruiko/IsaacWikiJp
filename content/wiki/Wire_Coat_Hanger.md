@@ -3,7 +3,6 @@
 
  # Wire Coat Hanger ![image](/image/Wire_Coat_Hanger.png) 
 
-
 Effect
 --------
 

@@ -3,7 +3,6 @@
 
  # Missing Page 2 ![image](/image/Missing_Page_2.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Eraser ![image](/image/Eraser.png) 
 
-
 Effects
 ---------
 

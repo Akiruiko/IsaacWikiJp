@@ -3,7 +3,6 @@
 
  # White Pony ![image](/image/White_Pony.png) 
 
-
 Effects
 ---------
 

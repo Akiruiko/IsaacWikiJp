@@ -3,7 +3,6 @@
 
  # Book of the Dead ![image](/image/Book_of_the_Dead.png) 
 
-
 Effects
 ---------
 

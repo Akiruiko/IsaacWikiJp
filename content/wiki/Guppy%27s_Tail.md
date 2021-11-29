@@ -3,25 +3,30 @@
 
  # Guppy's Tail ![image](/image/Guppy%27s_Tail.png) 
 
+Effects
+---------
 
-Effect
---------
 
-
-* Combined with [![image](/image/Key_Piece_1.png)](/wiki/Key_Piece_1 "Key Piece 1") [Key Piece 1](/wiki/Key_Piece_1 "Key Piece 1"), unlocks the golden gate in the starting [room](/wiki/Rooms "Rooms") of [The Chest](/wiki/The_Chest "The Chest") and [Dark Room](/wiki/Dark_Room "Dark Room") to fight [Mega Satan](/wiki/Mega_Satan "Mega Satan").
-* Increases the chance of finding an [Angel Room](/wiki/Angel_Room "Angel Room").
+* Grants a 1/3 chance of replacing [Room Clear Awards](/wiki/Room_Clear_Awards "Room Clear Awards") with a [Chest](/wiki/Chest "Chest") or a Locked Chest, but also a 1/3 chance to replace it with nothing at all.
+	+ (Added in Afterbirth) The effect does not apply to [Coins](/wiki/Coin "Coin") dropped in [Greed Mode](/wiki/Greed_Mode "Greed Mode").
+* This item belongs to the [Guppy](/wiki/Guppy "Guppy") set. Collecting three items from this set will transform Isaac into Guppy.
 
 
 Notes
 -------
 
 
-* This item is a guaranteed drop from [Gabriel](/wiki/Angel#Gabriel "Angel") if not already in possession.
-* The Golden Gate can alternatively be opened using [![image](/image/Dad%27s_Key.png)](/wiki/Dad%27s_Key "Dad's Key") [Dad's Key](/wiki/Dad%27s_Key "Dad's Key"), (Added in Afterbirth)[(Get out of Jail Free Card)](/wiki/Get_out_of_Jail_Free_Card "Get out of Jail Free Card") [Get out of Jail Free Card](/wiki/Get_out_of_Jail_Free_Card "Get out of Jail Free Card") or (Added in Afterbirth †)[![image](/image/Mr._ME!.png)](/wiki/Mr._ME! "Mr. ME!") [Mr. ME!](/wiki/Mr._ME! "Mr. ME!").
-* This item, along with [![image](/image/Key_Piece_1.png)](/wiki/Key_Piece_1 "Key Piece 1") [Key Piece 1](/wiki/Key_Piece_1 "Key Piece 1"), can be rerolled into any item from the [Angel Room pool](/wiki/Item_Pool#Angel_Room "Item Pool").
-* This item also counts as a [familiar](/wiki/Familiar "Familiar"), meaning it takes up a familiar slot.
-* Unlocking the Golden Gate with the combined key pieces and then restarting the floor with [![image](/image/Forget_Me_Now.png)](/wiki/Forget_Me_Now "Forget Me Now") [Forget Me Now](/wiki/Forget_Me_Now "Forget Me Now") or an [I AM ERROR](/wiki/I_AM_ERROR "I AM ERROR") room will waste the key, which will not respawn.
-* Will not be rerolled by [![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4"), [![image](/image/D100.png)](/wiki/D100 "D100") [D100](/wiki/D100 "D100"), or [Dice Room](/wiki/Dice_Room "Dice Room") effects.
-* Will not be doubled by (Added in Afterbirth)[![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends")
+* The drawback to this item is that Keys become much more scarce, while increasing the amount of Locked Chests. This makes taking Guppy's Tail a potential liability early on.
+* Due to any found Chests containing [items](/wiki/Item "Item") while in [(Chest)](/wiki/Chest_(Floor) "Chest") [Chest](/wiki/Chest_(Floor) "Chest (Floor)") or [(Dark Room)](/wiki/Dark_Room "Dark Room") [Dark Room](/wiki/Dark_Room "Dark Room"), Guppy's Tail can be a good way to quickly stack up more upgrades before facing the final boss.
+* This item has no effect in [Greed Mode](/wiki/Greed_Mode "Greed Mode") other than counting towards the Guppy Transformation.
+
+
+Synergies
+-----------
+
+
+* (Added in Repentance)[![image](/image/Guppy%27s_Eye.png)](/wiki/Guppy%27s_Eye "Guppy's Eye") [Guppy's Eye](/wiki/Guppy%27s_Eye "Guppy's Eye"): Makes key management easier by revealing which Locked Chests are worth opening and which are not.
+* [(The Left Hand)](/wiki/The_Left_Hand "The Left Hand") [The Left Hand](/wiki/The_Left_Hand "The Left Hand"): Turns all chests into Red Chests, allowing Isaac to get Red Chest items much more quickly. Useful when pursuing the [Guppy transformation](/wiki/Guppy "Guppy").
+* [![image](/image/Mom%27s_Key.png)](/wiki/Mom%27s_Key "Mom's Key") [Mom's Key](/wiki/Mom%27s_Key "Mom's Key"): Increases the number of drops from Chests and counteracts the increased chance to run into Locked Chests.
 
 

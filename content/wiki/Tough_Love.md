@@ -3,52 +3,37 @@
 
  # Tough Love ![image](/image/Tough_Love.png) 
 
-
 Effects
 ---------
 
 
-* Adds a chance to fire an egg sack which spawns [slowing](/wiki/Slow "Slow") [creep](/wiki/Creep "Creep"). If an egg sack hits an enemy, one to two [Blue Flies](/wiki/Blue_Fly "Blue Fly") or [Blue Spider](/wiki/Blue_Spider "Blue Spider") is spawned.
-* Egg sack tears have considerably higher [tear height](/wiki/Tear_height "Tear height") and consequently, [range](/wiki/Range "Range").
-* (Added in Repentance) This item belongs to the [Beelzebub](/wiki/Beelzebub "Beelzebub") set. Collecting three items from this set will transform Isaac into a giant humanoid fly.
-* (Added in Repentance) This item belongs to the [Spider Baby](/wiki/Spider_Baby_(Transformation) "Spider Baby (Transformation)") set. Collecting three items from this set will transform Isaac into a humanoid spider.
+* Adds a chance to shoot a tooth instead of a tear, which deals x3.2 Isaac's [damage](/wiki/Damage "Damage").
 
 
 Notes
 -------
 
 
-* Egg sacks will also spawn blue flies or spiders if they hit [Fireplaces](/wiki/Fireplace "Fireplace") or invincible enemies like [Death's Head](/wiki/Death%27s_Head "Death's Head") and [Stoney](/wiki/Stoney "Stoney").
-* The chance to fire an egg sack is affected by [luck](/wiki/Luck "Luck"). It is 15% at base luck (0), but cannot reach 100% at high luck.
-* It is possible to create a large number of Spiders and Flies by repeatedly shooting a closed [Host](/wiki/Host "Host").
-
-
-Synergies
------------
-
-
-* [![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture") / [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body") / [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): When egg sacks are fired, they will split into smaller egg sacks. Split egg sacks from The Parasite will not look like egg sacks.
-* [![image](/image/Cupid%27s_Arrow.png)](/wiki/Cupid%27s_Arrow "Cupid's Arrow") [Cupid's Arrow](/wiki/Cupid%27s_Arrow "Cupid's Arrow"): Egg sacks will apply their effect to every enemy hit.
-* [![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Flies and spiders are bigger and deal double damage.
+* + The chance for this to occur increases with [Luck](/wiki/Luck "Luck"). The activation rate is equal to 1/(10 - Luck). At base Luck (0), the chance is 10%, maxing out at 100% at 9 Luck[[1]](#cite_note-1).
 
 
 Interactions
 --------------
 
 
-* [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel"): Overrides Parasitoid.
-* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Overrides Parasitoid.
-* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Overrides Parasitoid.
-* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overrides Parasitoid.
-* [(Fish Tail)](/wiki/Fish_Tail "Fish Tail") [Fish Tail](/wiki/Fish_Tail "Fish Tail"): No effect.
-* [![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria"): Tears retain Haemolacria appearance and only the main tear can spawn flies or spiders when damaging enemies.
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Only extra range applies on egg sack tears and they will not spawn flies or spiders.
-* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Overrides Parasitoid.
-* (Added in Repentance)[![image](/image/Montezuma%27s_Revenge.png)](/wiki/Montezuma%27s_Revenge "Montezuma's Revenge") [Montezuma's Revenge](/wiki/Montezuma%27s_Revenge "Montezuma's Revenge"): No effect.
-* (Added in Repentance)[![image](/image/Revelation.png)](/wiki/Revelation "Revelation") [Revelation](/wiki/Revelation "Revelation"): No effect.
-* (Added in Repentance)[![image](/image/Spirit_Sword.png)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword"): The sword projectiles can still spawn flies and spiders, but the swings themselves won't.
-* [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Overrides Parasitoid.
-* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): Overrides Parasitoid.
-* [![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): Overrides Parasitoid.
+* (Added in Afterbirth †)[![image](/image/Apple!.png)](/wiki/Apple! "Apple!") [Apple!](/wiki/Apple! "Apple!"): With 14 [Luck](/wiki/Luck "Luck"), overrides Tough Love. With 13 Luck, Apple and Tough Love each have about an equal chance to trigger.
+* (Removed in Afterbirth)[![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Overridden by Brimstone.
+	+ (Added in Afterbirth) Occasionally fires Brimstone beam with damage multiplier of Tough Love.
+* [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body") / (Added in Afterbirth †)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture"): Teeth will split into smaller teeth.
+* (Removed in Repentance)[![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Bombs explode with the increased blast damage and radius of [![image](/image/Mr._Mega.png)](/wiki/Mr._Mega "Mr. Mega") [Mr. Mega](/wiki/Mr._Mega "Mr. Mega").
+	+ (Added in Repentance) Adds a chance for the bombs to deal increased damage. See the page for the specific damage formula.
+* [![image](/image/Fire_Mind.png)](/wiki/Fire_Mind "Fire Mind") [Fire Mind](/wiki/Fire_Mind "Fire Mind"): Adds a [flaming](/wiki/Tears_(weapon)#Flaming_Tears "Tears (weapon)") effect to the teeth, (Removed in Repentance) but without the chance of exploding.
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Teeth explode with the increased blast damage of [![image](/image/Mr._Mega.png)](/wiki/Mr._Mega "Mr. Mega") [Mr. Mega](/wiki/Mr._Mega "Mr. Mega").
+* (Removed in Repentance)[![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Overridden by Mom's Knife.
+	+ (Added in Repentance): Both damage multipliers apply, combined damage multiplier is x6.4.
+* (Added in Afterbirth †)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria"): Tears will not appear as teeth but may still gain the damage multiplier.
+* (Added in Repentance)[(Jawbreaker)](/wiki/Jawbreaker "Jawbreaker") [Jawbreaker](/wiki/Jawbreaker "Jawbreaker"): Activation rates are individually applied to each tear, effectively allowing for higher amounts of teeth. At 9 Luck, the trinket is no longer needed, as Tough Love will already guarantee that every shot is a tooth.
+* [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Split tears will not turn into teeth.
+* (Added in Repentance)[![image](/image/Spirit_Sword.png)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword"): Both the sword and projectiles can deal increased damage.
 
 

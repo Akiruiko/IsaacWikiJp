@@ -3,7 +3,6 @@
 
  # Knife Piece 1 ![image](/image/Knife_Piece_1.png) 
 
-
 Effect
 --------
 

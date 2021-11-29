@@ -3,7 +3,6 @@
 
  # Little Baggy ![image](/image/Little_Baggy.png) 
 
-
 Effects
 ---------
 

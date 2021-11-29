@@ -3,7 +3,6 @@
 
  # Number Two ![image](/image/No._2.png) 
 
-
 Effects
 ---------
 

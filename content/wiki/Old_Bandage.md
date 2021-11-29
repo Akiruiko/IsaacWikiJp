@@ -3,7 +3,6 @@
 
  # Old Bandage ![image](/image/Old_Bandage.png) 
 
-
 Effects
 ---------
 

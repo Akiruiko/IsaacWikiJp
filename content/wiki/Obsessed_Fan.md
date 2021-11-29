@@ -3,7 +3,6 @@
 
  # Obsessed Fan ![image](/image/Obsessed_Fan.png) 
 
-
 Effects
 ---------
 

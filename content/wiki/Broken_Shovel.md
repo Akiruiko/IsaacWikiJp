@@ -3,7 +3,6 @@
 
  # Broken Shovel ![image](/image/Broken_Shovel.png) 
 
-
 Activated Collectible
 -----------------------
 

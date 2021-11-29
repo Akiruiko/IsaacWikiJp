@@ -3,7 +3,6 @@
 
  # R Key ![image](/image/R_Key.png) 
 
-
 Effects
 ---------
 

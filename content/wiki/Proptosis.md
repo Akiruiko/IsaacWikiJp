@@ -3,55 +3,73 @@
 
  # Proptosis ![image](/image/Proptosis.png) 
 
-
 Effects
 ---------
 
 
-* Makes tears bounce off walls, [enemies](/wiki/Enemy "Enemy") and [environmental objects](/wiki/Obstacle "Obstacle").
-	+ Tears that bounce off of enemies bounce in random directions, whereas tears that bounce off of walls and other objects bounce directly back.
-	+ When tears bounce from enemies, they become able to hit the same enemy again should they bounce off of another enemy or obstacle.
-	+ (Added in Afterbirth †) Tears bounce off bombs.
+* (Removed in Repentance) Doubles Isaac's [damage](/wiki/Damage "Damage") stat.
+* (Added in Repentance) +0.5 damage.
+* Tear size multiplier: 2x.
+* (Removed in Repentance) The tears shrink and lose damage the farther they travel.
+* (Added in Repentance) The tears shrink and lose damage the more time they stay airborne, starting at 3x damage at point blank range. After 0.8 seconds, they deal no damage at all.
+
+
+Notes
+-------
+
+
+* (Removed in Repentance) Effective range of Isaac's tears now also depends on the damage, as they can shrink out of existence before their air time runs out.
+* (Added in Repentance) Since tears run out of damage after 0.8 seconds (48 frames), shot speed is the only stat that determines the effective range of Isaac's tears. Damage and range don't affect the travel distance at all.
+* (Added in Repentance) Approximately 2.08% damage is lost per frame. This means at approximately 0.53 seconds (32 frames) Isaac's tears will deal the normal amount of damage.
+* (Removed in Repentance) Tear size increasing items also increase the maximum distance before its disappearance, but the damage dealt can go below original at the extreme.
+* The item has the opposite effect of the item [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"), which makes Isaac deal more damage from farther away.
+* (Removed in Repentance) Does not affect  [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel") short-ranged [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") unless the range stat is *extremely* high.
 
 
 Synergies
 -----------
 
 
-* (Added in Afterbirth) [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The blood laser bounces off of walls, creating a second beam that deals half damage.
-	+ (Added in Afterbirth)  [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel")'s Brimstone laser becomes a full length laser after bouncing, but will deal half of the damage.
-		- (Added in Afterbirth †)  [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel")'s Brimstone no longer becomes a full length laser after bouncing, and instead bounce as a regular mini-Brimstone.
-* [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): Both effects stack, with tears that bounce off of enemies being able to hit others for more damage.
-* [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Tears will bounce off of walls without splitting, but split and bounce when hitting enemies. The split tears and the original one will bounce off everything.
-* (Added in Afterbirth †)[![image](/image/Pop!.png)](/wiki/Pop! "Pop!") [Pop!](/wiki/Pop! "Pop!"): Significantly increases the uptime of tears, since they are not limited by range and each tear will bounce off of each other. Continuously firing tears will eventually create a positive feedback loop, as the tears will keep bouncing faster and faster while not dropping to the floor.
-	+ **Pop!** + [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): Extremely powerful combination; Lump of Coal's tear size increase will make it much easier for tears to bounce off of each other, while they increase in damage very rapidly. Given some time and enough tears, this can kill even final bosses such as [Hush](/wiki/Hush "Hush") and [Delirium](/wiki/Delirium "Delirium") quickly.
-* (Added in Afterbirth) [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology") / [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2") / [Tech.5](/wiki/Tech.5 "Tech.5"): Laser bounces off walls, creating a second beam that does half damage.
-* (Added in Repentance) [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): The laser rings bounce off walls once.
+* [![image](/image/Anti-Gravity.png)](/wiki/Anti-Gravity "Anti-Gravity") [Anti-Gravity](/wiki/Anti-Gravity "Anti-Gravity"): The tears will not decrease in size or damage until they start moving, making this excellent against enemies that chase Isaac.
+	+ **Anti-Gravity** + (Added in Repentance)[![image](/image/Eye_of_the_Occult.png)](/wiki/Eye_of_the_Occult "Eye of the Occult") [Eye of the Occult](/wiki/Eye_of_the_Occult "Eye of the Occult"): Lets Isaac maintain the full 3× damage multiplier while controlling his tears.
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Retains the double damage effect without losing damage over range.
+	+ (Added in Afterbirth) Damage is doubled again for a total of 4x next to Isaac, but quickly drops further along the beam, at about 0.8x per tile of distance.
+	+ (Added in Repentance) The beam does 6x damage at point blank range.
+* (Removed in Repentance) [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus")/[![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Doubles damage with no penalty for distance.
+	+ (Added in Repentance) Triples/quadruples damage respectively.
+* [![image](/image/Godhead.png)](/wiki/Godhead "Godhead") [Godhead](/wiki/Godhead "Godhead"): The damaging halo shrinks with the tears.
+* [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): Proptosis scales with Isaac's damage while the Lump of Coal does not. At base damage, the Lump of Coal will approximately negate the damage lost over distance, but with increased damage, tears still do more damage up close.
+	+ **A Lump of Coal** + [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The controlled tear has full Proptosis damage buff, (Removed in Repentance) no matter how far it is from Isaac. (Added in Repentance) Very slightly decreases damage from far away.
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): The Knife damage is (Removed in Repentance) doubled ((Added in Repentance) tripled), regardless of range.
+* [![image](/image/Polyphemus.png)](/wiki/Polyphemus "Polyphemus") [Polyphemus](/wiki/Polyphemus "Polyphemus"): Tears do massive damage and carry with leftover damage while still shrinking.
+* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology")/[![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2"): Doubles damage.
+	+ (Added in Afterbirth) The beam decreases in damage and width the farther it travels. Tears become virtually powerless across large rooms like the Boss Rush and the Hush fight.
+	+ (Added in Repentance) The beams do 6x damage at point blank range.
+* (Added in Afterbirth)[![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): Ring size and damage is substantially increased, but decreases as the ring travels further from Isaac.
+* (Added in Afterbirth † / Removed in Repentance)[![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): Base damage is doubled and beam damage is boosted to about 65%. Blasts lose no power as they travel further, though the tips of the blasts deal very slightly less damage.
+	+ (Added in Repentance) Damage slightly increased, beam damage is doubled. Blasts lose no power with distance.
+* (Added in Repentance)[![image](/image/Bird%27s_Eye.png)](/wiki/Bird%27s_Eye "Bird's Eye") [Bird's Eye](/wiki/Bird%27s_Eye "Bird's Eye"): Size and damage of fires is increased, but does not decrease with range.
 
 
 Interactions
 --------------
 
 
-* (Removed in Afterbirth) [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): Overrides Rubber Cement.
-* [![image](/image/Bob%27s_Rotten_Head.png)](/wiki/Bob%27s_Rotten_Head "Bob's Rotten Head") [Bob's Rotten Head](/wiki/Bob%27s_Rotten_Head "Bob's Rotten Head"): The bomb bounces back upon hitting an obstacle, and will not explode until it runs out of air time. **Not recommended**, as it can make self-damage more likely in small rooms.
-* (Added in Afterbirth)[![image](/image/Continuum.png)](/wiki/Continuum "Continuum") [Continuum](/wiki/Continuum "Continuum"): Overridden by Rubber Cement; tears will still bounce off of walls and obstacles.
-* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): Overrides Rubber Cement.
-* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): Overrides Rubber Cement.
-* (Added in Afterbirth †)  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") [The Forgotten](/wiki/The_Forgotten "The Forgotten"): No effect on the skeleton form's attacks.
-* [Homing tears](/wiki/Homing_tears "Homing tears"): Tears will bounce off enemies and home back in, but to deal damage to that enemy again they must bounce off a different object.
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Tears will bounce off of obstacles, but not enemies.
-* (Added in Afterbirth †)[![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder"): Tears don't generate arcs when hitting obstacles.
-* [![image](/image/Lost_Contact.png)](/wiki/Lost_Contact "Lost Contact") [Lost Contact](/wiki/Lost_Contact "Lost Contact"): Tears will bounce off of enemy tears. **Not recommended** unless the player's fire rate is high, as it can prove detrimental when trying to hit a shooting enemy.
-* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Overrides Rubber Cement.
-* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): Overrides Rubber Cement.
-* [Piercing tears](/wiki/Piercing_tears "Piercing tears"): Tears that don't destroy enemies will bounce off of them instead of going straight through them. Tears can still damage enemies such as [Knights](/wiki/Knight "Knight") that are normally invulnerable from the front.
-* (Added in Afterbirth †)[![image](/image/Sinus_Infection.png)](/wiki/Sinus_Infection "Sinus Infection") [Sinus Infection](/wiki/Sinus_Infection "Sinus Infection"): Boogers stick to enemies, but otherwise they bounce normally.
-* [Spectral tears](/wiki/Spectral_tears "Spectral tears"): Overridden by Rubber Cement.
-	+ (Added in Afterbirth †) Tears pass through obstacles but bounce off walls.
-* (Added in Afterbirth †)[![image](/image/Sulfuric_Acid.png)](/wiki/Sulfuric_Acid "Sulfuric Acid") [Sulfuric Acid](/wiki/Sulfuric_Acid "Sulfuric Acid"): Overridden by Rubber Cement.
-* (Removed in Afterbirth) [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology") / [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2"): Overrides Rubber Cement.
-* [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet"): Tears no longer fly over obstacles but instead bounce very quickly along with them, appearing to "vibrate".
-	+ (Added in Afterbirth †) Tears pass through obstacles but coast along walls, trying to maintain the circular trajectory.
+* (Added in Afterbirth)[![image](/image/Athame.png)](/wiki/Athame "Athame") [Athame](/wiki/Athame "Athame")/(Added in Afterbirth)[![image](/image/Maw_of_the_Void.png)](/wiki/Maw_of_the_Void "Maw of the Void") [Maw of the Void](/wiki/Maw_of_the_Void "Maw of the Void"): The ring is much larger and deals 1.5× damage.
+	+ (Added in Afterbirth †) The ring deals normal damage.
+	+ (Added in Repentance) The ring is now normal size.
+* (Added in Afterbirth †)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")/[![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body")/[![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Tears will often disappear before they can burst. Tears created from bursts will also shrink, but due to their already low range, the difference may not be noticeable.
+* (Added in Afterbirth †)[![image](/image/Flat_Stone.png)](/wiki/Flat_Stone "Flat Stone") [Flat Stone](/wiki/Flat_Stone "Flat Stone"): At base range and tear size, tears will bounce twice against the floor and then disappear.
+* (Added in Repentance)[![image](/image/Immaculate_Heart.png)](/wiki/Immaculate_Heart "Immaculate Heart") [Immaculate Heart](/wiki/Immaculate_Heart "Immaculate Heart"): Tears that appear around Isaac disappear quickly.
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): Tears almost disappear completely but are still able to do massive damage.
+	+ (Added in Repentance) Tears no longer deal massive damage at the end of the arch. Damage decreases rapidly with range.
+* (Added in Afterbirth †)[![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): Tears disappear too quickly to be fed.
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The closer the tear floats to Isaac, the larger it is. The farther away, the smaller it becomes.
+* [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung")/(Added in Afterbirth †)[![image](/image/Lead_Pencil.png)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil"): Tears will disappear at different distances depending on how big they were when fired.
+* [![image](/image/My_Reflection.png)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection"): Tears disappear before they can return to Isaac.
+* (Added in Afterbirth †)[![image](/image/Pop!.png)](/wiki/Pop! "Pop!") [Pop!](/wiki/Pop! "Pop!"): Tears will disappear extremely quickly after being fired.
+* (Added in Repentance)[![image](/image/Saturnus.png)](/wiki/Saturnus "Saturnus") [Saturnus](/wiki/Saturnus "Saturnus") The ring tears from Saturnus disappear nearly instantly upon entering a room.
+* [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"): **Very poor combination.** Tears disappear nearly instantly in front of Isaac, decreasing his range and damage to nearly nothing.
+	+ (Added in Repentance) Tears no longer disappear instantly. Range is only minimally shorter.
 
 

@@ -3,7 +3,6 @@
 
  # Lil Loki ![image](/image/Lil_Loki.png) 
 
-
 Effects
 ---------
 

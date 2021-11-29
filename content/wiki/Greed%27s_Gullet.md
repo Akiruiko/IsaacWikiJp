@@ -3,7 +3,6 @@
 
  # Greed's Gullet ![image](/image/Greed%27s_Gullet.png) 
 
-
 Effects
 ---------
 

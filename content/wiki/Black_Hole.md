@@ -3,7 +3,6 @@
 
  # Black Hole ![image](/image/Black_Hole.png) 
 
-
 Effects
 ---------
 

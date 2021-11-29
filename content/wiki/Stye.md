@@ -3,7 +3,6 @@
 
  # Stye ![image](/image/Stye.png) 
 
-
 Effects
 ---------
 

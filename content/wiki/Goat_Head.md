@@ -3,7 +3,6 @@
 
  # Goat Head ![image](/image/Goat_Head.png) 
 
-
 Effects
 ---------
 

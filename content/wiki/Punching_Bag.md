@@ -3,7 +3,6 @@
 
  # Punching Bag ![image](/image/Punching_Bag.png) 
 
-
 Effects
 ---------
 

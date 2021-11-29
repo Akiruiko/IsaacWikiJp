@@ -3,7 +3,6 @@
 
  # Broken Modem ![image](/image/Broken_Modem.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Ouija Board ![image](/image/Ouija_Board.png) 
 
-
 Effect
 --------
 

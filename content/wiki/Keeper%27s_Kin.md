@@ -3,7 +3,6 @@
 
  # Keeper's Kin ![image](/image/Keeper%27s_Kin.png) 
 
-
 Effects
 ---------
 

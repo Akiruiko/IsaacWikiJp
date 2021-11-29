@@ -3,7 +3,6 @@
 
  # Friend Finder ![image](/image/Friend_Finder.png) 
 
-
 Effects
 ---------
 

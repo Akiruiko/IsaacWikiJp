@@ -3,7 +3,6 @@
 
  # Eye Sore ![image](/image/Eye_Sore.png) 
 
-
 Effects
 ---------
 

@@ -3,7 +3,6 @@
 
  # Compound Fracture ![image](/image/Compound_Fracture.png) 
 
-
 Effects
 ---------
 

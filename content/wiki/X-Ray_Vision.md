@@ -3,7 +3,6 @@
 
  # X-Ray Vision ![image](/image/X-Ray_Vision.png) 
 
-
 Effects
 ---------
 
