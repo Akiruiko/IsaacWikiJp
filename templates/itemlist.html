@@ -1,47 +1,50 @@
 {% extends "page.html" %}
+
 {% block content %}
+
 {% set data = load_data(path="static/items.csv", format="csv") %}
 <table id="itemTable" class="table">
-<thead>
-<tr>
-{% for header in data.headers %}
-{% if loop.first %}
-<th>画像</th>
-{% else %}
-<th>{{header}}</th>
-{% endif %}
-{% endfor %}
-</tr>
-</thead>
+    <thead>
+        <tr>
+            {% for header in data.headers %}
+            {% if loop.first %}
+            <th>画像</th>
+            {% else %}
+            <th>{{header}}</th>
+            {% endif %}
+            {% endfor %}
+        </tr>
+    </thead>
 
-<tbody>
-{% for record in data.records %}
-<tr>
-{% for cell in record %}
-{% if loop.first %}
-<td>
-<a href="/wiki/{{cell}}"><img src="/image/{{cell}}.png"></a>
-</td>
-{% else %}
-<td>{{cell}}</td>
-{% endif %}
-{% endfor %}
-</tr>
-{% endfor %}
-</tbody>
+    <tbody>
+        {% for record in data.records %}
+        <tr>
+            {% for cell in record %}
+            {% if loop.first %}
+            <td>
+                <a href="/wiki/{{cell}}"><img src="/image/{{cell}}.png"></a>
+            </td>
+            {% else %}
+            <td>{{cell}}</td>
+            {% endif %}
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
 </table>
 
 <script>
-$(function(){
-    $('.table').tablesorter({
-        textExtraction: function(node){
-            var attr = $(node).attr('data-value');
-            if(typeof attr !== 'undefined' && attr !== false){
-                return attr;
+    $(function () {
+        $('.table').tablesorter({
+            textExtraction: function (node) {
+                var attr = $(node).attr('data-value');
+                if (typeof attr !== 'undefined' && attr !== false) {
+                    return attr;
+                }
+                return $(node).text();
             }
-            return $(node).text();
-        }
+        });
     });
-});
 </script>
+
 {% endblock %}

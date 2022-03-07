@@ -1,752 +1,992 @@
-norm_name,Item Name,アイテム名,ID,効果,クオリティ,Damage Up,Tears Up,Speed Up,Shotspeed,DLC,種類
-A_Pony,A Pony,,5.100.130,"Passively gives flight and increases speed to 1.5 whether or not it has charges. Upon use, Isaac charges in the direction the pony is facing, giving invincibility during the charge and dealing 40 damage.
-Now deals 4 times Isaac's damage, plus a flat 28 damage.",2,,,,,Rebirth,アクティブ
-Anarchist_Cookbook,Anarchist Cookbook,,5.100.65,Spawns six Troll Bombs around the room.,1,,,,,Rebirth,アクティブ
-Best_Friend,Best Friend,,5.100.136,"Spawns a decoy Isaac that explodes after 5 seconds, dealing 110 185 damage. Enemies will always target the decoy and ignore Isaac.",1,,,,,Rebirth,アクティブ
-Blank_Card,Blank Card,,5.100.286,"Copies the effect of the card or rune currently held by Isaac.
-No longer copies the effects of runes.",2,,,,,Rebirth,アクティブ
-Blood_Rights,Blood Rights,,5.100.186,"Upon use, takes a full heart of health and deals 40 damage to all enemies in the room.",0,,,,,Rebirth,アクティブ
-Bob%27s_Rotten_Head,Bob's Rotten Head,,5.100.42,"Upon use, Isaac holds a poison bomb which can be thrown in the cardinal directions and explodes on impact.",1,,,,,Rebirth,アクティブ
-Book_of_Revelations,Book of Revelations,,5.100.78,"Gives one Soul Heart, increases the chance for a Devil Room or Angel Room to appear after defeating the floor's boss, and sometimes/ always replaces the boss of the current floor with a Harbinger if possible.",3,,,,,Rebirth,アクティブ
-Book_of_Secrets,Book of Secrets,,5.100.287,"Gives the effect of Treasure Map, The Compass, or Blue Map for the duration of the current floor.",0,,,,,Rebirth,アクティブ
-Book_of_Shadows,Book of Shadows,,5.100.58,"Creates a protective shield, nullifying all types of damage in the current room for 10 seconds.",3,,,,,Rebirth,アクティブ
-Box_of_Spiders,Box of Spiders,,5.100.288,"Spawns 1-4 Blue Spiders that deal 2.5x damage to enemies.
-Spawns 4-8 Blue Spiders that deal 2x damage to enemies.",1,,,,,Rebirth,アクティブ
-Breath_of_Life,Breath of Life,,5.100.326,"Grants a brief moment of invincibility when the charge bar hits zero. If the spacebar is held for an additional second after hitting zero, Isaac will take damage.",0,,,,,Rebirth,アクティブ
-Butter_Bean,Butter Bean,,5.100.294,"Upon use, Isaac farts and knocks back nearby enemies and projectiles. Enemies pushed into walls or obstacles take 12 damage.",1,,,,,Rebirth,アクティブ
-Converter,Converter,,5.100.296,Converts two one Soul Heart(s) or Black Heart(s) into one filled Red Heart Container.,2,,,,,Rebirth,アクティブ
-Crack_the_Sky,Crack the Sky,,5.100.160,"Summons 5 beams of light in random locations on the ground, dealing large amounts of damage to any enemies that touch them.",2,,,,,Rebirth,アクティブ
-Crystal_Ball,Crystal Ball,,5.100.158,"Upon use, reveals the map (except the Super Secret Room) and drops a Soul Heart or random card/rune.",3,,,,,Rebirth,アクティブ
-D10,D10,,5.100.285,Re-rolls all monsters in the room. Will attempt to re-roll monsters into ones with a similar amount of HP.,0,,,,,Rebirth,アクティブ
-D100,D100,,5.100.283,"Combines the effects of D4, The D6, and D20.
-Combines the effects of D1, D4, The D6, D7, D8, D10, D12, and D20.",3,,,,,Rebirth,アクティブ
-D20,D20,,5.100.166,Rerolls all pickups in the current room.,2,,,,,Rebirth,アクティブ
-D4,D4,,5.100.284,Rerolls all of Isaac's passive items.,3,,,,,Rebirth,アクティブ
-Dad%27s_Key,Dad's Key,,5.100.175,"Upon activation, opens all doors in the current room in almost all circumstances, including doors which require a Key to open, entrances to Secret Rooms, and the door to Mega Satan.",1,,,,,Rebirth,アクティブ
-Dead_Sea_Scrolls,Dead Sea Scrolls,,5.100.124,Triggers the effect of a random activated item from a list of possible options (not every activated item is included).,1,,,,,Rebirth,アクティブ
-Deck_of_Cards,Deck of Cards,,5.100.85,Gives Isaac a random card.,2,,,,,Rebirth,アクティブ
-Doctor%27s_Remote,Doctor's Remote,,5.100.47,"Creates a crosshair on the ground that can be aimed with tear controls. A missile strikes the spot after 2 seconds, creating a heavy damage explosion.",1,,,,,Rebirth,アクティブ
-Flush!,Flush!,,5.100.291,Turns all non-boss monsters in the room into poop. Instantly kills poop-themed bosses.,1,,,,,Rebirth,アクティブ
-Forget_Me_Now,Forget Me Now,,5.100.127,"On use, re-generates the current floor with a new layout. Isaac loses Forget Me Now, but keeps other items and consumables picked up on the original floor.",3,,,,,Rebirth,アクティブ
-Guppy%27s_Head,Guppy's Head,,5.100.145,Spawns 2-4 friendly Blue Flies that damage enemies.,3,,,,,Rebirth,アクティブ
-Guppy%27s_Paw,Guppy's Paw,,5.100.133,"Upon use, converts one Red Heart Container into three Soul Hearts.",3,,,,,Rebirth,アクティブ
-Head_of_Krampus,Head of Krampus,,5.100.293,"Fires a powerful Brimstone beam in four cardinal directions, much like Krampus shoots.
-Fires a powerful Brimstone beam in four cardinal directions, much like Krampus shoots with a 50% chance to rotate all beams around Isaac 90 degrees.",2,,,,,Rebirth,アクティブ
-How_to_Jump,How to Jump,,5.100.282,"Upon use, Isaac jumps in the direction he is currently moving, allowing travel over obstacles and enemies.",1,,,,,Rebirth,アクティブ
-Isaac%27s_Tears,Isaac's Tears,,5.100.323,"Fires 8 tears around Isaac, which retain the damage, range, shot speed, and special tear effects. Each tear shot by Isaac increases item charge by one.",0,,,,,Rebirth,アクティブ
-IV_Bag,IV Bag,,5.100.135,"Upon use, Isaac loses half a heart of health (or a full heart in Chapter 4 onward) for a random amount of coins, similar to a Blood Donation Machine.",1,,,,,Rebirth,アクティブ
-Kamikaze!,Kamikaze!,,5.100.40,"Creates an explosion around Isaac, damaging him and nearby enemies as well as destroying obstacles.",0,,,,,Rebirth,アクティブ
-Lemon_Mishap,Lemon Mishap,,5.100.56,"Creates a tiny pool of yellow creep, damaging enemies that cross it.",1,,,,,Rebirth,アクティブ
-Magic_Fingers,Magic Fingers,,5.100.295,Uses 1 coin to deal a large amount of damage to all enemies in the room.,1,,,,,Rebirth,アクティブ
-Mom%27s_Bottle_of_Pills,Mom's Bottle of Pills,,5.100.102,Gives Isaac a random pill.,1,,,,,Rebirth,アクティブ
-Mom%27s_Bra,Mom's Bra,,5.100.39,Petrifies all enemies in the current room for around 4 seconds.,1,,,,,Rebirth,アクティブ
-Mom%27s_Pad,Mom's Pad,,5.100.41,Inflicts fear to all enemies in the room for 5 seconds.,0,,,,,Rebirth,アクティブ
-Monster_Manual,Monster Manual,,5.100.123,"Spawns a familiar from a specific selection for the current room.
-Spawns a familiar from a specific selection for the current floor.",1,,,,,Rebirth,アクティブ
-Monstro%27s_Tooth,Monstro's Tooth,,5.100.86,"A friendly Monstro jumps on a random enemy, dealing 120 area damage. Lands on Isaac if used in a room without enemies.",1,,,,,Rebirth,アクティブ
-Mr._Boom,Mr. Boom,,5.100.37,Places a Mr. Mega bomb that deals 110 damage.,1,,,,,Rebirth,アクティブ
-My_Little_Unicorn,My Little Unicorn,,5.100.77,"Gives invulnerability and +0.28 speed for six seconds, removing the ability to shoot tears and replacing it with the ability to deal 40 contact damage to enemies.",1,,+0.28,,,Rebirth,アクティブ
-Notched_Axe,Notched Axe,,5.100.147,"Isaac destroys obstacles and opens Secret Rooms by walking into them, but cannot shoot or pick up items until it's cancelled.
-Toggles between tears and the pickaxe, which can be swung to attack and break obstacles. Using it depletes the charge, and it can't be used until next floor once the charge runs out.",1,,,,,Rebirth,アクティブ
-Pandora%27s_Box,Pandora's Box,,5.100.297,"Upon use, spawns specific pickups or items depending on the floor it is used on. Disappears after use.",2,,,,,Rebirth,アクティブ
-Portable_Slot,Portable Slot,,5.100.177,"Upon use, consumes 1 penny and has a chance to drop a random pickup, like a Slot Machine.",0,,,,,Rebirth,アクティブ
-Prayer_Card,Prayer Card,,5.100.146,Gives an Eternal Heart per use.,3,,,,,Rebirth,アクティブ
-Razor_Blade,Razor Blade,,5.100.126,"On use, takes one heart of health and grants +1.2 damage for the current room.",0,+1.2,,,,Rebirth,アクティブ
-Red_Candle,Red Candle,,5.100.289,"Throws a flame that that can pass over gaps (but not through obstacles). The flame damages everything in its path, diminishing in size as it hits enemies or blocks shots.",2,,,,,Rebirth,アクティブ
-Remote_Detonator,Remote Detonator,,5.100.137,Bombs placed by Isaac only explode when Remote Detonator is used. Gives 5 bombs.,1,,,,,Rebirth,アクティブ
-Satanic_Bible,Satanic Bible,,5.100.292,Gives one Black Heart. Replaces the boss room item on the current floor with a Devil Deal.,4,,,,,Rebirth,アクティブ
-Scissors,Scissors,,5.100.325,Turns Isaac's head into a stationary familiar for the current room which fires tears automatically. Isaac's body also shoots a controllable fountain of blood shots for the room.,1,,,,,Rebirth,アクティブ
-Shoop_Da_Whoop!,Shoop Da Whoop!,,5.100.49,Fires a laser from Isaac's mouth.,2,,,,,Rebirth,アクティブ
-Spider_Butt,Spider Butt,,5.100.171,Deals 10 damage to all enemies in the room and slows them for 4 seconds. Enemies killed by Spider Butt spawn Blue Spiders.,1,,,,,Rebirth,アクティブ
-Tammy%27s_Head,Tammy's Head,,5.100.38,"Shoots 10 tears in a circle around Isaac, which retain the Damage, Shot Speed, and special effects (such as poison) of Isaac's tears.",2,+25,,,,Rebirth,アクティブ
-Telepathy_for_Dummies,Telepathy for Dummies,,5.100.192,Gives homing tears for the current room. Also gives +3 range.,0,,,,,Rebirth,アクティブ
-Teleport!,Teleport!,,5.100.44,Teleports Isaac to a random room on the current floor.,0,,,,,Rebirth,アクティブ
-The_Bean,The Bean,,5.100.111,"Isaac farts, poisoning any enemy in close range.",0,,,,,Rebirth,アクティブ
-The_Bible,The Bible,,5.100.33,"On use, Isaac gains flight for the current room. Instantly kills Mom, Mom's Heart, and It Lives when activated, but kills Isaac when used on Satan.",1,,,,,Rebirth,アクティブ
-The_Book_of_Belial,The Book of Belial,,5.100.34,"+2 damage for the current room.
-Guarantees a Devil Room or Angel Room will be open after beating a boss while holding it. Increases the chance by 12.5%.",2,+2,,,,Rebirth,アクティブ
-The_Book_of_Sin,The Book of Sin,,5.100.97,"Generates a random pickup, pill, card, or rune.",2,,,,,Rebirth,アクティブ
-The_Boomerang,The Boomerang,,5.100.338,"Throws a boomerang which retrieves pickups, as well as damages and petrifies enemies hit for 2 seconds.",2,,,,,Rebirth,アクティブ
-The_Candle,The Candle,,5.100.164,Throws out a temporary flame that can pass over gaps (but not through rocks). The flame damages anything in its path.,2,,,,,Rebirth,アクティブ
-The_D6,The D6,,5.100.105,"Re-rolls all items in the current room into other items, depending on the current room's Item Pool.",4,,,,,Rebirth,アクティブ
-The_Gamekid,The Gamekid,,5.100.93,"Turns Isaac into a into a Pac-Man-like creature for 6 seconds, granting invulnerability, inflicting fear on all enemies, and replenishing a Half Red Heart for every two enemies killed.",2,,,,,Rebirth,アクティブ
-The_Hourglass,The Hourglass,,5.100.66,All enemies in the room are slowed for 8 seconds.,1,,,,,Rebirth,アクティブ
-The_Jar,The Jar,,5.100.290,"When at full health, up to 4 extra Red Hearts can be stored in The Jar.",0,,,,,Rebirth,アクティブ
-The_Nail,The Nail,,5.100.83,"Gives one Soul Heart half a Black Heart. For the current room; +0.7 damage, -0.18 speed, allows Isaac to break rocks and damage enemies by walking over them.",3,+0.7,-0.18,,,Rebirth,アクティブ
-The_Necronomicon,The Necronomicon,,5.100.35,Deals 40 damage to every enemy in the room.,1,,,,,Rebirth,アクティブ
-The_Pinking_Shears,The Pinking Shears,,5.100.107,"Gives flight for the current room, while turning Isaac's body into a fast, high damage familiar.",2,,,,,Rebirth,アクティブ
-The_Poop,The Poop,,5.100.36,Spawns a pile of poop where Isaac is standing and knocks back nearby enemies. May yield pickups like regular poop.,0,,,,,Rebirth,アクティブ
-Undefined,Undefined,,5.100.324,"Teleports Isaac to the Secret Room, Super Secret Room, Treasure Room, or I AM ERROR.",2,,,,,Rebirth,アクティブ
-Unicorn_Stump,Unicorn Stump,,5.100.298,"Gives invulnerability and increased speed for five seconds, but removes the ability to shoot tears.",1,,+0.28,,,Rebirth,アクティブ
-We_Need_to_Go_Deeper!,We Need to Go Deeper!,,5.100.84,Creates a trapdoor to go to the next floor.,0,,,,,Rebirth,アクティブ
-White_Pony,White Pony,,5.100.181,"Passively gives flight and increases speed to 1.5. Upon use, Isaac charges in the direction the pony is facing, giving invulnerability during the charge and dealing 40 damage while also casting the effect of Crack the Sky.",2,,,,,Rebirth,アクティブ
-Yum_Heart,Yum Heart,,5.100.45,Restores one full Red Heart.,1,,,,,Rebirth,アクティブ
-Box_of_Friends,Box of Friends,,5.100.357,"Duplicates all of Isaac's familiars for the current room. If Isaac has no familiars, spawns a Demon Baby for the room instead.",1,,,,,AB,アクティブ
-D12,D12,,5.100.386,"Re-rolls all Rocks and Metal Blocks in the current room into other random objects, such as Bomb Rocks, TNT, or Poops. Poops and TNT cannot be rerolled into other objects with this item.",0,,,,,AB,アクティブ
-D7,D7,,5.100.437,"Restarts the current room and brings back all enemies, allowing more rewards to be acquired by completing the room.",1,,,,,AB,アクティブ
-D8,D8,,5.100.406,"Re-rolls Isaac's damage, tears, range, and speed.",2,,,,,AB,アクティブ
-Diplopia,Diplopia,,5.100.347,Duplicates all pickups and item pedestals in the room.,3,,,,,AB,アクティブ
-Friendly_Ball,Friendly Ball,,5.100.382,"Throwing the ball at a monster instantly kills and captures it. The captured enemy can later be released and will be friendly, fighting for Isaac and persisting between rooms.",2,,,,,AB,アクティブ
-Glass_Cannon,Glass Cannon,,5.100.352,"Fires a high-damage piercing spectral tear, but lowers Isaac's health to half a heart.
-Fires a high-damage piercing spectral tear. If Isaac takes damage while holding this, he takes extra damage and it becomes Broken Glass Cannon.",1,,,,,AB,アクティブ
-Glowing_Hour_Glass,Glowing Hour Glass,,5.100.422,"Rewinds time, putting Isaac back in the previous room and undoing anything that happened in the current room.",3,,,,,AB,アクティブ
-Jar_of_Flies,Jar of Flies,,5.100.434,"Killing an enemy adds a fly to the jar, up to a maximum of 20. On use, releases Blue Flies equal to the number of flies in the jar.",2,,,,,AB,アクティブ
-Kidney_Bean,Kidney Bean,,5.100.421,"Isaac farts, charming all nearby enemies.",1,,,,,AB,アクティブ
-Mega_Bean,Mega Bean,,5.100.351,"Petrifies all enemies in the current room for a couple of seconds, poisons any enemies near Isaac, and sends a rock wave across the room in the direction Isaac is facing.",1,,,,,AB,アクティブ
-Mega_Blast,Mega Blast,,5.100.441,"Upon use, Isaac fires a laser similar to the one used by Mega Satan. This laser deals massive damage, lasts for approximately 15 seconds, and persists between rooms. Isaac is pushed backwards by the force of the laser while it is active.",4,,,,,AB,アクティブ
-Mine_Crafter,Mine Crafter,,5.100.427,"Places an explosive TNT barrel that can be pushed and used to destroy rocks or damage enemies when used. If used a second time in the same room while the previous TNT barrel is still intact, it will remotely explode the TNT.",1,,,,,AB,アクティブ
-Mom%27s_Box,Mom's Box,,5.100.439,"Increases Luck by 1 and doubles the effects of trinkets while held. When used, drops a random trinket on the ground.",3,,,,,AB,アクティブ
-Placebo,Placebo,,5.100.348,"When used, copies the effect of the pill Isaac is currently holding without consuming it. Does not copy the effects of cards or runes.",2,,,,,AB,アクティブ
-Tear_Detonator,Tear Detonator,,5.100.383,"When used, will detonate any tears currently on the screen and cause each one to split into 6 more tears which will fire in a circle, similar to Tammy's Head.",1,,,,,AB,アクティブ
-Teleport_2.0,Teleport 2.0,,5.100.419,"Teleports Isaac to a room that has not been explored yet. Normal rooms are prioritized over special rooms, and common special rooms take priority over rarer ones.",3,,,,,AB,アクティブ
-Ventricle_Razor,Ventricle Razor,,5.100.396,"Can be used to place an orange portal and a blue portal. Upon entering a portal, Isaac is teleported to the other portal.",1,,,,,AB,アクティブ
-Wooden_Nickel,Wooden Nickel,,5.100.349,"When used, has a 50% chance to drop a random coin.",1,,,,,AB,アクティブ
-Black_Hole,Black Hole,,5.100.512,Throws a black hole on the ground which sucks in and damages enemies.,1,,,,,AB+,アクティブ
-Book_of_the_Dead,Book of the Dead,,5.100.545,"Upon use, creates a friendly Bony, Black Bony, or an orbital bone for each enemy killed in the current room.
-Can also create a friendly Bone Fly or Revenant.",3,,,,,AB+,アクティブ
-Broken_Shovel,Broken Shovel,,5.100.550,"While held, causes 1 or more copies of Mom's Foot to stomp on Isaac. One of two parts necessary to create Mom's Shovel.",4,,,,,AB+,アクティブ
-Brown_Nugget,Brown Nugget,,5.100.504,Spawns a stationary fly turret that fires tears at nearby enemies.,0,,,,,AB+,アクティブ
-Clicker,Clicker,,5.100.482,Transforms Isaac into a random character and removes the last item collected.,0,,,,,AB+,アクティブ
-Compost,Compost,,5.100.480,"Doubles Isaac's Blue Flies and Blue Spiders, or spawns one if Isaac has none. Converts pickups in the current room into Blue Flies or Blue Spiders.",2,,,,,AB+,アクティブ
-Coupon,Coupon,,5.100.521,"While held, guarantees one item in every Shop will be on sale. On use, makes a random item in the current room free.",2,,,,,AB+,アクティブ
-Crooked_Penny,Crooked Penny,,5.100.485,"Spawns a penny and has a 50% chance to double all items and pickups in the room. If the effect fails, the items and pickups disappear.",1,,,,,AB+,アクティブ
-D_Infinity,D Infinity,,5.100.489,"Grants a random die item that changes each use.
-Acts as any die item, and can by cycled by pressing the drop key.",4,,,,,AB+,アクティブ
-D1,D1,,5.100.476,Duplicates a random pickup in the room.,4,,,,,AB+,アクティブ
-Dataminer,Dataminer,,5.100.481,"Displaces enemy sprites for the current room, randomly increases one stat and decreases another.",0,,,,,AB+,アクティブ
-Delirious,Delirious,,5.100.510,Spawns Delirium as a random friendly boss that fights for Isaac.,1,,,,,AB+,アクティブ
-Dull_Razor,Dull Razor,,5.100.486,"Hurts Isaac without depleting health, activating any items that trigger upon taking damage.",1,,,,,AB+,アクティブ
-Eden%27s_Soul,Eden's Soul,,5.100.490,Spawns two item pedestals then is consumed. Begins with no charges.,3,,,,,AB+,アクティブ
-Mama_Mega!,Mama Mega!,,5.100.483,Damages all enemies and destroys all obstacles. The effect occurs every time a new room is entered for the rest of the floor. Opens the doors to the floor's Secret Rooms and Super Secret Rooms.,3,,,,,AB+,アクティブ
-Metronome,Metronome,,5.100.488,Grants a random item effect for the current room.,1,,,,,AB+,アクティブ
-Mom%27s_Shovel,Mom's Shovel,,5.100.552,Creates a trapdoor that leads to the next floor upon activation. Unlocks The Forgotten when used on a mound of dirt that appears in Dark Room.,4,,,,,AB+,アクティブ
-Moving_Box,Moving Box,,5.100.523,"If the box is empty, picks up all items and pickups in a room and stores them. If the box is not empty, places all stored items and pickups in the current room.",1,,,,,AB+,アクティブ
-Mr._ME!,Mr. ME!,,5.100.527,Summons a controllable ghost that can perform various tasks depending on what it targets.,3,,,,,AB+,アクティブ
-Mystery_Gift,Mystery Gift,,5.100.515,"Upon use, spawns a random item from the current room's item pool, with a chance to spawn A Lump of Coal or The Poop instead.",3,,,,,AB+,アクティブ
-Pause,Pause,,5.100.478,Freezes all enemies until a fire button is pressed.,1,,,,,AB+,アクティブ
-Plan_C,Plan C,,5.100.475,"Kills all enemies in the room, then kills Isaac three seconds later.",0,,,,,AB+,アクティブ
-Potato_Peeler,Potato Peeler,,5.100.487,"Removes a Heart Container, increases damage and range, and grants a Cube of Meat.",2,,,,,AB+,アクティブ
-Sacrificial_Altar,Sacrificial Altar,,5.100.536,Sacrifices up to 2 familiars and spawns an item from the Devil Room pool for each familiar sacrificed. Converts all friendly spiders and flies into coins.,2,,,,,AB+,アクティブ
-Sharp_Straw,Sharp Straw,,5.100.507,Damages all enemies in the room. Has a chance to drop a half red heart or half soul heart if an enemy is hit.,2,,,,,AB+,アクティブ
-Smelter,Smelter,,5.100.479,Consumes Isaac's currently held trinket and applies its effect permanently.,3,,,,,AB+,アクティブ
-Sprinkler,Sprinkler,,5.100.516,"Upon use, creates a stationary sprinkler that rotates and fires tears in 8 directions. The tears copy Isaac's stats and most tear effects.",2,,,,,AB+,アクティブ
-Telekinesis,Telekinesis,,5.100.522,"Upon use, for the next two seconds, any enemy shots that come near Isaac are held in place. After the charge is depleted, they are fired back as tears.",1,,,,,AB+,アクティブ
-Void,Void,,5.100.477,"Consumes all pedestal items in the room. Active items will have their effects added to Void, and passive items will grant random stat upgrades.",4,,+0.2,+0.5,+0.2,AB+,アクティブ
-Wait_What%3F,Wait What?,,5.100.484,"Isaac farts, sending out rock waves.",1,,,,,AB+,アクティブ
-Abyss,Abyss,,5.100.706,Destroys all items in the room and gives Isaac a unique locust familiar for each item destroyed. Some items generate locusts with special effects.,4,,,,,Repentance,アクティブ
-Alabaster_Box,Alabaster Box,,5.100.585,"Spawns three Soul Hearts and two Angel Room items and is consumed. Starts with no charges, and can only be charged by picking up 6 Soul Hearts.",2,,,,,Repentance,アクティブ
-Anima_Sola,Anima Sola,,5.100.722,"Chains down the nearest enemy for 5 seconds, preventing them from acting.",3,,,,,Repentance,アクティブ
-Bag_of_Crafting,Bag of Crafting,,5.100.710,"Collects and holds up to 8 pickups, which can then be used to craft an item. The power level of the item is based on the quality of pickups used.",4,,,,,Repentance,アクティブ
-Berserk!,Berserk!,,5.100.704,"Causes Isaac to go berserk for 5 seconds, greatly increasing his speed, tears, and damage, but restricting him to using a melee weapon instead of his tears. This item charges by dealing damage to enemies instead of clearing rooms.",3,+3,+0.4,,,Repentance,アクティブ
-Book_of_Virtues,Book of Virtues,,5.100.584,"On use, spawns a destroyable orbiting Wisp familiar that fires tears and deals contact damage. Also acts as a passive item that causes other active items to spawn themed Wisps.",3,-2.4,,,,Repentance,アクティブ
-Broken_Glass_Cannon,Broken Glass Cannon,,5.100.474,Begins with no charges and turns into Glass Cannon when used. Only acquired by taking damage while holding Glass Cannon.,0,,,,,Repentance,アクティブ
-Clear_Rune,Clear Rune,,5.100.263,Has the same effect as the rune or soul stone currently held by Isaac.,2,,,,,Repentance,アクティブ
-Damocles,Damocles,,5.100.577,"Spawns a sword above Isaac's head, which doubles all item pedestals. After Isaac takes damage, the sword can randomly fall at any point, instantly killing him.",2,,,,,Repentance,アクティブ
-Dark_Arts,Dark Arts,,5.100.705,"Briefly grants +1 speed and makes Isaac invulnerable and intangible. When the effect ends, destroys all projectiles and damages all enemies Isaac ran through.",3,+1,+1.0,,,Repentance,アクティブ
-Death_Certificate,Death Certificate,,5.100.628,"Takes Isaac to an abandoned and expanded version of Home, which has one copy of every item in the game. After taking an item, Isaac returns to the room he used Death Certificate in.",4,,,,,Repentance,アクティブ
-Decap_Attack,Decap Attack,,5.100.729,"Throws Isaac's head, which is still able to fire tears at the spot it lands. Reactivating the item or stepping on the head reattaches it.",2,,,,,Repentance,アクティブ
-Eraser,Eraser,,5.100.638,"Throws an eraser that instantly kills the first monster it hits, and prevents that monster from spawning for the rest of the run. Can only be used once per floor.",2,,,,,Repentance,アクティブ
-Esau_Jr.,Esau Jr.,,5.100.703,"Swaps between the current character and Esau Jr., who has +2 flat damage and flight. Characters have independent items and health. Dying as either character ends the run.",2,,,,,Repentance,アクティブ
-Eternal_D6,Eternal D6,,5.100.609,Rerolls all items in the room. Each item has a 30% chance to disappear instead.,3,,,,,Repentance,アクティブ
-Everything_Jar,Everything Jar,,5.100.720,"Spawns certain pickups based on how many charges it has. If fully charged, instead has one of many unique effects.",2,,,,,Repentance,アクティブ
-Flip,Flip,,5.100.711,"Item pedestals have a second uninteractable ""ghostly"" item behind them. Activating will flip the real and ghostly items around. If playing as Tainted Lazarus, also flips between them and Dead Tainted Lazarus.",4,,,,,Repentance,アクティブ
-Fortune_Cookie,Fortune Cookie,,5.100.557,"Gives Isaac a fortune, Soul Heart, Card, Rune, or trinket, similar to a Fortune Telling Machine. Fortunes are much more likely to be given than anything else.",2,,,,,Repentance,アクティブ
-Free_Lemonade,Free Lemonade,,5.100.578,Creates a large pool of yellow creep beneath Isaac.,1,,,,,Repentance,アクティブ
-Friend_Finder,Friend Finder,,5.100.687,Spawns a random friendly monster that mimics Isaac's movements and attacks.,3,,,,,Repentance,アクティブ
-Gello,Gello,,5.100.728,"Spawns a demon familiar that's attached to Isaac and moves and fires in the direction Isaac shoots, using Isaac's damage, tears, range, shot speed, and special tear effects.",3,,,,,Repentance,アクティブ
-Genesis,Genesis,,5.100.622,"Removes all of Isaac's items and pickups and takes him to a unique Bedroom with some pickups and Chests and a trapdoor to the next floor. For every item Isaac lost, he gets to take an item from a set of three.",2,,,,,Repentance,アクティブ
-Golden_Razor,Golden Razor,,5.100.555,Spends five coins to increase Isaac's damage by 1.2 for the current room.,2,+1.2,,,,Repentance,アクティブ
-Hold,Hold,,5.100.715,"Exclusive to Tainted ???. Allows him to save one poop bomb for later, allowing him to gather more over time.",0,,,,,Repentance,アクティブ
-Jar_of_Wisps,Jar of Wisps,,5.100.685,"Spawns random wisps that shoot various tears, block shots, and deal contact damage. The number of wisps spawned increases every time the jar is used.",2,,,,,Repentance,アクティブ
-Keeper%27s_Box,Keeper's Box,,5.100.719,Spawns a random shop item or pickup which can be bought for its normal price.,2,,,,,Repentance,アクティブ
-Larynx,Larynx,,5.100.611,"Isaac shouts, damaging and pushing away nearby enemies. The shout gets stronger the more charges the item has. Can also be charged by taking damage.",2,,,,,Repentance,アクティブ
-Lemegeton,Lemegeton,,5.100.712,"Spawns a wisp representing a random passive item, which orbits Isaac but can be destroyed. While the wisp is alive, Isaac gains that item's effects. Generation uses the current room's item pool 25% of the time, otherwise a random pool.",3,,,,,Repentance,アクティブ
-Magic_Skin,Magic Skin,,5.100.642,"Consumes one heart container or two soul hearts to spawn an item and give Isaac a broken heart container that can never be filled. If Magic Skin isn't being held after being used, it is very likely to replace any future items.",2,,,,,Repentance,アクティブ
-Meat_Cleaver,Meat Cleaver,,5.100.631,Splits all enemies in the room into two smaller versions of themselves with much less health.,1,,,,,Repentance,アクティブ
-Mega_Mush,Mega Mush,,5.100.625,"Gigantifies Isaac for 30 seconds, increasing damage and range while lowering tears, granting invulnerability, and allowing Isaac to crush enemies and obstacles he walks on. The effect persists between rooms.",4,,,,,Repentance,アクティブ
-Mom%27s_Bracelet,Mom's Bracelet,,5.100.604,"Lets Isaac pick up and throw rocks, TNT, poops, friendly Dips, Bombs, and other obstacles.",2,,,,,Repentance,アクティブ
-Plum_Flute,Plum Flute,,5.100.650,Summons the boss Baby Plum to fight for Isaac in the current room.,2,,,,,Repentance,アクティブ
-R_Key,R Key,,5.100.636,"Brings Isaac back to the first floor of a new run, retaining all of his items.",4,,,,,Repentance,アクティブ
-Recall,Recall,,5.100.714,Retrieves the Forgotten's body from any distance. Only available as the Birthright effect for Tainted Forgotten.,0,,,,,Repentance,アクティブ
-Red_Key,Red Key,,5.100.580,"Creates a Red Room adjacent to a viable wall, indicated by the outline of a door. These rooms have a 10% chance to be a special room.",3,,,,,Repentance,アクティブ
-Sharp_Key,Sharp Key,,5.100.623,"Adds 5 keys on pickup. Allows Isaac to throw his keys to deal damage to enemies, destroy obstacles, and open doors.",1,,,,,Repentance,アクティブ
-Spin_to_Win,Spin to Win,,5.100.655,"When used, gives Isaac +0.5 speed and greatly increases the rotation speed of Isaac's orbitals for 3 seconds. Gives Isaac a spinning top orbital that blocks enemy shots and deals contact damage to enemies while held.",1,,+0.5,,,Repentance,アクティブ
-Spindown_Dice,Spindown Dice,,5.100.723,Transforms all items in the room by decreasing their internal ID number.,4,,,,,Repentance,アクティブ
-Stitches,Stitches,,5.100.635,"Passively spawns a familiar that moves in the direction Isaac shoots. On use, Isaac swaps places with the familiar.",1,,,,,Repentance,アクティブ
-Sulfur,Sulfur,,5.100.556,Grants Brimstone for the current room.,2,+1.8,,,,Repentance,アクティブ
-Sumptorium,Sumptorium,,5.100.713,"Removes half a heart and creates a Clot familiar that mimics Isaac's movements and tear effects. As Tainted Eve, passively converts health into Clots while firing. Activating returns all Clots to health.",3,,,,,Repentance,アクティブ
-Suplex!,Suplex!,,5.100.709,"Isaac dashes forward and picks up the first enemy hit. After a moment, he slams them into the ground to deal damage and create a circular rock wave.",3,,,,,Repentance,アクティブ
-The_Scooper,The Scooper,,5.100.605,"Summons a Peeper familiar for the current room, which leaves a trail of red creep.",0,,,,,Repentance,アクティブ
-Urn_of_Souls,Urn of Souls,,5.100.640,"Spews a stream of damaging flame. Gains Soul Charges each time an enemy dies, which are used to fuel the urn.",3,-31.5,,,,Repentance,アクティブ
-Vade_Retro,Vade Retro,,5.100.653,"While held, enemies leave behind ghosts on death. Using the item causes the ghosts to explode, dealing damage to nearby enemies. Stronger enemies leave bigger ghosts.",3,,,,,Repentance,アクティブ
-Wavy_Cap,Wavy Cap,,5.100.582,"Increases tears, decreases speed, and distorts the screen. All effects become more pronounced with repeated use, and wear off by clearing rooms.",1,,-0.03,+0.75,,Repentance,アクティブ
-Yuck_Heart,Yuck Heart,,5.100.639,Gives Isaac a Rotten Heart.,2,,,,,Repentance,アクティブ
-%3F%3F%3F%27s_Only_Friend,???'s Only Friend,,5.100.320,Spawns a controllable familiar that deals 37.5 damage per second on touch. It can be moved using the shooting directional keys,2,,,,,Rebirth,パッシブ
-Less_Than_Three,<3,,5.100.15,Grants Isaac one Red Heart container and fully restores Isaac's health.,2,,,,,Rebirth,パッシブ
-1up!,1up!,,5.100.11,"Gives Isaac an extra life. Upon death, he will respawn in the most recent non-hostile room with full health, after which 1up! will disappear.",2,,,,,Rebirth,パッシブ
-20/20,20/20,,5.100.245,"Isaac fires two tears at once, one from each eye.
-0.75x damage multiplier.",4,,,,,Rebirth,パッシブ
-3_Dollar_Bill,3 Dollar Bill,,5.100.191,"Gives Isaac a random tear effect every room.
-Gives Isaac a random tear effect every few seconds.",2,,,,,Rebirth,パッシブ
-9_Volt,9 Volt,,5.100.116,Reduces the charge of any activated item by 1. Any 1 charge items instead have timed recharges.,2,,,,,Rebirth,パッシブ
-A_Dollar,A Dollar,,5.100.18,Gives Isaac 100 pennies.,3,,,,,Rebirth,パッシブ
-A_Lump_of_Coal,A Lump of Coal,,5.100.132,"The more distance tears travel, the more damage they will do.",3,,,,,Rebirth,パッシブ
-A_Quarter,A Quarter,,5.100.74,Gives Isaac 25 coins.,1,,,,,Rebirth,パッシブ
-A_Snack,A Snack,,5.100.346,Grants one full Red Heart container. Heals 1 additional Red Heart.,1,,,,,Rebirth,パッシブ
-Abaddon,Abaddon,,5.100.230,"+1.5 damage, +0.2 speed. Removes all Red Heart containers, grants six Black Hearts, and adds a chance to shoot fear tears.
-+1.5 damage, +0.2 speed. Grants two Black Hearts, converts all Red Heart Containers into Black Hearts, and adds a chance to shoot fear tears.",3,+1.5,+0.2,,,Rebirth,パッシブ
-Abel,Abel,,5.100.188,Spawns a familiar that mirrors Isaac's movements and shoots in the opposite direction.,0,,,,,Rebirth,パッシブ
-Anemic,Anemic,,5.100.214,"Increases range. After Isaac is damaged, a trail of red creep will be left behind him until he leaves the current room.",0,,,,,Rebirth,パッシブ
-Ankh,Ankh,,5.100.161,"Upon death, Isaac will respawn as ??? in the most recent non-hostile room, with 3 Soul Hearts.",1,,,,,Rebirth,パッシブ
-Anti-Gravity,Anti-Gravity,,5.100.222,"-2 Tear Delay. Tears float in position until firing ceases, after which they will fly off in the direction they were shot in.",2,,,,,Rebirth,パッシブ
-Aquarius,Aquarius,,5.100.308,"A trail of blue creep is left behind Isaac, which damages enemies. The creep inherits most of Isaac's tear effects, like homing, etc.",1,,,,,Rebirth,パッシブ
-Aries,Aries,,5.100.300,+0.25 Speed. Running into enemies while at a high speed will deal damage. Does not prevent contact damage.,2,,+0.25,,,Rebirth,パッシブ
-Ball_of_Bandages,Ball of Bandages,,5.100.207,"Creates an Orbital Familiar which deals 105/ 56 contact damage per second and blocks enemy shots. Collecting additional copies gives it the ability to shoot Charm tears, then chase enemies to deal contact damage, then deal even more contact damage.",2,,,,,Rebirth,パッシブ
-Ball_of_Tar,Ball of Tar,,5.100.231,"Adds a chance to shoot slowing tears. Isaac leaves a trail of slowing creep behind as he moves, impeding enemies' speed.",2,,,,,Rebirth,パッシブ
-BBF,BBF,,5.100.272,Spawns a familiar that flies around the room in a zig-zag pattern and explodes on contact with an enemy. Respawns after ten seconds.,1,,,,,Rebirth,パッシブ
-Best_Bud,Best Bud,,5.100.274,"When hit, spawns a quickly orbiting attack fly similar to Forever Alone for the current room dealing 75 150 damage per second.",0,,,,,Rebirth,パッシブ
-BFFS!,BFFS!,,5.100.247,Increases the size and effectiveness of most familiars.,2,,,,,Rebirth,パッシブ
-Big_Fan,Big Fan,,5.100.279,Spawns a large orbital familiar that blocks enemy shots and deals 30 damage per second to enemies.,2,,,,,Rebirth,パッシブ
-Black_Candle,Black Candle,,5.100.260,Prevents curses. Grants one Black Heart. Increases the chance for a Devil or Angel Room to appear.,3,,,,,Rebirth,パッシブ
-Black_Lotus,Black Lotus,,5.100.226,"Grants one Red Heart, one Soul Heart, and one Black Heart.",2,,,,,Rebirth,パッシブ
-Blood_Bag,Blood Bag,,5.100.119,"Grants one Red Heart container, restores 5 Red Hearts, and increases speed by 0.3.",2,,+0.3,,,Rebirth,パッシブ
-Blood_Clot,Blood Clot,,5.100.254,"Tears fired from the left eye have +1 flat damage, +5 range, and +0.5 tear height.",2,,,,,Rebirth,パッシブ
-Blood_of_the_Martyr,Blood of the Martyr,,5.100.7,"Increases damage by 1, and turns Isaac's tears into blood tears.",3,,,,,Rebirth,パッシブ
-Bloody_Lust,Bloody Lust,,5.100.157,"Increases Isaac's damage whenever he takes damage, up to six times. The bonus resets when entering a new floor.",3,,,,,Rebirth,パッシブ
-Blue_Cap,Blue Cap,,5.100.342,"Gives one full Red Heart container, +0.7 tears, and -0.16 shot speed. Heals 2 additional hearts of health.",3,,,+0.7,-0.16,Rebirth,パッシブ
-Blue_Map,Blue Map,,5.100.246,Reveals the locations of Secret Rooms and Super Secret Rooms on the map.,2,,,,,Rebirth,パッシブ
-Bob%27s_Brain,Bob's Brain,,5.100.273,"Spawns a familiar that charges forward when shooting tears and explodes upon contact with an enemy, damaging and poisoning them. The familiar respawns after a few seconds.",1,,,,,Rebirth,パッシブ
-Bob%27s_Curse,Bob's Curse,,5.100.140,Gives 5 bombs and grants Isaac's bombs a poison effect. Gives Isaac immunity to poison.,1,,,,,Rebirth,パッシブ
-Bobby-Bomb,Bobby-Bomb,,5.100.125,"+5 bombs. Bombs gain a homing effect, slowly moving towards the nearest enemy.",2,,,,,Rebirth,パッシブ
-Bogo_Bombs,Bogo Bombs,,5.100.250,All normal Bombs become Double Bombs.,1,,,,,Rebirth,パッシブ
-Bomb_Bag,Bomb Bag,,5.100.131,Spawns a familiar that drops a bomb every 3 rooms.,2,,,,,Rebirth,パッシブ
-Boom!,Boom!,,5.100.19,Grants 10 bombs.,0,,,,,Rebirth,パッシブ
-Box,Box,,5.100.198,"Spawns various pickups: 1 coin, 1 key, 1 bomb, 1 Red Heart, 1 card/rune, 1 pill and 1 trinket.",1,,,,,Rebirth,パッシブ
-Breakfast,Breakfast,,5.100.25,Grants one full Red Heart container. Heals 1 additional Red Heart.,1,,,,,Rebirth,パッシブ
-Brimstone,Brimstone,,5.100.118,Tears are replaced by a laser beam that pierces through all enemies and obstacles in its path and deals high damage. Can only be fired after a short charge-up period.,4,,,,,Rebirth,パッシブ
-Broken_Watch,Broken Watch,,5.100.337,Chance upon entering a room to slow down or speed up every enemy and their attacks. The chance to slow enemies is quite higher than the chance to speed them up.,1,,,,,Rebirth,パッシブ
-Brother_Bobby,Brother Bobby,,5.100.8,A familiar that follows Isaac around shooting normal tears.,1,,,,,Rebirth,パッシブ
-Bucket_of_Lard,Bucket of Lard,,5.100.129,"Grants two empty full Red Heart containers and heals Isaac by half a Red Heart, but decreases speed by 0.2.",1,,-0.2,,,Rebirth,パッシブ
-Bum_Friend,Bum Friend,,5.100.144,"Spawns a familiar that picks up coins for himself, giving random pickups in return. Does not spawn collectibles.",0,,,,,Rebirth,パッシブ
-Butt_Bombs,Butt Bombs,,5.100.209,"+5 bombs. Bombs now cloud up the screen, briefly damaging and confusing all enemies.",2,,,,,Rebirth,パッシブ
-Caffeine_Pill,Caffeine Pill,,5.100.340,"Grants +0.3 speed, reduces character size, and gives a random pill.",1,,+0.3,,,Rebirth,パッシブ
-Cain%27s_Other_Eye,Cain's Other Eye,,5.100.319,Spawns a familiar that floats slowly around the room on a zig-zag pattern similar to The Peeper and shoots normal tears in the same direction as Isaac.,0,,,,,Rebirth,パッシブ
-Cancer,Cancer,,5.100.301,Adds 3 Soul Hearts. Grants The Wafer effect for the current room after taking damage.,3,,,,,Rebirth,パッシブ
-Capricorn,Capricorn,,5.100.307,"Adds 1 Red Heart Container, gives +0.5 Damage, +0.1 Speed, +1.5 / +0.75 Range, and -1.0 Tear Delay, and gives 1 Bomb, Coin, and Key.",3,+0.5,+0.1,,,Rebirth,パッシブ
-Cat-O-Nine-Tails,Cat-O-Nine-Tails,,5.100.165,"+1 damage, +0.23 shot speed.",3,+1,,,+0.23,Rebirth,パッシブ
-Celtic_Cross,Celtic Cross,,5.100.162,"Grants a chance to trigger the Book of Shadows effect upon taking damage, creating a shield that nullifies all types of damage for 7 seconds.",1,,,,,Rebirth,パッシブ
-Ceremonial_Robes,Ceremonial Robes,,5.100.216,"Grants 3 Black Hearts, and +1 damage.",3,+1,,,,Rebirth,パッシブ
-Champion_Belt,Champion Belt,,5.100.208,"Increases damage, but also increases the chance of champion enemies appearing.",3,+1,,,,Rebirth,パッシブ
-Charm_of_the_Vampire,Charm of the Vampire,,5.100.62,Heals Isaac for half of a Red Heart for every 13 enemies killed. +0.3 damage.,1,+0.3,,,,Rebirth,パッシブ
-Chemical_Peel,Chemical Peel,,5.100.154,Tears fired from the left eye have +2 flat damage.,2,,,,,Rebirth,パッシブ
-Chocolate_Milk,Chocolate Milk,,5.100.69,Grants charged tears that deal greater damage when fully charged.,3,,,,,Rebirth,パッシブ
-Contract_From_Below,Contract From Below,,5.100.241,"Doubles the number of most room clear awards, but reduces the overall chance of getting one by 1/3.",3,,,,,Rebirth,パッシブ
-Cricket%27s_Body,Cricket's Body,,5.100.224,"Grants -1 tear delay and reduces range. When tears hit an object or deplete their range, they spawn 4 smaller tears, whose range and damage scale with Isaac's.",3,,,,,Rebirth,パッシブ
-Cricket%27s_Head,Cricket's Head,,5.100.4,"Increases Damage by 0.5, and increases damage multiplier by x1.5.",4,+0.5,,,,Rebirth,パッシブ
-Cube_of_Meat,Cube of Meat,,5.100.73,"Creates an Orbital Familiar which deals 105/ 56 contact damage per second and blocks enemy shots. Collecting additional copies gives it the ability to shoot tears, then chase enemies to deal contact damage, then deal even more contact damage.",2,,,,,Rebirth,パッシブ
-Cupid%27s_Arrow,Cupid's Arrow,,5.100.48,Grants Isaac piercing tears that travel through enemies (but not obstacles) instead of breaking on impact with them.,3,,,,,Rebirth,パッシブ
-Cursed_Eye,Cursed Eye,,5.100.316,Grants charged tears that can be fired in a tight burst. Getting hit while charging will teleport Isaac to another room.,0,,,,,Rebirth,パッシブ
-Daddy_Longlegs,Daddy Longlegs,,5.100.170,Daddy Long Legs' shadow follows Isaac and occasionally stomps enemies for 40 damage total.,3,,,,,Rebirth,パッシブ
-Dark_Bum,Dark Bum,,5.100.278,"Spawns a familiar that follows Isaac around and collects Red Hearts. For every 1½ Red Hearts collected, Dark Bum will give a reward.",3,,,,,Rebirth,パッシブ
-Dark_Matter,Dark Matter,,5.100.259,"+1 damage, adds a chance to shoot fear tears.",3,+1,,,,Rebirth,パッシブ
-Dead_Bird,Dead Bird,,5.100.117,"After Isaac takes damage, spawns a flying familiar that chases enemies for the current room, dealing ~5 damage per second.",0,,,,,Rebirth,パッシブ
-Dead_Cat,Dead Cat,,5.100.81,"Sets Isaac's Red Heart containers to 1, but grants 9 extra lives. After dying, Isaac respawns with 1 Red Heart Container.",3,,,,,Rebirth,パッシブ
-Dead_Dove,Dead Dove,,5.100.185,Grants spectral tears and flight.,3,,,,,Rebirth,パッシブ
-Dead_Onion,Dead Onion,,5.100.336,Grants piercing and spectral tears. Increases tear size (without increasing damage) while greatly reducing range and shot speed.,3,,,,-0.4,Rebirth,パッシブ
-Death%27s_Touch,Death's Touch,,5.100.237,"+1.5 damage, -0.3 tears. Tears are replaced with large piercing scythes.",3,+1.5,,-0.3,,Rebirth,パッシブ
-Demon_Baby,Demon Baby,,5.100.113,Spawns a familiar that follows Isaac and automatically fires at enemies in its reach.,2,,,,,Rebirth,パッシブ
-Dessert,Dessert,,5.100.24,Grants one full Red Heart container. Heals 1 additional Red Heart.,1,,,,,Rebirth,パッシブ
-Dinner,Dinner,,5.100.23,Grants one full Red Heart container. Heals 1 additional Red Heart.,1,,,,,Rebirth,パッシブ
-Distant_Admiration,Distant Admiration,,5.100.57,"Spawns an attack fly that circles further out than Halo of Flies, but closer than Forever Alone, dealing 75 damage per second.",2,,,,,Rebirth,パッシブ
-Dr._Fetus,Dr. Fetus,,5.100.52,Tears are replaced by bombs that benefit from bomb-enhancing effects and slide for a fixed time after being fired.,4,,,,,Rebirth,パッシブ
-Dry_Baby,Dry Baby,,5.100.265,"Spawns a familiar that follows Isaac around and blocks enemy projectiles. Upon blocking a shot, it has a chance of triggering The Necronomicon effect.",3,,,,,Rebirth,パッシブ
-E._Coli,E. Coli,,5.100.236,Enemies that touch Isaac are transformed into poop.,1,,,,,Rebirth,パッシブ
-Epic_Fetus,Epic Fetus,,5.100.168,"Isaac's tears are replaced with guided missiles, like those used by the Doctor's Remote.",4,,,,,Rebirth,パッシブ
-Eve%27s_Mascara,Eve's Mascara,,5.100.310,"Doubles damage, halves tears stat, and greatly reduces shot speed.",2,,,,-0.5,Rebirth,パッシブ
-Experimental_Treatment,Experimental Treatment,,5.100.240,"Randomly increases and decreases some of Isaac's stats.
-Increases four random stats and decreases the other two.",1,,,,,Rebirth,パッシブ
-Fanny_Pack,Fanny Pack,,5.100.204,Has a chance to drop a random pickup when Isaac takes damage.,1,,,,,Rebirth,パッシブ
-Fate,Fate,,5.100.179,Grants flight and one Eternal Heart.,3,,,,,Rebirth,パッシブ
-Fire_Mind,Fire Mind,,5.100.257,"Grants flaming tears that deal burning damage over time. Tears have a chance to explode on impact with an enemy, which creates a fire at the location of the explosion.",2,,,,,Rebirth,パッシブ
-Forever_Alone,Forever Alone,,5.100.128,"Spawns an attack fly that orbits a long distance from Isaac, dealing 30 damage per second.",1,,,,,Rebirth,パッシブ
-Gemini_(Item),Gemini,,5.100.318,"Spawns a conjoined familiar which chases enemies close to Isaac, dealing ~8 damage per second.",1,,,,,Rebirth,パッシブ
-Ghost_Baby,Ghost Baby,,5.100.163,Spawns a familiar that follows Isaac around and fires spectral tears.,1,,,,,Rebirth,パッシブ
-Gimpy,Gimpy,,5.100.225,Gives chance of spawning a Soul Heart when taking damage. Enemies have a chance to drop a Half Red Heart after being killed.,2,,,,,Rebirth,パッシブ
-Gnawed_Leaf,Gnawed Leaf,,5.100.210,"After standing still and not shooting for a short time, Isaac turns invincible until he moves or shoots.",1,,,,,Rebirth,パッシブ
-Goat_Head,Goat Head,,5.100.215,"A Devil Room / Angel Room will always spawn after every boss fight, excluding the first floor and floors after Chapter 4.",3,,,,,Rebirth,パッシブ
-Godhead,Godhead,,5.100.331,"Grants homing tears with a damaging halo. +0.5 Damage, -0.3 Tears -0.3 Shot Speed, +0.8 Tear Height, and +1.2 Range.",4,+0.5,,-0.3,-0.3,Rebirth,パッシブ
-Growth_Hormones,Growth Hormones,,5.100.70,"+1 damage, +0.4 speed.
-+1 damage, +0.2 speed.",3,+1,+0.4,,,Rebirth,パッシブ
-Guardian_Angel,Guardian Angel,,5.100.112,"Spawns an orbital familiar that blocks enemy shots, deals 105 damage per second to enemies, and increases the speed of all orbital familiars.",2,,,,,Rebirth,パッシブ
-Guillotine,Guillotine,,5.100.206,Isaac's head is removed from his body and floats around him as an orbital. Gives +1 damage and grants -1 tear delay.,2,+1,,,,Rebirth,パッシブ
-Guppy%27s_Collar,Guppy's Collar,,5.100.212,Grants a permanent 50% chance to respawn with 1/2 of a Red Heart after death.,2,,,,,Rebirth,パッシブ
-Guppy%27s_Hair_Ball,Guppy's Hair Ball,,5.100.187,"Spawns a familiar that loosely follows behind Isaac, which blocks shots can be swung like a flail to damage enemies. Grows bigger by killing enemies.",1,,,,,Rebirth,パッシブ
-Guppy%27s_Tail,Guppy's Tail,,5.100.134,Room Clear Awards have a 1/3 chance of being replaced with a Chest and a 1/3 chance being replaced with nothing.,2,,,,,Rebirth,パッシブ
-Habit,Habit,,5.100.156,"When Isaac is hit, his active item gains 1 room's worth of charge.",2,,,,,Rebirth,パッシブ
-Halo_of_Flies,Halo of Flies,,5.100.10,Spawns two Pretty Flies that block enemy shots and deal contact damage to flies.,2,,,,,Rebirth,パッシブ
-Harlequin_Baby,Harlequin Baby,,5.100.167,Spawns a familiar that follows Isaac around and fires two tears at once in a V-pattern.,1,,,,,Rebirth,パッシブ
-Headless_Baby,Headless Baby,,5.100.269,"Spawns a familiar that follows Isaac, leaving blood creep on the ground.",1,,,,,Rebirth,パッシブ
-Hive_Mind,Hive Mind,,5.100.248,Increases the size of Blue Spiders and Blue Flies and doubles the amount of damage they deal. Also increases the effectiveness of fly and spider familiars.,2,,,,,Rebirth,パッシブ
-Holy_Grail,Holy Grail,,5.100.184,Grants flight and one Red Heart container.,3,,,,,Rebirth,パッシブ
-Holy_Mantle,Holy Mantle,,5.100.313,"Grants a shield that negates the first instance of damage taken, once per room. Does not apply to or negate self-damage ( Blood Donation Machines, etc).",4,,,,,Rebirth,パッシブ
-Holy_Water,Holy Water,,5.100.178,"Spawns a bottle familiar that breaks when Isaac takes damage, leaving a puddle of blue creep.
-A bottle familiar that flies forward when Isaac shoots. It breaks upon hitting an enemy, leaving a puddle of blue creep that petrifies enemies.",3,,,,,Rebirth,パッシブ
-Hot_Bombs,Hot Bombs,,5.100.256,Grants 5 bombs. Isaac's bombs leave behind fire that damages enemies upon contact.,1,,,,,Rebirth,パッシブ
-Humbling_Bundle,Humbling Bundle,,5.100.203,"Transforms Bombs, Keys, Pennies, and Red Hearts into their respective Double versions. This will occur only 50% of the time.",3,,,,,Rebirth,パッシブ
-Infamy,Infamy,,5.100.242,Chance to block projectiles coming from any direction.,2,,,,,Rebirth,パッシブ
-Infestation,Infestation,,5.100.148,"1-3 Blue Flies randomly spawn every time Isaac gets hit.
-2-6 Blue Flies randomly spawn every time Isaac gets hit.",0,,,,,Rebirth,パッシブ
-Infestation_2,Infestation 2,,5.100.234,Spawns allied Blue Spiders from killed enemies.,4,,,,,Rebirth,パッシブ
-Ipecac,Ipecac,,5.100.149,Replaces tears with explosive and poisoning projectiles fired in an arc from the mouth.,4,,,,+13,Rebirth,パッシブ
-Iron_Bar,Iron Bar,,5.100.201,"Increases damage by 0.3 and adds a chance to shoot concussive tears, causing enemies to walk around randomly.",3,+0.3,,,,Rebirth,パッシブ
-Isaac%27s_Heart,Isaac's Heart,,5.100.276,"Isaac himself is now immune to all damage, and a heart familiar follows him. If the heart is hurt, Isaac is hurt. The heart charges up as Isaac shoots, firing 8 blood shots, knocking back enemies, and leaving a puddle of creep when released.",0,,,,,Rebirth,パッシブ
-Jesus_Juice,Jesus Juice,,5.100.197,"+0.5 damage, +0.25 range, +0.5 tear height.",2,+0.5,,,,Rebirth,パッシブ
-Judas%27_Shadow,Judas' Shadow,,5.100.311,"Upon death, respawns Isaac as Dark Judas with two Black Hearts in the most recent non-hostile room.",3,,,,,Rebirth,パッシブ
-Juicy_Sack,Juicy Sack,,5.100.266,"Spawns a familiar that follows Isaac and drips a trail of slow creep, spawning 1-2 Blue Spiders after each room.",2,,,,,Rebirth,パッシブ
-Key_Piece_1,Key Piece 1,,5.100.238,"Combined with Key Piece 2, unlocks the golden gate in the starting room of The Chest and Dark Room to fight Mega Satan.",0,,,,,Rebirth,パッシブ
-Key_Piece_2,Key Piece 2,,5.100.239,"Combined with Key Piece 1, unlocks the golden gate in the starting room of The Chest and Dark Room to fight Mega Satan.",0,,,,,Rebirth,パッシブ
-Latch_Key,Latch Key,,5.100.343,Grants 1 Soul Heart and +1 luck. Spawns 2 Keys.,2,,,,,Rebirth,パッシブ
-Lazarus%27_Rags,Lazarus' Rags,,5.100.332,"Upon dying, resurrect as Lazarus Risen in the current room with one Red Heart container and Anemic.",1,,,,,Rebirth,パッシブ
-Leech,Leech,,5.100.270,"Spawns a leech familiar that chases enemies, dealing ~3 damage per second. Heals a Half Red Heart whenever Leech kills an enemy.",1,,,,,Rebirth,パッシブ
-Leo,Leo,,5.100.302,Isaac can destroy rocks by walking into them.,1,,,,,Rebirth,パッシブ
-Libra,Libra,,5.100.304,"Gives 6 coins, 6 bombs, and 6 keys and balances out all attributes.",1,-,,,,Rebirth,パッシブ
-Lil_Brimstone,Lil Brimstone,,5.100.275,Grants a familiar that charges a thin Brimstone laser while Isaac is shooting.,3,,,,,Rebirth,パッシブ
-Lil_Haunt,Lil Haunt,,5.100.277,"Spawns a familiar that chases down enemies, dealing 4 damage per second and inflicting fear.",1,,,,,Rebirth,パッシブ
-Little_Baggy,Little Baggy,,5.100.252,Isaac can hold 2 pills at once and all cards and runes are replaced by pills.,1,,,,,Rebirth,パッシブ
-Little_C.H.A.D.,Little C.H.A.D.,,5.100.96,Spawns a familiar who drops a Half Red Heart every 3 rooms.,2,,,,,Rebirth,パッシブ
-Little_Chubby,Little Chubby,,5.100.88,Spawns a charger familiar that charges forward and deals contact damage to any enemies in its path.,1,,,,,Rebirth,パッシブ
-Little_Gish,Little Gish,,5.100.99,"Spawns a familiar that follows Isaac around and fires slowing tears, impeding enemies' speed.",2,,,,,Rebirth,パッシブ
-Little_Steven,Little Steven,,5.100.100,Spawns a familiar who follows Isaac around and fires homing tears.,1,,,,,Rebirth,パッシブ
-Loki%27s_Horns,Loki's Horns,,5.100.87,Gives a random chance for projectiles to fire in all 4 cardinal directions.,1,,,,,Rebirth,パッシブ
-Lord_of_the_Pit,Lord of the Pit,,5.100.82,Grants flight and +0.3 speed.,3,,+0.3,,,Rebirth,パッシブ
-Lost_Contact,Lost Contact,,5.100.213,Isaac's tears can hit and destroy enemy projectiles. -0.16 shot speed.,2,,,,-0.16,Rebirth,パッシブ
-Lucky_Foot,Lucky Foot,,5.100.46,"+1 luck. Increases chance of winning Shell Games and Fortune Tellers (independent from the luck stat).
-Converts all bad pills into good pills, without identifying them.",2,,,,,Rebirth,パッシブ
-Lunch,Lunch,,5.100.22,Grants one full Red Heart container. Heals 1 additional Red Heart.,1,,,,,Rebirth,パッシブ
-Maggy%27s_Bow,Maggy's Bow,,5.100.312,Gives one Red Heart Container and doubles the healing provided by Red Hearts. Also heals 1 Red Heart when obtained.,2,,,,,Rebirth,パッシブ
-Magic_8_Ball,Magic 8 Ball,,5.100.194,"+0.16 shot speed, spawns a random tarot card. Increases the chance of finding a Planetarium.",1,,,,+0.16,Rebirth,パッシブ
-Magic_Mushroom,Magic Mushroom,,5.100.12,"Makes Isaac bigger. Adds one Red Heart Container, +0.3 Damage, x1.5 damage multiplier, +5.25 / +1.5 Range, and +0.3 Speed, and restores all Health.",4,+0.3,+0.3,,,Rebirth,パッシブ
-Magic_Scab,Magic Scab,,5.100.253,"Grants one full Red Heart container, +1 luck.",2,,,,,Rebirth,パッシブ
-Magneto,Magneto,,5.100.53,Pulls pickups towards Isaac.,1,,,,,Rebirth,パッシブ
-Match_Book,Match Book,,5.100.344,"Grants Isaac one Black Heart, spawns two or three Bombs.",1,,,,,Rebirth,パッシブ
-MEAT!,MEAT!,,5.100.193,"Grants one full Red Heart container, +0.3 damage.",2,+0.3,,,,Rebirth,パッシブ
-Midas%27_Touch,Midas' Touch,,5.100.202,Enemies that touch Isaac are temporarily petrified and turn to gold. Any enemy killed while in this state will drop coins.,2,,,,,Rebirth,パッシブ
-Mini_Mush,Mini Mush,,5.100.71,"Decreases Isaac's size, making him less likely to be hit. +0.3 speed, +1.5 tear height, -4.25 range (effective range is increased). +0.3 speed, +1.50 range.",2,,+0.3,,,Rebirth,パッシブ
-Missing_No.,Missing No.,,5.100.258,Randomizes all passive items and stats upon pickup and at the start of each succeeding floor.,2,,,,,Rebirth,パッシブ
-Missing_Page_2,Missing Page 2,,5.100.262,"Grants one Black Heart. Upon taking damage that reduces Isaac's health to one heart or less, deals 40 damage to all enemies in the room.
-Deals 80 damage, and increases the damage of Black Hearts and The Necronomicon-like effects by 40.",0,+40,,,,Rebirth,パッシブ
-Mitre,Mitre,,5.100.173,Grants a chance of converting any Red Heart pickups into Soul Hearts instead.,3,,,,,Rebirth,パッシブ
-Mom%27s_Coin_Purse,Mom's Coin Purse,,5.100.195,Spawns 4 random pills near Isaac.,1,,,,,Rebirth,パッシブ
-Mom%27s_Contacts,Mom's Contacts,,5.100.110,"+0.25 range. Adds a chance to shoot petrifying tears, which stop enemies in place and prevent them from moving or attacking.",3,,,,,Rebirth,パッシブ
-Mom%27s_Eye,Mom's Eye,,5.100.55,Gives Isaac a chance to fire tears from the back of his head.,1,,,,,Rebirth,パッシブ
-Mom%27s_Eyeshadow,Mom's Eyeshadow,,5.100.200,Tears have a chance to charm enemies.,1,,,,,Rebirth,パッシブ
-Mom%27s_Heels,Mom's Heels,,5.100.30,"+5.25 range, +0.5 tear height. Enemies that touch Isaac take 12 damage.",1,,,,,Rebirth,パッシブ
-Mom%27s_Key,Mom's Key,,5.100.199,Adds 2 keys. Chests will drop additional pickups.,3,,,,,Rebirth,パッシブ
-Mom%27s_Knife,Mom's Knife,,5.100.114,"Isaac's tears are replaced by a knife that pierces enemies, can travel through obstacles, and can hurt enemies while Isaac is holding it. Holding down the fire button before firing increases its range and power.",4,,,,,Rebirth,パッシブ
-Mom%27s_Lipstick,Mom's Lipstick,,5.100.31,"+5.25 range, +0.5 tear height. Spawns one random heart.",1,,,,,Rebirth,パッシブ
-Mom%27s_Perfume,Mom's Perfume,,5.100.228,Adds a chance to shoot fear tears and decreases tear delay by 1.,2,,,,,Rebirth,パッシブ
-Mom%27s_Purse,Mom's Purse,,5.100.139,Allows Isaac to hold 1 additional trinket.,3,,,,,Rebirth,パッシブ
-Mom%27s_Underwear,Mom's Underwear,,5.100.29,"+5.25 range, +0.5 tear height. Spawns 3-6 Blue Flies on pickup.",1,,,,,Rebirth,パッシブ
-Mom%27s_Wig,Mom's Wig,,5.100.217,Adds a chance to spawn Blue Spiders when firing tears. Restores 1 red heart.,3,,,,,Rebirth,パッシブ
-Money_%3D_Power,Money = Power,,5.100.109,"Increases damage by 0.04 for every coin Isaac has, up to +3.96 damage at 99 coins.",3,+3.96,,,,Rebirth,パッシブ
-Mongo_Baby,Mongo Baby,,5.100.322,Spawns a familiar that copies the tears of Isaac's other familiars.,2,,,,,Rebirth,パッシブ
-Monstro%27s_Lung,Monstro's Lung,,5.100.229,Replaces normal tears with a charged shot that fires 14 tears in the same fashion as Monstro.,2,,,,,Rebirth,パッシブ
-Mr._Mega,Mr. Mega,,5.100.106,"Grants 5 bombs, and makes all dropped bombs larger, which have an increased blast radius and increased damage.",2,,,,,Rebirth,パッシブ
-Mutant_Spider,Mutant Spider,,5.100.153,Grants quadruple shot but decreases tears.,3,,,,,Rebirth,パッシブ
-My_Reflection,My Reflection,,5.100.5,"Gives Isaac's tears a boomerang effect. +1.5 range, +1 tear height, x1.6 shot speed multiplier.",0,,,,,Rebirth,パッシブ
-Mysterious_Liquid,Mysterious Liquid,,5.100.317,"Tears leave a small, short lasting pool of creep on impact or when their range is depleted.",3,,,,,Rebirth,パッシブ
-Mystery_Sack,Mystery Sack,,5.100.271,"Spawns a familiar that drops a Heart, coin, bomb, or key every 5-6 rooms.",2,,,,,Rebirth,パッシブ
-Number_One,Number One,,5.100.6,"Grants +1.5 tears, but severely reduces range.",2,,,+1.5,,Rebirth,パッシブ
-Odd_Mushroom_(Thin),Odd Mushroom,,5.100.121,"Grants one empty Heart container, +0.3 damage, +0.25 range, +0.5 tear height, and -0.1 speed.",2,+0.3,-0.1,,,Rebirth,パッシブ
-Odd_Mushroom_(Thin),Odd Mushroom,,5.100.120,"+1.7 tears, +0.3 speed, slightly reduces damage.",2,,+0.3,+1.7,,Rebirth,パッシブ
-Old_Bandage,Old Bandage,,5.100.219,Grants an empty Red Heart container. Adds a chance of dropping a Red Heart after taking damage.,2,,,,,Rebirth,パッシブ
-Ouija_Board,Ouija Board,,5.100.115,Grants spectral tears that travel through obstacles (but not enemies) instead of breaking on impact with them.,2,,,,,Rebirth,パッシブ
-Pageant_Boy,Pageant Boy,,5.100.141,Spawns seven random coins around Isaac.,0,,,,,Rebirth,パッシブ
-Pentagram,Pentagram,,5.100.51,"+1 damage, increases Devil Room / Angel Room chance by 10%.",3,+1,,,,Rebirth,パッシブ
-PHD,PHD,,5.100.75,"Converts all bad pills into good pills, spawns one pill pickup, and identifies all pills. Restores two Red Hearts and increases the payout of Blood Donation Machines.",2,,,,,Rebirth,パッシブ
-Piggy_Bank,Piggy Bank,,5.100.227,"Gives 3 pennies on pick-up. Every time Isaac is damaged, he will drop one additional penny.",1,,,,,Rebirth,パッシブ
-Pisces,Pisces,,5.100.309,"-1 Tear Delay, adds knock-back shots and increases tear size.",2,,,,,Rebirth,パッシブ
-Placenta,Placenta,,5.100.218,"Grants one full Red Heart container, and a chance to regenerate a Half Red Heart of health every minute of gameplay.",2,,,,,Rebirth,パッシブ
-Polyphemus,Polyphemus,,5.100.169,"Isaac fires huge tears that deal massive damage, but fire rate is greatly decreased. If a tear kills an enemy, it travels on with any leftover damage.",4,,,,,Rebirth,パッシブ
-Proptosis,Proptosis,,5.100.261,"Tears start out massive with high damage, and then shrink down and become weaker over a short range.",4,+0.5,,,,Rebirth,パッシブ
-Punching_Bag,Punching Bag,,5.100.281,Spawns a Mulligan familiar that wanders randomly. Enemies will attack the Mulligan if it's closer.,1,,,,,Rebirth,パッシブ
-Pyro,Pyro,,5.100.190,Grants 99 Bombs.,3,,,,,Rebirth,パッシブ
-Pyromaniac,Pyromaniac,,5.100.223,+5 bombs. Grants immunity to explosion damage and causes explosions to heal Isaac. Also grants immunity to fire.,4,,,,,Rebirth,パッシブ
-Rainbow_Baby,Rainbow Baby,,5.100.174,Spawns a familiar that follows Isaac around and fires tears with random effects.,1,,,,,Rebirth,パッシブ
-Raw_Liver,Raw Liver,,5.100.16,Grants 2 Red Heart containers and completely restores health.,2,,,,,Rebirth,パッシブ
-Robo-Baby,Robo-Baby,,5.100.95,Spawns a familiar that shoots Technology lasers.,1,,,,,Rebirth,パッシブ
-Robo-Baby_2.0,Robo-Baby 2.0,,5.100.267,Spawns a familiar that fires lasers at any enemy in its line of sight and moves based on the direction Isaac is firing tears.,1,,,,,Rebirth,パッシブ
-Roid_Rage,Roid Rage,,5.100.14,"+0.6 speed, +5.25 range, +0.5 tear height.
-+0.3 speed, +1.50 range, +0.5 tear height.",2,,+0.6,,,Rebirth,パッシブ
-Rosary,Rosary,,5.100.72,"Adds 3 Soul Hearts. The Bible will appear in any item pool.
-Also a +0.5 tears up.",2,,,+0.5,,Rebirth,パッシブ
-Rotten_Baby,Rotten Baby,,5.100.268,Spawns a familiar that spawns a Blue Fly when Isaac shoots. It can only have one Fly at a time.,3,,,,,Rebirth,パッシブ
-Rotten_Meat,Rotten Meat,,5.100.26,Grants one full Red Heart container. Heals 1 additional Red Heart.,1,,,,,Rebirth,パッシブ
-Rubber_Cement,Rubber Cement,,5.100.221,"Tears bounce off walls, enemies, and environmental objects.",3,,,,,Rebirth,パッシブ
-Sack_of_Pennies,Sack of Pennies,,5.100.94,Spawns a familiar that drops a coin every 2 rooms.,1,,,,,Rebirth,パッシブ
-Sacred_Heart,Sacred Heart,,5.100.182,"Gives Isaac a red Heart Container and replenishes all Red Hearts. Grants homing tears, a x2.3 Damage multiplier, +1 flat Damage, -0.4 Tears, -0.25 Shot Speed, +0.75 Tear Height +4.125 Range",4,,,-0.4,-0.25,Rebirth,パッシブ
-Sacrificial_Dagger,Sacrificial Dagger,,5.100.172,"Spawns a dagger orbital familiar, blocking enemy shots and dealing a high amount of damage to enemies in contact.",2,,,,,Rebirth,パッシブ
-Sad_Bombs,Sad Bombs,,5.100.220,"+5 Bombs. Upon exploding, bombs shoot 10 tears around them, affected by tear modifiers.",2,,,,,Rebirth,パッシブ
-Safety_Pin,Safety Pin,,5.100.339,"Grants one Black Heart, +5.25 range, +0.5 tear height, +0.16 shot speed.",1,,,,+0.16,Rebirth,パッシブ
-Sagittarius,Sagittarius,,5.100.306,Increases speed by +0.2 and grants piercing tears.,3,,+0.2,,,Rebirth,パッシブ
-Samson%27s_Chains,Samson's Chains,,5.100.321,"Attaches a ball and chain to Isaac that pulls behind him that damages enemies, blocks shots, and destroys most obstacles.",1,,,,,Rebirth,パッシブ
-Scapular,Scapular,,5.100.142,"Once per room, when Isaac is reduced to his last half heart, he is granted one Soul Heart.",2,,,,,Rebirth,パッシブ
-Scorpio,Scorpio,,5.100.305,"Grants poison tears, which deal damage over time when inflicted.",3,,,,,Rebirth,パッシブ
-Screw,Screw,,5.100.255,"+0.5 tears, +0.2 shot speed.",3,,,+0.5,+0.2,Rebirth,パッシブ
-Sharp_Plug,Sharp Plug,,5.100.205,Damages Isaac in exchange for fully recharging Isaac's current activated item.,1,,,,,Rebirth,パッシブ
-Sissy_Longlegs,Sissy Longlegs,,5.100.280,"Spawns a familiar that wanders randomly, occasionally spawning Blue Spiders.",1,,,,,Rebirth,パッシブ
-Sister_Maggy,Sister Maggy,,5.100.67,Spawns a familiar that follows Isaac around shooting normal tears.,1,,,,,Rebirth,パッシブ
-Skatole,Skatole,,5.100.9,Flies become harmless or less dangerous depending on the type.,0,,,,,Rebirth,パッシブ
-Skeleton_Key,Skeleton Key,,5.100.17,Gives Isaac 99 Keys.,3,,,,,Rebirth,パッシブ
-Smart_Fly,Smart Fly,,5.100.264,"Spawns an orbital familiar that blocks enemy shots. Upon taking damage, the familiar will pursue enemies for the rest of the room, dealing 22.5 damage per second.",2,,,,,Rebirth,パッシブ
-SMB_Super_Fan,SMB Super Fan,,5.100.189,"+1 Red Heart container, +0.3 damage, +0.2 tears, +0.2 speed, +0.5 range, +1 tear height. Fully restores all red hearts.",3,+0.3,+0.2,+0.2,,Rebirth,パッシブ
-Soy_Milk,Soy Milk,,5.100.330,"Tears are smaller and do much less damage, but fire in very rapid succession.",2,,,,,Rebirth,パッシブ
-Speed_Ball,Speed Ball,,5.100.143,"+0.3 speed, +0.2 shot speed.",2,,+0.3,,+0.2,Rebirth,パッシブ
-Spelunker_Hat,Spelunker Hat,,5.100.91,"Reveals type of adjacent rooms, including location for Secret Rooms and Super Secret Rooms.",2,,,,,Rebirth,パッシブ
-Spider_Bite,Spider Bite,,5.100.89,"Adds a chance to shoot slowing tears, reducing speed of enemy movement and any projectile fired by them.",2,,,,,Rebirth,パッシブ
-Spiderbaby,Spiderbaby,,5.100.211,"When hit, spawns 1-2 Blue Spiders.
-When hit, spawns 3-5 Blue Spiders.",1,,,,,Rebirth,パッシブ
-Spirit_of_the_Night,Spirit of the Night,,5.100.159,Grants spectral tears and flight.,3,,,,,Rebirth,パッシブ
-Spoon_Bender,Spoon Bender,,5.100.3,Grants Isaac homing tears.,3,,,,,Rebirth,パッシブ
-Squeezy,Squeezy,,5.100.196,"Increases tears by 0.4, spawns 2 Soul Hearts.",3,,,+0.4,,Rebirth,パッシブ
-Starter_Deck,Starter Deck,,5.100.251,Isaac can hold 2 cards at once and all pills are replaced by cards.,2,,,,,Rebirth,パッシブ
-Steam_Sale,Steam Sale,,5.100.64,"Reduces all Shop prices by 50%, rounded down to 7 coins for an item, rounded up to 2-3 coins for a pickup.",2,,,,,Rebirth,パッシブ
-Stem_Cells,Stem Cells,,5.100.176,Grants one full Red Heart container and +0.16 shot speed.,1,,,,+0.16,Rebirth,パッシブ
-Steven_(Item),Steven,,5.100.50,Increases damage by 1.,3,+1,,,,Rebirth,パッシブ
-Stigmata,Stigmata,,5.100.138,"Increases damage, and adds 1 heart container.",2,+0.3,,,,Rebirth,パッシブ
-Stop_Watch,Stop Watch,,5.100.232,"Automatically inflicts slow to all enemies in every room.
-Upon taking damage, inflicts slow to all enemies for the current room.
-Slows all enemies in every room to 80% speed.",4,,+0.3,,,Rebirth,パッシブ
-Strange_Attractor,Strange Attractor,,5.100.315,"Pickups, trinkets, and monsters are magnetically attracted to Isaac's tears.",0,,,,,Rebirth,パッシブ
-Super_Bandage,Super Bandage,,5.100.92,Grants one full Red Heart container and 2 Soul Hearts.,2,,,,,Rebirth,パッシブ
-Synthoil,Synthoil,,5.100.345,"+1 damage, +5.25 range, +0.5 tear height.",3,+1,,,,Rebirth,パッシブ
-Taurus,Taurus,,5.100.299,"-0.3 Speed. Isaac builds speed while in a room with enemies. At max speed, he gains the My Little Unicorn effect for 5 seconds.",1,,-0.3,,,Rebirth,パッシブ
-Tech.5,Tech.5,,5.100.244,"Isaac occasionally fires an unlimited range piercing laser alongside his normal tears. The laser can glitch, mimicking the effects of certain items and trinkets.",3,,,,,Rebirth,パッシブ
-Technology,Technology,,5.100.68,Replaces tears with a piercing laser with unlimited range.,3,,,,,Rebirth,パッシブ
-Technology_2,Technology 2,,5.100.152,Replaces the tears fired from Isaac's right eye with a rapid-firing low damage piercing laser. Damage down.,2,,,,,Rebirth,パッシブ
-The_Battery,The Battery,,5.100.63,"Activated collectibles can store an extra level of charge, allowing them to be used twice in one room.",2,,,,,Rebirth,パッシブ
-The_Belt,The Belt,,5.100.28,Increases speed by 0.3.,1,,+0.3,,,Rebirth,パッシブ
-The_Black_Bean,The Black Bean,,5.100.180,"When taking damage, Isaac farts, causing poison damage to all enemies in range.",0,,,,,Rebirth,パッシブ
-The_Body,The Body,,5.100.334,Adds 3 Red Heart Containers.,3,,,,,Rebirth,パッシブ
-The_Common_Cold,The Common Cold,,5.100.103,"Adds a chance to shoot poison tears, dealing damage over time when inflicted.",1,,,,,Rebirth,パッシブ
-The_Compass,The Compass,,5.100.21,"Reveals the locations and types of all special rooms on the map, except Secret Rooms and Super Secret Rooms.",2,,,,,Rebirth,パッシブ
-The_Halo,The Halo,,5.100.101,"Grants one full Red Heart container, +0.3 damage, +0.2 tears, +0.25 range, +0.3 speed, and +0.5 tear height.",2,+0.3,+0.3,+0.2,,Rebirth,パッシブ
-The_Inner_Eye,The Inner Eye,,5.100.2,Grants triple shot but decreases tears.,2,,,,,Rebirth,パッシブ
-The_Ladder,The Ladder,,5.100.60,Allows Isaac to walk across gaps one square across by automatically placing a ladder between the two walkable sections.,1,,,,,Rebirth,パッシブ
-The_Ludovico_Technique,The Ludovico Technique,,5.100.329,"Instead of firing tears, Isaac controls one floating tear that hover over obstacles. This tear deals constant damage when held in place over an enemy.",2,,,,,Rebirth,パッシブ
-The_Mark,The Mark,,5.100.79,"Grants one Soul Heart, +1 damage, and +0.2 speed.",3,+1,+0.2,,,Rebirth,パッシブ
-The_Mind,The Mind,,5.100.333,"Reveals the entire map, including all special rooms and Secret Rooms.",3,,,,,Rebirth,パッシブ
-The_Mulligan,The Mulligan,,5.100.151,Tears have a 1/6 chance of spawning allied Blue Flies when they hit an enemy.,3,,,,,Rebirth,パッシブ
-The_Negative,The Negative,,5.100.328,"If Isaac has half a red heart or no red hearts after taking damage, all enemies in the room take significant damage. Allows entrance into the Dark Room. Also allows access to Home.",2,+1,,,,Rebirth,パッシブ
-The_Pact,The Pact,,5.100.80,"Grants two Soul Hearts, +0.5 damage, and +0.7 tears.
-Grants two Black Hearts, +0.5 damage, and +0.7 tears.",3,+0.5,,+0.7,,Rebirth,パッシブ
-The_Parasite,The Parasite,,5.100.104,Isaac's tears split in two when they hit something.,3,,,,,Rebirth,パッシブ
-The_Peeper,The Peeper,,5.100.155,"Spawns a familiar that floats slowly around the room on a zig-zag pattern, damaging enemies it passes through.",2,,,,,Rebirth,パッシブ
-The_Polaroid,The Polaroid,,5.100.327,"If Isaac has half a red heart or no red hearts after taking damage, he gains a shield that nullifies all types of damage for 5 seconds. Allows entrance into Chest. Also allows access to Home.",2,,,,,Rebirth,パッシブ
-The_Relic,The Relic,,5.100.98,Spawns a cross familiar that drops a Soul Heart every 5-6 rooms.,4,,,,,Rebirth,パッシブ
-The_Sad_Onion,The Sad Onion,,5.100.1,Increases tears by 0.7.,3,,,+0.7,,Rebirth,パッシブ
-The_Small_Rock,The Small Rock,,5.100.90,"Increases damage by 1, increases tears by 0.2, and decreases speed by 0.2.",3,+1,-0.2,+0.2,,Rebirth,パッシブ
-The_Soul,The Soul,,5.100.335,Grants two Soul Hearts. Isaac gains a pulsing aura that repels enemies and projectiles.,3,,,,,Rebirth,パッシブ
-The_Virus,The Virus,,5.100.13,Isaac poisons enemies on contact. -0.1 speed. +0.2 speed. Poisoned enemies have a chance to drop a black heart when killed.,2,,-0.1,,,Rebirth,パッシブ
-The_Wafer,The Wafer,,5.100.108,All sources of damage that would cause more than one-half heart of damage are reduced to one-half heart instead.,4,,,,,Rebirth,パッシブ
-There%27s_Options,There's Options,,5.100.249,Two items appear after defeating a Boss. Only one can be taken; the other will disappear.,3,,,,,Rebirth,パッシブ
-Thunder_Thighs,Thunder Thighs,,5.100.314,Destroys rocks upon contact with Isaac. Adds one Red Heart container and lowers Speed.,1,,-0.4,,,Rebirth,パッシブ
-Tiny_Planet,Tiny Planet,,5.100.233,Range up and makes shot tears revolve around Isaac until they drop.,0,,,,,Rebirth,パッシブ
-Toothpicks,Toothpicks,,5.100.183,"+0.7 tears, +0.16 shot speed.",3,,,+0.7,+0.16,Rebirth,パッシブ
-Torn_Photo,Torn Photo,,5.100.341,"+0.7 tears, +0.16 shot speed.",3,,,+0.7,+0.16,Rebirth,パッシブ
-Tough_Love,Tough Love,,5.100.150,"Adds a chance to shoot a tooth instead of a tear, which deals x3.2 Isaac's damage.",3,,,,,Rebirth,パッシブ
-Transcendence,Transcendence,,5.100.20,Grants flight.,3,,,,,Rebirth,パッシブ
-Treasure_Map,Treasure Map,,5.100.54,Reveals the map of each floor. It does not identify special rooms and does not reveal the locations of Secret Rooms / Super Secret Rooms.,2,,,,,Rebirth,パッシブ
-Trinity_Shield,Trinity Shield,,5.100.243,Isaac gains a shield that protects him from enemy shots. It aims in the direction Isaac fires from.,3,,,,,Rebirth,パッシブ
-Virgo,Virgo,,5.100.303,Adds a chance to give a shield that nullifies all incoming damage for 10 seconds upon taking damage. Also converts bad pills into good pills.,2,,,,,Rebirth,パッシブ
-Whore_of_Babylon,Whore of Babylon,,5.100.122,Grants +1.5 Damage and +0.3 Speed whenever Isaac has half a Red Heart or less.,2,+1.5,+0.3,,,Rebirth,パッシブ
-Wire_Coat_Hanger,Wire Coat Hanger,,5.100.32,Increases tears by 0.7.,3,,,+0.7,,Rebirth,パッシブ
-Wooden_Spoon,Wooden Spoon,,5.100.27,Increases speed by 0.3.,1,,+0.3,,,Rebirth,パッシブ
-X-Ray_Vision,X-Ray Vision,,5.100.76,Reveals and opens all Secret Room and Super Secret Room entrances.,2,,,,,Rebirth,パッシブ
-8_Inch_Nails,8 Inch Nails,,5.100.359,"+1.5 damage. Replaces Isaac's tears with nails, which have increased knockback.",3,+1.5,,,,AB,パッシブ
-Athame,Athame,,5.100.408,"When Isaac takes damage, a black ring briefly appears around him, dealing damage to all nearby enemies.",1,,,,,AB,パッシブ
-Betrayal,Betrayal,,5.100.391,"Every time Isaac takes damage, a charm effect is applied to every enemy in the room, causing them to attack each other rather than Isaac.",0,,,,,AB,パッシブ
-Binky,Binky,,5.100.438,"Grants one Soul Heart, +0.75 tears and decreases Isaac's size.",3,,,+0.75,,AB,パッシブ
-Black_Powder,Black Powder,,5.100.420,"Isaac leaves a trail of black powder on the floor. Walking in a circle will spawn a pentagram symbol on the floor, which deals 10 damage per tick to any enemies inside it.",1,,,,,AB,パッシブ
-Bomber_Boy,Bomber Boy,,5.100.353,+5 bombs. Isaac's bombs will now explode in a large cross-shaped pattern (roughly 5 bombs explosions wide). This also affects player-spawned Troll Bombs.,2,,,,,AB,パッシブ
-Bumbo,Bumbo,,5.100.385,"Spawns a beggar familiar which picks up any nearby coins, leveling up after collecting several coins. At level 2, Bumbo gains a body. At level 3, it begins to fire tears. At level 4, Bumbo follows enemies and gains contact damage.",1,,,,,AB,パッシブ
-Bursting_Sack,Bursting Sack,,5.100.377,Spider enemies no longer target or deal contact damage to Isaac.,1,,,,,AB,パッシブ
-Cambion_Conception,Cambion Conception,,5.100.412,"After taking damage a certain amount of times, a permanent demonic familiar spawns.",2,,,,,AB,パッシブ
-Car_Battery,Car Battery,,5.100.356,Causes Isaac's activated item to activate twice on each use.,3,,,,,AB,パッシブ
-Censer,Censer,,5.100.387,Spawns a familiar which creates a circular aura that slows down enemies and enemy shots inside.,3,,,,,AB,パッシブ
-Chaos,Chaos,,5.100.402,Drops 1-6 random pickups on the floor. Causes items to be chosen from random item pools.,3,,,,,AB,パッシブ
-Charged_Baby,Charged Baby,,5.100.372,"Spawns a familiar that occasionally drops a Lil' Battery, gives an active item charge, or petrifies all enemies in the room.",3,,,,,AB,パッシブ
-Circle_of_Protection,Circle of Protection,,5.100.423,"Surrounds Isaac with a large white halo that occasionally deals Isaac's tear damage to enemies inside it, and can convert enemy shots into friendly homing tears.",1,,,,,AB,パッシブ
-Continuum,Continuum,,5.100.369,Grants spectral tears and increases range. Tears travel through walls and appear at the opposite side of the room.,2,,,,,AB,パッシブ
-Crack_Jacks,Crack Jacks,,5.100.354,Grants one full Red Heart container and drops a random trinket.,2,,,,,AB,パッシブ
-Crown_of_Light,Crown of Light,,5.100.415,"+2 soul hearts. While Isaac has no empty red hearts, grants 2x damage, +5.25 range, and -0.3 shot speed. Regardless of health, the crown deactivates for the current room when Isaac takes damage.",4,,,,-0.3,AB,パッシブ
-Curse_of_the_Tower,Curse of the Tower,,5.100.371,"Upon taking damage, spawns six Troll Bombs around the room, similar to the effect of XVI - The Tower.",1,,,,,AB,パッシブ
-Dead_Eye,Dead Eye,,5.100.373,Isaac's damage increases each time an enemy is hit. Damage is reset upon missing a shot.,3,,,,,AB,パッシブ
-Deep_Pockets,Deep Pockets,,5.100.416,"Allows Isaac to carry two cards or pills (or a combination of both) at the same time.
-Increases the coin cap to 999. If a room would otherwise yield no reward, 1-3 coins will spawn.",2,,,,,AB,パッシブ
-Eden%27s_Blessing,Eden's Blessing,,5.100.381,+0.7 tears up. Grants a random item at the start of the next run.,3,,,+0.7,,AB,パッシブ
-Empty_Vessel,Empty Vessel,,5.100.409,"Grants two Black Hearts. While Isaac has no red hearts, grants flight and periodically grants an invincibility shield for a few seconds.",2,,,,,AB,パッシブ
-Epiphora,Epiphora,,5.100.368,"Shooting in one direction increases Isaac's rate of fire until the cap is reached. As soon as Isaac changes direction or stops shooting, rate of fire is reset to its normal amount.",1,,,,,AB,パッシブ
-Evil_Eye,Evil Eye,,5.100.410,Adds a chance to fire a slow-moving eye that fires tears in the same direction as Isaac. The eye will be destroyed if it hits an enemy or obstacle.,2,,,,,AB,パッシブ
-Explosivo,Explosivo,,5.100.401,Isaac's tears have a chance to stick to enemies and explode.,2,,,,,AB,パッシブ
-Farting_Baby,Farting Baby,,5.100.404,"Spawns a familiar that follows Isaac and blocks enemy shots. If a shot hits Farting Baby, it has a chance to fart, which charms, poisons, or knocks back nearby enemies.",1,,,,,AB,パッシブ
-Fate%27s_Reward,Fate's Reward,,5.100.361,A blue head familiar that will follow Isaac and fire tears copying his tear effects and damage.,2,,,,,AB,パッシブ
-Friend_Zone,Friend Zone,,5.100.364,"Spawns a white attack fly that orbits somewhere between Distant Admiration and Forever Alone, dealing 45 damage per second.",1,,,,,AB,パッシブ
-Fruit_Cake,Fruit Cake,,5.100.418,Isaac's tears gain a random effect that changes every shot.,2,,,,,AB,パッシブ
-GB_Bug,GB Bug,,5.100.405,"Spawns a familiar that bounces diagonally around the room, applying a random status effect to enemies it hits and has a chance to re-roll pickups it passes over.
-Spawns a familiar that follows Isaac. Double tapping the fire button launches it forward, causing it to reroll the first monster or pickup it hits.",1,,,,,AB,パッシブ
-Glitter_Bombs,Glitter Bombs,,5.100.432,+5 bombs. Bombs have a chance to drop random pickups or charm enemies when they explode.,2,,,,,AB,パッシブ
-God%27s_Flesh,God's Flesh,,5.100.398,"Tears have a chance to shrink enemies, making them run away from Isaac. Shrunk enemies can be crushed and killed by walking over them.",1,,,,,AB,パッシブ
-Head_of_the_Keeper,Head of the Keeper,,5.100.429,Isaac's tears become coins and now have a chance to drop Pennies on the floor upon successfully hitting an enemy.,2,,,,,AB,パッシブ
-Holy_Light,Holy Light,,5.100.374,"Adds a chance to fire holy tears, which will create a damaging light beam in the area if they hit an enemy.",3,,,,,AB,パッシブ
-Host_Hat,Host Hat,,5.100.375,A host familiar that sits on Isaac's head and has a random chance to block enemy shots and retaliate with 3 tears. Grants immunity to explosions.,3,,,,,AB,パッシブ
-Immaculate_Conception,Immaculate Conception,,5.100.413,"Upon picking up a certain amount of health, spawn a permanent angelic familiar.",1,,,,,AB,パッシブ
-Incubus,Incubus,,5.100.360,"Spawns a demonic familiar that shoots tears identical to Isaac's in terms of damage, tears, and tear effects.",4,,,,,AB,パッシブ
-Key_Bum,Key Bum,,5.100.388,"Spawns a familiar that follows Isaac and collects Keys for himself, giving random Chests in return.",0,,,,,AB,パッシブ
-Kidney_Stone,Kidney Stone,,5.100.440,"Randomly while firing tears, Isaac will stop firing and turn red, where he will charge and release a lot of 'tears' in one go. The burst of tears also includes a kidney stone, which deals a lot of damage.",2,,-0.2,,,AB,パッシブ
-Lil_Chest,Lil Chest,,5.100.362,Spawns a chest familiar that spawns a random pickup (25% chance) or trinket (10% chance) upon clearing a room.,2,,,,,AB,パッシブ
-Lil_Gurdy,Lil Gurdy,,5.100.384,"A Gurdy Jr. familiar that charges up while Isaac is firing, bouncing around the room when released and dealing contact damage based on its speed.",2,,,,,AB,パッシブ
-Lil_Loki,Lil Loki,,5.100.435,Spawns a Loki familiar that follows Isaac and fires 4 tears in a cross pattern.,1,,,,,AB,パッシブ
-Lost_Fly,Lost Fly,,5.100.365,"Spawns fly familiar that moves in a straight line and circles around the first wall or obstacle it hits, dealing 105 damage per second on contact.",1,,,,,AB,パッシブ
-Lusty_Blood,Lusty Blood,,5.100.411,Isaac's damage increases for the current room each time he kills an enemy.,3,,,,,AB,パッシブ
-Marked,Marked,,5.100.394,"Isaac will automatically fire tears directed at a red target on the ground. The target can be moved with tear controls. +0.7 tears, +3.15 range.",1,,,+0.7,,AB,パッシブ
-Maw_of_the_Void,Maw of the Void,,5.100.399,"Charged by firing for 2.5 seconds and when released, creates a black ring around Isaac that rapidly deals damage. +1 damage, the ring can cause enemies to drop Black Hearts.",4,+1.0,,,,AB,パッシブ
-Milk!,Milk!,,5.100.436,"Spawns a glass familiar that spills on the floor upon taking damage. After the milk spills, Isaac's tear delay is decreased by 2 for the current room.",1,,,,,AB,パッシブ
-Mom%27s_Pearls,Mom's Pearls,,5.100.355,"+1.25 range, +0.5 tear height, +1 luck. Grants one Soul Heart.",2,,,,,AB,パッシブ
-More_Options,More Options,,5.100.414,Two items spawn in every Treasure Room. Only one can be taken; the other will disappear.,3,,,,,AB,パッシブ
-Mr._Dolly,Mr. Dolly,,5.100.370,"+0.7 tears, +5.25 range, +0.5 tear height, spawns 3 random types of Hearts on the floor when picked up.",3,,,+0.7,,AB,パッシブ
-Multidimensional_Baby,Multidimensional Baby,,5.100.431,Spawns a familiar that will follow Isaac's movements on a 2.5-second delay. Tears that pass through the baby will be doubled and increase in speed.,2,,,,+4,AB,パッシブ
-My_Shadow,My Shadow,,5.100.433,"Each time Isaac takes damage, inflicts fear on all enemies in the room and spawns a black friendly Charger that will attack enemies. The Charger will be killed if it is damaged too much.",0,,,,,AB,パッシブ
-Night_Light,Night Light,,5.100.425,A cone of light shines in the direction Isaac is moving that slows enemies and enemy shots.,2,,,,,AB,パッシブ
-No._2,Number Two,,5.100.378,"Continuously firing tears for three seconds causes Isaac to drop a Butt Bomb, which damages and confuses all enemies in the room when it explodes.",2,,,,,AB,パッシブ
-Obsessed_Fan,Obsessed Fan,,5.100.426,Spawns a familiar that follows Isaac's movements on a delay and deals 30 contact damage per second to enemies.,0,,,,,AB,パッシブ
-Papa_Fly,Papa Fly,,5.100.430,"Spawns a familiar that follows Isaac's movements on a 3 second delay, firing tears at nearby enemies.",1,,,,,AB,パッシブ
-Pay_to_Play,Pay to Play,,5.100.380,+5 coins. Turns doors that require a single Key into doors which need a coin to enter instead.,2,,,,,AB,パッシブ
-PJs,PJs,,5.100.428,Grants 4 Soul Hearts and fully restores Isaac's health.,2,,,,,AB,パッシブ
-Pupula_Duplex,Pupula Duplex,,5.100.379,"Gives Isaac spectral tears and gives his tears a wide arc shape, increasing their size.",2,,,,,AB,パッシブ
-Purity,Purity,,5.100.407,"Boosts one of Isaac's stats depending on the color of the aura around him. The aura disappears upon taking damage and reappears with a random color upon entering a new room. Red boosts damage, blue boosts tears, yellow boosts speed, and orange boosts range.",2,+4,+0.5,,,AB,パッシブ
-Restock,Restock,,5.100.376,"Causes shops to instantly restock their items when they are bought. Outside of Greed Mode, the restocked item's cost is increased after each purchase.",2,,,,,AB,パッシブ
-Rune_Bag,Rune Bag,,5.100.389,Spawns a familiar that drops a random rune every 5-6 ( 7-8) rooms.,3,,,,,AB,パッシブ
-Sack_Head,Sack Head,,5.100.424,"Coins, bombs, keys, cards, runes and batteries have a chance to become sacks.",3,,,,,AB,パッシブ
-Scatter_Bombs,Scatter Bombs,,5.100.366,Adds 5 bombs. Isaac's bombs explode into 2-4 tiny bombs.,1,,,,,AB,パッシブ
-Seraphim,Seraphim,,5.100.390,Spawns an angel familiar which follows Isaac and fires homing tears which deal 10 damage and have 75% shot speed.,3,,,,,AB,パッシブ
-Serpent%27s_Kiss,Serpent's Kiss,,5.100.393,Tears have a chance to apply a poison effect to enemies. Isaac poisons enemies on contact. Poisoned enemies have a chance to drop a black heart when killed.,2,,,,,AB,パッシブ
-Spear_of_Destiny,Spear of Destiny,,5.100.400,"In addition to tears, Isaac holds a spear in front of him which deals contact damage equal to 2x his tear damage, and occasionally inflicts fear.",1,,,,,AB,パッシブ
-Spider_Mod,Spider Mod,,5.100.403,Displays Isaac's tear damage and enemy health bars. Spawns a familiar that wanders around and inflicts random status effects on enemies it touches. Can spawn a Lil' Battery/Blue spider upon clearing a room.,1,,,,,AB,パッシブ
-Sticky_Bombs,Sticky Bombs,,5.100.367,+5 bombs. Bombs stick to enemies and spawn 2-4 Blue Spiders if they kill an enemy.,1,,,,,AB,パッシブ
-Succubus,Succubus,,5.100.417,"Spawns a flying familiar that bounces around the room with a black aura, dealing rapid damage to any enemies inside it. While standing in the aura, Isaac gains a 1.5x tear damage multiplier.",3,-10,,,,AB,パッシブ
-Sworn_Protector,Sworn Protector,,5.100.363,"Spawns an orbital familiar which does 105 damage per second and attracts and blocks enemy shots. Upon blocking 10 shots in a room, it drops an Eternal Heart.",3,,,,,AB,パッシブ
-Tech_X,Tech X,,5.100.395,Tears are replaced with laser rings that pierce through enemies and deal damage to enemies within them. Can be charged to increase the effectiveness of the ring.,4,,,,,AB,パッシブ
-The_Wiz,The Wiz,,5.100.358,"Tears simultaneously fire out of both eyes diagonally, similar to the effect of the R U a Wizard? pill. Isaac's tears also travel above all obstacles.",1,,,,,AB,パッシブ
-Toxic_Shock,Toxic Shock,,5.100.350,"Upon entering a room, poisons all enemies, dealing double Isaac's tear damage. Killing enemies leaves a small, short-lasting pool of green creep on the ground.",3,,,,,AB,パッシブ
-Tractor_Beam,Tractor Beam,,5.100.397,"Increases Tears, Range, and Shot Speed. Isaac emits a beam from his face that his tears are bound to.",3,,,+0.5,+0.16,AB,パッシブ
-Zodiac,Zodiac,,5.100.392,Gives Isaac a random zodiac item effect that changes every floor.,1,,,,,AB,パッシブ
-7_Seals,7 Seals,,5.100.526,Spawns a random Harbinger familiar that changes every 10 seconds. Harbingers have different behaviors and spawn themed Locusts.,2,,,,,AB+,パッシブ
-Acid_Baby,Acid Baby,,5.100.491,"Spawns a familiar that drops a random pill every 3 rooms. Upon using a pill, all enemies in the room are poisoned.",2,,,,,AB+,パッシブ
-Adrenaline,Adrenaline,,5.100.493,Increases damage based on how many empty Red Heart containers Isaac has.,1,,,,,AB+,パッシブ
-Analog_Stick,Analog Stick,,5.100.465,+0.35 tears up. Allows Isaac to fire tears diagonally.,2,,,+0.35,,AB+,パッシブ
-Angelic_Prism,Angelic Prism,,5.100.528,Spawns an orbital familiar with a large orbital radius. Tears that pass through the prism split into four multi-colored tears.,3,,,,,AB+,パッシブ
-Angry_Fly,Angry Fly,,5.100.511,Spawns a fly familiar that orbits around a random enemy and deals 30 damage per second to enemies it comes in contact with.,1,,,,,AB+,パッシブ
-Apple!,Apple!,,5.100.443,Increases tears. Adds a chance to fire a high-damage razor blade.,3,,,+0.3,,AB+,パッシブ
-Backstabber,Backstabber,,5.100.506,Isaac's tears deal double damage and inflict bleeding on enemies if they're facing away from Isaac.,1,,,,,AB+,パッシブ
-Belly_Button,Belly Button,,5.100.458,Drops a random trinket. Grants a second trinket slot.,3,,,,,AB+,パッシブ
-Big_Chubby,Big Chubby,,5.100.473,"Spawns a familiar that follows Isaac and charges across the room when Isaac fires, blocking shots and dealing 40.5 damage per second on contact.",1,,,,,AB+,パッシブ
-Blanket,Blanket,,5.100.535,"Grants one Soul Heart. Upon entering a boss room, grants a shield that blocks one hit, then disappears.",2,,,,,AB+,パッシブ
-Bloodshot_Eye,Bloodshot Eye,,5.100.509,Spawns an orbital familiar that deals 30 damage per second and fires a randomly angled tear every 2 seconds.,1,,,,,AB+,パッシブ
-Bozo,Bozo,,5.100.513,"+0.1 flat damage, grants a Soul Heart. Enemies can randomly become briefly charmed or feared. Taking damage has a chance to spawn a rainbow poop.",2,,,,,AB+,パッシブ
-Brittle_Bones,Brittle Bones,,5.100.549,"Replaces all Red Hearts with 6 empty Bone Hearts. Upon losing a Bone Heart, Isaac fires bones in 8 directions and permanently gains a tears up.",3,,,+0.5,,AB+,パッシブ
-Broken_Modem,Broken Modem,,5.100.514,"Enemies, enemy shots, tears, and pickups will briefly freeze in place at random intervals.",2,,,,,AB+,パッシブ
-Broken_Shovel,Broken Shovel,,5.100.551,One of two parts necessary to create Mom's Shovel. No effect if somehow obtained on its own.,4,,,,,AB+,パッシブ
-Buddy_in_a_Box,Buddy in a Box,,5.100.518,Spawns a familiar with a random tear effect. The familiar is randomized at the start of each floor.,2,,,,,AB+,パッシブ
-Camo_Undies,Camo Undies,,5.100.497,"Isaac becomes camouflaged at the beginning of each room. Until he shoots, all non-boss enemies will be confused.",0,,,,,AB+,パッシブ
-Compound_Fracture,Compound Fracture,,5.100.453,"Increases range. Tears turn into bones, which shatter into 1-3 bone shards upon hitting an enemy or obstacle.",2,,,,,AB+,パッシブ
-Cone_Head,Cone Head,,5.100.457,Grants a Soul Heart. Gives Isaac a chance to ignore any damage taken.,2,,,,,AB+,パッシブ
-Contagion,Contagion,,5.100.466,The first enemy killed in a room explodes and poisons nearby enemies. Poisoned enemies will also explode upon death.,2,,,,,AB+,パッシブ
-Dad%27s_Lost_Coin,Dad's Lost Coin,,5.100.455,+1.5 range. Drops a Lucky Penny.,2,,,,,AB+,パッシブ
-Dad%27s_Ring,Dad's Ring,,5.100.546,Creates a ring of light around Isaac that petrifies enemies in contact.,3,,,,,AB+,パッシブ
-Dark_Prince%27s_Crown,Dark Prince's Crown,,5.100.442,"When at exactly one Red Heart, increases tears, range, tear height, and shot speed.",1,,,+0.75,+0.2,AB+,パッシブ
-Dead_Tooth,Dead Tooth,,5.100.446,"While firing, Isaac gains a green aura that poisons nearby enemies.",1,,,,,AB+,パッシブ
-Death%27s_List,Death's List,,5.100.530,Grants a pickup or stat upgrade if all enemies in a room are killed in the order they are marked.,2,,+0.2,+0.5,+0.2,AB+,パッシブ
-Depression,Depression,,5.100.469,Spawns a familiar that leaves a trail of creep that damages enemies at 6 damage per second. Has a chance to spawn damaging beams of light onto enemies that touch the cloud.,1,,,,,AB+,パッシブ
-Divorce_Papers,Divorce Papers,,5.100.547,"Grants one Bone Heart, +0.7 tears, spawns a Mysterious Paper.",3,,,+0.7,,AB+,パッシブ
-Dog_Tooth,Dog Tooth,,5.100.445,"+0.3 damage, +0.1 speed. Plays a howl or bark sound when entering a room with undiscovered Secret Rooms or Crawl Spaces.",1,+0.3,+0.1,,,AB+,パッシブ
-Duality,Duality,,5.100.498,"Whenever a Devil or Angel Room would spawn after defeating a boss, both rooms spawn. Only one can be entered.",1,,,,,AB+,パッシブ
-Eucharist,Eucharist,,5.100.499,"An Angel Room door will always spawn after every boss fight, excluding the first floor and floors after Womb II/ Utero II/.",3,,,,,AB+,パッシブ
-Euthanasia,Euthanasia,,5.100.496,"Adds a chance to fire needles that instantly kill basic enemies and deal triple damage to bosses. If a needle kills an enemy, it bursts into more tears/needles.",3,,,,,AB+,パッシブ
-Eye_of_Belial,Eye of Belial,,5.100.462,"Grants piercing tears. After piercing one enemy, tears start homing and deal double damage.",3,,,,,AB+,パッシブ
-Eye_of_Greed,Eye of Greed,,5.100.450,"Every 20 tears, Isaac loses 1 coin and shoots an additional gold tear that petrifies enemies and turns them into gold. Any enemy killed while in this state will drop coins.",2,,,,,AB+,パッシブ
-Fast_Bombs,Fast Bombs,,5.100.517,Grants 7 bombs and allows bombs to be placed rapidly.,1,,,,,AB+,パッシブ
-Finger!,Finger!,,5.100.467,"Spawns a finger familiar that points at enemies, dealing scaling damage.",1,,,,,AB+,パッシブ
-Flat_Stone,Flat Stone,,5.100.540,"Tears bounce off the floor, creating splashes. Splashes deal 25% of Isaac's tear damage to all enemies in a small area.",2,,,,,AB+,パッシブ
-Ghost_Pepper,Ghost Pepper,,5.100.495,"Gives a chance to shoot fires alongside tears that block enemy shots and deal damage to enemies that touch them.
-Gives a chance to shoot blue fires alongside tears that become smaller as they travel.",3,,,,,AB+,パッシブ
-Glaucoma,Glaucoma,,5.100.460,Adds a chance to shoot tears that confuse enemies for an extremely long time.,2,,,,,AB+,パッシブ
-Glyph_of_Balance,Glyph of Balance,,5.100.464,Grants 2 Soul Hearts and modifies drops from Champion monsters based on certain conditions. Also modifies room clear drops.,2,,,,,AB+,パッシブ
-Greed%27s_Gullet,Greed's Gullet,,5.100.501,Grants a Red Heart container for every 25 coins Isaac has.,1,,,,,AB+,パッシブ
-Haemolacria,Haemolacria,,5.100.531,"Tears are now fired in an arc. Upon hitting the floor, an obstacle, or an enemy, they burst into many smaller tears in all directions. Increases tear delay.",3,+1,,,,AB+,パッシブ
-Hallowed_Ground,Hallowed Ground,,5.100.543,"Spawns a white poop familiar, which turns into a white poop when Isaac is hurt. White poop has an aura that increases tear fire rate and can block enemy shots.",1,,,,,AB+,パッシブ
-Hushy,Hushy,,5.100.470,"Spawns a Hush familiar that bounces diagonally around the room and deals contact damage. While firing tears, it stops moving.",0,,,,,AB+,パッシブ
-Jacob%27s_Ladder,Jacob's Ladder,,5.100.494,Tears fire sparks of electricity in random directions upon hitting an obstacle or enemy.,3,,,,,AB+,パッシブ
-Jaw_Bone,Jaw Bone,,5.100.548,"Spawns a familiar that flies through the room while firing, dealing a flat 7 contact damage to enemies and retrieving pickups.",1,,,,,AB+,パッシブ
-Jumper_Cables,Jumper Cables,,5.100.520,Grants an active item charge every 15 enemies killed.,3,,,,,AB+,パッシブ
-King_Baby,King Baby,,5.100.472,"Spawns a familiar that follows Isaac and makes other familiars follow it. While firing tears, other familiars stop moving.",1,,,,,AB+,パッシブ
-Lachryphagy,Lachryphagy,,5.100.532,"Isaac's tears decelerate as they travel. Upon stopping or hitting an obstacle, they burst into 8 tears in all directions. Tears can be fired into other tears to feed them, increasing their damage.",2,,,,,AB+,パッシブ
-Large_Zit,Large Zit,,5.100.502,Adds a chance to fire a creep shot that deals double damage and leaves a trail of slowing white creep.,1,,,,,AB+,パッシブ
-Lead_Pencil,Lead Pencil,,5.100.444,"After every 15 tears fired, Isaac will fire a high-damage cluster of tears.",3,,,,,AB+,パッシブ
-Leprosy,Leprosy,,5.100.525,"Upon taking damage, grants a body part as an orbital, which blocks enemy shots and deals 7 damage per tick to enemies it comes in contact with. The orbitals will be destroyed if they take enough damage from enemies or enemy shots.",1,,,,,AB+,パッシブ
-Lil_Delirium,Lil Delirium,,5.100.519,Grants a familiar that transforms into another random familiar every 10 seconds.,2,,,,,AB+,パッシブ
-Lil_Monstro,Lil Monstro,,5.100.471,Spawns a familiar that fires clusters of tears. Must be charged before shooting.,2,,,,,AB+,パッシブ
-Lil_Spewer,Lil Spewer,,5.100.537,"Drops a random pill, and spawns a familiar that charges up and fires creep. Using pills changes the creep type.",1,-47,,,,AB+,パッシブ
-Linger_Bean,Linger Bean,,5.100.447,Constantly shooting causes Isaac to release gas clouds that can be pushed by his tears and damage nearby enemies.,0,,,,,AB+,パッシブ
-Little_Horn_(Item),Little Horn,,5.100.503,"Adds a chance to fire a piercing tear that instantly kills any enemy that it touches.
-Adds a chance to fire a tear that summons Big Horn's hand to crush the first enemy it hits, instantly killing monsters or greatly damaging bosses.",3,,,,,AB+,パッシブ
-Marbles,Marbles,,5.100.538,"Spawns 3 random trinkets, 5% chance to swallow held trinket after taking damage, gaining its effect permanently.",2,,,,,AB+,パッシブ
-Marrow,Marrow,,5.100.541,Grants one Bone Heart and spawns three Red Hearts.,1,,,,,AB+,パッシブ
-Metal_Plate,Metal Plate,,5.100.449,Grants one Soul Heart. Enemy shots have a chance to be reflected at the shooter as confusing tears.,1,,,,,AB+,パッシブ
-Midnight_Snack,Midnight Snack,,5.100.456,Grants one full Red Heart container. Heals 1 additional Red Heart.,1,,,,,AB+,パッシブ
-Mom%27s_Razor,Mom's Razor,,5.100.508,"Spawns an orbiting razor that deals contact damage and inflicts bleeding on enemies, causing them to slowly take damage over time.",1,,,,,AB+,パッシブ
-Mystery_Egg,Mystery Egg,,5.100.539,"Spawns an egg familiar, which cracks into a random friendly monster when Isaac is hurt. The egg regenerates upon entering a different room.",1,,,,,AB+,パッシブ
-Parasitoid,Parasitoid,,5.100.461,Adds a chance to fire an egg sack which creates slowing creep and spawns a Blue Fly or Blue Spider upon hitting an enemy.,3,,,,,AB+,パッシブ
-Pointy_Rib,Pointy Rib,,5.100.544,"Spawns a bone familiar that hovers back and forth in front of Isaac, dealing damage equal to Isaac's damage.",2,,,,,AB+,パッシブ
-Poke_Go,Poke Go,,5.100.505,"Upon entering a room with enemies in it, has a chance to spawn a random friendly enemy that persists across rooms.",1,,,,,AB+,パッシブ
-Polydactyly,Polydactyly,,5.100.454,"Allows Isaac to carry two cards, pills, or any combination of both. Spawns one random card, rune, or pill.",2,,,,,AB+,パッシブ
-Pop!,Pop!,,5.100.529,"Replaces Isaac's tears with eyeballs that can bounce off of each other. The eyeballs are not limited by range, and will instead dissipate when they stop moving or when hitting an enemy or obstacle.",2,,,,,AB+,パッシブ
-Sack_of_Sacks,Sack of Sacks,,5.100.500,Spawns a familiar that drops a sack every 5-6 rooms cleared.,3,,,,,AB+,パッシブ
-Schoolbag,Schoolbag,,5.100.534,Allows Isaac to hold two active items.,3,,,,,AB+,パッシブ
-Shade,Shade,,5.100.468,"Spawns a shadow familiar that follows Isaac's movements on a 1 second delay and deals contact damage to enemies. After dealing enough damage, it is absorbed by Isaac and spawns friendly Chargers.",0,,,,,AB+,パッシブ
-Shard_of_Glass,Shard of Glass,,5.100.448,"Upon taking damage, Isaac has a chance to drop a full red heart, gain 5 range, and leave a trail of damaging red creep for the current room.
-Taking damage causes Isaac to bleed, spraying a volley of blood in the direction he fires. Bleeding will eventually damage him, but it can be stopped by picking up a Red Heart.",1,,,,,AB+,パッシブ
-Sinus_Infection,Sinus Infection,,5.100.459,Adds a chance to fire a booger that sticks to enemies and deals damage over time.,3,,,,,AB+,パッシブ
-Slipped_Rib,Slipped Rib,,5.100.542,Spawns a bone familiar that circles around Isaac and reflects enemy shots.,2,,,,,AB+,パッシブ
-Sulfuric_Acid,Sulfuric Acid,,5.100.463,+0.3 damage. Adds a chance to fire acidic tears which can destroy obstacles.,2,+0.3,,,,AB+,パッシブ
-Tarot_Cloth,Tarot Cloth,,5.100.451,Drops a random card or rune. Doubles the effects of most cards and runes. Doubles the effects of tarot cards.,3,,,,,AB+,パッシブ
-Technology_Zero,Technology Zero,,5.100.524,Connects Isaac's tears with electricity that can damage enemies.,3,,,,,AB+,パッシブ
-Trisagion,Trisagion,,5.100.533,Damage down. Tears are replaced with piercing white blasts of light that can damage the same enemy multiple times.,2,,,,,AB+,パッシブ
-Varicose_Veins,Varicose Veins,,5.100.452,Taking damage releases a ring of 10 high damage tears.,2,+25,,,,AB+,パッシブ
-YO_LISTEN!,YO LISTEN!,,5.100.492,"+1 luck. Spawns a fairy familiar that points out Secret Rooms, Crawl Space entrances, and tinted rocks.",2,,,,,AB+,パッシブ
-120_Volt,120 Volt,,5.100.559,Repeatedly zaps enemies that are close to Isaac.,2,,,,,Repentance,パッシブ
-2Spooky,2Spooky,,5.100.554,Enemies near Isaac are afflicted with fear.,2,,,,,Repentance,パッシブ
-4.5_Volt,4.5 Volt,,5.100.647,"Active items don't charge when clearing rooms. Instead, they're charged by dealing damage to enemies.",2,,,,,Repentance,パッシブ
-A_Bar_of_Soap,A Bar of Soap,,5.100.564,Gives Isaac +0.5 Tears and +0.2 Shot Speed.,3,,,+0.5,+0.2,Repentance,パッシブ
-A_Pound_of_Flesh,A Pound of Flesh,,5.100.672,"Devil deals now cost coins, Shop items now cost health, and consumables in shops are free but surrounded by spikes.",1,,,,,Repentance,パッシブ
-Act_of_Contrition,Act of Contrition,,5.100.601,Increases tears and grants an Eternal Heart. Allows Angel Rooms to appear even if a Devil Deal has been taken before. Greatly boosts Devil/Angel Deal chance if Isaac has taken Red Heart damage.,3,,,+0.7,,Repentance,パッシブ
-Akeldama,Akeldama,,5.100.641,"While in an uncleared room, Isaac forms a trail of bloody tears that drags behind him, bursting and dealing damage upon contact with enemies.",2,,,,,Repentance,パッシブ
-Almond_Milk,Almond Milk,,5.100.561,"Quadruples fire rate, with x0.3 damage multiplier. Tears are given random worm trinket effects.",1,,,,,Repentance,パッシブ
-Astral_Projection,Astral Projection,,5.100.677,"Causes Isaac to turn into a ghost if he gets hit while in an uncleared room, giving him flight and spectral tears and blocking the next hit he takes.",2,,,,,Repentance,パッシブ
-Azazel%27s_Rage,Azazel's Rage,,5.100.699,"Isaac builds rage every time a room is cleared. After four rooms, fires a large Brimstone laser when entering the next room.",3,,,,,Repentance,パッシブ
-Battery_Pack,Battery Pack,,5.100.603,Recharges Isaac's currently held active item and drops 2-4 batteries.,1,,,,,Repentance,パッシブ
-Belly_Jelly,Belly Jelly,,5.100.690,"Causes enemies to bounce off of Isaac, dealing damage to them if they hit an enemy or obstacle. Also gives Isaac the chance to deflect enemy shots.",3,,,,,Repentance,パッシブ
-Binge_Eater,Binge Eater,,5.100.664,"+1 Red Heart Container and fully heals Isaac. Item pedestals cycle between their initial item and one of several food items, and picking up food items grants a temporary damage boost and a permanent boost to 2 stats (different for each one) in addition to their normal effects. Food items will also heal 2 additional Red Hearts when picked up.",4,+3.6,-0.03,,,Repentance,パッシブ
-Bird_Cage,Bird Cage,,5.100.610,"The first time Isaac takes damage in a room, a familiar leaps on an enemy, dealing damage and releasing a rock wave. For the rest of the room, it chases enemies similar to Dead Bird.",1,,,,,Repentance,パッシブ
-Bird%27s_Eye,Bird's Eye,,5.100.616,Gives a chance to shoot fires alongside tears that block enemy shots and deal damage to enemies that touch them.,3,,,,,Repentance,パッシブ
-Birthright,Birthright,,5.100.619,Grants a character-specific effect that enhances their special abilities.,3,+21.6,,,,Repentance,パッシブ
-Blood_Bombs,Blood Bombs,,5.100.614,Grants a Red Heart container and restores 5 hearts. Bombs leave behind damaging red creep. Isaac can place bombs at the cost of half a heart if he doesn't have any.,1,,,,,Repentance,パッシブ
-Blood_Oath,Blood Oath,,5.100.569,"Stabs Isaac at the beginning of each floor, draining his red hearts. Increases damage and speed for the floor based on the amount drained.",2,+19.8,+1.15,,,Repentance,パッシブ
-Blood_Puppy,Blood Puppy,,5.100.565,"Spawns a familiar that chases enemies. After killing enough enemies, it becomes more powerful but will also try to hurt Isaac. Attacking it returns it to normal.",1,,,,,Repentance,パッシブ
-Bloody_Gust,Bloody Gust,,5.100.695,"When Isaac takes damage, he gains speed and tears for the rest of the floor.",3,,+1.02,+3,,Repentance,パッシブ
-Boiled_Baby,Boiled Baby,,5.100.607,Gives Isaac a familiar that fires chaotic bursts of tears in all directions.,1,,,,,Repentance,パッシブ
-Bone_Spurs,Bone Spurs,,5.100.683,"Enemies spawn floating bones on death, which block shots and damage/repel enemies that touch them.",2,,,,,Repentance,パッシブ
-Booster_Pack_(Item),Booster Pack,,5.100.624,Drops 5 random cards.,1,,,,,Repentance,パッシブ
-Bot_Fly,Bot Fly,,5.100.629,Spawns an orbiting fly familiar that fires shielded tears at incoming enemy projectiles.,3,,,,,Repentance,パッシブ
-Brimstone_Bombs,Brimstone Bombs,,5.100.646,Gives Isaac +5 bombs and causes his bombs to fire Brimstone lasers in the cardinal directions upon exploding.,3,,,,,Repentance,パッシブ
-C_Section,C Section,,5.100.678,Replaces tears with fetuses that chase down enemies and deal contact damage. Each shot requires a brief charge up.,4,,,,,Repentance,パッシブ
-Candy_Heart,Candy Heart,,5.100.671,Gives Isaac a permanent stat boost whenever he heals with red heart pickups.,2,+0.10,+0.02,+0.05,+0.02,Repentance,パッシブ
-Card_Reading,Card Reading,,5.100.660,"Spawns two portals at the beginning of each floor that each lead to either the Boss Room, Secret Room, or Treasure Room.",3,,,,,Repentance,パッシブ
-Consolation_Prize,Consolation Prize,,5.100.644,"Increases Isaac's lowest stat and drops either 3 coins, 1 bomb, or 1 key depending on what Isaac has the least of.",1,,+0.2,,,Repentance,パッシブ
-Cracked_Orb,Cracked Orb,,5.100.675,Unlocks doors and reveals a random room on the map when Isaac takes damage.,1,,,,,Repentance,パッシブ
-Cube_Baby,Cube Baby,,5.100.652,"Spawns an ice cube familiar that slides around when walked into. It slows and deals contact damage, freezing monsters it kills.",1,,,,,Repentance,パッシブ
-Dad%27s_Note,Dad's Note,,5.100.668,Begins the sequence to access Home.,0,,,,,Repentance,パッシブ
-Dirty_Mind,Dirty Mind,,5.100.576,Destroying poop spawns Dip Familiars that follow Isaac and damage enemies. Destroying different types of poop spawns different Dips with special effects.,2,,,,,Repentance,パッシブ
-Divine_Intervention,Divine Intervention,,5.100.568,Double tapping a fire key creates a shield that pushes away enemies and reflects enemy projectiles and lasers.,2,,,,,Repentance,パッシブ
-Dogma_(Item),Dogma,,5.100.633,"Grants flight, +0.1 speed, +2 damage, and the Holy Mantle effect. Grants enough health to have 6 full hearts, if possible. Automatically given to Isaac after defeating Dogma.",0,+2,+0.1,,,Repentance,パッシブ
-Dream_Catcher,Dream Catcher,,5.100.566,"During the transition between floors, Isaac's nightmare shows the floor's Treasure Room item and boss. Grants half a soul heart when entering a new floor.",2,,,,,Repentance,パッシブ
-Echo_Chamber,Echo Chamber,,5.100.700,"When Isaac uses a card, pill, or rune, he also uses a copy of every card/pill/rune he used after picking up Echo Chamber.",2,,,,,Repentance,パッシブ
-Empty_Heart,Empty Heart,,5.100.676,"If Isaac has one red heart or less at the beginning of a floor, he gains an empty red heart container.",2,,,,,Repentance,パッシブ
-Evil_Charm,Evil Charm,,5.100.632,"Increases luck by 2.0. Provides immunity to burn, confusion, fear, and poison.",2,,,,,Repentance,パッシブ
-Eye_Drops,Eye Drops,,5.100.600,"Lowers the tear delay in Isaac's left eye, causing his eyes to fire at different rates.",3,,,,,Repentance,パッシブ
-Eye_of_the_Occult,Eye of the Occult,,5.100.572,"Isaac's tears are now controlled mid-flight with tear controls. Also increases damage and range, but decreases shot speed.",3,+1,,,-0.16,Repentance,パッシブ
-Eye_Sore,Eye Sore,,5.100.558,Causes Isaac to occasionally fire extra tears in random directions while shooting.,2,,,,,Repentance,パッシブ
-False_PHD,False PHD,,5.100.654,Converts good pills into bad pills and identifies all pills. Bad pills now have secondary positive effects. Grants one Black Heart.,2,+0.6,,,,Repentance,パッシブ
-Freezer_Baby,Freezer Baby,,5.100.608,"Spawns a shooting familiar that has a chance to petrify enemies, and Freezes monsters upon killing them.",2,,,,,Repentance,パッシブ
-Fruity_Plum,Fruity Plum,,5.100.649,"Gives Isaac a miniature Baby Plum familiar that propels itself diagonally around the room, firing tears behind itself as it travels.",1,,,,,Repentance,パッシブ
-Ghost_Bombs,Ghost Bombs,,5.100.727,+5 bombs. Bombs become spectral and spawn ghosts that deal contact damage to enemies and explode after 10 seconds.,2,,,,,Repentance,パッシブ
-Giant_Cell,Giant Cell,,5.100.658,"Causes Isaac to spawn micro-Isaacs when he takes damage, which chase and shoot at nearby enemies.",1,,,,,Repentance,パッシブ
-Glass_Eye,Glass Eye,,5.100.730,"+0.75 damage, +1 luck.",3,+0.75,,,,Repentance,パッシブ
-Glitched_Crown,Glitched Crown,,5.100.689,"Before being picked up, item pedestals cycle between 5 random items.",4,,,,,Repentance,パッシブ
-Guppy%27s_Eye,Guppy's Eye,,5.100.665,"Shows the contents of Chests, Fire Places, Sacks, and Shopkeepers before they're opened/destroyed.",2,,,,,Repentance,パッシブ
-Heartbreak,Heartbreak,,5.100.694,Grants 3 broken hearts and +0.25 damage for every broken heart Isaac has. Every otherwise fatal hit will add 2 more until Isaac has nothing but broken hearts.,3,+0.25,,,,Repentance,パッシブ
-Hemoptysis,Hemoptysis,,5.100.726,"Double-tapping a fire button causes Isaac to sneeze blood, dealing damage to enemies in front of him.",3,,,,,Repentance,パッシブ
-Hungry_Soul,Hungry Soul,,5.100.684,"Enemies have a chance to spawn ghosts on death, which chase and deal contact damage to enemies and explode after a short time.",3,,,,,Repentance,パッシブ
-Hypercoagulation,Hypercoagulation,,5.100.724,"After Isaac takes damage from an enemy or donates health, launches red hearts from Isaac that despawn after 1.5 seconds.",3,,,,,Repentance,パッシブ
-IBS,IBS,,5.100.725,"Causes Isaac to throw poop, create buffing creep, or drop bombs while fighting enemies.",2,+1,,+1.5,,Repentance,パッシブ
-Immaculate_Heart,Immaculate Heart,,5.100.573,Adds one Red Heart Container and fully restores health. x1.2 damage multiplier. Isaac will occasionally fire extra tears that orbit around him.,3,,,,,Repentance,パッシブ
-Inner_Child,Inner Child,,5.100.688,"Upon death, Isaac respawns in the current room with half of a Red Heart, a massive size down, and +0.2 Speed.",2,,+0.2,,,Repentance,パッシブ
-Isaac%27s_Tomb,Isaac's Tomb,,5.100.701,Spawns an Old Chest at the start of each floor.,3,,,,,Repentance,パッシブ
-It_Hurts,It Hurts,,5.100.560,Releases a ring of tears and increases tears for the current room when Isaac takes damage.,1,,,,,Repentance,パッシブ
-Jupiter,Jupiter,,5.100.594,"+2 red Heart containers, -0.3 speed. Isaac builds speed while standing still, and releases poison gas clouds when he moves afterwards.",2,,-0.3,,,Repentance,パッシブ
-Keeper%27s_Kin,Keeper's Kin,,5.100.717,"Rocks and props spawn blue spiders over time while in a room with enemies, and spawn two blue spiders when destroyed.",2,,,,,Repentance,パッシブ
-Keeper%27s_Sack,Keeper's Sack,,5.100.716,"Gives range, speed, or damage when buying things from a shop. Also spawns three coins and a key on pickup.",3,+0.5,+0.03,,,Repentance,パッシブ
-Knife_Piece_1,Knife Piece 1,,5.100.626,"Combined with Knife Piece 2, creates a knife familiar that damages enemies and can open the door to the Corpse.",0,,,,,Repentance,パッシブ
-Knife_Piece_2,Knife Piece 2,,5.100.627,"Combined with Knife Piece 1, creates a knife familiar that damages enemies and can open the door to the Corpse.",0,,,,,Repentance,パッシブ
-Knockout_Drops,Knockout Drops,,5.100.637,Adds a chance to shoot a fist tear that has extremely high knockback and confuses enemies.,3,,,,,Repentance,パッシブ
-Lil_Abaddon,Lil Abaddon,,5.100.679,Spawns a familiar that charges a miniature Maw of the Void attack while Isaac shoots.,3,,,,,Repentance,パッシブ
-Lil_Dumpy,Lil Dumpy,,5.100.615,"Gives Isaac a Dumpy familiar that pushes, confuses, or poisons nearby enemies and flies in a random direction after taking damage.",0,,,,,Repentance,パッシブ
-Lil_Portal,Lil Portal,,5.100.681,"A familiar that flies forward, consuming pickups in its path. Each one will increase its size and damage and spawn a Blue Fly. Every four pickups, it opens a portal that leads to an unexplored room.",1,,,,,Repentance,パッシブ
-Lodestone,Lodestone,,5.100.617,"Gives Isaac the chance to fire tears that magnetize enemies they hit, causing them to attract nearby pickups and enemies, as well as tears/shots from all sources.",3,,,,,Repentance,パッシブ
-Lost_Soul,Lost Soul,,5.100.612,"Creates a ghostly familiar that closely follows behind Isaac. It dies in one hit, but respawns at the start of the next floor. Each time it survives until the next floor, it rewards Isaac with Soul Hearts, Eternal Hearts, or an item.",2,,,,,Repentance,パッシブ
-Luna,Luna,,5.100.589,Adds an extra Secret Room and Super Secret Room to each floor. Secret Rooms contain a beam of light that increases tears for the current floor and gives a Half Soul Heart.,2,,,+1,,Repentance,パッシブ
-Mars,Mars,,5.100.593,"Dash by double-tapping the movement key, becoming invulnerable and damaging enemies. There's a short cooldown before Isaac can dash again.",2,,,,,Repentance,パッシブ
-Member_Card,Member Card,,5.100.602,Adds a trapdoor to every shop that leads to a second shop with a unique stock and marked-up prices.,1,,,,,Repentance,パッシブ
-Mercurius,Mercurius,,5.100.590,"+0.4 speed. Doors stay open after entering a room, even in rooms with enemies.",3,,+0.4,,,Repentance,パッシブ
-Mom%27s_Ring,Mom's Ring,,5.100.732,+1 damage. Drops a random rune or soul stone upon pickup.,3,+1,,,,Repentance,パッシブ
-Monstrance,Monstrance,,5.100.574,Isaac gains an aura that deals damage to enemies inside it.,2,,,,,Repentance,パッシブ
-Montezuma%27s_Revenge,Montezuma's Revenge,,5.100.680,"While firing, Isaac charges up a short-ranged Brimstone-like diarrhea beam that shoots behind him.",3,,,,,Repentance,パッシブ
-Mucormycosis,Mucormycosis,,5.100.553,"Gives Isaac the chance to fire spore tears that stick to enemies and blow up after a few seconds, dealing damage and poisoning nearby enemies and releasing more spores.",3,,,,,Repentance,パッシブ
-Nancy_Bombs,Nancy Bombs,,5.100.563,Gives Isaac +5 bombs and gives his bombs random bomb synergies.,1,,,,,Repentance,パッシブ
-Neptunus,Neptunus,,5.100.597,"Isaac's mouth fills with tears over time while not firing, up to a cap. Holding the fire button will release all stored tears in rapid succession.",3,,,,,Repentance,パッシブ
-Ocular_Rift,Ocular Rift,,5.100.606,"Gives Isaac the chance to fire tears that create rifts where they land, which damage nearby enemies and pull in enemies, pickups, and tears/shots from all sources.",3,,,,,Repentance,パッシブ
-Options%3F,Options?,,5.100.670,"If a room gives a reward when cleared, there will be two different rewards to chose from. Taking one causes the other to disappear.",2,,,,,Repentance,パッシブ
-Orphan_Socks,Orphan Socks,,5.100.571,Prevents creep and floor spikes from damaging Isaac. Also gives Isaac +0.3 speed and 2 soul hearts.,2,,+0.3,,,Repentance,パッシブ
-Paschal_Candle,Paschal Candle,,5.100.567,Gives Isaac a familiar that grants +0.4 Tears for each consecutive room he's cleared without taking damage. The bonus stacks up to five times.,3,,,,,Repentance,パッシブ
-Playdough_Cookie,Playdough Cookie,,5.100.570,Grants multicolored tears. Each color comes with a different status or tear effect.,3,,,,,Repentance,パッシブ
-Pluto,Pluto,,5.100.598,"Significantly shrinks Isaac, allowing him to squeeze between objects and makes some enemy shots pass over him. Also gives +0.7 tears.",3,,,+0.7,,Repentance,パッシブ
-Psy_Fly,Psy Fly,,5.100.581,Spawns a fly orbital familiar that chases and deflects enemy shots and converts them into homing tears that deal 2 damage. Turns some Fly enemies into friendly Blue Flies if it touches them while deflecting shots.,4,,,,,Repentance,パッシブ
-Purgatory,Purgatory,,5.100.634,"While in a room with enemies, spawns cracks on the ground. Walking over these cracks summons ghosts that launch themselves at enemies and explode.",2,,,,,Repentance,パッシブ
-Quints,Quints,,5.100.661,The first five enemies killed in a room will spawn stationary shooting familiars where they died.,2,,,,,Repentance,パッシブ
-Red_Stew,Red Stew,,5.100.621,Refills all heart containers. Grants an enormous damage boost that wears off over time.,2,+21.6,,,,Repentance,パッシブ
-Redemption,Redemption,,5.100.673,Gives Isaac a soul heart and +1 damage if he goes into a Devil Room but doesn't take anything from it.,2,+1.0,,,,Repentance,パッシブ
-Revelation,Revelation,,5.100.643,"Grants flight and two soul hearts. In addition to tears, Isaac can charge up and fire a powerful holy laser.",4,,,,,Repentance,パッシブ
-Rock_Bottom,Rock Bottom,,5.100.562,Locks Isaac's attributes to their highest values reached.,3,,,,,Repentance,パッシブ
-Rocket_in_a_Jar,Rocket in a Jar,,5.100.583,"+5 bombs. If Isaac is currently moving, placing a bomb will instead shoot a fast-moving, explosive rocket in the direction he's facing.",2,,,,,Repentance,パッシブ
-Rotten_Tomato,Rotten Tomato,,5.100.618,Adds a chance to fire tears that Mark enemies. Marked enemies are attacked by other enemies.,2,,,,,Repentance,パッシブ
-Sacred_Orb,Sacred Orb,,5.100.691,"Prevents low-quality items from spawning, greatly increasing the quality of items received from all item pools.",4,,,,,Repentance,パッシブ
-Salvation,Salvation,,5.100.696,Gives Isaac a halo that summons beams of light on enemies inside it. The halo grows larger the more times Isaac has taken damage this floor.,3,,,,,Repentance,パッシブ
-Sanguine_Bond,Sanguine Bond,,5.100.692,Spawns a special set of spikes in the Devil Room. Taking damage from the spikes has a chance to grant a reward.,1,,,,,Repentance,パッシブ
-Saturnus,Saturnus,,5.100.595,"Upon entering a room, a circle of tears orbits Isaac. Enemy tears have a chance to be caught in orbit, turning them friendly.",2,,,,,Repentance,パッシブ
-Sausage,Sausage,,5.100.669,"Adds a Red Heart Container, fully heals Isaac, and gives +0.2 Speed, +0.5 Damage, +0.5 Tears, +1.5 Range, +0.2 Shot Speed, and +1.0 Luck. Increases the chance of encountering a Devil Room, Angel Room, and/or Planetarium each by 6.9%.",3,+0.5,+0.2,+0.5,+0.2,Repentance,パッシブ
-Sol,Sol,,5.100.588,"Reveals the location of the Boss room. Upon defeating a boss, activates XIX - The Sun, fully recharges Isaac's active item, grants bonus damage and luck for the rest of the floor, and removes curses.",2,+3,,,,Repentance,パッシブ
-Soul_Locket,Soul Locket,,5.100.686,Gives Isaac a permanent stat boost whenever he picks up a soul heart.,2,+0.2,+0.04,+0.1,+0.04,Repentance,パッシブ
-Spirit_Shackles,Spirit Shackles,,5.100.674,"On death, Isaac's ghost is chained to his dead body and he can continue to fight with 1/2 of a heart, returning to life after 10 seconds. After it activates, it must be recharged by picking up a soul heart.",2,,,,,Repentance,パッシブ
-Spirit_Sword,Spirit Sword,,5.100.579,"Instead of tears, Isaac swings a sword. Charging does a spin attack and fires a projectile, and a projectile is sometimes fired with normal swings if Isaac has no empty red hearts.",3,,,,,Repentance,パッシブ
-Stapler,Stapler,,5.100.708,"+1 damage. Prevents Isaac from firing tears from one eye, like Cain.",3,+1,,,,Repentance,パッシブ
-Star_of_Bethlehem,Star of Bethlehem,,5.100.651,"Spawns a star familiar that slowly travels towards the Boss Room, giving an aura that increases damage and tears and grants homing tears.",2,+1,,,,Repentance,パッシブ
-Strawman,Strawman,,5.100.667,"Spawns a controllable Keeper to fight enemies alongside Isaac, functioning similarly to Jacob and Esau. If Keeper dies, he spawns 5 blue spiders and Strawman is removed from Isaac's inventory.",2,,,,,Repentance,パッシブ
-Stye,Stye,,5.100.731,"Tears fired from the right eye have +28% damage, increased range, and decreased shot speed.",2,,,,-0.3,Repentance,パッシブ
-Supper,Supper,,5.100.707,Grants one full Red Heart container. Heals 1 additional Red Heart.,1,,,,,Repentance,パッシブ
-Terra,Terra,,5.100.592,"Replaces tears with rocks that deal variable damage, have increased knockback, and can destroy obstacles.",3,+1.0,,,,Repentance,パッシブ
-The_Intruder,The Intruder,,5.100.575,"A familiar burrows in Isaac's head, firing 4 slowing tears. Upon taking damage, there's a chance it will burst out of Isaac's head, spawning blue spiders and chasing enemies for the current room.",3,,,,,Repentance,パッシブ
-The_Stairway,The Stairway,,5.100.586,Generates a ladder at the start of every floor that leads to a unique Angel Room shop.,3,,,,,Repentance,パッシブ
-The_Swarm,The Swarm,,5.100.693,"Spawns eight orbital flies, which turn into Blue Flies after they block a shot. Each time a room is cleared, spawns another orbital fly.",2,,,,,Repentance,パッシブ
-Tinytoma,Tinytoma,,5.100.645,"Gives Isaac a Teratoma orbital that blocks shots, deals contact damage, and splits into smaller versions of itself upon taking damage. The smaller versions break into blue spiders.",1,,,,,Repentance,パッシブ
-TMTRAINER,TMTRAINER,,5.100.721,"Causes all future items to be ""glitched"", granting them completely random effects.",2,,,,,Repentance,パッシブ
-Tooth_and_Nail,Tooth and Nail,,5.100.663,"Isaac periodically turns into a spiked statue, briefly becoming invulnerable and dealing contact damage.",2,,,,,Repentance,パッシブ
-Tropicamide,Tropicamide,,5.100.659,"+1.5 range, Increases tear size.",1,,,,,Repentance,パッシブ
-Twisted_Pair,Twisted Pair,,5.100.698,"Spawns two familiars that float on either side of Isaac and fire tears that use his tears, range, shot speed, and tear effects, and scale with damage.",4,,,,,Repentance,パッシブ
-Uranus,Uranus,,5.100.596,"Isaac shoots ice tears, which slow enemies and freeze monsters they kill. Frozen enemies slide away and explode into ice shards when touched.",3,,,,,Repentance,パッシブ
-Vanishing_Twin,Vanishing Twin,,5.100.697,Spawns a familiar that becomes a clone of the floor's boss when entering the boss room. Defeating it drops an extra item.,3,,,,,Repentance,パッシブ
-Vasculitis,Vasculitis,,5.100.657,"Enemies explode into tears upon death, which inherit the effects of Isaac's tears.",2,,,,,Repentance,パッシブ
-Vengeful_Spirit,Vengeful Spirit,,5.100.702,"After taking damage, spawns an orbital wisp that lasts for the entire floor, up to a maximum of six. They fire tears but do not block shots.",2,,,,,Repentance,パッシブ
-Venus,Venus,,5.100.591,Adds one red Heart container. Enemies near Isaac become charmed.,2,,,,,Repentance,パッシブ
-Voodoo_Head,Voodoo Head,,5.100.599,Spawns an additional curse room on each floor.,1,,,,,Repentance,パッシブ
-Worm_Friend,Worm Friend,,5.100.682,Gives Isaac a Nerve Ending familiar that burrows out of the ground to grab and deal damage to enemies over time.,3,,,,,Repentance,パッシブ
-Tonsil,Tonsil,,5.100.474,Grants a familiar that can block enemy shots.,,,,,,Repentance,パッシブ
+norm_name,Item Name,アイテム名,ID,効果,クオリティ,DLC,種類
+The_Sad_Onion,The Sad Onion,,5.100.1,ティア+0.7,3,Rebirth,パッシブ
+The_Inner_Eye,The Inner Eye,,5.100.2,三方向ショットを付与する、ただしティアは低下する。,2,Rebirth,パッシブ
+Spoon_Bender,Spoon Bender,,5.100.3,誘導ティアを付与する,3,Rebirth,パッシブ
+Cricket%27s_Head,Cricket's Head,,5.100.4,ダメージ+0.5、ダメージ倍率x1.5,4,Rebirth,パッシブ
+My_Reflection,My Reflection,,5.100.5,ティアにブーメラン効果。レンジ+1.5、ティアハイト+1.0、ショットスピードx1.6,0,Rebirth,パッシブ
+Number_One,Number One,,5.100.6,ティア+1.5、ただしレンジが極端に短くなる。,2,Rebirth,パッシブ
+Blood_of_the_Martyr,Blood of the Martyr,,5.100.7,ダメージ+1、アイザックの涙が血の涙になる。,3,Rebirth,パッシブ
+Brother_Bobby,Brother Bobby,,5.100.8,アイザックについてくる、通常ティアを撃つファミリア。,1,Rebirth,パッシブ
+Skatole,Skatole,,5.100.9,ハエが種類によって無害もしくはより危険でないものになる。,0,Rebirth,パッシブ
+Halo_of_Flies,Halo of Flies,,5.100.10,敵の弾を阻害し接触ダメージを与える2匹のハエの取り巻きを生成する。,2,Rebirth,パッシブ
+1up!,1up!,,5.100.11,残機+1。死亡時には最も近いクリア済みの部屋に体力全回復の状態で復活し、このアイテムは消滅する。,2,Rebirth,パッシブ
+Magic_Mushroom,Magic Mushroom,,5.100.12,アイザックが大きくなる。赤ハートコンテナを1つ得る、ダメージ+0.3、ダメージ倍率x1.5、レンジ+1.5、スピード+0.3、体力全回復。,4,Rebirth,パッシブ
+The_Virus,The Virus,,5.100.13,敵との接触時に敵を毒状態にする。スピード+0.2。毒状態にされた敵は死亡時に黒ハートを落とす可能性がある。,2,Rebirth,パッシブ
+Roid_Rage,Roid Rage,,5.100.14,スピード+0.3、レンジ+1.5、ティアハイト+0.5,2,Rebirth,パッシブ
+Less_Than_Three,<3,,5.100.15,赤ハートコンテナを1つ得て、体力を全回復する。,2,Rebirth,パッシブ
+Raw_Liver,Raw Liver,,5.100.16,赤ハートコンテナを2つ得て、体力を全回復する。,2,Rebirth,パッシブ
+Skeleton_Key,Skeleton Key,,5.100.17,鍵+99個,3,Rebirth,パッシブ
+A_Dollar,A Dollar,,5.100.18,コイン+100,3,Rebirth,パッシブ
+Boom!,Boom!,,5.100.19,爆弾+10個,0,Rebirth,パッシブ
+Transcendence,Transcendence,,5.100.20,飛行を得る。,3,Rebirth,パッシブ
+The_Compass,The Compass,,5.100.21,シークレットルームとスーパーシークレットルームを除く、特殊ルームの場所をマップに表示する。,2,Rebirth,パッシブ
+Lunch,Lunch,,5.100.22,満タンの赤ハートコンテナを1つ得て、追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
+Dinner,Dinner,,5.100.23,満タンの赤ハートコンテナを1つ得て、追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
+Dessert,Dessert,,5.100.24,満タンの赤ハートコンテナを1つ得て、追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
+Breakfast,Breakfast,,5.100.25,満タンの赤ハートコンテナを1つ得て、追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
+Rotten_Meat,Rotten Meat,,5.100.26,満タンの赤ハートコンテナを1つ得て、追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
+Wooden_Spoon,Wooden Spoon,,5.100.27,スピード+0.3,1,Rebirth,パッシブ
+The_Belt,The Belt,,5.100.28,スピード+0.3,1,Rebirth,パッシブ
+Mom%27s_Underwear,Mom's Underwear,,5.100.29,レンジ+5.25、ティアハイト+0.5。3～6匹の青ハエを生成する。,1,Rebirth,パッシブ
+Mom%27s_Heels,Mom's Heels,,5.100.30,レンジ+5.25、ティアハイト+0.5。アイザックに接触した敵へ12ダメージを与える。,1,Rebirth,パッシブ
+Mom%27s_Lipstick,Mom's Lipstick,,5.100.31,"レンジ+5.25、ティアハイト+0.5。
+(Repentanceで追加)ランダムなハートを1つドロップする。",1,Rebirth,パッシブ
+Wire_Coat_Hanger,Wire Coat Hanger,,5.100.32,ティア+0.7。,3,Rebirth,パッシブ
+The_Bible,The Bible,,5.100.33,使用すると部屋を出るまでの間、飛行能力を得る。Mom、Mom's Heart、It Livesとの戦闘時には、使用するだけで相手を倒すことができる。逆に、Satanとの戦闘時には、使用するだけでアイザックが倒れてしまう。,1,Rebirth,アクティブ
+The_Book_of_Belial,The Book of Belial,,5.100.34,"部屋を出るまでの間、ダメージ+2。
+(Afterbirthで削除)このアイテムを持っている状態でボスを倒した場合、悪魔部屋もしくは天使部屋が必ず出現する。
+(Afterbirthで追加)悪魔部屋または天使部屋の出現確率+12.5%。",2,Rebirth,アクティブ
+The_Necronomicon,The Necronomicon,,5.100.35,部屋にいる敵すべてに40ダメージを与える。,1,Rebirth,アクティブ
+The_Poop,The Poop,,5.100.36,"敵の近くでノックバックしたときにアイザックが立っている場所へうんちをスポーンする。
+ピックアップアイテムのドロップ率は通常のものと同じ。",0,Rebirth,アクティブ
+Mr._Boom,Mr. Boom,,5.100.37,110ダメージを与えるメガボムを置く。,1,Rebirth,アクティブ
+Tammy%27s_Head,Tammy's Head,,5.100.38,アイザックの周囲10方向に現在のアイザックと同じダメージ、ショットスピード、(毒のような)特殊効果を持つ涙を撃つ。,2,Rebirth,アクティブ
+Mom%27s_Bra,Mom's Bra,,5.100.39,現在の部屋にいる全ての敵を4秒間石化する。,1,Rebirth,アクティブ
+Kamikaze!,Kamikaze!,,5.100.40,"アイザックの周囲を爆破する。
+爆発は自身と近くの敵にダメージを与え、障害物を破壊する。",0,Rebirth,アクティブ
+Mom%27s_Pad,Mom's Pad,,5.100.41,現在の部屋にいる全ての敵に5秒間恐怖を与える。,0,Rebirth,アクティブ
+Bob%27s_Rotten_Head,Bob's Rotten Head,,5.100.42,"アイテムの使用時に毒爆弾を持ち上げる。
+それは上下左右いずれかに投擲でき、接触時に爆発する。",1,Rebirth,アクティブ
+Teleport!,Teleport!,,5.100.44,現在の階層内にあるランダムな部屋へテレポートする。,0,Rebirth,アクティブ
+Yum_Heart,Yum Heart,,5.100.45,赤ハート1個分回復する。,1,Rebirth,アクティブ
+Lucky_Foot,Lucky Foot,,5.100.46,"ラック+1。貝殻ゲームと占いマシーンでの勝率が(ラック由来とは別に)上昇する。
+判別済みのものを除き、全ての悪い効果のピルが良い効果のピルに置き換わる。",2,Rebirth,パッシブ
+Doctor%27s_Remote,Doctor's Remote,,5.100.47,"地上にティア操作で操作できる照準線を作成する。
+2秒後に照準点へ、大ダメージを与える爆発を起こすミサイルが着弾する。",1,Rebirth,アクティブ
+Cupid%27s_Arrow,Cupid's Arrow,,5.100.48,アイザックのティアに敵貫通を付与する。,3,Rebirth,パッシブ
+Shoop_Da_Whoop!,Shoop Da Whoop!,,5.100.49,アイザックの口からレーザーが出る。,2,Rebirth,アクティブ
+Steven_(Item),Steven,,5.100.50,ダメージ+1,3,Rebirth,パッシブ
+Pentagram,Pentagram,,5.100.51,ダメージ+1、悪魔/天使部屋の出現確率が10%上昇する。,3,Rebirth,パッシブ
+Dr._Fetus,Dr. Fetus,,5.100.52,"ティアが一定時間スライドする爆弾に置き換わる。
+爆弾を強化する効果は適用される。",4,Rebirth,パッシブ
+Magneto,Magneto,,5.100.53,ピックアップアイテムがアイザックに寄ってくる。,1,Rebirth,パッシブ
+Treasure_Map,Treasure Map,,5.100.54,"それぞれの階層でマップが公開される。
+特殊ルームかは判別できず、シークレットルームとスペシャルシークレットルームの位置は公開されない。",2,Rebirth,パッシブ
+Mom%27s_Eye,Mom's Eye,,5.100.55,たまにアイザックの後頭部からもティアを発射するようになる。,1,Rebirth,パッシブ
+Lemon_Mishap,Lemon Mishap,,5.100.56,小さな黄色い水たまりを生成し、それを横切った敵にダメージを与える。,1,Rebirth,アクティブ
+Distant_Admiration,Distant Admiration,,5.100.57,Halo of Fliesよりも遠く、Forever Aloneよりも近い円周に秒間75ダメージを与える攻撃ハエをスポーンする。,2,Rebirth,パッシブ
+Book_of_Shadows,Book of Shadows,,5.100.58,防護シールドを生成し、現在の部屋で10秒間全てのダメージを無効化する。,3,Rebirth,アクティブ
+The_Ladder,The Ladder,,5.100.60,歩行可能な区間に挟まれた1マス分の溝に自動で梯子を設置し、そこを歩けるようになる。,1,Rebirth,パッシブ
+Charm_of_the_Vampire,Charm of the Vampire,,5.100.62,13体の敵を倒す毎に赤ハート半分を回復する。ダメージ+0.3。,1,Rebirth,パッシブ
+The_Battery,The Battery,,5.100.63,アクティブアイテムは追加のチャージゲージを貯められるようになり、一つの部屋で2回使用できるようになる。,2,Rebirth,パッシブ
+Steam_Sale,Steam Sale,,5.100.64,全てのショップで値段が50%オフになり、アイテムは切り捨てで7コイン、ピックアップは切り上げで2～3コインになる。,2,Rebirth,パッシブ
+Anarchist_Cookbook,Anarchist Cookbook,,5.100.65,部屋中に6個のトロールボムがスポーンする。,1,Rebirth,アクティブ
+The_Hourglass,The Hourglass,,5.100.66,部屋内の全ての敵が8秒間速度低下する。,1,Rebirth,アクティブ
+Sister_Maggy,Sister Maggy,,5.100.67,アイザックに付いてきて通常ティアを撃つファミリアがスポーンする。,1,Rebirth,パッシブ
+Technology,Technology,,5.100.68,ティアがレンジ制限なしの貫通レーザーに置き換わる。,3,Rebirth,パッシブ
+Chocolate_Milk,Chocolate Milk,,5.100.69,最大まで貯めると大きなダメージを与えるチャージティアを付与する。,3,Rebirth,パッシブ
+Growth_Hormones,Growth Hormones,,5.100.70,"(AfterBirth+以前)ダメージ+1、スピード+0.4
+(Repentance)ダメージ+1、スピード+0.2",3,Rebirth,パッシブ
+Mini_Mush,Mini Mush,,5.100.71,"アイザックのサイズが小さくなり、当たり判定も小さくなる。
+スピード+0.3、レンジ+1.5。",2,Rebirth,パッシブ
+Rosary,Rosary,,5.100.72,"ソウルハート3つを得る。全てのアイテムプールでThe Bibleが出現するようになる。
+ティア+0.5。",2,Rebirth,パッシブ
+Cube_of_Meat,Cube of Meat,,5.100.73,"敵の弾を防ぎ秒間56ダメージを与えるオービタルを生成する。
+追加で同じアイテムを取得する毎にティアを撃ち、敵を追跡して接触ダメージを与え、接触ダメージが増加する、というように成長する。",2,Rebirth,パッシブ
+A_Quarter,A Quarter,,5.100.74,コイン+25,1,Rebirth,パッシブ
+PHD,PHD,,5.100.75,"全ての悪い効果のピルを良い効果のピルに置き換え、ピルを1個得て、全てのピルが判別済みになる。
+赤ハート2個分を回復し、献血機の報酬が増える。",2,Rebirth,パッシブ
+X-Ray_Vision,X-Ray Vision,,5.100.76,シークレットルームとスーパーシークレットルームの入り口が公開されたうえで開く。,2,Rebirth,パッシブ
+My_Little_Unicorn,My Little Unicorn,,5.100.77,6秒間スピードが0.28上昇して無敵状態になり、ティアを撃てなくなる代わりに敵に接触すると40ダメージを与える。,1,Rebirth,アクティブ
+Book_of_Revelations,Book of Revelations,,5.100.78,ソウルハートを1つ得てフロアボス討伐後の悪魔/天使部屋出現確率が上昇し、現在の階層のボスが可能な限りハービンジャーに置き換わる。,3,Rebirth,アクティブ
+The_Mark,The Mark,,5.100.79,"ソウルハートを1つ得る。
+ダメージ+1、スピード+0.2",3,Rebirth,パッシブ
+The_Pact,The Pact,,5.100.80,"黒ハートを2つ得る。
+ダメージ+0.5、ティア+0.7",3,Rebirth,パッシブ
+Dead_Cat,Dead Cat,,5.100.81,"アイザックの赤ハートコンテナが1つになる代わり、残機が9増える。
+死亡後に赤ハートコンテナ1つで復活する。",3,Rebirth,パッシブ
+Lord_of_the_Pit,Lord of the Pit,,5.100.82,飛行を得てスピード+0.3。,3,Rebirth,パッシブ
+The_Nail,The Nail,,5.100.83,"黒ハート半分を得る。現在の部屋でダメージ+2.0、スピード-0.18。
+岩を壊せるようになり敵との接触時にダメージを与える。",3,Rebirth,アクティブ
+We_Need_to_Go_Deeper!,We Need to Go Deeper!,,5.100.84,次の階層へ続くトラップドアを生成する。,0,Rebirth,アクティブ
+Deck_of_Cards,Deck of Cards,,5.100.85,ランダムなカードを得る。,2,Rebirth,アクティブ
+Monstro%27s_Tooth,Monstro's Tooth,,5.100.86,"友好的なモンストロがランダムな敵に向かってジャンプし、付近に120ダメージを与える。
+敵のいない部屋で使用するとアイザックに着地する。",1,Rebirth,アクティブ
+Loki%27s_Horns,Loki's Horns,,5.100.87,たまにアイザックの左右と後ろからもティアを発射するようになる。,1,Rebirth,パッシブ
+Little_Chubby,Little Chubby,,5.100.88,突進するファミリアがスポーンし、前に突進して道上の敵に接触ダメージを与える。,1,Rebirth,パッシブ
+Spider_Bite,Spider Bite,,5.100.89,敵の動きと攻撃のスピードを下げる、速度低下ティアをたまに撃つようになる。,2,Rebirth,パッシブ
+The_Small_Rock,The Small Rock,,5.100.90,ダメージ+1.0、ティア+0.2、スピード-0.2,3,Rebirth,パッシブ
+Spelunker_Hat,Spelunker Hat,,5.100.91,"現在の部屋に隣接する全ての部屋のタイプがマップに表示される。
+(Repentanceで追加)2つ先の部屋までマップに表示されるようになる。上から落下する岩などの発射物をブロックする。",2,Rebirth,パッシブ
+Super_Bandage,Super Bandage,,5.100.92,赤ハートコンテナ+1、ソウルハートを2つ得る。取得時に赤ハートを1回復する。,2,Rebirth,パッシブ
+The_Gamekid,The Gamekid,,5.100.93,アイザックが6秒間パックマンのような見た目になる。この状態は無敵が付与され、全ての敵を恐怖状態にし、敵を2体倒す毎に赤ハートを半分回復する。,2,Rebirth,アクティブ
+Sack_of_Pennies,Sack of Pennies,,5.100.94,2部屋毎にコインを落とすファミリアをスポーンする。,1,Rebirth,パッシブ
+Robo-Baby,Robo-Baby,,5.100.95,Technologyのレーザーを発射するファミリアをスポーンする。,1,Rebirth,パッシブ
+Little_C.H.A.D.,Little C.H.A.D.,,5.100.96,3部屋毎に赤い半ハートを落とすファミリアをスポーンする。,2,Rebirth,パッシブ
+The_Book_of_Sin,The Book of Sin,,5.100.97,ピックアップアイテム、ピル、カード、ルーンをランダムに生成する。,2,Rebirth,アクティブ
+The_Relic,The Relic,,5.100.98,"5~6部屋毎にソウルハートをドロップする十字架のファミリア。
+(Repentanceで変更)7~8部屋毎にソウルハートをドロップする。",4,Rebirth,パッシブ
+Little_Gish,Little Gish,,5.100.99,アイザックの後を追従するファミリアをスポーンする。ファミリアは敵の動きを遅くする弾を発射する。,2,Rebirth,パッシブ
+Little_Steven,Little Steven,,5.100.100,アイザックの後を追従する誘導弾を発射するファミリアをスポーンする。,1,Rebirth,パッシブ
+The_Halo,The Halo,,5.100.101,赤ハートコンテナ+1、ダメージ+0.3、ティア+0.2、レンジ+0.38、スピード+0.3、ティアハイト+0.5,2,Rebirth,パッシブ
+Mom%27s_Bottle_of_Pills,Mom's Bottle of Pills,,5.100.102,ランダムなピルを入手する,1,Rebirth,アクティブ
+The_Common_Cold,The Common Cold,,5.100.103,毒の涙を発射するチャンスを追加する。毒はヒットした敵に継続的なダメージを与える。,1,Rebirth,パッシブ
+The_Parasite,The Parasite,,5.100.104,涙が障害物や敵にヒットした時に2つに分かれるようになる。,3,Rebirth,パッシブ
+The_D6,The D6,,5.100.105,現在の部屋の全てのパッシブ、アクティブアイテムを全て他のランダムなアイテムに置き換える。置き換えられるアイテムは現在の部屋のアイテムプールから選択される。,4,Rebirth,アクティブ
+Mr._Mega,Mr. Mega,,5.100.106,5個の爆弾を得る。爆弾のサイズを大きくし、爆弾のダメージと爆風半径を増加させる。,2,Rebirth,パッシブ
+The_Pinking_Shears,The Pinking Shears,,5.100.107,現在の部屋のみアイザックの頭と胴体を分離し、飛行を付与する。胴体は敵を探し高い接触ダメージを与えるファミリアとなる。,2,Rebirth,アクティブ
+The_Wafer,The Wafer,,5.100.108,ほぼ全てのハート1つ分のダメージを半ハート分のダメージに減少させる。,4,Rebirth,パッシブ
+Money_%3D_Power,Money = Power,,5.100.109,所持しているコイン1枚毎にダメージ+0.04、99コインでダメージ+3.96を得る。,3,Rebirth,パッシブ
+Mom%27s_Contacts,Mom's Contacts,,5.100.110,レンジ+0.38、ティアハイト+0.5、石化が付与された涙を発射するチャンスを得る。ヒットすると敵の動きを封じ、移動と攻撃が出来ない状態となる。,3,Rebirth,パッシブ
+The_Bean,The Bean,,5.100.111,アイザックがおならをする、近距離の敵を毒状態にする。,0,Rebirth,アクティブ
+Guardian_Angel,Guardian Angel,,5.100.112,敵のダメージをブロックする天使のオービタルファミリアをスポーンする。天使を敵に接触させると秒間105ダメージを与える。全てのオービタルファミリアの速度を上昇させる。,2,Rebirth,パッシブ
+Demon_Baby,Demon Baby,,5.100.113,アイザックの後を追従するファミリアをスポーンする。ファミリアは一定距離内の敵に自動的に攻撃する。,2,Rebirth,パッシブ
+Mom%27s_Knife,Mom's Knife,,5.100.114,アイザックの涙が敵を貫通し、障害物を通り抜け、接触するだけでダメージを与えるナイフに変化する。発射ボタンを推し続けると射程と威力が増加する。,4,Rebirth,パッシブ
+Ouija_Board,Ouija Board,,5.100.115,涙が敵以外の障害物を貫通する涙になる。,2,Rebirth,パッシブ
+9_Volt,9 Volt,,5.100.116,取得時にアクティブアイテムのチャージが完了する。アクティブアイテムのチャージ必要量を1つ減らす。1チャージのアイテムは時間経過でリチャージされるようになる。,2,Rebirth,パッシブ
+Dead_Bird,Dead Bird,,5.100.117,アイザックがダメージ受けると飛行するファミリアをスポーンする。ファミリアは敵を追跡し、接触すると毎秒5ダメージを与える。,0,Rebirth,パッシブ
+Brimstone,Brimstone,,5.100.118,アイザックの涙がレーザービームになる。レーザーは全ての敵と障害物を貫通し、大きなダメージを与える。レーザーはチャージした後にのみ放つ事が出来る。,4,Rebirth,パッシブ
+Blood_Bag,Blood Bag,,5.100.119,赤ハートのコンテナを1つ得る、スピード+0.3。取得時に4つの赤ハートを回復する。,2,Rebirth,パッシブ
+Odd_Mushroom_(Thin),Odd Mushroom,,5.100.120,ティア+1.7、スピード+0.3、ダメージをわずかに減少させる。,2,Rebirth,パッシブ
+Odd_Mushroom_(Thin),Odd Mushroom,,5.100.121,赤ハートのコンテナを1つ得る、ダメージ+1、レンジ+0.38、スピード-0.2。,2,Rebirth,パッシブ
+Whore_of_Babylon,Whore of Babylon,,5.100.122,アイザックのHPが半ハート以下の時、ダメージ+1.5、スピード+0.3。,2,Rebirth,パッシブ
+Monster_Manual,Monster Manual,,5.100.123,"現在の部屋でのみ有効なランダムなファミリアをスポーンする。
+(Repentanceで変更)現在のフロアでのみ有効なランダムなファミリアをスポーンする。",1,Rebirth,アクティブ
+Dead_Sea_Scrolls,Dead Sea Scrolls,,5.100.124,ランダムなアクティブアイテムを発動する（全てのアイテムからではなく、専用のプールから選ばれる）,1,Rebirth,アクティブ
+Bobby-Bomb,Bobby-Bomb,,5.100.125,5個の爆弾を得る。爆弾がホーミング効果を得て、敵にゆっくりと向かうようになる。,2,Rebirth,パッシブ
+Razor_Blade,Razor Blade,,5.100.126,使用すると赤ハートを1つ消費し、部屋全体に1.2ダメージを与える。,0,Rebirth,アクティブ
+Forget_Me_Now,Forget Me Now,,5.100.127,使用すると現在のフロアが別のレイアウトで再生成（新しいフロアに突入したかのようになる）される。所持していたアイテムや消耗品はそのままでForget me Nowはインベントリから削除される。,3,Rebirth,アクティブ
+Forever_Alone,Forever Alone,,5.100.128,秒間30ダメージを与えるハエのオービタルファミリアをスポーンする。ハエはアイザックから少し距離を取って旋回する。,1,Rebirth,パッシブ
+Bucket_of_Lard,Bucket of Lard,,5.100.129,"空の赤ハートコンテナを2つ得る。スピードｰ0.2、赤ハートを半分回復する。
+(Repentanceで変更)赤ハートコンテナを2つ得る。",1,Rebirth,パッシブ
+A_Pony,A Pony,,5.100.130,"所持していると飛行能力とスピード+1.5を得る。使用するとアイザックが向いている方向に突進する、突進中は無敵となり敵には40ダメージを与える。
+(Repentanceで変更)28のフラットダメージとアイザックの4倍のダメージを与える。開いているドアは通過して突進できる。",2,Rebirth,アクティブ
+Bomb_Bag,Bomb Bag,,5.100.131,3部屋毎に爆弾をドロップするファミリアをスポーンする。通常の爆弾以外に1+1の爆弾、トロールボム、ゴールデンボムがドロップする事がある。,2,Rebirth,パッシブ
+A_Lump_of_Coal,A Lump of Coal,,5.100.132,涙が飛んだ飛距離に応じてダメージが上がるようになる。,3,Rebirth,パッシブ
+Guppy%27s_Paw,Guppy's Paw,,5.100.133,使用すると赤ハートコンテナ1つをソウルハート3つに変換する。,3,Rebirth,アクティブ
+Guppy%27s_Tail,Guppy's Tail,,5.100.134,部屋をクリアした時１/3の確率で宝箱が出現するようになりますが、2/9の確率で部屋のクリア時に何も出現しなくなります。,2,Rebirth,パッシブ
+IV_Bag,IV Bag,,5.100.135,使用すると献血機と同じように赤ハートを半ハート分消費(チャプター4以降は赤ハート1つ消費）し、コインをドロップする。,1,Rebirth,アクティブ
+Best_Friend,Best Friend,,5.100.136,足元にアイザックに似た人形をスポーンする。人形は5秒後に爆発し185ダメージを与える。敵は人形を狙うように動く。,1,Rebirth,アクティブ
+Remote_Detonator,Remote Detonator,,5.100.137,取得時に爆弾を5個得る。設置する爆弾がリモート爆弾になり、Remote Detonator使用時に爆発するようになる。,1,Rebirth,アクティブ
+Stigmata,Stigmata,,5.100.138,"赤ハートコンテナを1つ得る、ダメージ+0.3。
+(Repentanceで追加)赤ハートを追加で1つ回復する。",2,Rebirth,パッシブ
+Mom%27s_Purse,Mom's Purse,,5.100.139,"トリンケットを2つ所持できるようになる。
+(Repentanceで追加)ランダムなトリンケットを1つドロップする。",3,Rebirth,パッシブ
+Bob%27s_Curse,Bob's Curse,,5.100.140,"爆弾を5個得る。設置する爆弾に毒が付与される。
+(Repentanceで追加)爆発後に毒の煙が残るようになり、アイザックは毒が無効になる。",1,Rebirth,パッシブ
+Pageant_Boy,Pageant Boy,,5.100.141,"アイザックの周りに7枚のコインをドロップする。
+コインの種類は通常通りランダム。",0,Rebirth,パッシブ
+Scapular,Scapular,,5.100.142,部屋ごとに1回、アイザックの残りハートがハート半分まで減少した時にソウルハートを１つ得る。,2,Rebirth,パッシブ
+Speed_Ball,Speed Ball,,5.100.143,スピード+0.3、ショットスピード+0.2。,2,Rebirth,パッシブ
+Bum_Friend,Bum Friend,,5.100.144,"自分でコインを拾い集めるファミリアをスポーンさせる。ファミリアはコインの見返りとしてランダムなピックアップをドロップする。
+リトルバッテリーやアイテムはドロップしない。",0,Rebirth,パッシブ
+Guppy%27s_Head,Guppy's Head,,5.100.145,敵にダメージを与える 2〜4匹の青いハエをスポーンする。,3,Rebirth,アクティブ
+Prayer_Card,Prayer Card,,5.100.146,使用するごとに1個のエターナルハートを得る。,3,Rebirth,アクティブ
+Notched_Axe,Notched Axe,,5.100.147,"（rep以前）使用している間は触れた障害物やシークレットルームへの入り口を破壊することができるようになる。再度使用するかダメージを受けてキャンセルするまで、涙を発射したりアイテムを取得することはできない。
+（rep以降）アイザックの涙をフォガッテンのボーンクラブのように振れるツルハシに切り替える。ツルハシは障害物を破壊することができ、敵にヒットすると3倍のダメージを与える。",1,Rebirth,アクティブ
+Infestation,Infestation,,5.100.148,"（rep以前）アイザックがダメージを受けるたびに、1～3匹の青いハエをスポーンする。
+（rep以降）アイザックがダメージを受けるたびに、2～6匹の青いハエをスポーンする。",0,Rebirth,パッシブ
+Ipecac,Ipecac,,5.100.149,涙を爆発する毒の弾に置き換える。弾は口から山なりに発射される。,4,Rebirth,パッシブ
+Tough_Love,Tough Love,,5.100.150,涙の代わりに、アイザックの3.2倍のダメージを与える歯を撃つ確率が追加される。,3,Rebirth,パッシブ
+The_Mulligan,The Mulligan,,5.100.151,涙が敵にヒットした際、1/6の確率で青いハエをスポーンする。,3,Rebirth,パッシブ
+Technology_2,Technology 2,,5.100.152,"アイザックの右目から発射される涙を、低ダメージで連続ヒットする貫通レーザーに置き換える。
+（rep以前）ダメージダウン。",2,Rebirth,パッシブ
+Mutant_Spider,Mutant Spider,,5.100.153,4方向ショットを付与するが、ティアが下がる。,3,Rebirth,パッシブ
+Chemical_Peel,Chemical Peel,,5.100.154,左目から撃たれたティアにフラットダメージ+2。,2,Rebirth,パッシブ
+The_Peeper,The Peeper,,5.100.155,"部屋内をゆっくりジグザグに浮遊するファミリアがスポーンする。
+通過した敵にダメージを与える。",2,Rebirth,パッシブ
+Habit,Habit,,5.100.156,アイザックが被弾をしたときに、アクティブアイテムのチャージを1部屋分得る。,2,Rebirth,パッシブ
+Bloody_Lust,Bloody Lust,,5.100.157,"ダメージを受けるたびにアイザックのダメージが6回まで上昇する。
+新しい階層に行くとこのボーナスはリセットされる。",3,Rebirth,パッシブ
+Crystal_Ball,Crystal Ball,,5.100.158,使用すると(スーパーシークレットルームを除く)マップが公開され、ソウルハートかランダムなカード/ルーンをドロップする。,3,Rebirth,アクティブ
+Spirit_of_the_Night,Spirit of the Night,,5.100.159,地形貫通ティアと飛行を付与する。,3,Rebirth,パッシブ
+Crack_the_Sky,Crack the Sky,,5.100.160,地上へランダムに降り注ぐ5本の光線を召喚し、触れた敵へ大ダメージを与える。,2,Rebirth,アクティブ
+Ankh,Ankh,,5.100.161,死亡時に、アイザックは？？？として3個のソウルハートと共に最も最近の非敵対部屋へリスポーンする。,1,Rebirth,パッシブ
+Celtic_Cross,Celtic Cross,,5.100.162,ダメージを受けた際に7秒間全ダメージを無効にするシールドを作成する、the Book of Shadowsの効果が発動する可能性が付与される。,1,Rebirth,パッシブ
+Ghost_Baby,Ghost Baby,,5.100.163,アイザックに付いてきて地形貫通ティアを撃つファミリアがスポーンする。,1,Rebirth,パッシブ
+The_Candle,The Candle,,5.100.164,"溝を超える(ただし岩は通過しない)一時的な炎を投げる。
+炎は通過したものにダメージを与える。",2,Rebirth,アクティブ
+Cat-O-Nine-Tails,Cat-O-Nine-Tails,,5.100.165,ダメージ+1、ショットスピード+0.23。,3,Rebirth,パッシブ
+D20,D20,,5.100.166,現在の部屋のピックアップアイテムを再抽選する。,2,Rebirth,アクティブ
+Harlequin_Baby,Harlequin Baby,,5.100.167,アイザックに付いてきて一度に2発Vの字にティアを撃つファミリアがスポーンする。,1,Rebirth,パッシブ
+Epic_Fetus,Epic Fetus,,5.100.168,アイザックのティアがDoctor's Remoteを使用したときのような誘導ミサイルに置換される。,4,Rebirth,パッシブ
+Polyphemus,Polyphemus,,5.100.169,"アイザックが大規模なダメージを与える大きなティアを撃つ、ただしファイアレートは大幅に下がる。
+ティアが敵を倒した際、余剰ダメージ分がティアとして貫通する。",4,Rebirth,パッシブ
+Daddy_Longlegs,Daddy Longlegs,,5.100.170,あしながおじさんの影がアイザックについてきてたまに敵を踏み付け合計40ダメージを与える。,3,Rebirth,パッシブ
+Spider_Butt,Spider Butt,,5.100.171,"部屋中の敵に10ダメージを与え、4秒間敵が速度低下する。
+Spider Buttで倒された敵は青クモを生成する。",1,Rebirth,アクティブ
+Sacrificial_Dagger,Sacrificial Dagger,,5.100.172,ダガーのオービタルファミリアを生成し、敵の弾をブロックして接触した敵に大ダメージを与える。,2,Rebirth,パッシブ
+Mitre,Mitre,,5.100.173,赤ハート系のピックアップアイテムをソウルハート系に変換する可能性を付与する。,3,Rebirth,パッシブ
+Rainbow_Baby,Rainbow Baby,,5.100.174,アイザックに付いてきてランダムな効果を持つティアを撃つファミリアをスポーンする。,1,Rebirth,パッシブ
+Dad%27s_Key,Dad's Key,,5.100.175,"起動したときに現在の部屋の全てのドアを開ける。
+ドアは鍵が必要なもの、シークレットルームの入り口、メガサタンへのドアも含む。",1,Rebirth,アクティブ
+Stem_Cells,Stem Cells,,5.100.176,満タンの赤ハートコンテナを1つ得て、ショットスピード+0.16。,1,Rebirth,パッシブ
+Portable_Slot,Portable Slot,,5.100.177,スロットマシーンのように、使用時に1コインを消費して、ランダムなピックアップアイテムがドロップする可能性がある。,0,Rebirth,アクティブ
+Holy_Water,Holy Water,,5.100.178,"アイザックが撃った時に前へ飛ぶ瓶のファミリア。
+敵に当たったときに割れ、敵を石化させる青いクリープを作る。",3,Rebirth,パッシブ
+Fate,Fate,,5.100.179,飛行とエターナルハート1つを付与する。,3,Rebirth,パッシブ
+The_Black_Bean,The Black Bean,,5.100.180,"ダメージを受けた時、アイザックがおならをする。
+有効距離にいる全ての敵に毒のダメージを与える。",0,Rebirth,パッシブ
+White_Pony,White Pony,,5.100.181,"常時効果として飛行を付与し、スピードが1.5まで上昇する。
+使用時にアイザックがポニーの向いている方向へ突進し、突進中は不死身になりアイザックの4倍+28のダメージを与え、軌跡に出る光線はアイザックの4倍+10ダメージを与える。",2,Rebirth,アクティブ
+Sacred_Heart,Sacred Heart,,5.100.182,"満タンの赤ハートコンテナを1つ得て赤ハートが全回復する。
+誘導ティアを付与し、ダメージ倍率x2.3、フラットダメージ+1、ティア-0.4、ショットスピード-0.25、ティアハイト+0.75。",4,Rebirth,パッシブ
+Toothpicks,Toothpicks,,5.100.183,ティア+0.7、ショットスピード+0.16。,3,Rebirth,パッシブ
+Holy_Grail,Holy Grail,,5.100.184,飛行と赤ハートコンテナ1つを付与する。,3,Rebirth,パッシブ
+Dead_Dove,Dead Dove,,5.100.185,地形貫通ティアと飛行を付与する。,3,Rebirth,パッシブ
+Blood_Rights,Blood Rights,,5.100.186,使用時に、赤ハート1つを消費して部屋内の敵全てに40ダメージを与える。,0,Rebirth,アクティブ
+Guppy%27s_Hair_Ball,Guppy's Hair Ball,,5.100.187,"アイザックの後ろをゆるくついてくるファミリアをスポーンし、敵の弾をブロックしてフレイルのように振り回して敵にダメージを与えられる。
+敵を倒すと大きく育つ。",1,Rebirth,パッシブ
+Abel,Abel,,5.100.188,アイザックの鏡写しで動き、アイザックと逆の方向に撃つファミリアをスポーンする。,0,Rebirth,パッシブ
+SMB_Super_Fan,SMB Super Fan,,5.100.189,"赤ハートコンテナ+1、ダメージ+0.3、ティア+0.2、スピード+0.2、レンジ+0.5、ティアハイト+1。
+赤ハートを全回復する。",3,Rebirth,パッシブ
+Pyro,Pyro,,5.100.190,爆弾+99個。,3,Rebirth,パッシブ
+3_Dollar_Bill,3 Dollar Bill,,5.100.191,数秒ごとにアイザックのティアへランダムな効果を付与する。,2,Rebirth,パッシブ
+Telepathy_for_Dummies,Telepathy for Dummies,,5.100.192,今いる部屋で誘導ティアとレンジ+3を付与する。,0,Rebirth,アクティブ
+MEAT!,MEAT!,,5.100.193,満タンの赤ハートコンテナ1つを付与し、ダメージ+0.3。,2,Rebirth,パッシブ
+Magic_8_Ball,Magic 8 Ball,,5.100.194,"ショットスピード+0.16、ランダムなタロットカードをスポーンする。
+プラネタリウムが見つかる可能性が上昇する。",1,Rebirth,パッシブ
+Mom%27s_Coin_Purse,Mom's Coin Purse,,5.100.195,アイザックの近くにランダムなピルを4つスポーンする。,1,Rebirth,パッシブ
+Squeezy,Squeezy,,5.100.196,ティア+0.4、ソウルハートが2個スポーンする。,3,Rebirth,パッシブ
+Jesus_Juice,Jesus Juice,,5.100.197,ダメージ+0.5、レンジ+0.25、ティアハイト+0.5。,2,Rebirth,パッシブ
+Box,Box,,5.100.198,様々なピックアップアイテムをスポーンする：コイン1つ、鍵1つ、爆弾1つ、赤ハート1つ、カード/ルーン1つ、ピル1つ、トリンケット1つ。,1,Rebirth,パッシブ
+Mom%27s_Key,Mom's Key,,5.100.199,鍵+2個。チェストが追加のピックアップアイテムをドロップする。,3,Rebirth,パッシブ
+Mom%27s_Eyeshadow,Mom's Eyeshadow,,5.100.200,ティアが確率で敵を魅了する。,1,Rebirth,パッシブ
+Iron_Bar,Iron Bar,,5.100.201,ダメージ+0.3。確率で、敵がランダムに動き回るようになるコンカッシブティアを撃つ。,3,Rebirth,パッシブ
+Midas%27_Touch,Midas' Touch,,5.100.202,"アイザックに触れた敵が直ちに石化して金色になる。
+この状態で倒された敵はコインをドロップする。",2,Rebirth,パッシブ
+Humbling_Bundle,Humbling Bundle,,5.100.203,"爆弾と鍵とコインと赤ハートが2個バージョンに変化する。
+これは50%の確率で発生する。",3,Rebirth,パッシブ
+Fanny_Pack,Fanny Pack,,5.100.204,アイザックがダメージを受けた時に確率でランダムなピックアップをドロップする。,1,Rebirth,パッシブ
+Sharp_Plug,Sharp Plug,,5.100.205,アイザックがダメージを受けた時に現在持っているアクティブアイテムをフルチャージにする。,1,Rebirth,パッシブ
+Guillotine,Guillotine,,5.100.206,"アイザックの頭が体から離れ、オービタルのように体の周りを回る。
+ダメージ+1、ティアディレイ-1。",2,Rebirth,パッシブ
+Ball_of_Bandages,Ball of Bandages,,5.100.207,"敵の弾を防ぎ秒間56/105ダメージを与えるオービタルを生成する。
+追加で同じアイテムを取得する毎に魅了ティアを撃ち、敵を追跡して接触ダメージを与え、接触ダメージが増加する、というように成長する。",2,Rebirth,パッシブ
+Champion_Belt,Champion Belt,,5.100.208,ダメージが上昇する代わりにチャンピオン状態の敵が出現する確率が上昇する。,3,Rebirth,パッシブ
+Butt_Bombs,Butt Bombs,,5.100.209,爆弾+5個。爆弾は画面全体を覆い、短時間全ての敵にダメージと混乱を与える。,2,Rebirth,パッシブ
+Gnawed_Leaf,Gnawed Leaf,,5.100.210,短い時間ティアを撃たず棒立ちしているとアイザックが次に動くか撃つまで透明になる。,1,Rebirth,パッシブ
+Spiderbaby,Spiderbaby,,5.100.211,被弾時に青クモを3～5匹スポーンする。,1,Rebirth,パッシブ
+Guppy%27s_Collar,Guppy's Collar,,5.100.212,死亡時に50%の確率で赤ハート半分の状態で復活する。,2,Rebirth,パッシブ
+Lost_Contact,Lost Contact,,5.100.213,"アイザックのティアが敵の弾に当たり打ち消せるようになる。
+ショットスピード-0.16。",2,Rebirth,パッシブ
+Anemic,Anemic,,5.100.214,レンジが上がる。アイザックがダメージを受けた後、部屋から出るまでアイザックが歩いた跡に赤いクリープが出る。,0,Rebirth,パッシブ
+Goat_Head,Goat Head,,5.100.215,最初の階層とチャプター4以降を除いてボス戦の後に毎回悪魔/天使部屋が出現する。,3,Rebirth,パッシブ
+Ceremonial_Robes,Ceremonial Robes,,5.100.216,黒ハート3つを得て、ダメージ+1。,3,Rebirth,パッシブ
+Mom%27s_Wig,Mom's Wig,,5.100.217,"ティアを撃つときに確率で青クモがスポーンする。
+赤ハート1つ分回復する。",3,Rebirth,パッシブ
+Placenta,Placenta,,5.100.218,満タンの赤ハートコンテナを1つ得て、毎分確率で赤ハート半分回復する。,2,Rebirth,パッシブ
+Old_Bandage,Old Bandage,,5.100.219,空の赤ハートコンテナを得る。ダメージを受けた時に確率で赤ハートがドロップする。,2,Rebirth,パッシブ
+Sad_Bombs,Sad Bombs,,5.100.220,爆弾+5個。爆発したときに周囲10方向へ自身の修正値や効果の影響を受けたティアが撃たれる。,2,Rebirth,パッシブ
+Rubber_Cement,Rubber Cement,,5.100.221,ティアが壁と敵と障害物で跳ね返る。,3,Rebirth,パッシブ
+Anti-Gravity,Anti-Gravity,,5.100.222,ティアディレイ-2。ティアを撃っている間はその場で浮き、打ち終えると打ち出した方向へティアが飛ぶ。,2,Rebirth,パッシブ
+Pyromaniac,Pyromaniac,,5.100.223,"爆弾+5個。爆発ダメージの耐性を得て、爆発を受けると回復する。
+火の耐性も得る。",4,Rebirth,パッシブ
+Cricket%27s_Body,Cricket's Body,,5.100.224,"ティアディレイ-1、レンジが下がる。ティアが物か床に当たったとき、4つの小さいティアに分裂する。
+分裂したティアのレンジとダメージはアイザックと同じになる。",3,Rebirth,パッシブ
+Gimpy,Gimpy,,5.100.225,"ダメージを受けた時に確率で青ハートがスポーンする。
+敵を倒した時に確率で半分の赤ハートがドロップする。",2,Rebirth,パッシブ
+Black_Lotus,Black Lotus,,5.100.226,赤ハート1つ、ソウルハート1つ、黒ハート1つを得る。,2,Rebirth,パッシブ
+Piggy_Bank,Piggy Bank,,5.100.227,取得時に3コインを得る。ダメージを受けた時に追加で1コイン落とす。,1,Rebirth,パッシブ
+Mom%27s_Perfume,Mom's Perfume,,5.100.228,確率で恐怖ティアを撃ち、ティアディレイ-1。,2,Rebirth,パッシブ
+Monstro%27s_Lung,Monstro's Lung,,5.100.229,通常ティアがモンストロのような14発のティアを撃つ溜め打ちに置き換わる。,2,Rebirth,パッシブ
+Abaddon,Abaddon,,5.100.230,"ダメージ+1.5、スピード+0.2。
+黒ハートを2つ得て全ての赤ハートコンテナが黒ハートに変化する。
+確率で恐怖ティアを撃つ。",3,Rebirth,パッシブ
+Ball_of_Tar,Ball of Tar,,5.100.231,確率で速度低下を付与する涙を発射する。アイザックの移動した痕跡に速度低下を付与するクリープが残るようにする。,2,Rebirth,パッシブ
+Stop_Watch,Stop Watch,,5.100.232,"スピード+0.3。
+(無印まで)全ての部屋の全ての敵に速度低下を付与。
+(AB+まで)ダメージを受けると、現在の部屋の全ての敵に速度低下を付与。
+(rep)全ての部屋の全ての敵の速度を80％にする。",4,Rebirth,パッシブ
+Tiny_Planet,Tiny Planet,,5.100.233,"レンジを大幅にアップ。涙に地形貫通を与える。
+涙が地面に落ちるまで、アイザックの周囲を一定の距離で周回するようになる。
+（rep以降）涙は発射ボタンを押した方向にわずかにシフトする。",0,Rebirth,パッシブ
+Infestation_2,Infestation 2,,5.100.234,倒した敵から味方の青クモをスポーンさせる。,4,Rebirth,パッシブ
+E._Coli,E. Coli,,5.100.236,アイザックに触れた敵をうんちに変化させる。,1,Rebirth,パッシブ
+Death%27s_Touch,Death's Touch,,5.100.237,ダメージ+1.5、ティア-0.3。涙は、当たり判定が大きく敵を貫通する鎌に変化する。,3,Rebirth,パッシブ
+Key_Piece_1,Key Piece 1,,5.100.238,"Key Piece 2と組み合わせることで、チェストまたはダークルームにあるゴールデンゲートのカギを開け、メガサタンと戦うことができる。
+エンジェルルームの確率がアップ。",0,Rebirth,パッシブ
+Key_Piece_2,Key Piece 2,,5.100.239,"Key Piece 1と組み合わせることで、チェストまたはダークルームにあるゴールデンゲートのカギを開け、メガサタンと戦うことができる。
+エンジェルルームの確率がアップ。",0,Rebirth,パッシブ
+Experimental_Treatment,Experimental Treatment,,5.100.240,"(無印のみ)アイザックのステータスをランダムに増減させる。
+(AB以降)アイザックのステータスのうちランダムな4つを増やし、ほかの2つを減らす。",1,Rebirth,パッシブ
+Contract_From_Below,Contract From Below,,5.100.241,部屋をクリアした際に獲得できるピックアップを2倍にするが、1/3の確率で何も得られなくなる。,3,Rebirth,パッシブ
+Infamy,Infamy,,5.100.242,アイザックが、爆発やビームなどを除く敵の弾を50%の確率でブロックするようになる。,2,Rebirth,パッシブ
+Trinity_Shield,Trinity Shield,,5.100.243,アイザックが射撃している方向を向く盾を出す。盾は、爆発やビームなどを除く敵の弾を50%の確率でブロックする。,3,Rebirth,パッシブ
+Tech.5,Tech.5,,5.100.244,"射撃中に4フレームごとに1/6の確率で、射程無限の貫通レーザーを発射する。
+時々、ある特定のアイテムまたはトリンケットの効果が付与された状態で発射される。",3,Rebirth,パッシブ
+20/20,20/20,,5.100.245,"アイザックの涙が、それぞれの目から同時に2つ発射されるようになる。
+(rep以降)ダメージを0.75倍する。",4,Rebirth,パッシブ
+Blue_Map,Blue Map,,5.100.246,シークレットルームとスーパーシークレットルームの場所をマップ上に表示する。,2,Rebirth,パッシブ
+BFFS!,BFFS!,,5.100.247,全てのファミリアーのサイズを大きくし、ほぼすべてのファミリアの性能を高める。,2,Rebirth,パッシブ
+Hive_Mind,Hive Mind,,5.100.248,"味方の青いハエと青いクモのサイズを大きくし、ダメージを2倍にする。
+(rep以降)青いハエや青いクモを出すファミリアの性能を高める。",2,Rebirth,パッシブ
+There%27s_Options,There's Options,,5.100.249,"ボスを倒した後のアイテムが一つではなく2つ表示される。
+片方を取ると、もう片方は消える。",3,Rebirth,パッシブ
+Bogo_Bombs,Bogo Bombs,,5.100.250,普通の爆弾が、すべて二個セットになる。,1,Rebirth,パッシブ
+Starter_Deck,Starter Deck,,5.100.251,アイザックは一度に2枚のカードを持てるようになる。　出現するピルがすべてカードに置き換えられる。,2,Rebirth,パッシブ
+Little_Baggy,Little Baggy,,5.100.252,アイザックは一度に2枚のピルを持てるようになる。　出現するカードとルーンがすべてピルに置き換えられる。,1,Rebirth,パッシブ
+Magic_Scab,Magic Scab,,5.100.253,赤ハートコンテナを1つ得る。ラック+1。,2,Rebirth,パッシブ
+Blood_Clot,Blood Clot,,5.100.254,左目から発射される涙はフラットダメージ+1、レンジ+5、ティア高度+0.5を得る。,2,Rebirth,パッシブ
+Screw,Screw,,5.100.255,ティア+0.5、ショットスピード+0.2。,3,Rebirth,パッシブ
+Hot_Bombs,Hot Bombs,,5.100.256,爆弾を5個得る。アイザックの爆弾が爆発した跡に炎が出現し、敵が触れるとダメージを与える。,1,Rebirth,パッシブ
+Fire_Mind,Fire Mind,,5.100.257,"継続ダメージを与える燃える弾を得る。
+弾は敵との接触時に確率で爆発し、その場で炎を生み出す。",2,Rebirth,パッシブ
+Missing_No.,Missing No.,,5.100.258,このアイテムを取得したときと各階層のスタート時に全てのパッシブアイテムとステータスをランダム化する。,2,Rebirth,パッシブ
+Dark_Matter,Dark Matter,,5.100.259,ダメージ+1、確率で恐怖効果の弾を撃つ。,3,Rebirth,パッシブ
+Black_Candle,Black Candle,,5.100.260,呪いを防ぐ。黒ハートを1つ得る。悪魔/天使部屋の出現確率が上昇する。,3,Rebirth,パッシブ
+Proptosis,Proptosis,,5.100.261,弾が大きく高いダメージで打ち出され、短い距離で小さくなるとともに弱くなる。,4,Rebirth,パッシブ
+Missing_Page_2,Missing Page 2,,5.100.262,"黒ハートを1つ得る。1ハート以下になるダメージを受けた時に部屋全体の敵に80ダメージを与える。
+黒ハートとネクロノミコン系の効果が40ダメージ増加する。",0,Rebirth,パッシブ
+Clear_Rune,Clear Rune,,5.100.263,自身が所持しているルーンかソウルストーンと同じ効果を発揮する。,2,Repentance,アクティブ
+Smart_Fly,Smart Fly,,5.100.264,"敵の弾を防ぐオービタルファミリアをスポーンする。
+ダメージを受けた時にその敵を追尾して秒間22.5ダメージを与える。",2,Rebirth,パッシブ
+Dry_Baby,Dry Baby,,5.100.265,"アイザックに付いてきて敵の弾を防ぐファミリアをスポーンする。
+弾を防いだ時、確率でネクロノミコン効果が発生する。",3,Rebirth,パッシブ
+Juicy_Sack,Juicy Sack,,5.100.266,"アイザックに付いてきて速度低下クリープを垂れ流す。
+部屋のクリアごとに青ハエを1～2匹スポーンする。",2,Rebirth,パッシブ
+Robo-Baby_2.0,Robo-Baby 2.0,,5.100.267,アイザックが弾を撃つ方向に動いて視界内の敵がいる方向にレーザーを撃つファミリアをスポーンする。,1,Rebirth,パッシブ
+Rotten_Baby,Rotten Baby,,5.100.268,"アイザックが弾を撃っている間青ハエを1匹スポーンさせるファミリアをスポーンする。
+ハエは同時に1匹しか所持できない。",3,Rebirth,パッシブ
+Headless_Baby,Headless Baby,,5.100.269,アイザックに付いてきて地面に血のクリープを残すファミリアをスポーンする。,1,Rebirth,パッシブ
+Leech,Leech,,5.100.270,"敵を追いかけ秒間3ダメージ与えるヒルのファミリアをスポーンする。
+ヒルが敵を倒した時に赤ハート半分回復する。",1,Rebirth,パッシブ
+Mystery_Sack,Mystery Sack,,5.100.271,5～6部屋ごとにハートかコインか爆弾か鍵をドロップするファミリアをスポーンする。,2,Rebirth,パッシブ
+BBF,BBF,,5.100.272,"部屋内をジグザクに飛行して敵に当たったときに爆発するファミリアをスポーンする。
+爆発後は10秒後にリスポーンする。",1,Rebirth,パッシブ
+Bob%27s_Brain,Bob's Brain,,5.100.273,"弾を撃っている方向に突進して敵に当たったときに爆発し、ダメージを与えて毒状態にするファミリアをスポーンする。
+爆発後は数秒後にリスポーンする。",1,Rebirth,パッシブ
+Best_Bud,Best Bud,,5.100.274,"ダメージを受けた時、その部屋内だけForever Aloneのような早いオービタルの攻撃ハエを生成する。
+秒間150ダメージ。",0,Rebirth,パッシブ
+Lil_Brimstone,Lil Brimstone,,5.100.275,アイザックが弾を撃っている間溜めて細いブリムストーンレーザーを撃つファミリアを得る。,3,Rebirth,パッシブ
+Isaac%27s_Heart,Isaac's Heart,,5.100.276,"アイザックは全てのダメージを無効化して、心臓のファミリアが付いてくるようになる。
+心臓が傷付いたとき、アイザックも傷付く。
+心臓はアイザックが撃っている間ゲージを溜めて、離した時に8方向へ血を撃ち敵をノックバックさせて、クリープの水たまりを残す。",0,Rebirth,パッシブ
+Lil_Haunt,Lil Haunt,,5.100.277,敵を追尾するファミリアをスポーンして、秒間4ダメージを与え恐怖効果を付与する。,1,Rebirth,パッシブ
+Dark_Bum,Dark Bum,,5.100.278,"アイザックに付いてきて赤ハートを集めるファミリアをスポーンする。
+1と1/2赤ハートを集めた時、Dark Bumは報酬をくれる。",3,Rebirth,パッシブ
+Big_Fan,Big Fan,,5.100.279,敵に秒間30ダメージを与え、敵の弾を防ぐ大きなオービタルファミリアをスポーンする。,2,Rebirth,パッシブ
+Sissy_Longlegs,Sissy Longlegs,,5.100.280,ランダムに動き回って青クモをたまにスポーンするファミリアをスポーンする。,1,Rebirth,パッシブ
+Punching_Bag,Punching Bag,,5.100.281,"ランダムに動き回るマリガンファミリアをスポーンする。
+近くにいる場合、敵はマリガンを攻撃する。",1,Rebirth,パッシブ
+How_to_Jump,How to Jump,,5.100.282,使用するとアイザックは今動いている方向にジャンプをして、敵や障害物を跳び越して移動する。,1,Rebirth,アクティブ
+D100,D100,,5.100.283,D1とD4とD6とD7とD8とD10とD12とD20を組み合わせた効果。,3,Rebirth,アクティブ
+D4,D4,,5.100.284,全ての取得済みパッシブアイテムをリロールする。,3,Rebirth,アクティブ
+D10,D10,,5.100.285,"部屋内の敵をリロールする。
+この時同じくらいのHPの敵へリロールしようとする。",0,Rebirth,アクティブ
+Blank_Card,Blank Card,,5.100.286,アイザックが所持しているカードの効果をコピーする。,2,Rebirth,アクティブ
+Book_of_Secrets,Book of Secrets,,5.100.287,現在の階層でTreasure MapかThe CompassかBlue Mapの効果を発揮する。,0,Rebirth,アクティブ
+Box_of_Spiders,Box of Spiders,,5.100.288,敵にアイザックの2倍ダメージを与える青クモを4～8匹スポーンする。,1,Rebirth,アクティブ
+Red_Candle,Red Candle,,5.100.289,"障害物をすり抜けないが溝は越える炎を投げる。
+通り抜けたものにダメージを与えて、敵に当たるか敵の弾を防ぐと炎は小さくなる。",2,Rebirth,アクティブ
+The_Jar,The Jar,,5.100.290,体力が満タンの時、瓶に4つまで追加の赤ハートを保持できる。,0,Rebirth,アクティブ
+Flush!,Flush!,,5.100.291,"部屋内のボスでないモンスターをすべてうんちに変える。
+うんち系のボスは即死する。",1,Rebirth,アクティブ
+Satanic_Bible,Satanic Bible,,5.100.292,"黒ハートを1つ得る。
+使用した階層のボス部屋アイテムを悪魔取引に置き換える。",4,Rebirth,アクティブ
+Head_of_Krampus,Head of Krampus,,5.100.293,クランパスが撃つように、4方向に強力なブリムストーンビームを発射する。,2,Rebirth,アクティブ
+Butter_Bean,Butter Bean,,5.100.294,"使用するとアイザックがおならをして近くの敵と弾をノックバックさせる。
+壁や障害物に押し付けられた敵へ12ダメージを与える。",1,Rebirth,アクティブ
+Magic_Fingers,Magic Fingers,,5.100.295,1コインを消費して部屋内の全敵へ大ダメージを与える。,1,Rebirth,アクティブ
+Converter,Converter,,5.100.296,ソウルハートか黒ハート1つを満タンの赤ハートコンテナ1つへ変換する。,2,Rebirth,アクティブ
+Pandora%27s_Box,Pandora's Box,,5.100.297,"使用時に使用した階層に準拠したピックアップやアイテムをスポーンする。
+使用後は消滅する。",2,Rebirth,アクティブ
+Unicorn_Stump,Unicorn Stump,,5.100.298,5秒間弾を撃てなくなる代わりに無敵になりスピードが上昇する。,1,Rebirth,アクティブ
+Taurus,Taurus,,5.100.299,"スピード-0.3。部屋に敵がいる間徐々にスピードが上昇する。
+スピードが最大になると5秒間My Little Unicornの効果を得る。",1,Rebirth,パッシブ
+Aries,Aries,,5.100.300,"スピード+0.25。敵にハイスピードで突っ込むとダメージを与える。
+ダメージを与える際は接触ダメージを受けない。",2,Rebirth,パッシブ
+Cancer,Cancer,,5.100.301,ソウルハート3つを得る。1度ダメージを受けるとその部屋ではThe Waferの効果が発動する。,3,Rebirth,パッシブ
+Leo,Leo,,5.100.302,アイザックが岩を踏みつぶせるようになる。,1,Rebirth,パッシブ
+Virgo,Virgo,,5.100.303,"ダメージを受けた時に確率で10秒間全てのダメージを無効化するシールドを張る。
+全ての悪いピルがいいピルに置き換わる。",2,Rebirth,パッシブ
+Libra,Libra,,5.100.304,コイン+6、爆弾+6、鍵+6、全てのステータスが平均化される。,1,Rebirth,パッシブ
+Scorpio,Scorpio,,5.100.305,弾が、時間経過でダメージを与える毒効果を得る。,3,Rebirth,パッシブ
+Sagittarius,Sagittarius,,5.100.306,スピード+0.2、敵貫通弾を得る。,3,Rebirth,パッシブ
+Capricorn,Capricorn,,5.100.307,赤ハートコンテナ、爆弾、コイン、鍵を1つ得て、ダメージ+0.5、スピード+0.1、レンジ+0.75、ティアディレイ-1.0。,3,Rebirth,パッシブ
+Aquarius,Aquarius,,5.100.308,"アイザックが通った後に青いクリープが残り、敵にダメージを与える。
+クリープには誘導のようなアイザックの弾効果のほとんどが反映される。",1,Rebirth,パッシブ
+Pisces,Pisces,,5.100.309,ティアディレイ-1、弾が大きくなりノックバック効果を得る。,2,Rebirth,パッシブ
+Eve%27s_Mascara,Eve's Mascara,,5.100.310,ダメージが2倍になり、ティアが半分になり、ショットスピードが下がる。,2,Rebirth,パッシブ
+Judas%27_Shadow,Judas' Shadow,,5.100.311,死亡時にアイザックがダークユダとして最も最近の非敵対部屋に黒ハート2個でリスポーンする。,3,Rebirth,パッシブ
+Maggy%27s_Bow,Maggy's Bow,,5.100.312,"赤ハートコンテナを1つ得て、赤ハートの回復効果が倍になる。
+取得時に赤ハート1つ回復する。",2,Rebirth,パッシブ
+Holy_Mantle,Holy Mantle,,5.100.313,"部屋ごとに最初のダメージを防ぐシールドを得る。
+自傷ダメージには適用されない。",4,Rebirth,パッシブ
+Thunder_Thighs,Thunder Thighs,,5.100.314,"アイザックに触れた岩を破壊する。
+赤ハートコンテナを1つ得てスピードが下がる。",1,Rebirth,パッシブ
+Strange_Attractor,Strange Attractor,,5.100.315,ピックアップとトリンケットと敵がアイザックの弾に磁石のように引き寄せられる。,0,Rebirth,パッシブ
+Cursed_Eye,Cursed Eye,,5.100.316,"最大5点バーストになる溜め打ちを得る。
+溜め中にダメージを受けると他の部屋へテレポートする。",0,Rebirth,パッシブ
+Mysterious_Liquid,Mysterious Liquid,,5.100.317,弾が衝突するか床に落ちたとき、小さな短時間で消えるクリープの水たまりを作る。,3,Rebirth,パッシブ
+Gemini_(Item),Gemini,,5.100.318,アイザックに近づいた敵を追尾して最大秒間8ダメージを与える、結合したファミリアをスポーンする。,1,Rebirth,パッシブ
+Cain%27s_Other_Eye,Cain's Other Eye,,5.100.319,The Peeperのように部屋中をゆっくりジグザグに漂い通常弾を自身と同じ方向に撃つファミリアをスポーンする。,0,Rebirth,パッシブ
+%3F%3F%3F%27s_Only_Friend,???'s Only Friend,,5.100.320,"コントロール可能で接触時に秒間37.5ダメージを与えるファミリアをスポーンする。
+これは弾を撃つキー操作で動かせる。",2,Rebirth,パッシブ
+Samson%27s_Chains,Samson's Chains,,5.100.321,アイザックに、当たると敵にダメージを与え、敵の弾を防ぎ、ほとんどの障害物を破壊する鎖つき鉄球を装着する。,1,Rebirth,パッシブ
+Mongo_Baby,Mongo Baby,,5.100.322,アイザックの他のファミリアの弾をコピーするファミリアをスポーンする。,2,Rebirth,パッシブ
+Isaac%27s_Tears,Isaac's Tears,,5.100.323,"アイザックの周囲8方向にダメージ、レンジ、ショットスピード、特殊な弾効果が反映された弾を撃つ。
+アイザックによる弾発射1回につき1ゲージチャージが貯まる。",0,Rebirth,アクティブ
+Undefined,Undefined,,5.100.324,シークレットルームかスーパーシークレットルームかアイテム部屋かエラー部屋にテレポートする。,2,Rebirth,アクティブ
+Scissors,Scissors,,5.100.325,"アイザックの頭が現在の部屋だけ動かずに自動で弾を撃つファミリアになる。
+アイザックの体はその部屋だけコントロール可能な血の弾の噴水を撃つ。",1,Rebirth,アクティブ
+Breath_of_Life,Breath of Life,,5.100.326,"チャージゲージが0になるまで息を止めて無敵になる。
+ゲージが0になってからもスペースバーを押し続けているとアイザックはダメージを受ける。",0,Rebirth,アクティブ
+The_Polaroid,The Polaroid,,5.100.327,"自身がダメージを受けた時に赤ハートが半分以下だと5秒間ダメージを無効にするバリアを張る。
+これを取得するとChestルートに行く。
+また、Homeルートに行くことも可能となる。",2,Rebirth,パッシブ
+The_Negative,The Negative,,5.100.328,"自身がダメージを受けた時に赤ハートが半分以下だと部屋内の敵に大ダメージを与える。
+これを取得するとDark Roomルートに行く。
+また、Homeルートに行くことも可能となる。",2,Rebirth,パッシブ
+The_Ludovico_Technique,The Ludovico Technique,,5.100.329,"地形貫通する1つの浮遊弾を操作する。
+この弾は接触している敵にダメージを継続して与える。",2,Rebirth,パッシブ
+Soy_Milk,Soy Milk,,5.100.330,弾が小さくなってダメージがとても少なくなる、代わりにとても早く撃てる。,2,Rebirth,パッシブ
+Godhead,Godhead,,5.100.331,"ダメージを与える光の円を持つ誘導弾を得る。
+ダメージ+0.5、ティア-0.3、ショットスピード-0.3、ティア高度+0.8、レンジ+1.2。",4,Rebirth,パッシブ
+Lazarus%27_Rags,Lazarus' Rags,,5.100.332,死亡時に現在の部屋で、Anemicを持った状態で赤ハートコンテナ1つと共に復活ラザロとして蘇生する。,1,Rebirth,パッシブ
+The_Mind,The Mind,,5.100.333,特殊部屋とシークレットルームらを含むすべてのマップを公開する。,3,Rebirth,パッシブ
+The_Body,The Body,,5.100.334,赤ハートコンテナ3つを得る。,3,Rebirth,パッシブ
+The_Soul,The Soul,,5.100.335,"ソウルハートを2つ得る。
+アイザックは敵や弾を逸らす脈打つオーラを得る。",3,Rebirth,パッシブ
+Dead_Onion,Dead Onion,,5.100.336,"敵貫通かつ地形貫通の弾を得る。
+(ダメージは上昇しないが)弾のサイズが大きくなり、レンジとショットスピードが下がる。",3,Rebirth,パッシブ
+Broken_Watch,Broken Watch,,5.100.337,"部屋に入った際、確率で全ての敵と敵の攻撃が遅くなるか早くなる。
+敵が遅くなる確率は敵が早くなる確率より少し高い。",1,Rebirth,パッシブ
+The_Boomerang,The Boomerang,,5.100.338,ピックアップを拾うことができ、敵に当たるとダメージを与え2秒間石化させるブーメランを投げる。,2,Rebirth,アクティブ
+Safety_Pin,Safety Pin,,5.100.339,"黒ハートを1つ得る。
+レンジ+5.25、ティア高度+0.5、ショットスピード+0.16。",1,Rebirth,パッシブ
+Caffeine_Pill,Caffeine Pill,,5.100.340,スピード+0.3、キャラのサイズが小さくなり、ランダムなピルを得る。,1,Rebirth,パッシブ
+Torn_Photo,Torn Photo,,5.100.341,ティア+0.7、ショットスピード+0.16。,3,Rebirth,パッシブ
+Blue_Cap,Blue Cap,,5.100.342,"満タンの赤ハートコンテナ1つを付与し、ティア+0.7、ショットスピード-0.16。
+追加で赤ハート2つ分回復する。",3,Rebirth,パッシブ
+Latch_Key,Latch Key,,5.100.343,ソウルハート1つを付与し、ラック+1。鍵を2個スポーンする。,2,Rebirth,パッシブ
+Match_Book,Match Book,,5.100.344,黒ハートを1つ付与し、爆弾を2～3個スポーンする。,1,Rebirth,パッシブ
+Synthoil,Synthoil,,5.100.345,ダメージ+1、レンジ+5.25、ティア高度+0.5。,3,Rebirth,パッシブ
+A_Snack,A Snack,,5.100.346,"満タンの赤ハートコンテナ1つを付与する。
+追加で赤ハート1つ分回復する。",1,Rebirth,パッシブ
+Diplopia,Diplopia,,5.100.347,"部屋内の全てのピックアップとアイテム台座を複製する。
+使用後に消滅する。",3,AB,アクティブ
+Placebo,Placebo,,5.100.348,"使用時に自身が所持しているピルの効果をピルを消費することなく発揮する。
+カードとルーンの効果は発揮しない。",2,AB,アクティブ
+Wooden_Nickel,Wooden Nickel,,5.100.349,使用時に50%の確率でランダムなコインをドロップする。,1,AB,アクティブ
+Toxic_Shock,Toxic Shock,,5.100.350,"部屋に入ったとき全ての敵を毒状態にし、アイザックのダメージの2倍を与える。
+倒された敵は短時間で消える小さな緑色のクリープを地上に残す。",3,AB,パッシブ
+Mega_Bean,Mega Bean,,5.100.351,部屋内の敵を2秒間石化させ、アイザックの近くにいる敵を毒状態にし、アイザックの向く方向へ壁の端まで届く岩の衝撃波を起こす。,1,AB,アクティブ
+Glass_Cannon,Glass Cannon,,5.100.352,"敵と地形を貫通する大ダメージの弾を撃つ。
+これを持っている時にダメージを受けると追加のダメージを受けたうえでアイテムがBroken Glass Cannonに変化する。",1,AB,アクティブ
+Bomber_Boy,Bomber Boy,,5.100.353,"爆弾+5個。爆破パターンが大きな十字に変化する。
+これはプレイヤーがスポーンさせたトロールボムにも適用される。",2,AB,パッシブ
+Crack_Jacks,Crack Jacks,,5.100.354,満タンの赤ハートコンテナ1つを得て、ランダムなトリンケットをドロップする。,2,AB,パッシブ
+Mom%27s_Pearls,Mom's Pearls,,5.100.355,"レンジ+1.25、ティア高度+0.5、ラック+1。
+ソウルハートを1つ得る。",2,AB,パッシブ
+Car_Battery,Car Battery,,5.100.356,アイザックが使用したアクティブアイテムは2回起動する。,3,AB,パッシブ
+Box_of_Friends,Box of Friends,,5.100.357,"現在の部屋のみアイザックのファミリアをすべて複製する。
+アイザックがファミリアを持っていないとき、Damon Babyを直ちにスポーンする。",1,AB,アクティブ
+The_Wiz,The Wiz,,5.100.358,"R U a Wizard？のピル効果のように両目から同時に斜めに弾を撃つ。
+アイザックの弾は地形貫通効果を得る。",1,AB,パッシブ
+8_Inch_Nails,8 Inch Nails,,5.100.359,ダメージ+1.5。アイザックの弾が釘に置き換わり、ノックバックが増加する。,3,AB,パッシブ
+Incubus,Incubus,,5.100.360,"アイザックのダメージ、ティア、ティア効果に準拠した弾を撃つ悪魔のようなファミリアをスポーンする。
+リリス以外のキャラクターが使用する場合、ダメージは25%に減少する。",4,AB,パッシブ
+Fate%27s_Reward,Fate's Reward,,5.100.361,アイザックに付いてきてティア効果とダメージをコピーした弾を撃つ青い頭のファミリアをスポーンする。,2,AB,パッシブ
+Lil_Chest,Lil Chest,,5.100.362,部屋のクリア時に25%の確率でランダムなピックアップを、10％の確率でランダムなトリンケットをスポーンさせる小さなチェストのファミリアをスポーンする。,2,AB,パッシブ
+Sworn_Protector,Sworn Protector,,5.100.363,"敵の弾を防ぎ秒間105ダメージを与えるオービタルファミリアをスポーンする。
+1つの部屋で10発の弾を防いだ時、エターナルハートをドロップする。",3,AB,パッシブ
+Friend_Zone,Friend Zone,,5.100.364,Distant AdmirationとForever Aloneの中間を周回し、秒間45ダメージを与える白いハエをスポーンする。,1,AB,パッシブ
+Lost_Fly,Lost Fly,,5.100.365,直線を動き最初に接触した壁か障害物を周回し、秒間105ダメージを与えるハエのファミリアをスポーンする。,1,AB,パッシブ
+Scatter_Bombs,Scatter Bombs,,5.100.366,爆弾を5個得る。アイザックの爆弾が爆発したときに2～4個の小さな爆弾が出現する。,1,AB,パッシブ
+Sticky_Bombs,Sticky Bombs,,5.100.367,爆弾+5個。爆弾が敵に張り付き、敵を倒した時に2～4匹の青クモをスポーンする。,1,AB,パッシブ
+Epiphora,Epiphora,,5.100.368,"一方向を撃ち続けていると上限値まで徐々にティアが上昇する。
+撃つのをやめるか別方向を撃ち始めた時、ティアが元の数値まで戻る。",1,AB,パッシブ
+Continuum,Continuum,,5.100.369,"地形貫通弾を得てレンジが上がる。
+ティアは壁を貫通して部屋の逆サイドから出現する。",2,AB,パッシブ
+Mr._Dolly,Mr. Dolly,,5.100.370,ティア+0.7、レンジ+5.25、ティア高度+0.5、取得時にランダムなハートを3つスポーンする。,3,AB,パッシブ
+Curse_of_the_Tower,Curse of the Tower,,5.100.371,ダメージを受けた時、XVI - The Towerのように部屋中に6個のトロールボムをスポーンする。,1,AB,パッシブ
+Charged_Baby,Charged Baby,,5.100.372,確率で、リトルバッテリーをドロップしたり、アクティブアイテムのゲージをチャージしたり、部屋内の敵を石化させるファミリアをスポーンする。,3,AB,パッシブ
+Dead_Eye,Dead Eye,,5.100.373,"弾が敵に当たるたびダメージが上昇する。
+ダメージは弾が外れた時にリセットされる。",3,AB,パッシブ
+Holy_Light,Holy Light,,5.100.374,確率で、敵に当たると周囲にダメージを与える光線を作る聖なる弾を撃つ。,3,AB,パッシブ
+Host_Hat,Host Hat,,5.100.375,"アイザックの頭上に、確率で敵の弾を防ぎ3つの弾を打ち返すホストのファミリアを生成する。
+爆発無効を得る。",3,AB,パッシブ
+Restock,Restock,,5.100.376,"ショップで商品を購入したときに直ちに補充される。
+グリードモード以外では、補充されたアイテムは購入したアイテムより高くなる。",2,AB,パッシブ
+Bursting_Sack,Bursting Sack,,5.100.377,クモ型の敵がアイザックをターゲットにせず接触ダメージを与えなくなる。,1,AB,パッシブ
+No._2,Number Two,,5.100.378,3秒間弾を撃ち続けるとアイザックが爆発時に部屋内の敵にダメージを与え混乱効果を付与するButt Bombをドロップする。,2,AB,パッシブ
+Pupula_Duplex,Pupula Duplex,,5.100.379,弾に地形貫通効果を与え、弾の形が広い弓なりになってサイズが大きくなる。,2,AB,パッシブ
+Pay_to_Play,Pay to Play,,5.100.380,コイン+5。開けるのに鍵を1つ必要とするドアがコイン1つで開くようになる。,2,AB,パッシブ
+Eden%27s_Blessing,Eden's Blessing,,5.100.381,ティア+0.7。次のランのスタート時にランダムなアイテムを得る。,3,AB,パッシブ
+Friendly_Ball,Friendly Ball,,5.100.382,"ボールを投げてモンスターを倒し捕獲する。
+捕獲したモンスターは後に放つと友好状態となり、アイザックのために部屋を跨いで戦う。",2,AB,アクティブ
+Tear_Detonator,Tear Detonator,,5.100.383,使用すると画面上にあるいずれかの弾を爆発させ、Tammy's headのように周囲6方向へ弾を撃つ。,1,AB,アクティブ
+Lil_Gurdy,Lil Gurdy,,5.100.384,アイザックが撃っている間に溜めて、解放したときに部屋中を跳ねまわって速度に応じた接触ダメージを与えるガーディJr.のファミリアをスポーンする。,2,AB,パッシブ
+Bumbo,Bumbo,,5.100.385,"近くのコインを収集して数枚のコインを得るとレベルアップする乞食のファミリアをスポーンする。
+レベル2でBumboは体を得る。レベル3で弾を撃ち始める。レベル4で敵を追尾して接触ダメージを与える。",1,AB,パッシブ
+D12,D12,,5.100.386,"部屋にある全ての岩と金属ブロックを爆弾岩やTNT、うんちのようなランダムな物へリロールする。
+うんちとTNTはこの効果でリロールされない。",0,AB,アクティブ
+Censer,Censer,,5.100.387,内側にいる敵の弾と敵の動きを遅くする円形のオーラを作るファミリアをスポーンする。,3,AB,パッシブ
+Key_Bum,Key Bum,,5.100.388,アイザックに付いてきて鍵を収集し、お返しとしてランダムなチェストをくれるファミリアをスポーンする。,0,AB,パッシブ
+Rune_Bag,Rune Bag,,5.100.389,7～8部屋クリアするごとにランダムなルーンをドロップするファミリアをスポーンする。,3,AB,パッシブ
+Seraphim,Seraphim,,5.100.390,アイザックに付いてきて10ダメージの誘導弾を75%のショットスピードで撃つ天使のファミリアをスポーンする。,3,AB,パッシブ
+Betrayal,Betrayal,,5.100.391,アイザックがダメージを受けると敵を魅了状態にする。魅了状態は敵同士攻撃しあうようになる。,0,AB,パッシブ
+Zodiac,Zodiac,,5.100.392,各階層でランダムな星座アイテムの効果が発動する。,1,AB,パッシブ
+Serpent%27s_Kiss,Serpent's Kiss,,5.100.393,"弾が確率で敵に毒効果を付与する。アイザックが敵に接触したときも毒を与える。
+毒状態の敵が倒された時、確率で黒ハートをドロップする。",2,AB,パッシブ
+Marked,Marked,,5.100.394,"アイザックは地上の赤い照準に向けて自動で弾を発射する。
+照準は弾制御キーで操作する。
+ティア+0.7、レンジ+3.15。",1,AB,パッシブ
+Tech_X,Tech X,,5.100.395,"弾が敵を貫通して通過時にダメージを与える円形のレーザーに置き換わる。
+溜めることで円の大きさが大きくなる。",4,AB,パッシブ
+Ventricle_Razor,Ventricle Razor,,5.100.396,"使用するとオレンジのポータルと青のポータルを設置する。
+ポータルに入るともう一方のポータルへテレポートする。",1,AB,アクティブ
+Tractor_Beam,Tractor Beam,,5.100.397,"ティアとレンジとショットスピードが上昇する。
+アイザックの顔からビームが発射され、弾はそれに追随する。",3,AB,パッシブ
+God%27s_Flesh,God's Flesh,,5.100.398,"弾が確率で敵を小さくし、アイザックから逃げる。
+小さくなった敵は踏みつぶすことで倒せる。",1,AB,パッシブ
+Maw_of_the_Void,Maw of the Void,,5.100.399,2.35秒溜めてから離すと素早くダメージを与える黒い円をアイザックの周りに出す。,4,AB,パッシブ
+Spear_of_Destiny,Spear of Destiny,,5.100.400,"涙に加えてアイザックが前に槍を突き出す。
+槍はダメージの2倍と同じ接触ダメージを与え、時折恐怖効果を与える。",1,AB,パッシブ
+Explosivo,Explosivo,,5.100.401,弾が確率で敵に張り付き爆発する。,2,AB,パッシブ
+Chaos,Chaos,,5.100.402,"床に1～6個のランダムなピックアップをドロップする。
+アイテムがランダムなアイテムプールから出現するようになる。",3,AB,パッシブ
+Spider_Mod,Spider Mod,,5.100.403,"アイザックが与えたダメージと敵の体力バーを表示する。
+部屋内を歩き回り接触した敵へランダムなステータス異常を与えるファミリアをスポーンする。
+部屋のクリア時にリトルバッテリーか青クモをスポーンする。",1,AB,パッシブ
+Farting_Baby,Farting Baby,,5.100.404,"アイザックに付いてきて敵の弾を防ぐファミリアをスポーンする。
+Farting Babyに敵の弾が当たったとき、確率で近くの敵に魅了と毒を与えノックバックさせるおならをする。",1,AB,パッシブ
+GB_Bug,GB Bug,,5.100.405,アイザックについてきて、発射ボタンのダブルタップで前へ発射され、最初に触れたモンスターかピックアップをリロールするファミリアをスポーンする。,1,AB,パッシブ
+D8,D8,,5.100.406,アイザックのダメージとティアとレンジとスピードをリロールする。,2,AB,アクティブ
+Purity,Purity,,5.100.407,"アイザックに出るオーラの色に応じてステータスを1つ上昇させる。
+ダメージを受けた時にオーラは消えて、新しい部屋に入ったときランダムな色で再生成される。
+赤はダメージ、青はティア、黄はスピード、オレンジはレンジを上昇させる。",2,AB,パッシブ
+Athame,Athame,,5.100.408,アイザックがダメージを受けた時に周囲に黒い円が現れ、近くの敵にダメージを与える。,1,AB,パッシブ
+Empty_Vessel,Empty Vessel,,5.100.409,黒ハートを2つ得る。アイザックが赤ハートを持っていないとき、飛行を得て定期的に数秒間無敵になるバリアを張る。,2,AB,パッシブ
+Evil_Eye,Evil Eye,,5.100.410,"確率でアイザックと同じ方向に弾を撃つゆっくり動く目を撃つ。
+目は敵か障害物に当たったときに破壊される。",2,AB,パッシブ
+Lusty_Blood,Lusty Blood,,5.100.411,敵を倒す度に現在の部屋でだけアイザックのダメージが上昇する。,3,AB,パッシブ
+Cambion_Conception,Cambion Conception,,5.100.412,一定回数ダメージを受けると永続的な悪魔系ファミリアがスポーンする。,2,AB,パッシブ
+Immaculate_Conception,Immaculate Conception,,5.100.413,一定回数ハートアイテムを取得すると、永続的な天使系ファミリアがスポーンする。,1,AB,パッシブ
+More_Options,More Options,,5.100.414,"アイテム部屋に毎回2種類のアイテムがスポーンする。
+片方を取ると片方は消滅する。",3,AB,パッシブ
+Crown_of_Light,Crown of Light,,5.100.415,"ソウルハートを2個得る。
+アイザックが空の赤ハートコンテナを持っていないとき、ダメージ倍率x2、レンジ+5.25、ショットスピード-0.3。
+体力に関係なく、ダメージを受けるとその部屋だけ効果が無くなる。",4,AB,パッシブ
+Deep_Pockets,Deep Pockets,,5.100.416,"アイザックがカードやピルを2個同時に持てるようになる。
+コインの取得上限が999になる。
+部屋クリア報酬が何も無いとき、コインが1～3枚スポーンする。",2,AB,パッシブ
+Succubus,Succubus,,5.100.417,"敵が入ると素早くダメージを与える黒いオーラと共に部屋中を跳ねまわる飛行するファミリアをスポーンする。
+アイザックがオーラの中にいるとダメージ倍率x1.5。",3,AB,パッシブ
+Fruit_Cake,Fruit Cake,,5.100.418,撃つごとにランダムな効果が弾に付与される。,2,AB,パッシブ
+Teleport_2.0,Teleport 2.0,,5.100.419,"未探索の部屋にテレポートする。
+特殊部屋よりも通常部屋が優先され、レアな特殊部屋より通常の特殊部屋が優先される。",3,AB,アクティブ
+Black_Powder,Black Powder,,5.100.420,"アイザックが通り過ぎた床上に黒い粉の跡を付ける。
+円形に歩いたとき床に五芒星の印がスポーンし、中にいる敵へtickあたり10ダメージを与える。",1,AB,パッシブ
+Kidney_Bean,Kidney Bean,,5.100.421,使用時におならをして近くの敵を魅了する。,1,AB,アクティブ
+Glowing_Hour_Glass,Glowing Hour Glass,,5.100.422,時間を巻き戻し、現在の部屋で起こったことを無かったことにしてひとつ前の部屋に戻る。,3,AB,アクティブ
+Circle_of_Protection,Circle of Protection,,5.100.423,アイザックの周りに大きくて白い輪っかを作り、内側にいる敵へ自身のダメージ分ダメージを与え、敵の弾を友好的な誘導弾へ変換する。,1,AB,パッシブ
+Sack_Head,Sack Head,,5.100.424,コインと爆弾と鍵とカードとルーンとバッテリーは確率で袋になる。,3,AB,パッシブ
+Night_Light,Night Light,,5.100.425,自身が動く方向へ円錐形の光を放ち、中にいる敵と敵の弾を速度低下させる。,2,AB,パッシブ
+Obsessed_Fan,Obsessed Fan,,5.100.426,アイザックの動いた後を付いてきて接触した敵に秒間30ダメージを与えるファミリアをスポーンする。,0,AB,パッシブ
+Mine_Crafter,Mine Crafter,,5.100.427,"岩を破壊したり敵にダメージを与える、押すことで移動可能なTNTの樽を設置する。
+前に設置したTNTの樽がある部屋でこのアイテムを使用したとき、前に設置したものは自動的に爆発する。",1,AB,アクティブ
+PJs,PJs,,5.100.428,ソウルハートを4つ得て体力を全回復する。,2,AB,パッシブ
+Head_of_the_Keeper,Head of the Keeper,,5.100.429,自身の弾がコインに変化して、敵に当たったときに確率で1コインをドロップする。,2,AB,パッシブ
+Papa_Fly,Papa Fly,,5.100.430,アイザックの動いた後を0.66秒後についてきて近くの敵を撃つファミリアをスポーンする。,1,AB,パッシブ
+Multidimensional_Baby,Multidimensional Baby,,5.100.431,"アイザックの動いた後を0.66秒後に付いてくるファミリアをスポーンする。
+ベイビーを通過した弾は2つに増え、スピードが上昇する。",2,AB,パッシブ
+Glitter_Bombs,Glitter Bombs,,5.100.432,"爆弾を5個得る。
+爆弾は確率でランダムなピックアップを落とすか敵を魅了する。",2,AB,パッシブ
+My_Shadow,My Shadow,,5.100.433,"自身がダメージを受けるたび、部屋中の敵に恐怖を与え黒くて友好的な敵を攻撃するチャージャーをスポーンする。
+チャージャーはダメージを多く受けると倒される。",0,AB,パッシブ
+Jar_of_Flies,Jar of Flies,,5.100.434,"敵を倒すと瓶の中にハエが増え、最大20匹まで貯められる。
+使用すると溜めた数と同じ数だけ青ハエを出す。",2,AB,アクティブ
+Lil_Loki,Lil Loki,,5.100.435,アイザックに付いてきて十字4方向に弾を撃つロキのファミリアをスポーンする。,1,AB,パッシブ
+Milk!,Milk!,,5.100.436,"ダメージを受けた時にこぼれる、コップのファミリアをスポーンする。
+牛乳がこぼれた跡、アイザックのティアディレイがその部屋だけ-2される。",1,AB,パッシブ
+D7,D7,,5.100.437,同じ敵復活させ、現在の部屋をやり直し、部屋クリア時の報酬をより獲得できる。,1,AB,アクティブ
+Binky,Binky,,5.100.438,ソウルハートを1つ得て、ティア+0.75、自身のサイズが小さくなる。,3,AB,パッシブ
+Mom%27s_Box,Mom's Box,,5.100.439,"ラック+1、所持している間トリンケットの効果が2倍になる。
+使用時にランダムなトリンケットを地面にドロップする。",3,AB,アクティブ
+Kidney_Stone,Kidney Stone,,5.100.440,"弾を撃っているとランダムに弾を撃つのをやめて赤くなり、そこで溜めた大量の「涙」を一度に放出する。
+弾の放出には大ダメージを与える尿路結石が混じる。",2,AB,パッシブ
+Mega_Blast,Mega Blast,,5.100.441,"使用するとメガサタンが使うようなレーザーを撃つ。
+レーザーは大ダメージを与え、部屋を跨いで15秒間放出される。
+使用中はレーザーの反動で後ろへ動く力が働く。",4,AB,アクティブ
+Dark_Prince%27s_Crown,Dark Prince's Crown,,5.100.442,赤ハートが1つのとき、ティアとレンジとティア高度とショットスピードが増加する。,1,AB+,パッシブ
+Apple!,Apple!,,5.100.443,ティアが上昇する。確率で高いダメージのカミソリを撃つ。,3,AB+,パッシブ
+Lead_Pencil,Lead Pencil,,5.100.444,弾を15発撃つたびに高いダメージの弾の集合体を撃つ。,3,AB+,パッシブ
+Dog_Tooth,Dog Tooth,,5.100.445,"ダメージ+0.3、スピード+0.1。
+見つかっていないシークレットルームかクロールスペースのある部屋に入ったとき、短く吠えるか遠吠えをする。",1,AB+,パッシブ
+Dead_Tooth,Dead Tooth,,5.100.446,撃っている間近くの敵を毒状態にする緑のオーラを得る。,1,AB+,パッシブ
+Linger_Bean,Linger Bean,,5.100.447,撃ち続けることでアイザックは近くにいる敵にダメージを与える弾で押せるガス状の雲を出す。,0,AB+,パッシブ
+Shard_of_Glass,Shard of Glass,,5.100.448,"ダメージを受けるとアイザックが出血状態になり、弾を撃つ方向に血しぶきが飛ぶ。
+出血は最終的に自身にダメージを与えるが、赤ハートを取得することで止まる。",1,AB+,パッシブ
+Metal_Plate,Metal Plate,,5.100.449,"ソウルハートを1つ得る。
+敵の弾を確率で混乱弾として打ち返す。",1,AB+,パッシブ
+Eye_of_Greed,Eye of Greed,,5.100.450,"20発撃つごとにアイザックは1コイン失って敵を金色に石化する金の弾を追加で撃つ。
+この状態で倒された敵はコインをドロップする。",2,AB+,パッシブ
+Tarot_Cloth,Tarot Cloth,,5.100.451,"ランダムなカードかルーンをドロップする。
+タロット系カードの効果を2倍にする。",3,AB+,パッシブ
+Varicose_Veins,Varicose Veins,,5.100.452,ダメージを受けた時周囲10方向へ高いダメージの弾を撃つ。,2,AB+,パッシブ
+Compound_Fracture,Compound Fracture,,5.100.453,"レンジが上がる。
+弾が敵か障害物に当たると1～3個に分裂する骨に変化する。",2,AB+,パッシブ
+Polydactyly,Polydactyly,,5.100.454,"アイザックがカードやピルを2個同時に持てるようになる。
+ランダムなカードかピルかルーンをドロップする。",2,AB+,パッシブ
+Dad%27s_Lost_Coin,Dad's Lost Coin,,5.100.455,レンジ+1.5。ラッキーペニーを1つドロップする。,2,AB+,パッシブ
+Midnight_Snack,Midnight Snack,,5.100.456,"赤ハートコンテナを1つ得る。
+(Added in Repentance) 赤ハートを1つ追加で回復する。",1,AB+,パッシブ
+Cone_Head,Cone Head,,5.100.457,ソウルハートを1つ得る。確率でダメージを無効化するようになる。,2,AB+,パッシブ
+Belly_Button,Belly Button,,5.100.458,トリンケットをランダムに1つドロップする。トリンケットを2つ持てるようになる。,3,AB+,パッシブ
+Sinus_Infection,Sinus Infection,,5.100.459,敵にくっついて一定時間ダメージを与え続ける鼻くそを確率で撃つ。,3,AB+,パッシブ
+Glaucoma,Glaucoma,,5.100.460,敵を極めて長い時間、混乱状態にする弾を確率で撃つ。,2,AB+,パッシブ
+Parasitoid,Parasitoid,,5.100.461,敵に当たったときに速度低下クリープを作り青ハエか青クモをスポーンする卵のう弾を確率で撃つ。,3,AB+,パッシブ
+Eye_of_Belial,Eye of Belial,,5.100.462,"敵貫通弾を得る。
+敵を貫通した後、弾は誘導効果を得てダメージが2倍になる。",3,AB+,パッシブ
+Sulfuric_Acid,Sulfuric Acid,,5.100.463,"ダメージ+0.3。
+障害物を破壊する酸の弾を確率で撃つ。",2,AB+,パッシブ
+Glyph_of_Balance,Glyph of Balance,,5.100.464,"ソウルハートを2つ得て、チャンピオンモンスターからのドロップを特定の条件下で変更する。
+(repentance)部屋クリア時の報酬も変更する。",2,AB+,パッシブ
+Analog_Stick,Analog Stick,,5.100.465,"ティア+0.35。
+弾を撃てる方向に制限がなくなる。",2,AB+,パッシブ
+Contagion,Contagion,,5.100.466,"部屋内で最初に倒された敵は爆発して近くの敵を毒状態にする。
+毒状態の敵が倒れた時も同様に爆発する。",2,AB+,パッシブ
+Finger!,Finger!,,5.100.467,敵を指さし、自身のダメージ依存でダメージを与える指のファミリアをスポーンする。,1,AB+,パッシブ
+Shade,Shade,,5.100.468,"アイザックの後ろを1秒後に付いてきて敵に接触ダメージを与える影のファミリアをスポーンする。
+十分なダメージを与えると、アイザックに吸収され味方の突進者をスポーンする。",0,AB+,パッシブ
+Depression,Depression,,5.100.469,"秒間6ダメージを与えるクリープの跡をつけるファミリアをスポーンする。
+敵が雲に触わると確率でダメージを与える光線をスポーンする。",1,AB+,パッシブ
+Hushy,Hushy,,5.100.470,"部屋中を無軌道に跳ねまわり敵に接触ダメージを与えるハッシュのファミリアをスポーンする。
+弾を撃っている時は動きが止まる。",0,AB+,パッシブ
+Lil_Monstro,Lil Monstro,,5.100.471,"弾の塊を撃つファミリアをスポーンする。
+塊は溜めないと撃てない。",2,AB+,パッシブ
+King_Baby,King Baby,,5.100.472,"アイザックに付いてくるファミリアを率いるファミリアをスポーンする。
+弾を撃っている時他のファミリアは動きを止める。
+(repentance)ファミリアは近くの敵を自動的に撃つようになる。",1,AB+,パッシブ
+Big_Chubby,Big Chubby,,5.100.473,アイザックに付いてきて弾を撃っている間部屋を横切るように突進して敵の弾を防ぎ、秒間40.5ダメージを与えるファミリアをスポーンする。,1,AB+,パッシブ
+Broken_Glass_Cannon,Broken Glass Cannon,,5.100.474,"チャージなしで出現して使用するとGlass Cannonに変化する。
+Glass Cannonを所持している状態でダメージを受けたときのみ取得する。",0,Repentance,アクティブ
+Tonsil,Tonsil,,5.100.474,敵の弾を防ぐファミリアを得る。,,Repentance,パッシブ
+Plan_C,Plan C,,5.100.475,部屋内の全ての敵を倒し、その3秒後に自身が死亡する。,0,AB+,アクティブ
+D1,D1,,5.100.476,部屋内のランダムなピックアップを複製する。,4,AB+,アクティブ
+Void,Void,,5.100.477,"部屋内の全ての台座にあるアイテムを消費する。
+アクティブアイテムの効果はVoidに付与され、パッシブアイテムはランダムなステータスアップを得る。",4,AB+,アクティブ
+Pause,Pause,,5.100.478,弾の発射ボタンが押されるまで、全ての敵の動きを止める。,1,AB+,アクティブ
+Smelter,Smelter,,5.100.479,自身が今持っているトリンケットを消費し、その効果が恒久的に付与される。,3,AB+,アクティブ
+Compost,Compost,,5.100.480,"アイザックの青ハエと青クモを2倍に増やし、1匹も持っていない場合は1匹スポーンさせる。
+部屋内のピックアップを青ハエか青クモに変換する。",2,AB+,アクティブ
+Dataminer,Dataminer,,5.100.481,現在の部屋の敵のスプライトを置き換え、ランダムなステータス1つを上昇させ、他のランダムなステータス1つを減少させる。,0,AB+,アクティブ
+Clicker,Clicker,,5.100.482,アイザックはランダムなキャラクターに変身し、最後に取得したアイテムが消滅する。,0,AB+,アクティブ
+Mama_Mega!,Mama Mega!,,5.100.483,"全ての敵にダメージを与え、全ての障害物を破壊する。
+この効果は現在の階層中継続して、新しい部屋に入るたびに発動する。
+その階層のシークレットルームとスーパーシークレットルームの入り口を開く。",3,AB+,アクティブ
+Wait_What%3F,Wait What?,,5.100.484,おならをして岩の波を発生させる。,1,AB+,アクティブ
+Crooked_Penny,Crooked Penny,,5.100.485,"50%ずつの確率で部屋内の全てのアイテムとピックアップを複製するかコイン1枚をスポーンする。
+失敗効果が出た場合、アイテムとピックアップは消滅する。",1,AB+,アクティブ
+Dull_Razor,Dull Razor,,5.100.486,体力を減らすことなくアイザックが傷つき、自身が持っているアイテムのダメージを受けた時に発動する効果を発動させる。,1,AB+,アクティブ
+Potato_Peeler,Potato Peeler,,5.100.487,ハートコンテナを1つ取り除き、ダメージとレンジを上昇させCube of Meatを得る。,2,AB+,アクティブ
+Metronome,Metronome,,5.100.488,使用した部屋でのみランダムなアイテムの効果を得る。,1,AB+,アクティブ
+D_Infinity,D Infinity,,5.100.489,"使用するたびにランダムなダイスアイテムを得る。
+(repentance)ドロップキーで選択した任意のダイスアイテム効果を発動する。",4,AB+,アクティブ
+Eden%27s_Soul,Eden's Soul,,5.100.490,"2つの台座付きアイテムをスポーンして消滅する。
+チャージなしの状態で始まる。",3,AB+,アクティブ
+Acid_Baby,Acid Baby,,5.100.491,3部屋毎にランダムなピルをドロップするファミリアをスポーンする。ピルを使用した時に部屋の全ての敵を毒状態にする。,2,AB+,パッシブ
+YO_LISTEN!,YO LISTEN!,,5.100.492,ラック+1。シークレットルームとクロールスペースの入り口やバツ岩を指し示す妖精のファミリアをスポーンする。,2,AB+,パッシブ
+Adrenaline,Adrenaline,,5.100.493,空の赤ハートコンテナが多いほどダメージが上昇する。,1,AB+,パッシブ
+Jacob%27s_Ladder,Jacob's Ladder,,5.100.494,弾が敵や障害物に当たるとランダムな方向に電流を発生させる。,3,AB+,パッシブ
+Ghost_Pepper,Ghost Pepper,,5.100.495,"涙を撃っている方向に確率で敵の弾を防ぎ触った敵へダメージを与える火を撃つ。
+(repentance)涙を撃っている方向に確率で動くほど小さくなる青い火を撃つ。",3,AB+,パッシブ
+Euthanasia,Euthanasia,,5.100.496,"確率で通常敵を即死させボス敵に3倍のダメージを与える針を撃つ。
+針が敵を倒した時、破裂して更に弾と針を出す。",3,AB+,パッシブ
+Camo_Undies,Camo Undies,,5.100.497,"各部屋に入ったときにアイザックは迷彩状態になる。
+弾を撃つまで全てのボスでない敵は混乱状態になる。",0,AB+,パッシブ
+Duality,Duality,,5.100.498,"ボスを倒して悪魔/天使部屋が出現するとき、両方が出現する。
+片方にしか入れない。",1,AB+,パッシブ
+Eucharist,Eucharist,,5.100.499,最初の階層とWombⅡ/UteroⅡを除き、ボスを倒した後に天使部屋が必ず出現する。,3,AB+,パッシブ
+Sack_of_Sacks,Sack of Sacks,,5.100.500,5～6部屋クリアする毎に袋をドロップするファミリアをスポーンする。,3,AB+,パッシブ
+Greed%27s_Gullet,Greed's Gullet,,5.100.501,25コイン所持する毎に赤ハートコンテナを得る。,1,AB+,パッシブ
+Large_Zit,Large Zit,,5.100.502,確率で、2倍ダメージを与え白い速度低下クリープの跡を残すクリープ弾を撃つ。,1,AB+,パッシブ
+Little_Horn_(Item),Little Horn,,5.100.503,"確率で触れた敵を即死させる敵貫通弾を撃つ。
+(repentance)確率で敵に当たったときにBig Hornの手を召喚する弾を撃ち、通常敵は即死させボスには特大ダメージを与える。",3,AB+,パッシブ
+Brown_Nugget,Brown Nugget,,5.100.504,近くの敵に弾を撃つ滞空するハエのタレットをスポーンする。,0,AB+,アクティブ
+Poke_Go,Poke Go,,5.100.505,"敵がいる部屋に入ったとき確率でランダムな味方モンスターをスポーンする。
+スポーンしたものは部屋を跨いで維持される。",1,AB+,パッシブ
+Backstabber,Backstabber,,5.100.506,自身と正対していない敵に対して2倍のダメージと出血状態を与える。,1,AB+,パッシブ
+Sharp_Straw,Sharp Straw,,5.100.507,"部屋内の全ての敵にダメージを与える。
+敵に当たった場合確率で半分の赤ハートか半分のソウルハートをドロップする。",2,AB+,アクティブ
+Mom%27s_Razor,Mom's Razor,,5.100.508,周囲を回り接触ダメージと敵にゆっくりとダメージを与える出血状態を付与する剃刀をスポーンする。,1,AB+,パッシブ
+Bloodshot_Eye,Bloodshot Eye,,5.100.509,秒間30ダメージと2秒ごとにランダムな角度で弾を撃つオービタルファミリアをスポーンする。,1,AB+,パッシブ
+Delirious,Delirious,,5.100.510,アイザックのために戦う友好的なボスに変身するデリリウムをスポーンする。,1,AB+,アクティブ
+Angry_Fly,Angry Fly,,5.100.511,ランダムな敵の周りを飛んで接触した敵に秒間30ダメージを与えるハエのファミリアをスポーンする。,1,AB+,パッシブ
+Black_Hole,Black Hole,,5.100.512,床に、敵を吸い込んでダメージを与えるブラックホールを投げつける。,1,AB+,アクティブ
+Bozo,Bozo,,5.100.513,"フラットダメージ+0.1、ソウルハートを1つ得る。
+敵はランダムに魅了か恐怖状態になる。
+ダメージを受けた時に確率で虹うんちをスポーンする。",2,AB+,パッシブ
+Broken_Modem,Broken Modem,,5.100.514,ランダムな間隔で敵と敵の弾と自分の弾とピックアップがその場で静止する。,2,AB+,パッシブ
+Mystery_Gift,Mystery Gift,,5.100.515,使用時に現在の部屋のアイテムプールにA Lump of CoalとThe Poopを加えた中からランダムなアイテムを1つスポーンする。,3,AB+,アクティブ
+Sprinkler,Sprinkler,,5.100.516,"使用すると周囲8方向へ回転しながら弾を発射する移動しないスプリンクラーを設置する。
+撃つ弾はアイザックのステータスとほとんどの弾効果を反映する。",2,AB+,アクティブ
+Fast_Bombs,Fast Bombs,,5.100.517,爆弾を7個得て、爆弾を素早く設置できるようになる。,1,AB+,パッシブ
+Buddy_in_a_Box,Buddy in a Box,,5.100.518,"ランダムな弾効果を持つファミリアをスポーンする。
+ファミリアは各階層のスタート時にランダムに変更される。",2,AB+,パッシブ
+Lil_Delirium,Lil Delirium,,5.100.519,10秒ごとにランダムなファミリアに変化するファミリアを得る。,2,AB+,パッシブ
+Jumper_Cables,Jumper Cables,,5.100.520,敵を15体倒す毎にアクティブアイテムのチャージを得る。,3,AB+,パッシブ
+Coupon,Coupon,,5.100.521,"所持している間、全てのショップで商品が1つセールになる。
+使用すると、部屋内のランダムな商品が無料になる。",2,AB+,アクティブ
+Telekinesis,Telekinesis,,5.100.522,"使用すると2秒間近づいてきた敵の弾をその場に停止させる。
+チャージが無くなったとき、それらを敵に対して撃ち返す。",1,AB+,アクティブ
+Moving_Box,Moving Box,,5.100.523,"箱が空の時、部屋内の全てのピックアップとアイテムを箱にしまう。
+箱が空でない時、しまわれたものを現在の部屋ですべて出す。",1,AB+,アクティブ
+Technology_Zero,Technology Zero,,5.100.524,自分が撃つ弾同士をダメージを与える電流でつなぐ。,3,AB+,パッシブ
+Leprosy,Leprosy,,5.100.525,"ダメージを受けた時、敵の弾を防ぎ接触時にtickあたり7ダメージを与える体組織をオービタルのように出す。
+オービタルは敵か敵の弾を一定量受けると破壊される。",1,AB+,パッシブ
+7_Seals,7 Seals,,5.100.526,"10秒ごとにランダムなハービンガーに切り替わるファミリアをスポーンする。
+ハービンガーはそれぞれ異なる行動とイナゴをスポーンする。",2,AB+,パッシブ
+Mr._ME!,Mr. ME!,,5.100.527,ターゲットにしたものによって様々な効果を発揮する操作可能な幽霊を召喚する。,3,AB+,アクティブ
+Angelic_Prism,Angelic Prism,,5.100.528,"大きな半径のオービタルファミリアをスポーンする。
+プリズムを通過した弾は4色4つに分裂する。",3,AB+,パッシブ
+Pop!,Pop!,,5.100.529,"アイザックの弾がそれぞれで跳ね返る眼球に置き換わる。
+眼球はレンジにとらわれず、止まるか敵や障害物に当たったときに消滅する。",2,AB+,パッシブ
+Death%27s_List,Death's List,,5.100.530,部屋内の敵をマークされた順番に倒すとピックアップ1つかステータスアップを得る。,2,AB+,パッシブ
+Haemolacria,Haemolacria,,5.100.531,"弾が弓なりに発射される。床か敵か障害物に当たったとき、破裂して小さな弾を全方向に放つ。
+ティアディレイが増加する。",3,AB+,パッシブ
+Lachryphagy,Lachryphagy,,5.100.532,"弾が移動時に減速する。止まるか障害物に当たったとき、8方向に破裂する。
+浮いている弾に弾を打ち込むとダメージが増加する。",2,AB+,パッシブ
+Trisagion,Trisagion,,5.100.533,"ダメージが下がる。
+弾が敵貫通性能を持ち、敵に複数回ダメージを与える光の爆風に置き換わる。",2,AB+,パッシブ
+Schoolbag,Schoolbag,,5.100.534,アイザックは2つのアクティブアイテムを持てる。,3,AB+,パッシブ
+Blanket,Blanket,,5.100.535,"ソウルハートを1つ得る。
+ボス部屋に入ったとき、1度だけダメージを防ぐシールドを得る。",2,AB+,パッシブ
+Sacrificial_Altar,Sacrificial Altar,,5.100.536,"2体までファミリアを生け贄にして、生け贄に捧げた分だけ悪魔部屋アイテムプールのアイテムをスポーンさせる。
+全ての味方のクモとハエをコインに変換する。",2,AB+,アクティブ
+Lil_Spewer,Lil Spewer,,5.100.537,"ランダムなピルをドロップする。
+溜めたあとクリープを吐き出すファミリアをスポーンする。
+ピルを使うとクリープの種類が変化する。",1,AB+,パッシブ
+Marbles,Marbles,,5.100.538,ランダムなトリンケットを3つドロップし、ダメージを受けた時に5%の確率でトリンケットを飲み込みその効果を恒常的に得る。,2,AB+,パッシブ
+Mystery_Egg,Mystery Egg,,5.100.539,"アイザックがダメージを受けた時に割れてランダムな味方のモンスターを生む、卵のファミリアをスポーンする。
+部屋を移動すると卵は再生する。",1,AB+,パッシブ
+Flat_Stone,Flat Stone,,5.100.540,"弾が床を跳ねて飛沫を生成する。
+飛沫は小さな範囲の敵にアイザックのダメージの25%を与える。",2,AB+,パッシブ
+Marrow,Marrow,,5.100.541,骨ハートを1つ得て、赤ハートを3つドロップする。,1,AB+,パッシブ
+Slipped_Rib,Slipped Rib,,5.100.542,周囲を回って敵の弾を反射する骨をスポーンする。,2,AB+,パッシブ
+Hallowed_Ground,Hallowed Ground,,5.100.543,"アイザックがダメージを受けた時に白いうんちに変化する白いウンチのファミリアをスポーンする。
+白いウンチはティアを上昇させ敵の弾を確率で防ぐオーラを持つ。",1,AB+,パッシブ
+Pointy_Rib,Pointy Rib,,5.100.544,アイザックの前で前後に動く、自身のダメージ分だけダメージを与える骨のファミリアをスポーンする。,2,AB+,パッシブ
+Book_of_the_Dead,Book of the Dead,,5.100.545,"使用すると味方のBonyかBlack Bonyかオービタルの骨を現在の部屋で倒された敵の数だけ生成する。
+(repentance)確率で味方のBone FlyかRevenantも生成される。",3,AB+,アクティブ
+Dad%27s_Ring,Dad's Ring,,5.100.546,アイザックの周りに光の輪を生成して、接触した敵を石化させる。,3,AB+,パッシブ
+Divorce_Papers,Divorce Papers,,5.100.547,骨ハート1つを得て、ティア+0.7、Mysterious Paperをスポーンする。,3,AB+,パッシブ
+Jaw_Bone,Jaw Bone,,5.100.548,撃っている間部屋を横切り、敵へ7フラットダメージを与えたりピックアップを取得するファミリアをスポーンする。,1,AB+,パッシブ
+Brittle_Bones,Brittle Bones,,5.100.549,"全ての赤ハートコンテナを6つの空の骨ハートへ置き換える。
+骨ハートを失ったとき、8方向に骨の弾を撃ち恒久的にティアが上昇する。",3,AB+,パッシブ
+Broken_Shovel,Broken Shovel,,5.100.550,"所持している間、1つ以上のMom's Footがアイザックを踏みつけてくる。
+Mom's Shovelに必要な2つのパーツのうちの1つ。",4,AB+,アクティブ
+Broken_Shovel,Broken Shovel,,5.100.551,"Mom's Shovelに必要な2つのパーツのうちの1つ。
+これだけでは効果がない。",4,AB+,パッシブ
+Mom%27s_Shovel,Mom's Shovel,,5.100.552,"使用すると次の階層へ向かうトラップドアを作成する。
+Dark Roomにある盛り土で使うとForgottenがアンロックされる。",4,AB+,アクティブ
+Mucormycosis,Mucormycosis,,5.100.553,"確率で胞子弾を撃つ。
+弾は敵に張り付いて数秒後に破裂し、近くの敵にダメージと毒を与えさらに胞子を放出する。",3,Repentance,パッシブ
+2Spooky,2Spooky,,5.100.554,アイザックの近付いた敵は恐怖状態になる。,2,Repentance,パッシブ
+Golden_Razor,Golden Razor,,5.100.555,5コインを消費して現在の部屋だけダメージ+1.2。,2,Repentance,アクティブ
+Sulfur,Sulfur,,5.100.556,現在の部屋でブリムストーンを得る。,2,Repentance,アクティブ
+Fortune_Cookie,Fortune Cookie,,5.100.557,"占いマシーンのようにおみくじかソウルハートかカードかルーンかトリンケットを得る。
+おみくじが出る確率は他のものより高い。",2,Repentance,アクティブ
+Eye_Sore,Eye Sore,,5.100.558,弾を撃っている間、時折ランダムな方向へ追加の弾を撃つ。,2,Repentance,パッシブ
+120_Volt,120 Volt,,5.100.559,近付いてきた敵を何度もZapする。,2,Repentance,パッシブ
+It_Hurts,It Hurts,,5.100.560,ダメージを受けた時に円周へ弾を撃ち現在の部屋でティアが上昇する。,1,Repentance,パッシブ
+Almond_Milk,Almond Milk,,5.100.561,"連射速度が4倍になり、ダメージ倍率x0.3。
+弾にランダムなワーム系トリンケットの効果を付与する。",1,Repentance,パッシブ
+Rock_Bottom,Rock Bottom,,5.100.562,自身のステータスを最高到達点で維持する。,3,Repentance,パッシブ
+Nancy_Bombs,Nancy Bombs,,5.100.563,爆弾を5個得て設置する爆弾にランダムな爆弾の効果を付与する。,1,Repentance,パッシブ
+A_Bar_of_Soap,A Bar of Soap,,5.100.564,ティア+0.5、ショットスピード+0.2。,3,Repentance,パッシブ
+Blood_Puppy,Blood Puppy,,5.100.565,"敵を追尾するファミリアをスポーンする。
+十分な数の敵を倒すと、強力になる代わりにアイザックを攻撃し始める。
+攻撃すると元に戻る。",1,Repentance,パッシブ
+Dream_Catcher,Dream Catcher,,5.100.566,"階層を移動するときにアイザックの悪夢でその階層のアイテム部屋のアイテムとボスが表示される。
+新しい階層へ入るたび半分のソウルハートを得る。",2,Repentance,パッシブ
+Paschal_Candle,Paschal Candle,,5.100.567,"ノーダメージで部屋をクリアするたびにティア+0.4をもたらすファミリアをスポーンする。
+このボーナスは5回まで累積する。",3,Repentance,パッシブ
+Divine_Intervention,Divine Intervention,,5.100.568,発射キーをダブルタップすると敵を押しのけて敵の弾とレーザーを反射する盾を作成する。,2,Repentance,パッシブ
+Blood_Oath,Blood Oath,,5.100.569,"各階層の初めにアイザックを突き刺して赤ハートを吸収する。
+吸収した量に応じてその階層のみダメージとスピードが上昇する。",2,Repentance,パッシブ
+Playdough_Cookie,Playdough Cookie,,5.100.570,七色弾を得る。それぞれの色は異なるステータスと効果を持つ。,3,Repentance,パッシブ
+Orphan_Socks,Orphan Socks,,5.100.571,"クリープと床のトゲから受けるダメージを防ぐ。
+スピード+0.3、ソウルハートを2つ得る。",2,Repentance,パッシブ
+Eye_of_the_Occult,Eye of the Occult,,5.100.572,"弾が飛行中にコントロールできるようになる。
+ダメージとレンジが上昇してショットスピードが下がる。",3,Repentance,パッシブ
+Immaculate_Heart,Immaculate Heart,,5.100.573,"赤ハートコンテナを1つ得て、体力を全回復する。
+ダメージ倍率x1.2。時折自身の周囲を回る弾を追加で撃つ。",3,Repentance,パッシブ
+Monstrance,Monstrance,,5.100.574,中にいる敵にダメージを与えるオーラを得る。,2,Repentance,パッシブ
+The_Intruder,The Intruder,,5.100.575,"前方4方向へ速度低下弾を撃つアイザックの頭部に巣くうファミリア。
+ダメージを受けた時に確率でアイザックの頭部が破裂して青クモがスポーンし、現在の部屋のみ敵を追尾する。",3,Repentance,パッシブ
+Dirty_Mind,Dirty Mind,,5.100.576,"うんちを破壊するとアイザックについてきて敵にダメージを与える小うんちファミリアがスポーンする。
+破壊するうんちの種類によって小うんちは異なる効果を持つ。",2,Repentance,パッシブ
+Damocles,Damocles,,5.100.577,"アイザックの頭上にアイテム台座を倍加させる剣がスポーンする。
+ダメージを受けた後はランダムなタイミングで剣が落ちてきて即座に死亡する。",2,Repentance,アクティブ
+Free_Lemonade,Free Lemonade,,5.100.578,周囲に大きな黄色のクリープ溜まりを生成する。,1,Repentance,アクティブ
+Spirit_Sword,Spirit Sword,,5.100.579,"涙の代わりにアイザックは剣を振る。貯めると回転切りを行って、剣の残像を発射する。
+剣の残像は空の赤ハートコンテナが無いときに剣を振ってもたまに発射される。",3,Repentance,パッシブ
+Red_Key,Red Key,,5.100.580,ドアの輪郭が表示される壁に隣接しながら使用することでレッドルームを作成する。これらの部屋は10%の確率で特別なルームに変化する。,3,Repentance,アクティブ
+Psy_Fly,Psy Fly,,5.100.581,敵の弾を追跡し触れることで、2ダメージを与えるホーミングショットに変換するオービタルなハエをスポーンする。追跡中に敵のハエに接触した際、青いハエに変換する。,4,Repentance,パッシブ
+Wavy_Cap,Wavy Cap,,5.100.582,使用時、ティアの増加、スピードの低下、画面の歪みが発生する。繰り返し使用することで更に効果が強まり、部屋をクリアすると効果が弱まる。,1,Repentance,アクティブ
+Rocket_in_a_Jar,Rocket in a Jar,,5.100.583,爆弾＋5個。アイザックが涙を発射している際、ボムを置く代わりにアイザックが向いている方向に爆発するロケットを射出する。,2,Repentance,パッシブ
+Book_of_Virtues,Book of Virtues,,5.100.584,使用時、壊れるオービタルなウィスプをスポーンする。ウィスプファミリアはティアの射出と接触によってダメージを与える。また、他のアクティブアイテムと使用することで、テーマ性のあるウィスプを出現するパッシブアイテムとしても機能する。,3,Repentance,アクティブ
+Alabaster_Box,Alabaster Box,,5.100.585,"消費時、3つのソウルハートと2つの天使部屋のアイテム台座をスポーンする。
+取得時、充電なしの状態になっており、ソウルハートを6個拾うことでしかチャージができない。",2,Repentance,アクティブ
+The_Stairway,The Stairway,,5.100.586,全てのフロアの開始地点に特別な天使部屋ショップに行くことのできる梯子を生成する。,3,Repentance,パッシブ
+Sol,Sol,,5.100.588,ボス部屋の位置がマップに表示される。ボスを倒した後、「太陽」のカードが発動＋アクティブアイテムを完全に充電＋現在のフロアに居る間ダメージとラックにボーナス＋呪いを解除する。,2,Repentance,パッシブ
+Luna,Luna,,5.100.589,"シークレットルームとスーパーシークレットルームをフロアに追加する。
+シークレットルームには光の筋が差しており、触れることで現在のフロアに居る間ティアを増加し、半分のソウルハートを与える。",2,Repentance,パッシブ
+Mercurius,Mercurius,,5.100.590,スピード+0.4を得る。ルームに入った際、敵が居てもドアが開いたままになる。,3,Repentance,パッシブ
+Venus,Venus,,5.100.591,赤ハートコンテナを1つ得る。アイザックに近い敵は魅了される。,2,Repentance,パッシブ
+Terra,Terra,,5.100.592,涙をダメージがばらつく岩に置き換える。ノックバックが増加し、オブジェクトも破壊できるようになる,3,Repentance,パッシブ
+Mars,Mars,,5.100.593,"移動キーを二回押すことで無敵になり、的にダメージを与えることができるダッシュをする。
+再度ダッシュできるまでに短いクールダウンを必要とする。",2,Repentance,パッシブ
+Jupiter,Jupiter,,5.100.594,赤ハートコンテナを2つ得て、スピードが-0.3される。アイザックが立ち止まっている間はスピードが貯まり、毒ガスの煙を移動時に背中側に放出する。,2,Repentance,パッシブ
+Saturnus,Saturnus,,5.100.595,"部屋に入った時、オービタルな涙をアイザックの周囲に円状に展開する。
+敵の弾を確率で円に捉え、自分の弾として転換する。",2,Repentance,パッシブ
+Uranus,Uranus,,5.100.596,"ショットを敵を遅くさせ、倒したときに凍結させる氷の涙に置き換える。
+凍結した敵は触れた時に滑って行き、氷の欠片を爆散させる。",3,Repentance,パッシブ
+Neptunus,Neptunus,,5.100.597,"アイザックの口は、発射しない間、涙が溜まっていき、最大1カップ分貯まる。
+発射ボタンを押し続けている間、溜まった涙を放出する。",3,Repentance,パッシブ
+Pluto,Pluto,,5.100.598,大幅にアイザックを縮小化する。オブジェクトをすり抜けれるようにし、いくつかの敵の弾を通過することができる。ティア+0.7。,3,Repentance,パッシブ
+Voodoo_Head,Voodoo Head,,5.100.599,追加の呪い部屋を各フロアに追加する。,1,Repentance,パッシブ
+Eye_Drops,Eye Drops,,5.100.600,左目から出る涙のディレイを減少させ、異なる速度で発射させるようにする。,3,Repentance,パッシブ
+Act_of_Contrition,Act of Contrition,,5.100.601,ティアを増加し、エターナルハートを得る。悪魔と取引していても天使部屋が出るようになり、アイザックが赤いハートのダメージを受けている場合、悪魔/天使部屋の出る確率が大幅に増加する。,3,Repentance,パッシブ
+Member_Card,Member Card,,5.100.602,全てのショップに特別な商品と料金を持つ2番目のショップに繋がっているタラップドアを追加する。,1,Repentance,パッシブ
+Battery_Pack,Battery Pack,,5.100.603,アイザックの現在所持しているアクティブアイテムを充電し、2から4個のバッテリーをドロップする。,1,Repentance,パッシブ
+Mom%27s_Bracelet,Mom's Bracelet,,5.100.604,使用時、岩、TNT、うんち、小うんち、爆弾等のオブジェクトを持ち上げ投げることができる。,2,Repentance,アクティブ
+The_Scooper,The Scooper,,5.100.605,現在居る部屋にピーパーファミリアを召喚する。これは赤いクリープを跡に残す。,0,Repentance,アクティブ
+Ocular_Rift,Ocular Rift,,5.100.606,アイザックが確率で着弾地点に近くの敵にダメージを与え、敵、ピックアップ、弾等の全ての要素を吸い寄せる裂け目を生成する弾を撃つ。,3,Repentance,パッシブ
+Boiled_Baby,Boiled Baby,,5.100.607,アイザックに全方位に不安定にばらまく弾を出すファミリアを与える。,1,Repentance,パッシブ
+Freezer_Baby,Freezer Baby,,5.100.608,確率で敵の動きを封じるかつ、倒した時に敵を凍結させる弾を射出するファミリアをスポーンする。,2,Repentance,パッシブ
+Eternal_D6,Eternal D6,,5.100.609,"現在の部屋の全てアイテムを全て他のランダムなアイテムに置き換える。
+各アイテムは30％の確率で消失してしまうことがある。",3,Repentance,アクティブ
+Bird_Cage,Bird Cage,,5.100.610,"部屋ごとで始めたダメージを受けた時、敵に飛びかかりダメージを与え、岩の波を放つ。
+その後部屋にいる間は、デッドバードと同様に敵を追いかける。",1,Repentance,パッシブ
+Larynx,Larynx,,5.100.611,"アイザックが咆哮し、近くの敵を押しのけつつダメージを与える。
+咆哮はチャージゲージが多いほど強くなる。ダメージを受けることでもチャージは貯まる。",2,Repentance,アクティブ
+Lost_Soul,Lost Soul,,5.100.612,"アイザックの後ろにピッタリ付いてくる幽霊のファミリアをスポーンする。
+一撃で死んでしまうが、次の階で再度召喚される。次のフロアまで生き残らせることで、報酬としてソウルハート、エターナルハート、または天使部屋のアイテムを与える。",2,Repentance,パッシブ
+Blood_Bombs,Blood Bombs,,5.100.614,赤ハートコンテナを1つ得て、5ハート分回復する。爆弾はダメージを与える赤いクリープを残すようになる。アイザックは爆弾を持ってない場合でも半ハートをコストに爆弾を置くことができるようになる。,1,Repentance,パッシブ
+Lil_Dumpy,Lil Dumpy,,5.100.615,"アイザックにランダムな方向に飛ぶファミリアを与える。
+ダメージを受けると近くの敵を押し出したり、混乱させたり、毒にする。",0,Repentance,パッシブ
+Bird%27s_Eye,Bird's Eye,,5.100.616,アイザックが確率で敵の弾を防ぎ、触れた敵にダメージを与える炎を涙とともに発射するようになる。,3,Repentance,パッシブ
+Lodestone,Lodestone,,5.100.617,"アイザックが確率で敵に磁気を帯びさせる弾を発射するようになる。
+磁気は敵、ピックアップ、弾等の全ての要素を吸い寄せる効果を引き起こす。",3,Repentance,パッシブ
+Rotten_Tomato,Rotten Tomato,,5.100.618,"アイザックが確率で敵にマークさせる弾を発射するようになる。
+マークされた敵は他の敵に攻撃されるようになる。",2,Repentance,パッシブ
+Birthright,Birthright,,5.100.619,キャラクターごとの固有の特殊能力を強化させる。,3,Repentance,パッシブ
+Red_Stew,Red Stew,,5.100.621,体力が全回復し、時間経過で減少していく大幅なダメージの増加を得る。,2,Repentance,パッシブ
+Genesis,Genesis,,5.100.622,アイザックのすべてのアイテムを取り除き、いくつかのピックアップと宝箱、タラップドアのある特別なベッドルームに移動する。また、アイテムを失った分、3つの選択肢から1つアイテムを選ぶことができる。,2,Repentance,アクティブ
+Sharp_Key,Sharp Key,,5.100.623,取得時、5つ鍵を得る。使用時アイザックは鍵を投げることで敵にダメージを与えたり、オブジェクトを破壊したり、扉を開けることができる。,1,Repentance,アクティブ
+Booster_Pack_(Item),Booster Pack,,5.100.624,5枚のランダムなカードを落とす。,1,Repentance,パッシブ
+Mega_Mush,Mega Mush,,5.100.625,アイザックを30秒間巨人化させ、ダメージと射程が増加し、ティアを減少させ、無敵状態にする。アイザックは敵やオブジェクトを歩くことで破壊することができる。このアイテムの効果は部屋を切り替えても持続する。,4,Repentance,アクティブ
+Knife_Piece_1,Knife Piece 1,,5.100.626,ナイフピース２と組み合わせることで、敵にダメージを与え、”コープス”の扉を開けることができるファミリアを召喚する。,0,Repentance,パッシブ
+Knife_Piece_2,Knife Piece 2,,5.100.627,ナイフピース１と組み合わせることで、敵にダメージを与え、”コープス”の扉を開けることができるファミリアを召喚する。,0,Repentance,パッシブ
+Death_Certificate,Death Certificate,,5.100.628,使用時、アイザックを廃棄し拡張された家にワープさせる。これはゲーム内のすべてのアイテムのコピーがあり、アイテムを取得した跡、このアイテムを使用した部屋に戻る。,4,Repentance,アクティブ
+Bot_Fly,Bot Fly,,5.100.629,敵の弾に対しシールドが付いた弾を射出するオービタルなハエファミリアをスポーンする。,3,Repentance,パッシブ
+Meat_Cleaver,Meat Cleaver,,5.100.631,部屋内のすべての敵を体力が少ないかつ、小さい状態に2分割する。,1,Repentance,アクティブ
+Evil_Charm,Evil Charm,,5.100.632,ラックを2増加する。炎上、混乱、恐怖、毒状態に対して無敵になる。,2,Repentance,パッシブ
+Dogma_(Item),Dogma,,5.100.633,"飛行、速度+0.1、ダメージ+2、ホーリーマントルの効果を得る。
+可能な限り最大6個までハートを付与する。ドグマを倒した跡に自動的にアイザックに付与される。",0,Repentance,パッシブ
+Purgatory,Purgatory,,5.100.634,部屋に敵がいる間、地面に亀裂が発生する。亀裂の上を歩くことで、敵に向かっていき一定時間後に爆発してダメージを与えるゴーストを召喚する。,2,Repentance,パッシブ
+Stitches,Stitches,,5.100.635,"常にアイザックが射撃する方向に動くファミリアをスポーンする。
+使用時、アイザックとファミリアの位置を入れ替える。",1,Repentance,アクティブ
+R_Key,R Key,,5.100.636,アイテムを全て保持した状態で、新しいランの最初のフロアに戻す。,4,Repentance,アクティブ
+Knockout_Drops,Knockout Drops,,5.100.637,アイザックが確率で敵に強力なノックバックと混乱を付与する、拳の涙を発射するようになる。,3,Repentance,パッシブ
+Eraser,Eraser,,5.100.638,消しゴムを投げ、モンスターにヒットすると即死させ、かつこのラン中はそのモンスターがスポーンしなくなる。1階層に1回のみ使用することができる。,2,Repentance,アクティブ
+Yuck_Heart,Yuck Heart,,5.100.639,使用時、アイザックにロッテンハートを与える。,2,Repentance,アクティブ
+Urn_of_Souls,Urn of Souls,,5.100.640,ダメージを与える炎を噴射する。敵を倒すごとにソウルチャージを得て、これを燃料として使用される。,3,Repentance,アクティブ
+Akeldama,Akeldama,,5.100.641,敵を倒していない部屋にいる時、アイザックは敵に接触すると破裂しダメージを与える、背後に引きずる血涙の跡を作成する。,2,Repentance,パッシブ
+Magic_Skin,Magic Skin,,5.100.642,1つのハートコンテナまたは2つのソウルハートを消費し、アイテム台座をスポーンさせる。かつアイザックに二度と満たされないブロークンハートコンテナを付与する。使用後、マジックスキンを所持していない場合、高確率で後に出現するアイテムがマジックスキンに置き換えられてしまう。,2,Repentance,アクティブ
+Revelation,Revelation,,5.100.643,飛行と2つソウルハートを付与する。涙に加えて、アイザックは強力なホーリーレーザーをチャージして発射することができるようになる。,4,Repentance,パッシブ
+Consolation_Prize,Consolation Prize,,5.100.644,"アイザックのステータスの中で最低のものを上昇させ、アイザックが所持しているアイテムの中で最小のアイテムをドロップする。
+コイン3枚または爆弾1個または鍵1個",1,Repentance,パッシブ
+Tinytoma,Tinytoma,,5.100.645,"アイザックに弾を防ぎ、接触ダメージを与え、かつダメージを受けると小さく分割されるオービタルなテラトーマを与える。
+小さく分割された状態のものが壊れると青い蜘蛛に変化する。",1,Repentance,パッシブ
+Brimstone_Bombs,Brimstone Bombs,,5.100.646,アイザックに爆弾＋5個を与え、爆弾は爆発時に十字方向にブリムストーンレーザーを引き起こすようになる。,3,Repentance,パッシブ
+4.5_Volt,4.5 Volt,,5.100.647,部屋をクリアしてもアクティブアイテムが充電されなくなる。代わりに敵にダメージを与えることで充電されるようになる。,2,Repentance,パッシブ
+Fruity_Plum,Fruity Plum,,5.100.649,アイザックにミニチュアベイビーパルムファミリアを与える。これは部屋内を斜めに移動し、移動時に自分の背後に涙を発射する。,1,Repentance,パッシブ
+Plum_Flute,Plum Flute,,5.100.650,アイザックの為に戦うボスベイビーパルムを現在の部屋に召喚する。,2,Repentance,アクティブ
+Star_of_Bethlehem,Star of Bethlehem,,5.100.651,ダメージとティアを増加させ、涙がホーミングするようになるオーラを持ち、ゆっくりボス部屋に向かって移動する星のファミリアをスポーンする。,2,Repentance,パッシブ
+Cube_Baby,Cube Baby,,5.100.652,向かって歩くと滑って行く氷の塊のファミリアをスポーンする。速度低下と接触ダメージを与え、倒したモンスターを凍結させる。,1,Repentance,パッシブ
+Vade_Retro,Vade Retro,,5.100.653,所持している間、敵を倒すとゴーストが残るようになる。アイテムを使用するとゴーストが爆発し、近くの的にダメージを与える。強力な敵は更に大きいゴーストを残す。,3,Repentance,アクティブ
+False_PHD,False PHD,,5.100.654,黒ハートを１つ得る。良い効果のピルを悪い効果に置き換え、全てのピルが判別済みになる。悪い効果の薬は追加で良い効果を引き起こす。,2,Repentance,パッシブ
+Spin_to_Win,Spin to Win,,5.100.655,使用中、スピードが+0.5され、アイザックの所持しているオービタルの効果が大幅に増加する。アイザックに敵の弾を防ぎ、接触ダメージを与えるコマのオービタルを与える。,1,Repentance,アクティブ
+Vasculitis,Vasculitis,,5.100.657,敵が倒れた時に涙を爆発させるようになる。これはアイザックの涙の効果を受け継ぐ。,2,Repentance,パッシブ
+Giant_Cell,Giant Cell,,5.100.658,アイザックがダメージを受けるとミクロアイザックをスポーンするようになる。これは近くの敵を追いかけ射撃する。,1,Repentance,パッシブ
+Tropicamide,Tropicamide,,5.100.659,レンジ+0.5、涙のサイズが大きくなる効果を得る。,1,Repentance,パッシブ
+Card_Reading,Card Reading,,5.100.660,各フロアの初めに、ボス部屋、シークレットルーム、アイテム部屋のいずれかにつながるポータルを2つスポーンさせる。,3,Repentance,パッシブ
+Quints,Quints,,5.100.661,部屋内の初めに倒した5体の敵は、静止した射撃するファミリアを倒した場所にスポーンするようになる。,2,Repentance,パッシブ
+Tooth_and_Nail,Tooth and Nail,,5.100.663,アイザックは定期的に、一時的に無敵かつ接触ダメージを与える棘の像にへんかするようになる。,2,Repentance,パッシブ
+Binge_Eater,Binge Eater,,5.100.664,赤ハートコンテナを1つ得て、体力を全回復する。アイテムの台座は初期のアイテムといくつかのフードアイテムの間で切り替わるようになり、フードアイテムを取得すると通常の効果に加え、一時的なダメージ増加と2つのステータス(各自異なる)の永続的なブーストを与える。フードアイテムを取得した時、追加で赤ハートが2個回復する。,4,Repentance,パッシブ
+Guppy%27s_Eye,Guppy's Eye,,5.100.665,宝箱、炎、袋、店主が開く、または破壊する前に中身が表示されるようになる。,2,Repentance,パッシブ
+Strawman,Strawman,,5.100.667,ヤコブ＆エサウと同様に操作ができるキーパーを召喚する。キーパーが倒れると青い蜘蛛が5匹スポーンされ、ストローマンがアイザックのインベントリから除外される。,2,Repentance,パッシブ
+Dad%27s_Note,Dad's Note,,5.100.668,ホームにアクセスするためのシーケンスを開始する。,0,Repentance,パッシブ
+Sausage,Sausage,,5.100.669,赤ハートコンテナを1つ得て、体力を全回復する。またスピード+0.5、ダメージ+0.5、ティア+0.5、レンジ+1.5、ショットスピード+0.2、ラック+1.0の効果を得る。悪魔部屋、天使部屋、プラネタリウムの出現確率が各6.9%上昇する。,3,Repentance,パッシブ
+Options%3F,Options?,,5.100.670,"部屋をクリアした後、異なる2種類の報酬が選べるようになる。
+1つ取得すると、もう片方は消える。",2,Repentance,パッシブ
+Candy_Heart,Candy Heart,,5.100.671,アイザックが赤ハートを取得する度に、永続的なステータス増加を得る。,2,Repentance,パッシブ
+A_Pound_of_Flesh,A Pound of Flesh,,5.100.672,悪魔取引のコストはコインに変化し、ショップに並ぶアイテムのコストはハートコンテナになり、ピックアップのコストは無料になるが棘に囲まれるように変化する。,1,Repentance,パッシブ
+Redemption,Redemption,,5.100.673,アイザックが悪魔部屋に入った時、何も取得せずにいるとソウルハート1つとダメージ+1.0の効果を得る。,2,Repentance,パッシブ
+Spirit_Shackles,Spirit Shackles,,5.100.674,死亡時、アイザックのゴーストが死体と鎖で繋がれ、半分のハートで戦い続けることができる。10秒後に生き返る。発動後はソウルハートを取得しないと充電されない。,2,Repentance,パッシブ
+Cracked_Orb,Cracked Orb,,5.100.675,アイザックがダメージを受けた時、マップ上のランダムな部屋を判別し、ドアをアンロックする。,1,Repentance,パッシブ
+Empty_Heart,Empty Heart,,5.100.676,アイザックがフロア開始時に赤ハートが1個以下の場合、空の赤ハートコンテナを1つ得る。,2,Repentance,パッシブ
+Astral_Projection,Astral Projection,,5.100.677,"クリアしていない部屋でダメージを受けた時に、アイザックは霊体になる。
+飛行と地形貫通弾を得て、次に受けるダメージを防ぐ。",2,Repentance,パッシブ
+C_Section,C Section,,5.100.678,ティアが敵を追跡し、接触ダメージを与えるフィータスに置き換わる。各ショットには短いチャージを必要とする。,4,Repentance,パッシブ
+Lil_Abaddon,Lil Abaddon,,5.100.679,アイザックが射撃中、チャージしてミニチュアマウオブザボイドの攻撃を行うファミリアをスポーンする。,3,Repentance,パッシブ
+Montezuma%27s_Revenge,Montezuma's Revenge,,5.100.680,射撃中、アイザックがブリムストーンのようなチャージビームをアイザックの後方から発射する。,3,Repentance,パッシブ
+Lil_Portal,Lil Portal,,5.100.681,"前へ飛んで進路にあるピックアップを消費するファミリア。
+消費する毎にサイズとダメージが上昇し、青ハエをスポーンする。
+ピックアップを4つ消費する毎に未探索の部屋へのポータルを開く。",1,Repentance,パッシブ
+Worm_Friend,Worm Friend,,5.100.682,地中に潜り、敵を捉えて時間経過でダメージを与えるファミリアを与える。,3,Repentance,パッシブ
+Bone_Spurs,Bone Spurs,,5.100.683,敵が倒されるたびに敵の弾を防ぎ触った敵にダメージを与えるか跳ねのける浮遊する骨をスポーンする。,2,Repentance,パッシブ
+Hungry_Soul,Hungry Soul,,5.100.684,敵は確率で倒した際にゴーストをスポーンする。ゴーストは敵へ向かい接触ダメージを与えた後一定時間後に爆発してダメージを与える。,3,Repentance,パッシブ
+Jar_of_Wisps,Jar of Wisps,,5.100.685,いくつかの種類の涙を射出し、弾を防ぎ、接触ダメージを与えるランダムなウィスプをスポーンする。このアイテムを使用するたびにスポーンするウィスプの数が増加していく。,2,Repentance,アクティブ
+Soul_Locket,Soul Locket,,5.100.686,アイザックがソウルハートを取得する度に、永続的なステータス増加を得る。,2,Repentance,パッシブ
+Friend_Finder,Friend Finder,,5.100.687,アイザックの動きと攻撃を模倣する、友好的なモンスターをランダムに1体スポーンする。,3,Repentance,アクティブ
+Inner_Child,Inner Child,,5.100.688,死亡時、アイザックが現在居る部屋に赤ハートを半分持ち、サイズが大幅小さくなり、スピードが+0.2された状態で復活する。,2,Repentance,パッシブ
+Glitched_Crown,Glitched Crown,,5.100.689,アイテム台座は取得前に5つのランダムなアイテムに入れ替わるようになる。,4,Repentance,パッシブ
+Belly_Jelly,Belly Jelly,,5.100.690,"アイザックが敵を跳ね返し、敵か障害物に当てるとダメージを与える。
+確率で敵の弾を避けるようになる。",3,Repentance,パッシブ
+Sacred_Orb,Sacred Orb,,5.100.691,低品質のアイテムが出なくなり、全てのアイテムプールから得られるアイテムの品質が大幅に上昇する。,4,Repentance,パッシブ
+Sanguine_Bond,Sanguine Bond,,5.100.692,悪魔部屋に特殊な棘がスポーンするようになる。棘からダメージを受けることで確率で報酬を得ることができる。,1,Repentance,パッシブ
+The_Swarm,The Swarm,,5.100.693,8体のオービタルなハエをスポーンし、敵の弾を防ぐと青いハエに変化する。部屋をクリアする度、オービタルなハエがスポーンする。,2,Repentance,パッシブ
+Heartbreak,Heartbreak,,5.100.694,ブロークンハートコンテナを3つ得て、ブロークンハート1個につき+0.25ダメージを得ることができる。アイザックがブロークンハートしかない状態になるまで、致命的なダメージを受ける度ブロークンハートが2個追加される。,3,Repentance,パッシブ
+Bloody_Gust,Bloody Gust,,5.100.695,アイザックがダメージを受ける度、スピードとティアを現在のフロアに居る間上昇させる。,3,Repentance,パッシブ
+Salvation,Salvation,,5.100.696,"アイザックは敵が中にいると光線を召喚する光の輪を得る。
+自身がダメージを受けるたびにその階層だけ光の輪は大きくなる。",3,Repentance,パッシブ
+Vanishing_Twin,Vanishing Twin,,5.100.697,"ボス部屋に入った際にそのボスのクローンに変化するファミリアをスポーンする。
+クローンされたボスを倒すと追加でアイテムをドロップする。",3,Repentance,パッシブ
+Twisted_Pair,Twisted Pair,,5.100.698,"アイザックの左右に浮かび、自身のティアとレンジとショットスピードと弾効果が反映された弾を撃つファミリアをスポーンする。
+弾のダメージは自身の37.5%。",4,Repentance,パッシブ
+Azazel%27s_Rage,Azazel's Rage,,5.100.699,"部屋をクリアする毎に顔から赤い斑点が出て、4部屋クリアすると角が一瞬赤く光る。
+その状態で敵がいる部屋に入ると太いブリムストーンビームを出す。",3,Repentance,パッシブ
+Echo_Chamber,Echo Chamber,,5.100.700,アイザックがカード、薬またはルーンを使用した際、エコーチェンバーを取得した後に使用したカード、薬、ルーンの効果を3つまでコピーする。,2,Repentance,パッシブ
+Isaac%27s_Tomb,Isaac's Tomb,,5.100.701,各階層のスタート時にオールドチェストを１つスポーンする。,3,Repentance,パッシブ
+Vengeful_Spirit,Vengeful Spirit,,5.100.702,"階層全体で最大6回まで、ダメージを受けた後にオービタルのウィスプをスポーンする。
+ウィスプは弾を撃つが敵の弾は防がない。",2,Repentance,パッシブ
+Esau_Jr.,Esau Jr.,,5.100.703,"現在のキャラクターとフラットダメージ+2と飛行を持つエサウJr.を入れ替える。
+アイテムと体力はそれぞれ独立していて、片方が死ぬとランが終了する。",2,Repentance,アクティブ
+Berserk!,Berserk!,,5.100.704,アイザックを5秒間凶暴化させる。スピード、ティア、ダメージが大幅に上昇するが、涙の代わりに近接武器を使うようになる。このアイテムは部屋をクリアする代わりに、敵にダメージを与えることでチャージされる。,3,Repentance,アクティブ
+Dark_Arts,Dark Arts,,5.100.705,短時間、スピード+1かつアイザックを実体のない無敵状態にする。効果終了時にアイザックが通り抜けた全ての敵の弾を破壊し、敵にダメージを与える。,3,Repentance,アクティブ
+Abyss,Abyss,,5.100.706,部屋内の全ての台座にあるアイテムを破壊し、破壊したアイテムごとに特別なイナゴのファミリアを与える。いくつかのアイテムは特殊な効果を持ったイナゴを生成する。,4,Repentance,アクティブ
+Supper,Supper,,5.100.707,赤ハートコンテナを1つ得る。赤ハートを1つ回復する。,1,Repentance,パッシブ
+Stapler,Stapler,,5.100.708,ダメージ+1.0。アイザックがカインと同じように片方の目から涙を発射しないようになる。,3,Repentance,パッシブ
+Suplex!,Suplex!,,5.100.709,アイザックが前方にダッシュし、最初にヒットした敵を持ち上げる。少し後に地面に叩きつけてダメージを与えつつ、岩の波を発生させる。,3,Repentance,アクティブ
+Bag_of_Crafting,Bag of Crafting,,5.100.710,ピックアップを最大8個まで集めて蓄え、これらを使うことでアイテムを作成する。アイテムのパワーレベルは使用したピックアップの品質によって決定される。,4,Repentance,アクティブ
+Flip,Flip,,5.100.711,"アイテムの台座は裏に第二の「幽体の」アイテムを持つ。
+起動すると本物のアイテムと幽体のアイテムが反転する。
+汚染ラザロでプレイしている場合、死んだ汚染ラザロと反転する。",4,Repentance,アクティブ
+Lemegeton,Lemegeton,,5.100.712,"ランダムなパッシブアイテムを表す壊れることがあるオービタルなウィスプをスポーンする。
+ウィスプが存在する間、アイザックはそのアイテムの効果を得る。25%の確率で現在の部屋のアイテムプールを参照し、それ以外はランダムなプールから参照して生成する。",3,Repentance,アクティブ
+Sumptorium,Sumptorium,,5.100.713,"半ハートを取り除き、アイザックの動きとティア効果を模倣する血糊ファミリアを作成する。
+ティンテッドイヴと同じく、発射中にパッシブに体力を血糊に変換する。使用時に全ての血糊をヘルスに戻す。",3,Repentance,アクティブ
+Recall,Recall,,5.100.714,フォーゴットンの体をどんな距離からでも回収することができる。ティンテッドフォーゴットンのバースライトの効果でしか利用できない。,0,Repentance,アクティブ
+Hold,Hold,,5.100.715,ティンテッド???専用。うんち爆弾を１つ保持することができる。,0,Repentance,アクティブ
+Keeper%27s_Sack,Keeper's Sack,,5.100.716,ショップでものを買うたびに、レンジ、スピードまたはダメージを増加させる。また、取得時に3枚のコインと鍵1個をスポーンする。,3,Repentance,パッシブ
+Keeper%27s_Kin,Keeper's Kin,,5.100.717,岩と小物は、敵がいる部屋にいる間、時間経過で青いクモをスポーンし、岩と小物を破壊すると青いクモを二匹スポーンするようになる。,2,Repentance,パッシブ
+Keeper%27s_Box,Keeper's Box,,5.100.719,通常価格で購入することのできるショップアイテムやピックアップがランダムに１つスポーンする。,2,Repentance,アクティブ
+Everything_Jar,Everything Jar,,5.100.720,チャージ数に応じたピックアップをドロップします。チャージが最大の場合はランダムに特殊な効果が発生します。,2,Repentance,アクティブ
+TMTRAINER,TMTRAINER,,5.100.721,これから出現する全てのアイテムをグリッチアイテムにする。グリッチアイテムはランダムな効果が組み合わされたものとなる。,2,Repentance,パッシブ
+Anima_Sola,Anima Sola,,5.100.722,最も近くにいる敵を鎖で縛り5秒間行動不能にする。,3,Repentance,アクティブ
+Spindown_Dice,Spindown Dice,,5.100.723,部屋の全てのアイテムを内部アイテムIDを1つ下げた物に変更する。,4,Repentance,アクティブ
+Hypercoagulation,Hypercoagulation,,5.100.724,アイザックが敵からダメージを受けたり体力を失うとアイザックから赤ハートがドロップする。この赤ハートは1.5秒後に消える。,3,Repentance,パッシブ
+IBS,IBS,,5.100.725,敵と戦闘中アイザックがうんちを投げるようになる。うんちはティンテッド???のうんちからランダムに選択される。,2,Repentance,パッシブ
+Hemoptysis,Hemoptysis,,5.100.726,射撃ボタンをダブルタップすると血混じりのくしゃみを出す。くしゃみを敵に当てるとノックバックさせダメージとデバフを与える。デバフはブリムストーン系統のダメージを上昇させる。,3,Repentance,パッシブ
+Ghost_Bombs,Ghost Bombs,,5.100.727,爆弾を5個得る。爆弾がスペクトル化し、爆発した後にゴーストをスポーンするようになる。ゴーストは敵へ向かい接触ダメージを与えた後一定時間後に爆発してダメージを与える。,2,Repentance,パッシブ
+Gello,Gello,,5.100.728,アイザックと線でつながったファミリアをスポーンする。ファミリアはアイザックが涙を発射した方向へ移動しながらアイザックと同じ涙を発射する。,3,Repentance,アクティブ
+Decap_Attack,Decap Attack,,5.100.729,アイザックが頭を投げて、飛んだ頭から涙を発射する事が出来る。頭は敵の弾を防ぎ、接触ダメージを与える。アイテムを再度使用するか頭の上に乗ると元に戻る。,2,Repentance,アクティブ
+Glass_Eye,Glass Eye,,5.100.730,ダメージ+0.75、運+1,3,Repentance,パッシブ
+Stye,Stye,,5.100.731,右目から発射される涙が28％のダメージアップ、レンジ+7、ショットスピード-0.3される。,2,Repentance,パッシブ
+Mom%27s_Ring,Mom's Ring,,5.100.732,ダメージ+1、取得時にランダムなルーンかソウルストーンをドロップする。,3,Repentance,パッシブ
