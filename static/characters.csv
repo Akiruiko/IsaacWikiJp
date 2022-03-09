@@ -1,0 +1,4 @@
+norm_name,character_name,キャラクター名,hp,damage,tears,shot_speed,range,speed,luck,starting_pickups,starting_pickups_num,starting_items,character_type,DLC
+isaac,Issac,アイザック,rrr,3.5(x1.00),0,1,6.5,1.00,0,bombs,1,The_D6,default,Rebirth
+isaac_b,Tainted Issac,汚染アイザック,rrr,3.5(x1.00),0,1,6.5,1.00,0,bombs,1,,tainted,Repentance
+keeper,Keeper,キーパー,cc|c,3.5(x1.20),-2,1,6.5,0.85,-2,bombs|coins|Store_Key,1|1|1,Triple shot|Wooden_Nickel,default,AfterBirth
