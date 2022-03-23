@@ -1,67 +1,58 @@
 +++
 +++
 
- # Isaac ![image](/image/Isaac.png) 
 
-Notes
+ # Isaac 
+ ![image](/image/characters/Isaac.png) 
+
+
+ステータス
 -------
 
 
-* (Removed in Repentance) [![image](/image/The_D6.png)](/wiki/The_D6 "The D6") [The D6](/wiki/The_D6 "The D6") that Isaac can start with does not increase the [special](/wiki/Special_item "Special item") counter.
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|6.5|1.00|0|bombs x 1|[![image](/image/The_D6.png)](/wiki/The_D6 "The D6") [The D6](/wiki/The_D6 "The D6")|
 
 
-Item Interactions
+概要
+-------
+アイザックは前作The Binding of Isaac から引き続き登場しているメインキャラクターです。アイザックは唯一デフォルトで解禁されているキャラクターです。
+
+アイザックは3つの赤ハートコンテナとボム1つを所持した状態で開始します。また一度でも解禁している場合は [![image](/image/The_D6.png)](/wiki/The_D6 "The D6") [The D6](/wiki/The_D6 "The D6") を所持した状態で開始します。(アイザックで ??? を倒した後)
+
+
+ノート
+-------
+
+* (Removed in Repentance) アイザックが所持して開始する [![image](/image/The_D6.png)](/wiki/The_D6 "The D6") [The D6](/wiki/The_D6 "The D6") は特別なカウンターを増やしません。
+
+アイテム効果
 -------------------
 
 
-* (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): All new item pedestals cycle between two options. Previously-seen items are unaffected.
+* (Added in Repentance) [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") 全ての新しいアイテムは2つの選択肢で切り替わるようになる。以前に発見したアイテムは影響を受けません。
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
-
-* [(Isaac's Head)](/wiki/Isaac%27s_Head "Isaac's Head")  [Isaac's Head](/wiki/Isaac%27s_Head "Isaac's Head") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [(Lost Baby)](/wiki/Babies "Lost Baby")  [Lost Baby](/wiki/Babies "Babies") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife")  [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife") - Defeat [Satan](/wiki/Satan "Satan") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [![image](/image/Isaac%27s_Tears.png)](/wiki/Isaac%27s_Tears "Isaac's Tears")  [Isaac's Tears](/wiki/Isaac%27s_Tears "Isaac's Tears") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [(Missing Poster)](/wiki/Missing_Poster "Missing Poster")  [Missing Poster](/wiki/Missing_Poster "Missing Poster") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [(The D20)](/wiki/D20 "The D20")  [The D20](/wiki/D20 "D20") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [(Lil' Chest)](/wiki/Lil_Chest "Lil' Chest") (Added in Afterbirth) [Lil' Chest](/wiki/Lil_Chest "Lil Chest") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [![image](/image/D1.png)](/wiki/D1 "D1") (Added in Afterbirth †) [D1](/wiki/D1 "D1") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [(Fart Baby)](/wiki/Farting_Baby "Fart Baby") (Added in Afterbirth) [Fart Baby](/wiki/Farting_Baby "Farting Baby") - Defeat [Hush](/wiki/Hush "Hush") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [(Cry Baby)](/wiki/Babies "Cry Baby") (Added in Afterbirth) [Cry Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [![image](/image/D_Infinity.png)](/wiki/D_Infinity "D Infinity") (Added in Afterbirth †) [D Infinity](/wiki/D_Infinity "D Infinity") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [![image](/image/Meat_Cleaver.png)](/wiki/Meat_Cleaver "Meat Cleaver") (Added in Repentance) [Meat Cleaver](/wiki/Meat_Cleaver "Meat Cleaver") - Defeat [Mother](/wiki/Mother "Mother") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [![image](/image/Options%3F.png)](/wiki/Options%3F "Options?") (Added in Repentance) [Options?](/wiki/Options%3F "Options?") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [(The Broken)](/wiki/Tainted_Isaac "The Broken") (Added in Repentance) [The Broken](/wiki/Tainted_Isaac "Tainted Isaac") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
-
-* [(Buddy Baby)](/wiki/Babies "Buddy Baby") (Added in Afterbirth) [Buddy Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Isaac)](/wiki/Isaac "Isaac") **Isaac**.
-
+* [![image](/image/achievements/Isaac%27s_Head.png)](/wiki/Isaac%27s_Head "Isaac's Head") [Isaac's Head](/wiki/Isaac%27s_Head "Isaac's Head") アイザックでボスラッシュを完了する。
+* [![image](/image/achievements/Lost_Baby.png)](/wiki/Lost_Baby "Lost Baby") [Lost Baby](/wiki/Lost_Baby "Lost Baby") ハードモードのMom's Heartをアイザックで倒す。
+* [![image](/image/achievements/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife")Satanをアイザックで倒す。
+* [![image](/image/achievements/Isaac%27s_Tears.png)](/wiki/Isaac%27s_Tears "Isaac's_Tears") [Isaac's_Tears](/wiki/Isaac%27s_Tears "Isaac's_Tears")Issacをアイザックで倒す。
+* [![image](/image/achievements/Missing_Poster.png)](/wiki/Missing_Poster "Missing Poster") [Missing Poster](/wiki/Missing_Poster "Missing Poster")The Lambをアイザックで倒す。
+* [![image](/image/achievements/Isaac%27s_Tears.png)](/wiki/Isaac%27s_Tears "Isaac's Tears") [Isaac's Tears](/wiki/Isaac%27s_Tears "Isaac's Tears")???をアイザックで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Lil%27_Chest.png)](/wiki/Lil_Chest "Lil_Chest") [Lil_Chest](/wiki/Lil_Chest "Lil_Chest")Ultra Greedをアイザックで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/D1.png)](/wiki/D1 "D1") [D1](/wiki/D1 "D1")Ultra Greedierをアイザックで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Fart_Baby.png)](/wiki/Fart_Baby "Fart Baby") [Fart Baby](/wiki/Fart_Baby "Fart Baby")Hushをアイザックで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Cry_Baby.png)](/wiki/Cry_Baby "Cry Baby") [Cry Baby](/wiki/Cry_Baby "Cry Baby")Mega Satanをアイザックで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/D_Infinity.png)](/wiki/D_Infinity "D Infinity") [D Infinity](/wiki/D_Infinity "D Infinity")Deliriumをアイザックで倒す。
+* (Added in Repentance) [![image](/image/achievements/Meat_Cleaver.png)](/wiki/Meat_Cleaver "Meat Cleaver") [Meat Cleaver](/wiki/Meat_Cleaver "Meat Cleaver")Motherをアイザックで倒す。
+* (Added in Repentance) [![image](/image/achievements/Options%3F.png)](/wiki/Options%3F "Options?") [Options?](/wiki/Options%3F "Options?")The Beastをアイザックで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Broken.png)](/characters/isaac_b "The Broken") [The Broken](/characters/isaac_b "The Broken")アイザックでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* (Added in Afterbirth) [![image](/image/achievements/Buddy_Baby.png)](/babys "Buddy Baby") [Buddy Baby](/babys "Buddy Baby")アイザックですべてのハードモード完了のマークを獲得する。
