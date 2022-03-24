@@ -1,95 +1,85 @@
 +++
 +++
 
- # Samson ![image](/image/Samson.png) 
+ # サムソン (Samson) 
+ ![image](/image/characters/Samson.png) 
 
-Notes
+ステータス
 -------
 
 
-* Samson gains damage from being hurt, and as such, possesses a playstyle that is fairly similar to  [(Eve)](/wiki/Eve "Eve") [Eve](/wiki/Eve "Eve"). Therefore, using [Devil beggars](/wiki/Devil_beggar "Devil beggar"), [Sacrifice Rooms](/wiki/Sacrifice_Room "Sacrifice Room") and [Blood Donation Machines](/wiki/Blood_Donation_Machine "Blood Donation Machine") synergizes very well with Samson.
-* Samson starts with a lower Tear stat. Try to seek items that increase it.
-* Dying as Samson and then respawning as another character ([![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags"), [![image](/image/Ankh.png)](/wiki/Ankh "Ankh") [Ankh](/wiki/Ankh "Ankh"), etc.) won't cost you and will allow you to inherit Samson's[![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust") item.
-* When Samson dies in Co-Op mode, his ghost baby maintains his level of rage from his Bloody Lust item, giving it a red tint. This is purely cosmetic.
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|-0.1|1.31|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|5|1.1|0|(Added in Afterbirth†) [![image](/image/Child%27s_Heart.png)](/wiki/Child%27s_Heart "Child’s Heart") [Child’s Heart](/wiki/Child%27s_Heart "Child’s Heart")|[![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust")|
 
 
-Item Interactions
+概要
+-------
+
+サムソンは2階層連続でノーダメージクリアをするとアンロックされる。サムソンは赤ハートコンテナ3つと[![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust")を持ってスタートする。サムソンは階層を降りるまで、ダメージを受けるたびにダメージが上昇する。
+
+(Added in Afterbirth †) サムソンはthe Ultra Hardのチャレンジをクリアした後はトリンケットの[![image](/image/Child%27s_Heart.png)](/wiki/Child%27s_Heart "Child's Heart") [Child's Heart](/wiki/Child%27s_Heart "Child's Heart")を持ってスタートする。
+
+ノート
+-------
+
+* サムソンは傷つくとダメージが上昇するので、プレイスタイルは少しだけイヴに似ている。悪魔乞食や生け贄部屋、献血機はサムソンととてもよいシナジーをする。
+* サムソンはティアが低い状態でスタートする。ティアが上がるアイテムを探してみるとよい。
+* サムソンが死んで[![image](/image/Lazarus%27s_Rags.png)](/wiki/Lazarus%27s_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27s_Rags "Lazarus' Rags")や[![image](/image/Ankh.png)](/wiki/Ankh "Ankh") [Ankh](/wiki/Ankh "Ankh")などのアイテム効果で他のキャラクターとして復活するとき、[![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust")は消費されず継承される。
+* サムソンが協力モードで死亡したとき、彼のゴーストベイビーは[![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust")のレベルに応じて赤くなる。これは見た目にのみ影響している。
+
+
+アイテム効果
 -------------------
 
-
-* (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): [![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust") can gain 4 more damage boosts at the same +0.2 intervals, for a new maximum total of +14.0.
-
-
-### Favorable items
+* (Added in Repentance) [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright")の効果：[![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust")が追加で4回、毎回+0.2のダメージ上昇ができるようになり、ダメージ上昇の最大値が+14.0となる。
 
 
-* Any items that increase health so Samson can take more damage before dying.
-* Any items that increase Samson's tear stat, such as [![image](/image/Squeezy.png)](/wiki/Squeezy "Squeezy") [Squeezy](/wiki/Squeezy "Squeezy"), [![image](/image/Odd_Mushroom_(Thin).png)](/wiki/Odd_Mushroom_(Thin) "Odd Mushroom") [Odd Mushroom](/wiki/Odd_Mushroom_(Thin) "Odd Mushroom (Thin)")...
-* Any items that [generate Blue Flies](/wiki/Familiar "Familiar") like [![image](/image/Rotten_Baby.png)](/wiki/Rotten_Baby "Rotten Baby") [Rotten Baby](/wiki/Rotten_Baby "Rotten Baby") or [![image](/image/Guppy%27s_Head.png)](/wiki/Guppy%27s_Head "Guppy's Head") [Guppy's Head](/wiki/Guppy%27s_Head "Guppy's Head") do so based on Samson's base damage and are good for early game room clearing when Samson's tears are still low.
-* Items relying on contact damage like [![image](/image/The_Virus.png)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus") or [![image](/image/E._Coli.png)](/wiki/E._Coli "E. Coli") [E. Coli](/wiki/E._Coli "E. Coli") can be beneficial in that you "want" to take damage because of [![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust").
-* Health regeneration items like [![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart"), [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac"), and [![image](/image/Placenta.png)](/wiki/Placenta "Placenta") [Placenta](/wiki/Placenta "Placenta") allow health regeneration after taking damage, and thus allow for more damage, both stat-wise and health-wise.
-* [![image](/image/Cancer.png)](/wiki/Cancer "Cancer") [Cancer](/wiki/Cancer "Cancer") and [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer") minimize damage taken from Sacrifice Rooms and can be incredibly useful to build a lot of damage and pickups, especially in combination with an excess of hearts. The Wafer in particular is incredibly helpful in [Chapter 4](/wiki/Chapter_4 "Chapter 4") and beyond, where all taken damage increases to one full heart per instance.
-* [![image](/image/Dead_Bird.png)](/wiki/Dead_Bird "Dead Bird") [Dead Bird](/wiki/Dead_Bird "Dead Bird"), [![image](/image/Best_Bud.png)](/wiki/Best_Bud "Best Bud") [Best Bud](/wiki/Best_Bud "Best Bud"), [![image](/image/Smart_Fly.png)](/wiki/Smart_Fly "Smart Fly") [Smart Fly](/wiki/Smart_Fly "Smart Fly"), etc: All of these items will add to Samson's damage increase from getting hurt, although, unlike Bloody Lust, the bonus of these items only last for the duration of a room.
-* [![image](/image/Fanny_Pack.png)](/wiki/Fanny_Pack "Fanny Pack") [Fanny Pack](/wiki/Fanny_Pack "Fanny Pack")'s chance of dropping a heart upon hit can cancel out damage to Samson while also buffing him.
-* (Added in Afterbirth †)[![image](/image/Dull_Razor.png)](/wiki/Dull_Razor "Dull Razor") [Dull Razor](/wiki/Dull_Razor "Dull Razor") can safely provide Samson's damage boost without needing to take damage.
-* [![image](/image/Gimpy.png)](/wiki/Gimpy "Gimpy") [Gimpy](/wiki/Gimpy "Gimpy") increases benefits from taking damage and feasibly adds more survivability from random soul hearts and half-heart drops.
-* (Added in Afterbirth)[![image](/image/Immaculate_Conception.png)](/wiki/Immaculate_Conception "Immaculate Conception") [Immaculate Conception](/wiki/Immaculate_Conception "Immaculate Conception") and (Added in Afterbirth)[![image](/image/Cambion_Conception.png)](/wiki/Cambion_Conception "Cambion Conception") [Cambion Conception](/wiki/Cambion_Conception "Cambion Conception") will produce familiars as Samson heals or receives damage, respectively.
-* [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag"), [![image](/image/Blood_Rights.png)](/wiki/Blood_Rights "Blood Rights") [Blood Rights](/wiki/Blood_Rights "Blood Rights"), [![image](/image/Razor_Blade.png)](/wiki/Razor_Blade "Razor Blade") [Razor Blade](/wiki/Razor_Blade "Razor Blade"), [![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug"), [![image](/image/Kamikaze!.png)](/wiki/Kamikaze! "Kamikaze!") [Kamikaze!](/wiki/Kamikaze! "Kamikaze!"): Activating their effects also give Samson a boost in damage since they damage the player.
-* (Added in Repentance)[![image](/image/Blood_Oath.png)](/wiki/Blood_Oath "Blood Oath") [Blood Oath](/wiki/Blood_Oath "Blood Oath") is extremely useful on Samson, as its damage up effect stacks with [![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust"), meaning you will start every floor with a significant amount of damage up.
+### 有利なアイテム
 
 
-### Unfavorable items
+* 体力を上昇させるアイテムはよりダメージを受けられるようになる。
+* [![image](/image/Squeezy.png)](/wiki/Squeezy "Squeezy") [Squeezy](/wiki/Squeezy "Squeezy")や[![image](/image/Odd_Mushroom.png)](/wiki/Odd_Mushroom "Odd Mushroom") [Odd Mushroom](/wiki/Odd_Mushroom "Odd Mushroom")のようなティアを上昇させるアイテムは有用。
+* [![image](/image/Rotten_Baby.png)](/wiki/Rotten_Baby "Rotten Baby") [Rotten Baby](/wiki/Rotten_Baby "Rotten Baby")や[![image](/image/Guppy%27s_Head.png)](/wiki/Guppy%27s_Head "Guppy's Head") [Guppy's Head](/wiki/Guppy%27s_Head "Guppy's Head")のような青ハエを生成するアイテムはサムソンのダメージをベースにダメージを与えるので、サムソンのティアが低くても部屋のクリアが早くなる。
+* [![image](/image/The_Virus.png)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus")や[![image](/image/E._Coli.png)](/wiki/E._Coli "E. Coli") [E. Coli](/wiki/E._Coli "E. Coli")のような接触ダメージに依存するアイテムは[![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust")のためにダメージを「受けたい」という点で有用。
+* [![image](/image/Yum_heart.png)](/wiki/Yum_heart "Yum heart") [Yum heart](/wiki/Yum_heart "Yum heart")、[![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac")、[![image](/image/Placenta.png)](/wiki/Placenta "Placenta") [Placenta](/wiki/Placenta "Placenta")のような体力回復アイテムはダメージを受けても回復できるため、ステータス的にも体力的にもよりダメージを受けやすくなる。
+* [![image](/image/Cancer.png)](/wiki/Cancer "Cancer") [Cancer](/wiki/Cancer "Cancer")と[![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer")は生け贄部屋で受けるダメージも最小限に抑えるため、余ったハートと組み合わせて多くのダメージとピックアップを得るのにとても有効。特にチャプター4以降では受けるダメージが1回につきハート1個分まで増加するため、[![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer")は非常に有用になる。
+* [![image](/image/Dead_Bird.png)](/wiki/Dead_Bird "Dead Bird") [Dead Bird](/wiki/Dead_Bird "Dead Bird")、[![image](/image/Best_Bud.png)](/wiki/Best_Bud "Best Bud") [Best Bud](/wiki/Best_Bud "Best Bud")、[![image](/image/Smart_Fly.png)](/wiki/Smart_Fly "Smart Fly") [Smart Fly](/wiki/Smart_Fly "Smart Fly")らのようなアイテムはすべてサムソンが傷付いたときのダメージ上昇に貢献するが、[![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust")とは異なりその部屋でしか効果が発揮されない。
+* [![image](/image/Fanny_Pack.png)](/wiki/Fanny_Pack "Fanny Pack") [Fanny Pack](/wiki/Fanny_Pack "Fanny Pack")はダメージを受けた時に確率でハートをドロップするため、サムソンのバフを残してダメージ分を相殺してくれる。
+* (Added in Afterbirth †) [![image](/image/Dull_Razor.png)](/wiki/Dull_Razor "Dull Razor") [Dull Razor](/wiki/Dull_Razor "Dull Razor")はダメージを受けることなく安全にサムソンのダメージ上昇を行える。
+* [![image](/image/Gimpy.png)](/wiki/Gimpy "Gimpy") [Gimpy](/wiki/Gimpy "Gimpy")はダメージを受けることによる恩恵を増やし、ランダムにソウルハートか半分の赤ハートをドロップするので生存率を高めることができる。
+* (Added in Afterbirth) [![image](/image/Immaculate_Conception.png)](/wiki/Immaculate_Conception "Immaculate Conception") [Immaculate Conception](/wiki/Immaculate_Conception "Immaculate Conception")と(Added in Afterbirth)[![image](/image/Cambion_Conception.png)](/wiki/Cambion_Conception "Cambion Conception") [Cambion Conception](/wiki/Cambion_Conception "Cambion Conception")はサムソンがそれぞれダメージを受けるか回復するときにファミリアを生み出してくれる。
+* [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag")、[![image](/image/Blood_Rights.png)](/wiki/Blood_Rights "Blood Rights") [Blood Rights](/wiki/Blood_Rights "Blood Rights")、[![image](/image/Razor_Blade.png)](/wiki/Razor_Blade "Razor Blade") [Razor Blade](/wiki/Razor_Blade "Razor Blade")、[![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug")、[![image](/image/Kamikaze%21.png)](/wiki/Kamikaze%21 "Kamikaze!") [Kamikaze!](/wiki/Kamikaze%21 "Kamikaze!")の起動効果はプレイヤーにダメージを与えるのでサムソンのダメージ上昇を引き出す。
+* (Added in Repentance) [![image](/image/Blood_Oath.png)](/wiki/Blood_Oath "Blood Oath") [Blood Oath](/wiki/Blood_Oath "Blood Oath")は[![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust")のダメージ上昇効果と重複するため、どの階層でもかなりダメージ上昇してスタートできるのでサムソンにとって極めて有用だ。
 
 
-* Anything which lowers health such as [![image](/image/Dead_Cat.png)](/wiki/Dead_Cat "Dead Cat") [Dead Cat](/wiki/Dead_Cat "Dead Cat") can make purposeful self-damage less reliable as a damage booster. For this reason, taking items from the [Devil Room](/wiki/Devil_Room "Devil Room") or the [Black Market](/wiki/Black_Market "Black Market"), which cost health for every item thus taken, is not recommended for Samson.
-* Tears Down [Pills](/wiki/Pills "Pills") are especially bad for Samson due to his low starting Tears stat.
+### 不利なアイテム
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+* [![image](/image/Dead_Cat.png)](/wiki/Dead_Cat "Dead Cat") [Dead Cat](/wiki/Dead_Cat "Dead Cat")のような体力を低下させるものは、ダメージ上昇用の意図的な自傷ダメージの信頼性を低下させる。このため、悪魔部屋やブラックマーケットでのアイテム取引はアイテムを取るごとに体力を消費するため、サムソンにはお勧めできない。
+* ティアダウン効果のピルはサムソンが低いティアでスタートする以上、特に悪い効果となる。
+
+
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
 
-* [![image](/image/Samson%27s_Chains.png)](/wiki/Samson%27s_Chains "Samson's Chains")  [Samson's Chains](/wiki/Samson%27s_Chains "Samson's Chains") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [(Fighting Baby)](/wiki/Babies "Fighting Baby")  [Fighting Baby](/wiki/Babies "Babies") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [![image](/image/Blood_Rights.png)](/wiki/Blood_Rights "Blood Rights")  [Blood Rights](/wiki/Blood_Rights "Blood Rights") - Defeat [Satan](/wiki/Satan "Satan") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [![image](/image/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust")  [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [(Samson's Lock)](/wiki/Samson%27s_Lock "Samson's Lock")  [Samson's Lock](/wiki/Samson%27s_Lock "Samson's Lock") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [(Blood Penny)](/wiki/Bloody_Penny "Blood Penny")  [Blood Penny](/wiki/Bloody_Penny "Bloody Penny") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [![image](/image/Lusty_Blood.png)](/wiki/Lusty_Blood "Lusty Blood") (Added in Afterbirth) [Lusty Blood](/wiki/Lusty_Blood "Lusty Blood") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [(Stem Cell)](/wiki/Stem_Cell "Stem Cell") (Added in Afterbirth †) [Stem Cell](/wiki/Stem_Cell "Stem Cell") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [(Blind Rage)](/wiki/Blind_Rage "Blind Rage") (Added in Afterbirth) [Blind Rage](/wiki/Blind_Rage "Blind Rage") - Defeat [Hush](/wiki/Hush "Hush") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [(Rage Baby)](/wiki/Babies "Rage Baby") (Added in Afterbirth) [Rage Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [(Bloody Crown)](/wiki/Bloody_Crown "Bloody Crown") (Added in Afterbirth †) [Bloody Crown](/wiki/Bloody_Crown "Bloody Crown") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [![image](/image/Bloody_Gust.png)](/wiki/Bloody_Gust "Bloody Gust") (Added in Repentance) [Bloody Gust](/wiki/Bloody_Gust "Bloody Gust") - Defeat [Mother](/wiki/Mother "Mother") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [![image](/image/Empty_Heart.png)](/wiki/Empty_Heart "Empty Heart") (Added in Repentance) [Empty Heart](/wiki/Empty_Heart "Empty Heart") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [(The Savage)](/wiki/Tainted_Samson "The Savage") (Added in Repentance) [The Savage](/wiki/Tainted_Samson "Tainted Samson") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
-
-* [(Revenge Baby)](/wiki/Babies "Revenge Baby") (Added in Afterbirth) [Revenge Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Samson)](/wiki/Samson "Samson") **Samson**.
-
+* [![image](/image/achievements/Samson%27s_Chains.png)](/wiki/Samson%27s_Chains "Samson's Chains") [Samson's Chains](/wiki/Samson%27s_Chains "Samson's Chains") サムソンでボスラッシュを完了する。
+* [![image](/image/achievements/Fighting_Baby.png)](/wiki/Fighting_Baby "Fighting Baby") [Fighting Baby](/wiki/Fighting_Baby "Fighting Baby") ハードモードのMom's Heartをサムソンで倒す。
+* [![image](/image/achievements/Blood_Rights.png)](/wiki/Blood_Rights "Blood Rights") [Blood Rights](/wiki/Blood_Rights "Blood Rights") Satanをサムソンで倒す。
+* [![image](/image/achievements/Bloody_Lust.png)](/wiki/Bloody_Lust "Bloody Lust") [Bloody Lust](/wiki/Bloody_Lust "Bloody Lust") Issacをサムソンで倒す。
+* [![image](/image/achievements/Samson%27s_Lock.png)](/wiki/Samson%27s_Lock "Samson's Lock") [Samson's Lock](/wiki/Samson%27s_Lock "Samson's Lock") The Lambをサムソンで倒す。
+* [![image](/image/achievements/Blood_Penny.png)](/wiki/Blood_Penny "Blood Penny") [Blood Penny](/wiki/Blood_Penny "Blood Penny") ???をサムソンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Lusty_Blood.png)](/wiki/Lusty_Blood "Lusty Blood") [Lusty Blood](/wiki/Lusty_Blood "Lusty Blood") Ultra Greedをサムソンで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Stem_Cell.png)](/wiki/Stem_Cell "Stem Cell") [Stem Cell](/wiki/Stem_Cell "Stem Cell") Ultra Greedierをサムソンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Blind_Rage.png)](/wiki/Blind_Rage "Blind Rage") [Blind Rage](/wiki/Blind_Rage "Blind Rage") Hushをサムソンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Rage_Baby.png)](/wiki/Rage_Baby "Rage Baby") [Rage Baby](/wiki/Rage_Baby "Rage Baby") Mega Satanをサムソンで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Bloody_Crown.png)](/wiki/Bloody_Crown "Bloody Crown") [Bloody Crown](/wiki/Bloody_Crown "Bloody Crown") Deliriumをサムソンで倒す。
+* (Added in Repentance) [![image](/image/achievements/Bloody_Gust.png)](/wiki/Bloody_Gust "Bloody Gust") [Bloody Gust](/wiki/Bloody_Gust "Bloody Gust") Motherをサムソンで倒す。
+* (Added in Repentance) [![image](/image/achievements/Empty_Heart.png)](/wiki/Empty_Heart "Empty Heart") [Empty Heart](/wiki/Empty_Heart "Empty Heart") The Beastをサムソンで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Savage.png)](/wiki/The_Savage "The Savage") [The Savage](/wiki/The_Savage "The Savage") サムソンでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* (Added in Afterbirth) [![image](/image/achievements/Revenge_Baby.png)](/wiki/Revenge_Baby "Revenge Baby") [Revenge Baby](/wiki/Revenge_Baby "Revenge Baby") サムソンですべてのハードモード完了のマークを獲得する。

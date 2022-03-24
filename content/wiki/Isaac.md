@@ -2,13 +2,12 @@
 +++
 
 
- # Isaac 
+ # アイザック (Isaac) 
  ![image](/image/characters/Isaac.png) 
 
 
 ステータス
 -------
-
 
 |ライフ|ダメージ|ティア|ショットスピード|
 |:----:|---|---|---|
@@ -16,11 +15,12 @@
 
 |レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
 |:--:|:--:|:--:|:--:|:--:|
-|6.5|1.00|0|bombs x 1|[![image](/image/The_D6.png)](/wiki/The_D6 "The D6") [The D6](/wiki/The_D6 "The D6")|
+|6.5|1|0|x1 bombs|[![image](/image/The_D6.png)](/wiki/The_D6 "The D6") [The D6](/wiki/The_D6 "The D6")|
 
 
 概要
 -------
+
 アイザックは前作The Binding of Isaac から引き続き登場しているメインキャラクターです。アイザックは唯一デフォルトで解禁されているキャラクターです。
 
 アイザックは3つの赤ハートコンテナとボム1つを所持した状態で開始します。また一度でも解禁している場合は [![image](/image/The_D6.png)](/wiki/The_D6 "The D6") [The D6](/wiki/The_D6 "The D6") を所持した状態で開始します。(アイザックで ??? を倒した後)
