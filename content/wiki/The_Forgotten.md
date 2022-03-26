@@ -1,22 +1,50 @@
 +++
 +++
 
- # The_Forgotten ![image](/image/The_Forgotten.png) 
+#### ※この記事は翻訳作業中です
 
-The Soul
+ # ザ　フォーガットン(The_Forgotten)
+ ![image](/image/characters/The_Forgotten.png) 
+
+ステータス
+-------
+
+
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+||3.5 (x1.00)|0|1|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|6.5|1.00|0||Bone club|
+
+
+ザ　ソウル
 ----------
 
+ ![image](/image/characters/The_Soul.png) 
+
+### ステータス
+
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/s-heart.png)|3.5 (x1.00)|0|1|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|6.5|1.3|0||Flight / Spectral tears|
 
 Pressing the swap key (CTRL on PC / R2 on PS4 / RT on Xbox / ZR on Switch) will switch control to **The Soul**, a blue ghost chained to The Forgotten who fires spectral tears and can fly. 
-
 
 While controlling The Soul, The Forgotten cannot take damage, blocks all normal shots that touch it, and attracts shots in a small <1 tile radius. If The Soul dies, the run will end.
 
 
-
-Notes
+概要
 -------
 
+
+ノート
+-------
 
 * The Forgotten's bone club deals 3× his damage when swung and 1.5× his damage when thrown. The melee attack deals knockback to enemies ((Added in Repentance)and occasionally The Forgotten himself) if it hits.
 	+ (Added in Repentance) At 22.50 [fire rate](/wiki/Tears "Tears") or above, he can no longer throw the bone club, and at 30.00 or above, the melee attack is automatically performed while holding shoot key.
@@ -83,8 +111,9 @@ Unlocking The Forgotten
 	* If stuck, confused, or frustrated, check the[![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel") page for tips and help.
 
 
-Item Interactions
+アイテム効果
 -------------------
+
 
 
 Many items have unique interactions with The Forgotten's bone club or The Soul and The Forgotten's unique health system. The Soul's tears are affected normally.
@@ -205,121 +234,23 @@ Many items have unique interactions with The Forgotten's bone club or The Soul a
 * [![image](/image/The_Wiz.png)](/wiki/The_Wiz "The Wiz") [The Wiz](/wiki/The_Wiz "The Wiz"): The Forgotten wields two clubs, one in each hand, pointing diagonally outwards.
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
 
-* [![image](/image/Divorce_Papers.png)](/wiki/Divorce_Papers "Divorce Papers")  [Divorce Papers](/wiki/Divorce_Papers "Divorce Papers") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [![image](/image/Marrow.png)](/wiki/Marrow "Marrow")  [Marrow](/wiki/Marrow "Marrow") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") or [It Lives!](/wiki/It_Lives! "It Lives!") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [![image](/image/Pointy_Rib.png)](/wiki/Pointy_Rib "Pointy Rib")  [Pointy Rib](/wiki/Pointy_Rib "Pointy Rib") - Defeat [Satan](/wiki/Satan "Satan") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [![image](/image/Slipped_Rib.png)](/wiki/Slipped_Rib "Slipped Rib")  [Slipped Rib](/wiki/Slipped_Rib "Slipped Rib") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [![image](/image/Brittle_Bones.png)](/wiki/Brittle_Bones "Brittle Bones")  [Brittle Bones](/wiki/Brittle_Bones "Brittle Bones") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [![image](/image/Jaw_Bone.png)](/wiki/Jaw_Bone "Jaw Bone")  [Jaw Bone](/wiki/Jaw_Bone "Jaw Bone") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [(Finger Bone)](/wiki/Finger_Bone "Finger Bone")  [Finger Bone](/wiki/Finger_Bone "Finger Bone") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [![image](/image/Dad%27s_Ring.png)](/wiki/Dad%27s_Ring "Dad's Ring")  [Dad's Ring](/wiki/Dad%27s_Ring "Dad's Ring") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [![image](/image/Hallowed_Ground.png)](/wiki/Hallowed_Ground "Hallowed Ground")  [Hallowed Ground](/wiki/Hallowed_Ground "Hallowed Ground") - Defeat [Hush](/wiki/Hush "Hush") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [(Bound Baby)](/wiki/Babies "Bound Baby")  [Bound Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [![image](/image/Book_of_the_Dead.png)](/wiki/Book_of_the_Dead "Book of the Dead")  [Book of the Dead](/wiki/Book_of_the_Dead "Book of the Dead") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [![image](/image/Bone_Spurs.png)](/wiki/Bone_Spurs "Bone Spurs") (Added in Repentance) [Bone Spurs](/wiki/Bone_Spurs "Bone Spurs") - Defeat [Mother](/wiki/Mother "Mother") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [![image](/image/Spirit_Shackles.png)](/wiki/Spirit_Shackles "Spirit Shackles") (Added in Repentance) [Spirit Shackles](/wiki/Spirit_Shackles "Spirit Shackles") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [(The Fettered)](/wiki/Tainted_Forgotten "The Fettered") (Added in Repentance) [The Fettered](/wiki/Tainted_Forgotten "Tainted Forgotten") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
-
-  
-
-
-
-
-* [(Bone Baby)](/wiki/Babies "Bone Baby")  [Bone Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(The Forgotten)](/wiki/The_Forgotten "The Forgotten") **The Forgotten**.
-
+* [![image](/image/achievements/Divorce_Papers.png)](/wiki/Divorce_Papers "Divorce Papers") [Divorce Papers](/wiki/Divorce_Papers "Divorce Papers") ザ　フォーガットンでボスラッシュを完了する。
+* [![image](/image/achievements/Marrow.png)](/wiki/Marrow "Marrow") [Marrow](/wiki/Marrow "Marrow") ハードモードのMom's Heartをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Pointy_Rib.png)](/wiki/Pointy_Rib "Pointy Rib") [Pointy Rib](/wiki/Pointy_Rib "Pointy Rib") Satanをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Slipped_Rib.png)](/wiki/Slipped_Rib "Slipped Rib") [Slipped Rib](/wiki/Slipped_Rib "Slipped Rib") Issacをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Brittle_Bones.png)](/wiki/Brittle_Bones "Brittle Bones") [Brittle Bones](/wiki/Brittle_Bones "Brittle Bones") The Lambをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Jaw_Bone.png)](/wiki/Jaw_Bone "Jaw Bone") [Jaw Bone](/wiki/Jaw_Bone "Jaw Bone") ???をザ　フォーガットンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Finger_Bone.png)](/wiki/Finger_Bone "Finger Bone") [Finger Bone](/wiki/Finger_Bone "Finger Bone") Ultra Greedをザ　フォーガットンで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Dad%27s_Ring.png)](/wiki/Dad%27s_Ring "Dad's Ring") [Dad's Ring](/wiki/Dad%27s_Ring "Dad's Ring") Ultra Greedierをザ　フォーガットンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Hallowed_Ground.png)](/wiki/Hallowed_Ground "Hallowed Ground") [Hallowed Ground](/wiki/Hallowed_Ground "Hallowed Ground") Hushをザ　フォーガットンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Bound_Baby.png)](/wiki/Bound_Baby "Bound Baby") [Bound Baby](/wiki/Bound_Baby "Bound Baby") Mega Satanをザ　フォーガットンで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Book_of_the_Dead.png)](/wiki/Book_of_the_Dead "Book of the Dead") [Book of the Dead](/wiki/Book_of_the_Dead "Book of the Dead") Deliriumをザ　フォーガットンで倒す。
+* (Added in Repentance) [![image](/image/achievements/Bone_Spurs.png)](/wiki/Bone_Spurs "Bone Spurs") [Bone Spurs](/wiki/Bone_Spurs "Bone Spurs") Motherをザ　フォーガットンで倒す。
+* (Added in Repentance) [![image](/image/achievements/Spirit_Shackles.png)](/wiki/Spirit_Shackles "Spirit Shackles") [Spirit Shackles](/wiki/Spirit_Shackles "Spirit Shackles") The Beastをザ　フォーガットンで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Fettered.png)](/wiki/The_Fettered "The Fettered") [The Fettered](/wiki/The_Fettered "The Fettered") ザ　フォーガットンでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* (Added in Afterbirth) [![image](/image/achievements/Bone_Baby.png)](/wiki/Bone_Baby "Bone Baby") [Bone Baby](/wiki/Bone_Baby "Bone Baby") ザ　フォーガットンですべてのハードモード完了のマークを獲得する。

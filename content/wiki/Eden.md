@@ -1,11 +1,29 @@
 +++
 +++
 
- # Eden ![image](/image/Eden.png) 
+#### ※この記事は翻訳作業中です
 
-Notes
+ # エデン(Eden)
+ ![image](/image/characters/Eden.png) 
+
+ステータス
 -------
 
+
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|random|3.5 ± 1.0 (x1.00)|± 0.75|1 ± 0.25|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|6.5 ± 1.5|1.00 ± 0.15|0 ± 1|x0-2 bombs / x0-1 keys / x0-5 coins / x0-1 trinket or pill or card|Randam active item / Random passive item|
+
+概要
+-------
+
+
+ノート
+-------
 
 * Holding R to reset doesn't work with Eden, and every time you start a new run, you use up one Eden token.
 	+ After starting a run and transforming into another character (using items like [![image](/image/Ankh.png)](/wiki/Ankh "Ankh") [Ankh](/wiki/Ankh "Ankh") or (Added in Afterbirth †)[![image](/image/Clicker.png)](/wiki/Clicker "Clicker") [Clicker](/wiki/Clicker "Clicker")), holding R to reset will work and start a new run as Eden, even if you don't have tokens.
@@ -18,60 +36,30 @@ Notes
 * Eden Tokens are not awarded for killing Mom's Heart or It Lives in [(The Void)](/wiki/The_Void "The Void") [The Void](/wiki/The_Void "The Void").
 
 
-Item Interactions
+アイテム効果
 -------------------
-
 
 * (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Spawns 3 random items from random item pools. Only one can be taken.
 * (Added in Repentance)[![image](/image/Genesis.png)](/wiki/Genesis "Genesis") [Genesis](/wiki/Genesis "Genesis"): If Eden uses Genesis it will reroll the character as if it was a new run (new starting items, new hairstyle and new stats).
 * (Added in Afterbirth)[![image](/image/Glowing_Hour_Glass.png)](/wiki/Glowing_Hour_Glass "Glowing Hour Glass") [Glowing Hour Glass](/wiki/Glowing_Hour_Glass "Glowing Hour Glass"): If Eden starts with this item and immediately uses it in the starting room, they will reset the room and remove their starting items.
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
 
-* [![image](/image/Undefined.png)](/wiki/Undefined "Undefined")  [Undefined](/wiki/Undefined "Undefined") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [(Glitch Baby)](/wiki/Babies "Glitch Baby")  [Glitch Baby](/wiki/Babies "Babies") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [![image](/image/Book_of_Secrets.png)](/wiki/Book_of_Secrets "Book of Secrets")  [Book of Secrets](/wiki/Book_of_Secrets "Book of Secrets") - Defeat [Satan](/wiki/Satan "Satan") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [![image](/image/Blank_Card.png)](/wiki/Blank_Card "Blank Card")  [Blank Card](/wiki/Blank_Card "Blank Card") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [![image](/image/Mystery_Sack.png)](/wiki/Mystery_Sack "Mystery Sack")  [Mystery Sack](/wiki/Mystery_Sack "Mystery Sack") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [(Mysterious Paper)](/wiki/Mysterious_Paper "Mysterious Paper")  [Mysterious Paper](/wiki/Mysterious_Paper "Mysterious Paper") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [![image](/image/GB_Bug.png)](/wiki/GB_Bug "GB Bug") (Added in Afterbirth) [GB Bug](/wiki/GB_Bug "GB Bug") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [![image](/image/Metronome.png)](/wiki/Metronome "Metronome") (Added in Afterbirth †) [Metronome](/wiki/Metronome "Metronome") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [![image](/image/Eden%27s_Blessing.png)](/wiki/Eden%27s_Blessing "Eden's Blessing") (Added in Afterbirth) [Eden's Blessing](/wiki/Eden%27s_Blessing "Eden's Blessing") - Defeat [Hush](/wiki/Hush "Hush") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [(Yellow Baby)](/wiki/Babies "Yellow Baby") (Added in Afterbirth) [Yellow Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [![image](/image/Eden%27s_Soul.png)](/wiki/Eden%27s_Soul "Eden's Soul") (Added in Afterbirth †) [Eden's Soul](/wiki/Eden%27s_Soul "Eden's Soul") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [('M)](/wiki/%27M "'M") (Added in Repentance) ['M](/wiki/%27M "'M") - Defeat [Mother](/wiki/Mother "Mother") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [![image](/image/Everything_Jar.png)](/wiki/Everything_Jar "Everything Jar") (Added in Repentance) [Everything Jar](/wiki/Everything_Jar "Everything Jar") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [(The Capricious)](/wiki/Tainted_Eden "The Capricious") (Added in Repentance) [The Capricious](/wiki/Tainted_Eden "Tainted Eden") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
-
-* [(Cracked Baby)](/wiki/Babies "Cracked Baby") (Added in Afterbirth) [Cracked Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Eden)](/wiki/Eden "Eden") **Eden**.
-
+* [![image](/image/achievements/Undefined.png)](/wiki/Undefined "Undefined") [Undefined](/wiki/Undefined "Undefined") エデンでボスラッシュを完了する。
+* [![image](/image/achievements/Glitch_Baby.png)](/wiki/Glitch_Baby "Glitch Baby") [Glitch Baby](/wiki/Glitch_Baby "Glitch Baby") ハードモードのMom's Heartをエデンで倒す。
+* [![image](/image/achievements/Book_of_Secrets.png)](/wiki/Book_of_Secrets "Book of Secrets") [Book of Secrets](/wiki/Book_of_Secrets "Book of Secrets") Satanをエデンで倒す。
+* [![image](/image/achievements/Blank_Card.png)](/wiki/Blank_Card "Blank Card") [Blank Card](/wiki/Blank_Card "Blank Card") Issacをエデンで倒す。
+* [![image](/image/achievements/Mystery_Sack.png)](/wiki/Mystery_Sack "Mystery Sack") [Mystery Sack](/wiki/Mystery_Sack "Mystery Sack") The Lambをエデンで倒す。
+* [![image](/image/achievements/Mysterious_Paper.png)](/wiki/Mysterious_Paper "Mysterious Paper") [Mysterious Paper](/wiki/Mysterious_Paper "Mysterious Paper") ???をエデンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/GB_Bug.png)](/wiki/GB_Bug "GB Bug") [GB Bug](/wiki/GB_Bug "GB Bug") Ultra Greedをエデンで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Metronome.png)](/wiki/Metronome "Metronome") [Metronome](/wiki/Metronome "Metronome") Ultra Greedierをエデンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Eden%27s_Blessing.png)](/wiki/Eden%27s_Blessing "Eden's Blessing") [Eden's Blessing](/wiki/Eden%27s_Blessing "Eden's Blessing") Hushをエデンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Yellow_Baby.png)](/wiki/Yellow_Baby "Yellow Baby") [Yellow Baby](/wiki/Yellow_Baby "Yellow Baby") Mega Satanをエデンで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Eden%27s_Soul.png)](/wiki/Eden%27s_Soul "Eden's Soul") [Eden's Soul](/wiki/Eden%27s_Soul "Eden's Soul") Deliriumをエデンで倒す。
+* (Added in Repentance) [![image](/image/achievements/%27M.png)](/wiki/%27M "’M") [’M](/wiki/%27M "’M") Motherをエデンで倒す。
+* (Added in Repentance) [![image](/image/achievements/Everything_Jar.png)](/wiki/Everything_Jar "Everything Jar") [Everything Jar](/wiki/Everything_Jar "Everything Jar") The Beastをエデンで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Capricious.png)](/wiki/The_Capricious "The Capricious") [The Capricious](/wiki/The_Capricious "The Capricious") エデンでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* (Added in Afterbirth) [![image](/image/achievements/Cracked_Baby.png)](/wiki/Cracked_Baby "Cracked Baby") [Cracked Baby](/wiki/Cracked_Baby "Cracked Baby") エデンですべてのハードモード完了のマークを獲得する。

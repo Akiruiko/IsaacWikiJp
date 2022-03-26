@@ -1,11 +1,30 @@
 +++
 +++
 
- # Lilith ![image](/image/Lilith.png) 
+#### ※この記事は翻訳作業中です
 
-Notes
+ # リリス(Lilith)
+ ![image](/image/characters/Lilith.png) 
+
+ステータス
 -------
 
+
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/b-heart.png) ![image](/image/characters/b-heart.png)|3.5 (x1.00)|0|1|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|6.5|1|0|none|Blindfolded / (Added in Afterbirth)[![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") (Added in Afterbirth)[![image](/image/Cambion_Conception.png)](/wiki/Cambion_Conception "Cambion Conception") [Cambion Conception](/wiki/Cambion_Conception "Cambion Conception") (Added in Afterbirth)[![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends")|
+
+
+概要
+-------
+
+
+ノート
+-------
 
 * Lilith's Incubus cannot be rerolled.
 	+ The Incubus can be found as a separate item, and picking it up will grant Lilith a second Incubus familiar.
@@ -40,9 +59,8 @@ Notes
 * (Added in Repentance)[(Forgotten Lullaby)](/wiki/Forgotten_Lullaby "Forgotten Lullaby") [Forgotten Lullaby](/wiki/Forgotten_Lullaby "Forgotten Lullaby") is effectively a tears up for the Incubus familiar, and can also boost any other familiars Lilith might get.
 
 
-Item Interactions
+アイテム効果
 -------------------
-
 
 * (Added in Repentance)[![image](/image/Bird%27s_Eye.png)](/wiki/Bird%27s_Eye "Bird's Eye") [Bird's Eye](/wiki/Bird%27s_Eye "Bird's Eye") / (Added in Repentance)[![image](/image/Ghost_Pepper.png)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Flames emerge from Lilith instead of the Incubus.
 * (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): All shooting familiars no longer follow behind Lilith. They all group towards Lilith's firing direction instead.
@@ -54,10 +72,7 @@ Item Interactions
 
 These items will not affect Lilith due to her [blindfolded](/wiki/Blindfolded "Blindfolded") condition and certain limitations of [![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus").
 
-
 **Note:** As mentioned above, certain items will apply their normal effects if Lilith obtains [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique").
-
-
 
 * (Removed in Repentance)[![image](/image/Analog_Stick.png)](/wiki/Analog_Stick "Analog Stick") [Analog Stick](/wiki/Analog_Stick "Analog Stick") (Tears up is applied, but Incubus cannot fire in 360 degrees)
 * (Removed in Repentance)[![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye")
@@ -79,50 +94,22 @@ These items will not affect Lilith due to her [blindfolded](/wiki/Blindfolded "B
 * (Removed in Repentance)[![image](/image/Tractor_Beam.png)](/wiki/Tractor_Beam "Tractor Beam") [Tractor Beam](/wiki/Tractor_Beam "Tractor Beam")
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
 
-* [![image](/image/Immaculate_Conception.png)](/wiki/Immaculate_Conception "Immaculate Conception")  [Immaculate Conception](/wiki/Immaculate_Conception "Immaculate Conception") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [(Goat Head Baby)](/wiki/Babies "Goat Head Baby")  [Goat Head Baby](/wiki/Babies "Babies") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss")  [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss") - Defeat [Satan](/wiki/Satan "Satan") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [![image](/image/Rune_Bag.png)](/wiki/Rune_Bag "Rune Bag")  [Rune Bag](/wiki/Rune_Bag "Rune Bag") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [![image](/image/Succubus.png)](/wiki/Succubus "Succubus")  [Succubus](/wiki/Succubus "Succubus") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [![image](/image/Cambion_Conception.png)](/wiki/Cambion_Conception "Cambion Conception")  [Cambion Conception](/wiki/Cambion_Conception "Cambion Conception") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends")  [Box of Friends](/wiki/Box_of_Friends "Box of Friends") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [![image](/image/Duality.png)](/wiki/Duality "Duality") (Added in Afterbirth †) [Duality](/wiki/Duality "Duality") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [![image](/image/Incubus.png)](/wiki/Incubus "Incubus")  [Incubus](/wiki/Incubus "Incubus") - Defeat [Hush](/wiki/Hush "Hush") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [(Big Baby)](/wiki/Babies "Big Baby")  [Big Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [![image](/image/Euthanasia.png)](/wiki/Euthanasia "Euthanasia") (Added in Afterbirth †) [Euthanasia](/wiki/Euthanasia "Euthanasia") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [![image](/image/Blood_Puppy.png)](/wiki/Blood_Puppy "Blood Puppy") (Added in Repentance) [Blood Puppy](/wiki/Blood_Puppy "Blood Puppy") - Defeat [Mother](/wiki/Mother "Mother") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [![image](/image/C_Section.png)](/wiki/C_Section "C Section") (Added in Repentance) [C Section](/wiki/C_Section "C Section") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [(The Harlot)](/wiki/Tainted_Lilith "The Harlot") (Added in Repentance) [The Harlot](/wiki/Tainted_Lilith "Tainted Lilith") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
-
-
-* [(Dark Baby)](/wiki/Babies "Dark Baby")  [Dark Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Lilith)](/wiki/Lilith "Lilith") **Lilith**.
+* [![image](/image/achievements/Immaculate_Conception.png)](/wiki/Immaculate_Conception "Immaculate Conception") [Immaculate Conception](/wiki/Immaculate_Conception "Immaculate Conception") リリスでボスラッシュを完了する。
+* [![image](/image/achievements/Goat_Head_Baby.png)](/wiki/Goat_Head_Baby "Goat Head Baby") [Goat Head Baby](/wiki/Goat_Head_Baby "Goat Head Baby") ハードモードのMom's Heartをリリスで倒す。
+* [![image](/image/achievements/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss") Satanをリリスで倒す。
+* [![image](/image/achievements/Rune_Bag.png)](/wiki/Rune_Bag "Rune Bag") [Rune Bag](/wiki/Rune_Bag "Rune Bag") Issacをリリスで倒す。
+* [![image](/image/achievements/Succubus.png)](/wiki/Succubus "Succubus") [Succubus](/wiki/Succubus "Succubus") The Lambをリリスで倒す。
+* [![image](/image/achievements/Cambion_Conception.png)](/wiki/Cambion_Conception "Cambion Conception") [Cambion Conception](/wiki/Cambion_Conception "Cambion Conception") ???をリリスで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends") Ultra Greedをリリスで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Duality.png)](/wiki/Duality "Duality") [Duality](/wiki/Duality "Duality") Ultra Greedierをリリスで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") Hushをリリスで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Big_Baby.png)](/wiki/Big_Baby "Big Baby") [Big Baby](/wiki/Big_Baby "Big Baby") Mega Satanをリリスで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Euthanasia.png)](/wiki/Euthanasia "Euthanasia") [Euthanasia](/wiki/Euthanasia "Euthanasia") Deliriumをリリスで倒す。
+* (Added in Repentance) [![image](/image/achievements/Blood_Puppy.png)](/wiki/Blood_Puppy "Blood Puppy") [Blood Puppy](/wiki/Blood_Puppy "Blood Puppy") Motherをリリスで倒す。
+* (Added in Repentance) [![image](/image/achievements/C_Section.png)](/wiki/C_Section "C Section") [C Section](/wiki/C_Section "C Section") The Beastをリリスで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Harlot.png)](/wiki/The_Harlot "The Harlot") [The Harlot](/wiki/The_Harlot "The Harlot") リリスでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* (Added in Afterbirth) [![image](/image/achievements/Dark_Baby.png)](/wiki/Dark_Baby "Dark Baby") [Dark Baby](/wiki/Dark_Baby "Dark Baby") リリスですべてのハードモード完了のマークを獲得する。

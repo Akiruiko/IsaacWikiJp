@@ -1,11 +1,41 @@
 +++
 +++
 
- # Esau ![image](/image/Esau.png) 
+#### ※この記事は翻訳作業中です
 
-Notes
+ # ヤコブ & エサウ　(Jacob & Esau)
+ ![image](/image/characters/Jacob.png)  ![image](/image/characters/Esau.png) 
+
+ステータス
 -------
 
+### ヤコブ
+
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|2.75 (x1.00)|+3|1.15|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|5|1|+1|||
+
+### エサウ
+
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/s-heart.png)|3.75 (x1.00)|+2.5|0.85|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|8|1|-1|||
+
+
+概要
+-------
+
+
+ノート
+-------
 
 * If one character passes through a door, both characters move to the next room. Curse door damage will only be applied to the character that moves through the door.
 * With careful positioning, it is possible to take two items in rooms with multiple items that usually disappear upon collecting one (Ex: [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid") & [![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative")). As a result, if the player can handle the increased difficulty from these optional chapter paths, item rooms in [(Downpour)](/wiki/Downpour "Downpour") [Downpour](/wiki/Downpour "Downpour"), [(Mines)](/wiki/Mines "Mines") [Mines](/wiki/Mines "Mines"), and [(Mausoleum)](/wiki/Mausoleum "Mausoleum") [Mausoleum](/wiki/Mausoleum "Mausoleum") (including their alternative variants) have double their normal value.
@@ -26,9 +56,8 @@ Notes
 * Resurrection items activate in a [set order](/wiki/Category:Revival_items "Category:Revival items"), regardless of who owns which item. If the two characters each own a copy of the same resurrection item, the game prioritizes removing Jacob's item.
 
 
-Item Interactions
+アイテム効果
 -------------------
-
 
 *If not listed here, and if applicable, an item will always apply all its effects on the character who picks/uses it only*
 
@@ -53,50 +82,21 @@ Item Interactions
 * [![image](/image/Death_Certificate.png)](/wiki/Death_Certificate "Death Certificate") [Death Certificate](/wiki/Death_Certificate "Death Certificate"): Two items can be taken from any given room, one for each character, if they're taken at the same time.
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
-
-* [![image](/image/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom")  [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom") - Complete (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [(Double Baby)](/wiki/Co-op#Repentance_babies "Double Baby")  [Double Baby](/wiki/Co-op#Repentance_babies "Co-op") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") or [It Lives!](/wiki/It_Lives! "It Lives!") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [![image](/image/Red_Stew.png)](/wiki/Red_Stew "Red Stew")  [Red Stew](/wiki/Red_Stew "Red Stew") - Defeat [Satan](/wiki/Satan "Satan") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [![image](/image/The_Stairway.png)](/wiki/The_Stairway "The Stairway")  [The Stairway](/wiki/The_Stairway "The Stairway") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [![image](/image/Damocles.png)](/wiki/Damocles "Damocles")  [Damocles](/wiki/Damocles "Damocles") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [![image](/image/Birthright.png)](/wiki/Birthright "Birthright")  [Birthright](/wiki/Birthright "Birthright") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [![image](/image/Inner_Child.png)](/wiki/Inner_Child "Inner Child")  [Inner Child](/wiki/Inner_Child "Inner Child") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [![image](/image/Genesis.png)](/wiki/Genesis "Genesis")  [Genesis](/wiki/Genesis "Genesis") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [![image](/image/Vanishing_Twin.png)](/wiki/Vanishing_Twin "Vanishing Twin")  [Vanishing Twin](/wiki/Vanishing_Twin "Vanishing Twin") - Defeat [Hush](/wiki/Hush "Hush") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [(Illusion Baby)](/wiki/Co-op#Repentance_babies "Illusion Baby")  [Illusion Baby](/wiki/Co-op#Repentance_babies "Co-op") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [![image](/image/Suplex!.png)](/wiki/Suplex! "Suplex!")  [Suplex!](/wiki/Suplex! "Suplex!") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [![image](/image/Magic_Skin.png)](/wiki/Magic_Skin "Magic Skin")  [Magic Skin](/wiki/Magic_Skin "Magic Skin") - Defeat [Mother](/wiki/Mother "Mother") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [![image](/image/Friend_Finder.png)](/wiki/Friend_Finder "Friend Finder")  [Friend Finder](/wiki/Friend_Finder "Friend Finder") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [(The Deserter)](/wiki/Tainted_Jacob "The Deserter")  [The Deserter](/wiki/Tainted_Jacob "Tainted Jacob") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
-
-
-* [(Solomon's Baby)](/wiki/Co-op#Repentance_babies "Solomon's Baby")  [Solomon's Baby](/wiki/Co-op#Repentance_babies "Co-op") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Jacob and Esau)](/wiki/Jacob_and_Esau "Jacob and Esau") [Jacob and Esau](/wiki/Jacob_and_Esau "Jacob and Esau").
+* [![image](/image/achievements/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom") ヤコブ & エサウでボスラッシュを完了する。
+* [![image](/image/achievements/Double_Baby.png)](/wiki/Double_Baby "Double Baby") [Double Baby](/wiki/Double_Baby "Double Baby") ハードモードのMom's Heartをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Red_Stew.png)](/wiki/Red_Stew "Red Stew") [Red Stew](/wiki/Red_Stew "Red Stew") Satanをヤコブ & エサウで倒す。
+* [![image](/image/achievements/The_Stairway.png)](/wiki/The_Stairway "The Stairway") [The Stairway](/wiki/The_Stairway "The Stairway") Issacをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Damocles.png)](/wiki/Damocles "Damocles") [Damocles](/wiki/Damocles "Damocles") The Lambをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") ???をヤコブ & エサウで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Inner_Child.png)](/wiki/Inner_Child "Inner Child") [Inner Child](/wiki/Inner_Child "Inner Child") Ultra Greedをヤコブ & エサウで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Genesis.png)](/wiki/Genesis "Genesis") [Genesis](/wiki/Genesis "Genesis") Ultra Greedierをヤコブ & エサウで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Vanishing_Twin.png)](/wiki/Vanishing_Twin "Vanishing Twin") [Vanishing Twin](/wiki/Vanishing_Twin "Vanishing Twin") Hushをヤコブ & エサウで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Illusion_Baby.png)](/wiki/Illusion_Baby "Illusion Baby") [Illusion Baby](/wiki/Illusion_Baby "Illusion Baby") Mega Satanをヤコブ & エサウで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Suplex%21.png)](/wiki/Suplex%21 "Suplex!") [Suplex!](/wiki/Suplex%21 "Suplex!") Deliriumをヤコブ & エサウで倒す。
+* (Added in Repentance) [![image](/image/achievements/Magic_Skin.png)](/wiki/Magic_Skin "Magic Skin") [Magic Skin](/wiki/Magic_Skin "Magic Skin") Motherをヤコブ & エサウで倒す。
+* (Added in Repentance) [![image](/image/achievements/Friend_Finder.png)](/wiki/Friend_Finder "Friend Finder") [Friend Finder](/wiki/Friend_Finder "Friend Finder") The Beastをヤコブ & エサウで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Deserter.png)](/wiki/The_Deserter "The Deserter") [The Deserter](/wiki/The_Deserter "The Deserter") ヤコブ & エサウでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* (Added in Afterbirth) [![image](/image/achievements/Solomon%27s_Baby.png)](/wiki/Solomon%27s_Baby "Solomon's Baby") [Solomon's Baby](/wiki/Solomon%27s_Baby "Solomon's Baby") ヤコブ & エサウですべてのハードモード完了のマークを獲得する。

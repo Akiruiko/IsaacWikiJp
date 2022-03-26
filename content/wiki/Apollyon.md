@@ -1,11 +1,30 @@
 +++
 +++
 
- # Apollyon ![image](/image/Apollyon.png) 
+#### ※この記事は翻訳作業中です
 
-Notes
+ # アポリオン(Apollyon)
+ ![image](/image/characters/Apollyon.png) 
+
+ステータス
 -------
 
+
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|6.5|1|0|(Added in Afterbirth†) Void|[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")|
+
+
+概要
+-------
+
+
+ノート
+-------
 
 * Knowing most item effects is very important for Apollyon, as you want to know whether or not to absorb something.
 * [![image](/image/The_Battery.png)](/wiki/The_Battery "The Battery") [The Battery](/wiki/The_Battery "The Battery") and [![image](/image/Charged_Baby.png)](/wiki/Charged_Baby "Charged Baby") [Charged Baby](/wiki/Charged_Baby "Charged Baby") allow [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void") to be used twice consecutively without going into other rooms. This is helpful if you want to use [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void") to fight the boss and then absorb the item after defeating it after all rooms have been cleared, or when a Devil/Angel Room spawns after defeating the boss and you do not have [![image](/image/Goat_Head.png)](/wiki/Goat_Head "Goat Head") [Goat Head](/wiki/Goat_Head "Goat Head") or [![image](/image/Eucharist.png)](/wiki/Eucharist "Eucharist") [Eucharist](/wiki/Eucharist "Eucharist").
@@ -21,57 +40,29 @@ Notes
 	+ It's also a good idea to touch at least three books if possible before using Void, to get the free [Bookworm](/wiki/Bookworm "Bookworm") transformation.
 
 
-Item Interactions
--------------------
 
+アイテム効果
+-------------------
 
 * (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Using [Void](/wiki/Void "Void") has a chance to spawn an item previously destroyed by it while keeping the bonus stats. The more items absorbed into [Void](/wiki/Void "Void") the higher chance for an item to spawn upon activation. Has no effect if [Void](/wiki/Void "Void") is not held.
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
 
-* [(Locust of Conquest)](/wiki/Locust_of_Conquest "Locust of Conquest")  [Locust of Conquest](/wiki/Locust_of_Conquest "Locust of Conquest") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [![image](/image/Smelter.png)](/wiki/Smelter "Smelter")  [Smelter](/wiki/Smelter "Smelter") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") or [It Lives!](/wiki/It_Lives! "It Lives!") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [(Locust of Pestilence)](/wiki/Locust_of_Pestilence "Locust of Pestilence")  [Locust of Pestilence](/wiki/Locust_of_Pestilence "Locust of Pestilence") - Defeat [Satan](/wiki/Satan "Satan") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [(Locust of Wrath)](/wiki/Locust_of_War "Locust of Wrath")  [Locust of Wrath](/wiki/Locust_of_War "Locust of War") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [(Locust of Death)](/wiki/Locust_of_Death "Locust of Death")  [Locust of Death](/wiki/Locust_of_Death "Locust of Death") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [(Locust of Famine)](/wiki/Locust_of_Famine "Locust of Famine")  [Locust of Famine](/wiki/Locust_of_Famine "Locust of Famine") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [![image](/image/Brown_Nugget.png)](/wiki/Brown_Nugget "Brown Nugget")  [Brown Nugget](/wiki/Brown_Nugget "Brown Nugget") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [(Black Rune)](/wiki/Black_Rune "Black Rune")  [Black Rune](/wiki/Black_Rune "Black Rune") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [![image](/image/Hushy.png)](/wiki/Hushy "Hushy")  [Hushy](/wiki/Hushy "Hushy") - Defeat [Hush](/wiki/Hush "Hush") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [(Mort Baby)](/wiki/Babies "Mort Baby")  [Mort Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [![image](/image/Void.png)](/wiki/Void "Void")  [Void](/wiki/Void "Void") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [![image](/image/Lil_Portal.png)](/wiki/Lil_Portal "Lil Portal") (Added in Repentance) [Lil Portal](/wiki/Lil_Portal "Lil Portal") - Defeat [Mother](/wiki/Mother "Mother") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [![image](/image/Worm_Friend.png)](/wiki/Worm_Friend "Worm Friend") (Added in Repentance) [Worm Friend](/wiki/Worm_Friend "Worm Friend") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [(The Empty)](/wiki/Tainted_Apollyon "The Empty") (Added in Repentance) [The Empty](/wiki/Tainted_Apollyon "Tainted Apollyon") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
-
-
-* [(Apollyon Baby)](/wiki/Babies "Apollyon Baby")  [Apollyon Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Apollyon)](/wiki/Apollyon "Apollyon") **Apollyon**.
+* [![image](/image/achievements/Locust_of_Conquest.png)](/wiki/Locust_of_Conquest "Locust of Conquest") [Locust of Conquest](/wiki/Locust_of_Conquest "Locust of Conquest") アポリオンでボスラッシュを完了する。
+* [![image](/image/achievements/Smelter.png)](/wiki/Smelter "Smelter") [Smelter](/wiki/Smelter "Smelter") ハードモードのMom's Heartをアポリオンで倒す。
+* [![image](/image/achievements/Locust_of_Pestilence.png)](/wiki/Locust_of_Pestilence "Locust of Pestilence") [Locust of Pestilence](/wiki/Locust_of_Pestilence "Locust of Pestilence") Satanをアポリオンで倒す。
+* [![image](/image/achievements/Locust_of_Wrath.png)](/wiki/Locust_of_Wrath "Locust of Wrath") [Locust of Wrath](/wiki/Locust_of_Wrath "Locust of Wrath") Issacをアポリオンで倒す。
+* [![image](/image/achievements/Locust_of_Death.png)](/wiki/Locust_of_Death "Locust of Death") [Locust of Death](/wiki/Locust_of_Death "Locust of Death") The Lambをアポリオンで倒す。
+* [![image](/image/achievements/Locust_of_Famine.png)](/wiki/Locust_of_Famine "Locust of Famine") [Locust of Famine](/wiki/Locust_of_Famine "Locust of Famine") ???をアポリオンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Brown_Nugget.png)](/wiki/Brown_Nugget "Brown Nugget") [Brown Nugget](/wiki/Brown_Nugget "Brown Nugget") Ultra Greedをアポリオンで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Black_Rune.png)](/wiki/Black_Rune "Black Rune") [Black Rune](/wiki/Black_Rune "Black Rune") Ultra Greedierをアポリオンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Hushy.png)](/wiki/Hushy "Hushy") [Hushy](/wiki/Hushy "Hushy") Hushをアポリオンで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Mort_Baby.png)](/wiki/Mort_Baby "Mort Baby") [Mort Baby](/wiki/Mort_Baby "Mort Baby") Mega Satanをアポリオンで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void") Deliriumをアポリオンで倒す。
+* (Added in Repentance) [![image](/image/achievements/Lil_Portal.png)](/wiki/Lil_Portal "Lil Portal") [Lil Portal](/wiki/Lil_Portal "Lil Portal") Motherをアポリオンで倒す。
+* (Added in Repentance) [![image](/image/achievements/Worm_Friend.png)](/wiki/Worm_Friend "Worm Friend") [Worm Friend](/wiki/Worm_Friend "Worm Friend") The Beastをアポリオンで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Empty.png)](/wiki/The_Empty "The Empty") [The Empty](/wiki/The_Empty "The Empty") アポリオンでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* (Added in Afterbirth) [![image](/image/achievements/Apollyon_Baby.png)](/wiki/Apollyon_Baby "Apollyon Baby") [Apollyon Baby](/wiki/Apollyon_Baby "Apollyon Baby") アポリオンですべてのハードモード完了のマークを獲得する。

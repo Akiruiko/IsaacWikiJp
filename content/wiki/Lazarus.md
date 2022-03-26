@@ -1,102 +1,53 @@
 +++
 +++
 
- # Lazarus ![image](/image/Lazarus.png) 
+#### ※この記事は翻訳作業中です
 
-Lazarus Risen
+ # ラザラス(Lazarus)
+ ![image](/image/characters/Lazarus.png)
+
+
+ステータス
+-------
+
+
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|4.5|1|-1|x1 pills|(Added in Afterbirth†) [![image](/image/Anemic.png)](/wiki/Anemic "Anemic") [Anemic](/wiki/Anemic "Anemic")|
+
+概要
+-------
+ 
+
+蘇ったラザラス(Lazarus Risen)
 ---------------
 
-(L)(a)(z)(a)(r)(u)(s)   (R)(i)(s)(e)(n)
----------------------------------------
+ ![image](/image/characters/Lazarus_Risen.png)
 
+### ステータス
 
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/r-heart.png)|3.5 (x1.20)|0|1|
 
-### Character image
-
-
-(Character image)
-
-
-### Health
-
-
-[(Full red heart)](/wiki/Red_Heart "Full red heart")
-
-
-Stats
------
-
-
-
-### [()](/wiki/Damage "Damage") Damage
-
-
-3.5 (*1.20)
-
-
-### [()](/wiki/Tears "Tears") Tears
-
-
-+0
-
-
-### [()](/wiki/Shot_speed "Shot speed") Shot Speed
-
-
-1
-
-
-### [()](/wiki/Range "Range") Range
-
-
-(Removed in Repentance)23.75(Added in Repentance)6.5
-
-
-### [()](/wiki/Speed "Speed") Speed
-
-
-1.25
-
-
-### [()](/wiki/Luck "Luck") Luck
-
-
-0
-
-
-
-Starting Items
---------------
-
-
-
-### [()](/wiki/Pickup "Pickup") Pickups
-
-
-*None*
-
-
-### [()](/wiki/Item "Item") Items
-
-
-A permanent [![image](/image/Anemic.png)](/wiki/Anemic "Anemic") [Anemic](/wiki/Anemic "Anemic")
-
-
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|6.5|1.25|0||(Added in Afterbirth†) A permanent version of [![image](/image/Anemic.png)](/wiki/Anemic "Anemic") [Anemic](/wiki/Anemic "Anemic")|
 
 When Lazarus (or another character with the item [![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags")) dies, they will be resurrected in the same room as *Lazarus Risen*.
 
-
 Lazarus Risen gains a significant increase to most of his stats, with bonuses in Damage, Speed, Range, and Luck, as well as the [![image](/image/Anemic.png)](/wiki/Anemic "Anemic") [Anemic](/wiki/Anemic "Anemic") passive item, causing him to leave a toxic blood trail behind him after taking damage. Note that unlike most [other items that cause the player to respawn](/wiki/Death#Extra_Lives "Death"), Lazarus' revival ability revives him on the spot, as opposed to the previous safe room.
 
-
 Lazarus Risen is considered by the game to be a separate character from Lazarus, but all unlockable items can be earned by completing objectives with Lazarus Risen, and if you beat particular bosses for the first time with Lazarus Risen, you will gain the corresponding [Completion Mark](/wiki/Completion_Mark "Completion Mark") on Lazarus's post-it note.
-
 
 (Added in Afterbirth †) After Challenge 31: [Backasswards](/wiki/Backasswards "Backasswards") is beaten, Lazarus Risen's Anemic effect is permanent and no longer requires him to take damage.
 
 
-
-Notes
+ノート
 -------
 
 
@@ -110,9 +61,8 @@ Notes
 * Donating your last heart piece to a devil beggar and respawning as Lazarus Risen activates the beggar an extra two times for a total of three.
 
 
-Item Interactions
+アイテム効果
 -------------------
-
 
 * (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Lazarus gains nothing directly from Birthright. Dying and becoming Lazarus Risen, or picking up Birthright when already in that form grants a slowly fading +21.6 damage bonus.
 
@@ -146,55 +96,23 @@ Note that after his resurrection, or (Added in Afterbirth †) receiving Anemic 
 * Be careful when using self-damaging items or taking devil deals as Lazarus Risen, as his shortness on heart containers could prove fatal.
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
-
-* [![image](/image/Missing_No..png)](/wiki/Missing_No. "Missing No.")  [Missing No.](/wiki/Missing_No. "Missing No.") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [(Wrapped Baby)](/wiki/Babies "Wrapped Baby")  [Wrapped Baby](/wiki/Babies "Babies") - (Removed in Afterbirth †) Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel")  
-(Added in Afterbirth †) Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [(Broken Ankh)](/wiki/Broken_Ankh "Broken Ankh")  [Broken Ankh](/wiki/Broken_Ankh "Broken Ankh") - Defeat [Satan](/wiki/Satan "Satan") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags")  [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [![image](/image/Pandora%27s_Box.png)](/wiki/Pandora%27s_Box "Pandora's Box")  [Pandora's Box](/wiki/Pandora%27s_Box "Pandora's Box") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [(Store Credit)](/wiki/Store_Credit "Store Credit")  [Store Credit](/wiki/Store_Credit "Store Credit") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [![image](/image/Key_Bum.png)](/wiki/Key_Bum "Key Bum") (Added in Afterbirth) [Key Bum](/wiki/Key_Bum "Key Bum") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [![image](/image/Plan_C.png)](/wiki/Plan_C "Plan C") (Added in Afterbirth †) [Plan C](/wiki/Plan_C "Plan C") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [![image](/image/Empty_Vessel.png)](/wiki/Empty_Vessel "Empty Vessel") (Added in Afterbirth) [Empty Vessel](/wiki/Empty_Vessel "Empty Vessel") - Defeat [Hush](/wiki/Hush "Hush") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [(Long Baby)](/wiki/Babies "Long Baby") (Added in Afterbirth) [Long Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") (Added in Afterbirth †) [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
+* [![image](/image/achievements/Missing_No..png)](/wiki/Missing_No. "Missing No.") [Missing No.](/wiki/Missing_No. "Missing No.") キーパーでボスラッシュを完了する。
+* [![image](/image/achievements/Wrapped_Baby.png)](/wiki/Wrapped_Baby "Wrapped Baby") [Wrapped Baby](/wiki/Wrapped_Baby "Wrapped Baby") ハードモードのMom's Heartをキーパーで倒す。
+	+ (Added in Afterbirth †) Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
+* [![image](/image/achievements/Broken_Ankh.png)](/wiki/Broken_Ankh "Broken Ankh") [Broken Ankh](/wiki/Broken_Ankh "Broken Ankh") Satanをキーパーで倒す。
+* [![image](/image/achievements/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags") Issacをキーパーで倒す。
+* [![image](/image/achievements/Pandora%27s_Box.png)](/wiki/Pandora%27s_Box "Pandora's Box") [Pandora's Box](/wiki/Pandora%27s_Box "Pandora's Box") The Lambをキーパーで倒す。
+* [![image](/image/achievements/Store_Credit.png)](/wiki/Store_Credit "Store Credit") [Store Credit](/wiki/Store_Credit "Store Credit") ???をキーパーで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Key_Bum.png)](/wiki/Key_Bum "Key Bum") [Key Bum](/wiki/Key_Bum "Key Bum") Ultra Greedをキーパーで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Plan_C.png)](/wiki/Plan_C "Plan C") [Plan C](/wiki/Plan_C "Plan C") Ultra Greedierをキーパーで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Empty_Vessel.png)](/wiki/Empty_Vessel "Empty Vessel") [Empty Vessel](/wiki/Empty_Vessel "Empty Vessel") Hushをキーパーで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Long_Baby.png)](/wiki/Long_Baby "Long Baby") [Long Baby](/wiki/Long_Baby "Long Baby") Mega Satanをキーパーで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture") Deliriumをキーパーで倒す。
 * [(Bethany)](/wiki/Bethany "Bethany") (Added in Repentance) [Bethany](/wiki/Bethany "Bethany") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart")/[It Lives!](/wiki/It_Lives! "It Lives!") on [hard mode](/wiki/Hard_mode "Hard mode") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**, without [dying](/wiki/Death "Death") at all.
-
-
-* [![image](/image/Tinytoma.png)](/wiki/Tinytoma "Tinytoma") (Added in Repentance) [Tinytoma](/wiki/Tinytoma "Tinytoma") - Defeat [Mother](/wiki/Mother "Mother") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [![image](/image/Astral_Projection.png)](/wiki/Astral_Projection "Astral Projection") (Added in Repentance) [Astral Projection](/wiki/Astral_Projection "Astral Projection") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [(The Enigma)](/wiki/Tainted_Lazarus "The Enigma") (Added in Repentance) [The Enigma](/wiki/Tainted_Lazarus "Tainted Lazarus") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
-
-* [(Dripping Baby)](/wiki/Babies "Dripping Baby") (Added in Afterbirth) [Dripping Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-
+* (Added in Repentance) [![image](/image/achievements/Tinytoma.png)](/wiki/Tinytoma "Tinytoma") [Tinytoma](/wiki/Tinytoma "Tinytoma") Motherをキーパーで倒す。
+* (Added in Repentance) [![image](/image/achievements/Astral_Projection.png)](/wiki/Astral_Projection "Astral Projection") [Astral Projection](/wiki/Astral_Projection "Astral Projection") The Beastをキーパーで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Enigma.png)](/wiki/The_Enigma "The Enigma") [The Enigma](/wiki/The_Enigma "The Enigma") キーパーでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* (Added in Afterbirth) [![image](/image/achievements/Sale_Baby.png)](/wiki/Sale_Baby "Sale Baby") [Sale Baby](/wiki/Sale_Baby "Sale Baby") キーパーですべてのハードモード完了のマークを獲得する。

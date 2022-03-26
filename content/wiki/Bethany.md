@@ -1,11 +1,29 @@
 +++
 +++
 
- # Bethany ![image](/image/Bethany.png) 
+#### ※この記事は翻訳作業中です
 
-Notes
+ # ベタニア(Bethany)
+ ![image](/image/characters/Bethany.png) 
+
+ステータス
 -------
 
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|6.5|1|0|x4 soul charges|(Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues")|
+
+
+概要
+-------
+
+
+ノート
+-------
 
 * Bethany's [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues") starting item, combined with her unique soul and black heart usage, means that she is a character who sees significantly more Angel Deals than other characters – but at the expense of generally requiring beating floors without taking damage to do so.
 * Since Bethany can't use soul and black hearts as a buffer, Angel and Devil Deals are much harder to get. This will usually mean beating floors without taking damage.
@@ -21,9 +39,8 @@ Notes
 * As Bethany can only ever have red heart health, [![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative") will prove to be a more useful option overall for the +1 damage boost, if the final run target is not [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)").
 
 
-Item Interactions
+アイテム効果
 -------------------
-
 
 Due to Bethany's special soul charge mechanic, and her inability to actually have soul/black hearts, certain items function differently.
 
@@ -80,50 +97,23 @@ For the many Item Interactions concerning the [![image](/image/Book_of_Virtues.p
 * [![image](/image/Dark_Bum.png)](/wiki/Dark_Bum "Dark Bum") [Dark Bum](/wiki/Dark_Bum "Dark Bum"): While it may be useful for additional soul charge generation, it also takes away from red hearts which Bethany could use to heal herself.
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
 
 * [(Beth's Faith)](/wiki/Beth%27s_Faith "Beth's Faith")  [Beth's Faith](/wiki/Beth%27s_Faith "Beth's Faith") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [(Wisp Baby)](/wiki/Co-op#Repentance_babies "Wisp Baby")  [Wisp Baby](/wiki/Co-op#Repentance_babies "Co-op") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") or [It Lives!](/wiki/It_Lives! "It Lives!") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues")  [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [![image](/image/Urn_of_Souls.png)](/wiki/Urn_of_Souls "Urn of Souls")  [Urn of Souls](/wiki/Urn_of_Souls "Urn of Souls") - Defeat [Satan](/wiki/Satan "Satan") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [(Blessed Penny)](/wiki/Blessed_Penny "Blessed Penny")  [Blessed Penny](/wiki/Blessed_Penny "Blessed Penny") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [![image](/image/Alabaster_Box.png)](/wiki/Alabaster_Box "Alabaster Box")  [Alabaster Box](/wiki/Alabaster_Box "Alabaster Box") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [![image](/image/Soul_Locket.png)](/wiki/Soul_Locket "Soul Locket")  [Soul Locket](/wiki/Soul_Locket "Soul Locket") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [![image](/image/Vade_Retro.png)](/wiki/Vade_Retro "Vade Retro")  [Vade Retro](/wiki/Vade_Retro "Vade Retro") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [![image](/image/Divine_Intervention.png)](/wiki/Divine_Intervention "Divine Intervention")  [Divine Intervention](/wiki/Divine_Intervention "Divine Intervention") - Defeat [Hush](/wiki/Hush "Hush") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [(Glowing Baby)](/wiki/Co-op#Repentance_babies "Glowing Baby")  [Glowing Baby](/wiki/Co-op#Repentance_babies "Co-op") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [![image](/image/Star_of_Bethlehem.png)](/wiki/Star_of_Bethlehem "Star of Bethlehem")  [Star of Bethlehem](/wiki/Star_of_Bethlehem "Star of Bethlehem") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [![image](/image/Revelation.png)](/wiki/Revelation "Revelation")  [Revelation](/wiki/Revelation "Revelation") - Defeat [Mother](/wiki/Mother "Mother") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [![image](/image/Jar_of_Wisps.png)](/wiki/Jar_of_Wisps "Jar of Wisps")  [Jar of Wisps](/wiki/Jar_of_Wisps "Jar of Wisps") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [(The Zealot)](/wiki/Tainted_Bethany "The Zealot")  [The Zealot](/wiki/Tainted_Bethany "Tainted Bethany") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.
-
-
 * [(Hope Baby)](/wiki/Co-op#Repentance_babies "Hope Baby")  [Hope Baby](/wiki/Co-op#Repentance_babies "Co-op") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Bethany)](/wiki/Bethany "Bethany") **Bethany**.

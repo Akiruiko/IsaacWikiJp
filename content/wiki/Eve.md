@@ -1,11 +1,30 @@
 +++
 +++
 
- # Eve ![image](/image/Eve.png) 
+#### ※この記事は翻訳作業中です
 
-Notes
+ # イヴ(Eve)
+ ![image](/image/characters/Eve.png) 
+
+
+ステータス
 -------
 
+
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x0.75) (x1.00 rの時)|0|1|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|6.5|1.23|0||[![image](/image/Whore_of_Babylon.png)](/wiki/Whore_of_Babylon "Whore of Babylon") [Whore of Babylon](/wiki/Whore_of_Babylon "Whore of Babylon") [![image](/image/Dead_Bird.png)](/wiki/Dead_Bird "Dead Bird") [Dead Bird](/wiki/Dead_Bird "Dead Bird") / (Added in Afterbirth) [![image](/image/Razor_Blade.png)](/wiki/Razor_Blade "Razor Blade") [Razor Blade](/wiki/Razor_Blade "Razor Blade")|
+
+概要
+-------
+
+
+ノート
+-------
 
 * Unlike other characters, Eve's [![image](/image/Whore_of_Babylon.png)](/wiki/Whore_of_Babylon "Whore of Babylon") [Whore of Babylon](/wiki/Whore_of_Babylon "Whore of Babylon")'s effect activates with one remaining Red Heart, instead of half a heart, and it will set her damage multiplier to 1.00.
 * Eve has a higher chance of finding Soul Hearts than other characters.
@@ -15,9 +34,8 @@ Notes
 * [Curse Rooms](/wiki/Curse_Room "Curse Room") are usually pleasant to find at the beginning of a run, since without health upgrades, they will lower Eve's health into her Whore of Babylon state, and can potentially hold useful items and/or Soul/Black Hearts to protect Eve after transforming. If not already active, be sure to damage yourself upon the Curse Room door before accepting Soul or Black Hearts to activate the Whore of Babylon state.
 
 
-Item Interactions
+アイテム効果
 -------------------
-
 
 * (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): [![image](/image/Whore_of_Babylon.png)](/wiki/Whore_of_Babylon "Whore of Babylon") [Whore of Babylon](/wiki/Whore_of_Babylon "Whore of Babylon") is active regardless of health and [![image](/image/Dead_Bird.png)](/wiki/Dead_Bird "Dead Bird") [Dead Bird](/wiki/Dead_Bird "Dead Bird") is active without taking damage.
 
@@ -42,51 +60,22 @@ Item Interactions
 * [(Child's Heart)](/wiki/Child%27s_Heart "Child's Heart") [Child's Heart](/wiki/Child%27s_Heart "Child's Heart") causes more Red Hearts to appear, something which is generally undesirable in an Eve run without [![image](/image/Dark_Bum.png)](/wiki/Dark_Bum "Dark Bum") [Dark Bum](/wiki/Dark_Bum "Dark Bum"), and can make more useful items such as bombs or keys less likely to appear.
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
 
-* [![image](/image/Eve%27s_Mascara.png)](/wiki/Eve%27s_Mascara "Eve's Mascara")  [Eve's Mascara](/wiki/Eve%27s_Mascara "Eve's Mascara") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [(Crow Baby)](/wiki/Babies "Crow Baby")  [Crow Baby](/wiki/Babies "Babies") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [(The Razor)](/wiki/Razor_Blade "The Razor")  [The Razor](/wiki/Razor_Blade "Razor Blade") - Defeat [Satan](/wiki/Satan "Satan") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [(Eve's Bird Foot)](/wiki/Eve%27s_Bird_Foot "Eve's Bird Foot")  [Eve's Bird Foot](/wiki/Eve%27s_Bird_Foot "Eve's Bird Foot") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [(Black Lipstick)](/wiki/Black_Lipstick "Black Lipstick")  [Black Lipstick](/wiki/Black_Lipstick "Black Lipstick") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [![image](/image/Sacrificial_Dagger.png)](/wiki/Sacrificial_Dagger "Sacrificial Dagger")  [Sacrificial Dagger](/wiki/Sacrificial_Dagger "Sacrificial Dagger") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [(Black Feather)](/wiki/Black_Feather "Black Feather") (Added in Afterbirth) [Black Feather](/wiki/Black_Feather "Black Feather") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [(Crow Heart)](/wiki/Crow_Heart "Crow Heart") (Added in Afterbirth †) [Crow Heart](/wiki/Crow_Heart "Crow Heart") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [![image](/image/Athame.png)](/wiki/Athame "Athame") (Added in Afterbirth) [Athame](/wiki/Athame "Athame") - Defeat [Hush](/wiki/Hush "Hush") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [(Lil' Baby)](/wiki/Babies "Lil' Baby") (Added in Afterbirth) [Lil' Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [![image](/image/Dull_Razor.png)](/wiki/Dull_Razor "Dull Razor") (Added in Afterbirth †) [Dull Razor](/wiki/Dull_Razor "Dull Razor") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [![image](/image/Bird_Cage.png)](/wiki/Bird_Cage "Bird Cage") (Added in Repentance) [Bird Cage](/wiki/Bird_Cage "Bird Cage") - Defeat [Mother](/wiki/Mother "Mother") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [![image](/image/Cracked_Orb.png)](/wiki/Cracked_Orb "Cracked Orb") (Added in Repentance) [Cracked Orb](/wiki/Cracked_Orb "Cracked Orb") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [(The Curdled)](/wiki/Tainted_Eve "The Curdled") (Added in Repentance) [The Curdled](/wiki/Tainted_Eve "Tainted Eve") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
-
-* [(Whore Baby)](/wiki/Babies "Whore Baby") (Added in Afterbirth) [Whore Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Eve)](/wiki/Eve "Eve") **Eve**.
-
+* [![image](/image/achievements/Eve%27s_Mascara.png)](/wiki/Eve%27s_Mascara "Eve's Mascara") [Eve's Mascara](/wiki/Eve%27s_Mascara "Eve's Mascara") イヴでボスラッシュを完了する。
+* [![image](/image/achievements/Crow_Baby.png)](/wiki/Crow_Baby "Crow Baby") [Crow Baby](/wiki/Crow_Baby "Crow Baby") ハードモードのMom's Heartをイヴで倒す。
+* [![image](/image/achievements/The_Razor.png)](/wiki/The_Razor "The Razor") [The Razor](/wiki/The_Razor "The Razor") Satanをイヴで倒す。
+* [![image](/image/achievements/Eve%27s_Bird_Foot.png)](/wiki/Eve%27s_Bird_Foot "Eve's Bird Foot") [Eve's Bird Foot](/wiki/Eve%27s_Bird_Foot "Eve's Bird Foot") Issacをイヴで倒す。
+* [![image](/image/achievements/Black_Lipstick.png)](/wiki/Black_Lipstick "Black Lipstick") [Black Lipstick](/wiki/Black_Lipstick "Black Lipstick") The Lambをイヴで倒す。
+* [![image](/image/achievements/Sacrificial_Dagger.png)](/wiki/Sacrificial_Dagger "Sacrificial Dagger") [Sacrificial Dagger](/wiki/Sacrificial_Dagger "Sacrificial Dagger") ???をイヴで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Black_Feather.png)](/wiki/Black_Feather "Black Feather") [Black Feather](/wiki/Black_Feather "Black Feather") Ultra Greedをイヴで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Crow_Heart.png)](/wiki/Crow_Heart "Crow Heart") [Crow Heart](/wiki/Crow_Heart "Crow Heart") Ultra Greedierをイヴで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Athame.png)](/wiki/Athame "Athame") [Athame](/wiki/Athame "Athame") Hushをイヴで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Lil%27_Baby.png)](/wiki/Lil%27_Baby "Lil' Baby") [Lil' Baby](/wiki/Lil%27_Baby "Lil' Baby") Mega Satanをイヴで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Dull_Razor.png)](/wiki/Dull_Razor "Dull Razor") [Dull Razor](/wiki/Dull_Razor "Dull Razor") Deliriumをイヴで倒す。
+* (Added in Repentance) [![image](/image/achievements/Bird_Cage.png)](/wiki/Bird_Cage "Bird Cage") [Bird Cage](/wiki/Bird_Cage "Bird Cage") Motherをイヴで倒す。
+* (Added in Repentance) [![image](/image/achievements/Cracked_Orb.png)](/wiki/Cracked_Orb "Cracked Orb") [Cracked Orb](/wiki/Cracked_Orb "Cracked Orb") The Beastをイヴで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Curdled.png)](/wiki/The_Curdled "The Curdled") [The Curdled](/wiki/The_Curdled "The Curdled") イヴでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* (Added in Afterbirth) [![image](/image/achievements/Whore_Baby.png)](/wiki/Whore_Baby "Whore Baby") [Whore Baby](/wiki/Whore_Baby "Whore Baby") イヴですべてのハードモード完了のマークを獲得する。

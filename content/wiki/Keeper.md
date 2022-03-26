@@ -1,11 +1,28 @@
 +++
 +++
 
+#### ※この記事は翻訳作業中です
+
  # Keeper ![image](/image/Keeper.png) 
 
-Notes
+ステータス
 -------
 
+
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/c-heart.png) ![image](/image/characters/c-heart.png) (Added in Afterbirth†)  ![image](/image/characters/c-heart.png)|3.5 (x1.20)|-2|1|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|6.5|0.85|-2|x1 bombs / x1 coins / (Added in Afterbirth)[![image](/image/Store_Keys.png)](/wiki/Store_Keys "Store Keys") [Store Keys](/wiki/Store_Keys "Store Keys")| Triple shot / (Added in Afterbirth)[![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel")|
+
+概要
+-------
+
+
+ノート
+-------
 
 * (Removed in Repentance) Keeper cannot have more than 2 [Coin Hearts](/wiki/Coin_Heart "Coin Heart").
 * (Added in Repentance) Keeper cannot have more than 3 [Coin Hearts](/wiki/Coin_Heart "Coin Heart"). This cap applies even before Hush is defeated.
@@ -47,10 +64,8 @@ Notes
 * (Added in Repentance) In Co-op mode, Keeper will not convert hearts into flies unless he's granted them directly by an item.
 * (Added in Repentance) In Co-op mode, Devil Deals will use coins for all players if Keeper is being played.
 
-
-Strategy
-----------
-
+戦略
+--------------
 
 * Due to his (Removed in Repentance)2/(Added in Repentance)3 Coin Heart limit, Keeper can easily die due to fast shooting enemies, and (Removed in Repentance)Devil Deals costing 2 Red Hearts will kill him. As all hearts turn into flies, Soul/Black Hearts cannot be found to protect the Keeper's health.
 * It is strongly recommended to defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as soon as possible so that Keeper has the [![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel"), which will vastly improve his survivability.
@@ -110,9 +125,9 @@ The following shop items are particularly useful for Keeper:
 * (Removed in Repentance) [![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug") takes only one HP on use.
 
 
-Item Interactions
--------------------
 
+アイテム効果
+-------------------
 
 * (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Raises Keeper's HP cap by 1.
 
@@ -177,50 +192,39 @@ Item Interactions
 * (Added in Repentance)[(Apple of Sodom)](/wiki/Apple_of_Sodom "Apple of Sodom") [Apple of Sodom](/wiki/Apple_of_Sodom "Apple of Sodom"), (Added in Repentance)[![image](/image/Candy_Heart.png)](/wiki/Candy_Heart "Candy Heart") [Candy Heart](/wiki/Candy_Heart "Candy Heart"), and (Added in Repentance)[![image](/image/Soul_Locket.png)](/wiki/Soul_Locket "Soul Locket") [Soul Locket](/wiki/Soul_Locket "Soul Locket") are useless, as all heart pickups are replaced with flies.
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
-
 * [(Sticky Nickels)](/wiki/Sticky_nickel "Sticky Nickels")  [Sticky Nickels](/wiki/Sticky_nickel "Sticky nickel") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [(Super Greed Baby)](/wiki/Babies "Super Greed Baby")  [Super Greed Baby](/wiki/Babies "Babies") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [(Keeper holds Store Key)](/wiki/Keeper "Keeper holds Store Key")  **Keeper holds Store Key** - Defeat [Satan](/wiki/Satan "Satan") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [(Keeper holds Wooden Nickel)](/wiki/Keeper "Keeper holds Wooden Nickel")  **Keeper holds Wooden Nickel** - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [(Karma)](/wiki/Karma "Karma")  [Karma](/wiki/Karma "Karma") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [![image](/image/Deep_Pockets.png)](/wiki/Deep_Pockets "Deep Pockets")  [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [(Rib of Greed)](/wiki/Rib_of_Greed "Rib of Greed")  [Rib of Greed](/wiki/Rib_of_Greed "Rib of Greed") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [![image](/image/Eye_of_Greed.png)](/wiki/Eye_of_Greed "Eye of Greed") (Added in Afterbirth †) [Eye of Greed](/wiki/Eye_of_Greed "Eye of Greed") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [(Keeper now holds... A Penny!)](/wiki/Keeper "Keeper now holds... A Penny!")  **Keeper now holds... A Penny!** - Defeat [Hush](/wiki/Hush "Hush") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [(Noose Baby)](/wiki/Babies "Noose Baby")  [Noose Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [![image](/image/Crooked_Penny.png)](/wiki/Crooked_Penny "Crooked Penny") (Added in Afterbirth †) [Crooked Penny](/wiki/Crooked_Penny "Crooked Penny") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [![image](/image/Keeper%27s_Sack.png)](/wiki/Keeper%27s_Sack "Keeper's Sack") (Added in Repentance) [Keeper's Sack](/wiki/Keeper%27s_Sack "Keeper's Sack") - Defeat [Mother](/wiki/Mother "Mother") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [![image](/image/Keeper%27s_Box.png)](/wiki/Keeper%27s_Box "Keeper's Box") (Added in Repentance) [Keeper's Box](/wiki/Keeper%27s_Box "Keeper's Box") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [(The Miser)](/wiki/Tainted_Keeper "The Miser") (Added in Repentance) [The Miser](/wiki/Tainted_Keeper "Tainted Keeper") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
-
 * [(Sale Baby)](/wiki/Babies "Sale Baby")  [Sale Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
+
+
+* [![image](/image/achievements/Sticky_Nickels.png)](/wiki/Sticky_Nickels "Sticky Nickels") [Sticky Nickels](/wiki/Sticky_Nickels "Sticky Nickels") キーパーでボスラッシュを完了する。
+* [![image](/image/achievements/Super_Greed_Baby.png)](/wiki/Super_Greed_Baby "Super Greed Baby") [Super Greed Baby](/wiki/Super_Greed_Baby "Super Greed Baby") ハードモードのMom's Heartをキーパーで倒す。
+* [![image](/image/achievements/Keeper_holds_Store_Key.png)](/wiki/Keeper_holds_Store_Key "Keeper holds Store Key") [Keeper holds Store Key](/wiki/Keeper_holds_Store_Key "Keeper holds Store Key") Satanをキーパーで倒す。
+* [![image](/image/achievements/Keeper_holds_Wooden_Nickel.png)](/wiki/Keeper_holds_Wooden_Nickel "Keeper holds Wooden Nickel") [Keeper holds Wooden Nickel](/wiki/Keeper_holds_Wooden_Nickel "Keeper holds Wooden Nickel") Issacをキーパーで倒す。
+* [![image](/image/achievements/Karma.png)](/wiki/Karma "Karma") [Karma](/wiki/Karma "Karma") The Lambをキーパーで倒す。
+* [![image](/image/achievements/Deep_Pockets.png)](/wiki/Deep_Pockets "Deep Pockets") [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets") ???をキーパーで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Rib_of_Greed.png)](/wiki/Rib_of_Greed "Rib of Greed") [Rib of Greed](/wiki/Rib_of_Greed "Rib of Greed") Ultra Greedをキーパーで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Eye_of_Greed.png)](/wiki/Eye_of_Greed "Eye of Greed") [Eye of Greed](/wiki/Eye_of_Greed "Eye of Greed") Ultra Greedierをキーパーで倒す。
+* (Added in Afterbirth) [(Keeper now holds... A Penny!)](/wiki/Keeper "Keeper now holds... A Penny!") Hushをキーパーで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Noose_Baby.png)](/wiki/Noose_Baby "Noose Baby") [Noose Baby](/wiki/Noose_Baby "Noose Baby") Mega Satanをキーパーで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Crooked_Penny.png)](/wiki/Crooked_Penny "Crooked Penny") [Crooked Penny](/wiki/Crooked_Penny "Crooked Penny") Deliriumをキーパーで倒す。
+* (Added in Repentance) [![image](/image/achievements/Keeper%27s_Sack.png)](/wiki/Keeper%27s_Sack "Keeper's Sack") [Keeper's Sack](/wiki/Keeper%27s_Sack "Keeper's Sack") Motherをキーパーで倒す。
+* (Added in Repentance) [![image](/image/achievements/Keeper%27s_Box.png)](/wiki/Keeper%27s_Box "Keeper's Box") [Keeper's Box](/wiki/Keeper%27s_Box "Keeper's Box") The Beastをキーパーで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Miser.png)](/wiki/The_Miser "The Miser") [The Miser](/wiki/The_Miser "The Miser") キーパーでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* (Added in Afterbirth) [![image](/image/achievements/Sale_Baby.png)](/wiki/Sale_Baby "Sale Baby") [Sale Baby](/wiki/Sale_Baby "Sale Baby") キーパーですべてのハードモード完了のマークを獲得する。
