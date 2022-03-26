@@ -1,82 +1,77 @@
 +++
 +++
 
- # Cain ![image](/image/Cain.png) 
+ # ケイン (Cain)
+ ![image](/image/characters/Cain.png) 
 
-Notes
+
+
+
+ステータス
 -------
 
 
-* Cain can only shoot tears from his right eye. This affects certain items: [![image](/image/Blood_Clot.png)](/wiki/Blood_Clot "Blood Clot") [Blood Clot](/wiki/Blood_Clot "Blood Clot") and [![image](/image/Chemical_Peel.png)](/wiki/Chemical_Peel "Chemical Peel") [Chemical Peel](/wiki/Chemical_Peel "Chemical Peel") have a 50% chance to do increased damage and [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2") will prevent him from firing normal tears, even tear-changing effects like [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"). Also, the [R U a Wizard?](/wiki/R_U_a_Wizard%3F "R U a Wizard?") pill will cause Cain to fire tears to his right exclusively.
+|ライフ|ダメージ|ティア|ショットスピード|
+|:----:|---|---|---|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.20)|0|1|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|4.5|1.3|0|x1 Key / (Added in Afterbirth) Paper Clip|[![image](/image/Lucky_Foot.png)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot")|
 
 
-Strategy
-----------
+概要
+-------
+
+カインは1度のゲームで55個以上のコインを集めると開放される。
+
+カインは2つの赤ハートコンテナと鍵1個、[![image](/image/Lucky_Foot.png)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot")を持ってスタートする。
+
+カインはグリードの募金箱に68コイン以上寄付するとトリンケットの[![image](/image/Paper_Clip.png)](/wiki/Paper_Clip "Paper Clip") [Paper Clip](/wiki/Paper_Clip "Paper Clip")を持ってスタートする。
 
 
-* Cain starts with slightly higher damage and speed than most characters, making him more agile and effective at the start. However, he has lower range and health than average, which means he has to put himself closer to danger and can take less punishment than most.
-* As mentioned above, Cain only shoots tears from his right eye. This makes it easier to aim as him, and lets Cain consistently peek around corners to shoot behind cover.
-* Cain's kit makes him the best character for hoarding items. His starting luck increases the chance of a drop after a room clear, and [![image](/image/Lucky_Foot.png)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot") boosts this even further by increasing his success for room drops, [machines](/wiki/Machines "Machines") (Slot Machines/Fortune Teller Machines) and [Shell Games](/wiki/Beggar "Beggar").
-* (Added in Repentance)Lucky Foot changes stat-changing bad pills into good pills, making pills extremely effective for Cain. This makes [Golden Pills](/wiki/Pills "Pills") and (Added in Repentance)[![image](/image/Echo_Chamber.png)](/wiki/Echo_Chamber "Echo Chamber") [Echo Chamber](/wiki/Echo_Chamber "Echo Chamber") great finds for Cain, as you will receive multiple guaranteed buffs from the pill.
-* Cain's starting key guarantees that he can spend it on opening a locked room (eg. [Treasure Room](/wiki/Treasure_Room "Treasure Room")) past Floor 1, or a [Golden Chest](/wiki/Chests "Chests"). If [(Paper Clip)](/wiki/Paper_Clip "Paper Clip") [Paper Clip](/wiki/Paper_Clip "Paper Clip") is unlocked, Cain can unlock every golden chest he finds, which significantly increases the chance for an item or a mass collection of pickups.
-* Cain's luck makes him a good candidate for tear effects, as many of them are more likely to trigger based on luck.
-* As he starts with only two hearts, Cain benefits from early health ups, and is not a very good candidate for [Devil Rooms](/wiki/Devil_Room "Devil Room") early on since they will significantly cut his endurance.
-* As Cain is likely to have a large collection of coins or keys after a few floors, it is wise to open up [shops](/wiki/Shop "Shop"), bomb [Shopkeepers](/wiki/Shopkeeper "Shopkeeper"), donate ten coins to a [Donation Machine](/wiki/Donation_Machine "Donation Machine"), or donate to a [beggar](/wiki/Beggar "Beggar") till he pays out to maximize the chances of an Angel Room. Cain benefits more from them compared to Devil Rooms due to his low health.
+
+ノート
+-------
+
+* カインは右目からのみ弾を撃つ。これは特定のアイテムに影響する：
+  * [![image](/image/Blood_Clot.png)](/wiki/Blood_Clot "Blood Clot") [Blood Clot](/wiki/Blood_Clot "Blood Clot")と[![image](/image/Chemical_Peel.png)](/wiki/Chemical_Peel "Chemical Peel") [Chemical Peel](/wiki/Chemical_Peel "Chemical Peel")は50%の確率でダメージが上昇する。
+  * [![image](/image/Technology2.png)](/wiki/Technology2 "Technology2") [Technology2](/wiki/Technology2 "Technology2")は[![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone")のような置換された弾を含め通常の弾が出なくなる。
+  * R U a Wizard?ピルは右斜め方向にのみ弾を撃つようになる。"
+
+### ストラテジー
+
+* カインは他のキャラクターよりもダメージとスピードが若干高く、スタート時に機敏で効果的な動きをする。しかし平均よりもレンジとヘルスが低いため、危険な場所に身を置かなければならず、他のキャラクターよりも少ないダメージしか受けられない。
+* 前述したように、カインは右目からしか涙を流さない。そのため狙いを定めやすく、背後をカバーしつつ常に角から覗き込むように撃てる。
+* カインの道具は、アイテムを集めるのに最適なキャラクターにしている。また、[![image](/image/Lucky_Foot.png)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot")により部屋クリア報酬、機械（スロットマシン/おみくじ機）、シェルゲームでの成功率がさらに上昇する。
+* (Added in Repentance)　[![image](/image/Lucky_Foot.png)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot")はマイナスのステータス変動ピルをいいものに変えるので、非常に効果的だ。 通常の何倍ものステータスアップをピルから得られるためゴールデンピルと(Added in Repentance) [![image](/image/Echo_Chamber.png)](/wiki/Echo_Chamber "Echo Chamber") [Echo Chamber](/wiki/Echo_Chamber "Echo Chamber")はカインにとって素晴らしい発見となる。
+* カインのスタートから所持している鍵は鍵のかかった部屋(例.アイテム部屋)や金の宝箱を1階層目から開けることを保証している。もし[![image](/image/Paper_Clip.png)](/wiki/Paper_Clip "Paper Clip") [Paper Clip](/wiki/Paper_Clip "Paper Clip")をアンロックしているなら、見つけた金の宝箱をすべて開くことができるので、アイテムや多くのピックアップを得られる確率が実質的に上昇する。
+* 弾に影響する効果の多くはラックによって発動率が変わるので、カインのラックは相性が良い。
+* ハートコンテナ2つでスタートするので早い段階の体力アップはより多くの恩恵を受け、早い段階の悪魔部屋取引は体力を減らすのであまり適していない。
+* カインは数階層進むと大抵多くのコインと鍵を手に入れるので、ショップを開いてShopkeepersを爆破したり、募金箱にコインを10枚入れたり、乞食がお金を出すまで寄付することで天使部屋確率を上げるのも賢明な手となる。体力が低いので悪魔部屋よりも天使部屋の方が適している。
 
 
-Item Interactions
+アイテム効果
 -------------------
 
+* (Added in Repentance) [![image](/image/Abel.png)](/wiki/Abel "Abel") [Abel](/wiki/Abel "Abel")はカインが所持すると弾は赤くなってダメージが7.5まで上昇する。
+* (Added in Repentance) [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright")の効果：ラック+1。全階層で強化されたゲームセンターが出現する。
 
-* (Added in Repentance) [![image](/image/Abel.png)](/wiki/Abel "Abel") [Abel](/wiki/Abel "Abel")'s tears become red and deal 7.5 damage when held by Cain.
-* (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Grants +1 luck. All floors contain an upgraded [Arcade](/wiki/Arcade "Arcade").
-* 
-
-
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
-
-* [![image](/image/Cain%27s_Other_Eye.png)](/wiki/Cain%27s_Other_Eye "Cain's Other Eye")  [Cain's Other Eye](/wiki/Cain%27s_Other_Eye "Cain's Other Eye") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [(Glass Baby)](/wiki/Babies "Glass Baby")  [Glass Baby](/wiki/Babies "Babies") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [(A Bag of Bombs)](/wiki/Bomb_Bag "A Bag of Bombs")  [A Bag of Bombs](/wiki/Bomb_Bag "Bomb Bag") - Defeat [Satan](/wiki/Satan "Satan") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [(A Bag of Pennies)](/wiki/Sack_of_Pennies "A Bag of Pennies")  [A Bag of Pennies](/wiki/Sack_of_Pennies "Sack of Pennies") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [![image](/image/Abel.png)](/wiki/Abel "Abel")  [Abel](/wiki/Abel "Abel") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [(Cain's Eye)](/wiki/Cain%27s_Eye "Cain's Eye")  [Cain's Eye](/wiki/Cain%27s_Eye "Cain's Eye") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [![image](/image/Evil_Eye.png)](/wiki/Evil_Eye "Evil Eye") (Added in Afterbirth) [Evil Eye](/wiki/Evil_Eye "Evil Eye") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [![image](/image/Sack_of_Sacks.png)](/wiki/Sack_of_Sacks "Sack of Sacks") (Added in Afterbirth †) [Sack of Sacks](/wiki/Sack_of_Sacks "Sack of Sacks") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [![image](/image/D12.png)](/wiki/D12 "D12") (Added in Afterbirth) [D12](/wiki/D12 "D12") - Defeat [Hush](/wiki/Hush "Hush") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [(Green Baby)](/wiki/Babies "Green Baby") (Added in Afterbirth) [Green Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [(Silver Dollar)](/wiki/Silver_Dollar "Silver Dollar") (Added in Afterbirth †) [Silver Dollar](/wiki/Silver_Dollar "Silver Dollar") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [![image](/image/Guppy%27s_Eye.png)](/wiki/Guppy%27s_Eye "Guppy's Eye") (Added in Repentance) [Guppy's Eye](/wiki/Guppy%27s_Eye "Guppy's Eye") - Defeat [Mother](/wiki/Mother "Mother") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [![image](/image/A_Pound_of_Flesh.png)](/wiki/A_Pound_of_Flesh "A Pound of Flesh") (Added in Repentance) [A Pound of Flesh](/wiki/A_Pound_of_Flesh "A Pound of Flesh") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [(The Hoarder)](/wiki/Tainted_Cain "The Hoarder") (Added in Repentance) [The Hoarder](/wiki/Tainted_Cain "Tainted Cain") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
-
-
-* [(Picky Baby)](/wiki/Babies "Picky Baby") (Added in Afterbirth) [Picky Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Cain)](/wiki/Cain "Cain") **Cain**.
+* [![image](/image/achievements/Cain%27s_Other_Eye.png)](/wiki/Cain%27s_Other_Eye "Cain's Other Eye") [Cain's Other Eye](/wiki/Cain%27s_Other_Eye "Cain's Other Eye") ケインでボスラッシュを完了する。
+* * [![image](/image/achievements/Glass_Baby.png)](/wiki/Glass_Baby "Glass Baby") [Glass Baby](/wiki/Glass_Baby "Glass Baby") ハードモードのMom's Heartをケインで倒す。
+* [![image](/image/achievements/A_Bag_of_Bombs.png)](/wiki/A_Bag_of_Bombs "A Bag of Bombs") [A Bag of Bombs](/wiki/A_Bag_of_Bombs "A Bag of Bombs") Satanをケインで倒す。
+* [![image](/image/achievements/A_Bag_of_Pennies.png)](/wiki/A_Bag_of_Pennies "A Bag of Pennies") [A Bag of Pennies](/wiki/A_Bag_of_Pennies "A Bag of Pennies") Issacをケインで倒す。
+* [![image](/image/achievements/Abel.png)](/wiki/Abel "Abel") [Abel](/wiki/Abel "Abel") The Lambをケインで倒す。
+* [![image](/image/achievements/Cain%27s_Eye.png)](/wiki/Cain%27s_Eye "Cain's Eye") [Cain's Eye](/wiki/Cain%27s_Eye "Cain's Eye") ???をケインで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Evil_Eye.png)](/wiki/Evil_Eye "Evil Eye") [Evil Eye](/wiki/Evil_Eye "Evil Eye") Ultra Greedをケインで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Sack_of_Sacks.png)](/wiki/Sack_of_Sacks "Sack of Sacks") [Sack of Sacks](/wiki/Sack_of_Sacks "Sack of Sacks") Ultra Greedierをケインで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/D12.png)](/wiki/D12 "D12") [D12](/wiki/D12 "D12") Hushをケインで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Green_Baby.png)](/wiki/Green_Baby "Green Baby") [Green Baby](/wiki/Green_Baby "Green Baby") Mega Satanをケインで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Silver_Dollar.png)](/wiki/Silver_Dollar "Silver Dollar") [Silver Dollar](/wiki/Silver_Dollar "Silver Dollar") Deliriumをケインで倒す。
+* (Added in Repentance) [![image](/image/achievements/Guppy%27s_Eye.png)](/wiki/Guppy%27s_Eye "Guppy's Eye") [Guppy's Eye](/wiki/Guppy%27s_Eye "Guppy's Eye") Motherをケインで倒す。
+* (Added in Repentance) [![image](/image/achievements/A_Pound_of_Flesh.png)](/wiki/A_Pound_of_Flesh "A Pound of Flesh") [A Pound of Flesh](/wiki/A_Pound_of_Flesh "A Pound of Flesh") The Beastをケインで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Hoarder.png)](/wiki/The_Hoarder "The Hoarder") [The Hoarder](/wiki/The_Hoarder "The Hoarder") ケインでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* (Added in Afterbirth) [![image](/image/achievements/Picky_Baby.png)](/wiki/Picky_Baby "Picky Baby") [Picky Baby](/wiki/Picky_Baby "Picky Baby") ケインですべてのハードモード完了のマークを獲得する。

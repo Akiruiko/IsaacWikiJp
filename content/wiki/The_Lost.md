@@ -1,9 +1,28 @@
 +++
 +++
 
- # The_Lost ![image](/image/The_Lost.png) 
+#### ※この記事は翻訳作業中です
 
-Notes
+ # ザ　ロスト(The Lost) 
+ ![image](/image/characters/The_Lost.png) 
+
+ステータス
+-------
+
+
+|ライフ|ダメージ|ティア|ショットスピード|
+|なし|:----:|---|---|---|
+
+|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|:--:|:--:|
+|6.5|1|0|x1 coins| (Added in Afterbirth†)　Spectral tears /  (Added in Afterbirth†) (Removed in Repentance)[![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4") / (Added in Repentance) [![image](/image/Eternal_D6.png)](/wiki/Eternal_D6 "Eternal D6") [Eternal D6](/wiki/Eternal_D6 "Eternal D6") / (Added in Afterbirth) [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle")|
+
+
+概要
+-------
+
+
+ノート
 -------
 
 
@@ -25,15 +44,8 @@ Notes
 * Using the [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag") will instantly kill  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost** even with the Holy Mantle.
 	+ (Added in Repentance) Using a [Blood Donation Machine](/wiki/Machines "Machines") will instantly kill  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost** as well.
 
-
-  
-
-
-
-
-General Strategies
---------------------
-
+戦略
+-------------------
 
 Main article: [The Lost (Strategy)](/wiki/The_Lost_(Strategy) "The Lost (Strategy)")
 * One of the biggest issues of having no health is that many items become completely useless: items that only give health ups, only become effective upon taking damage or cost health to use provide no benefit to The Lost.
@@ -41,9 +53,8 @@ Main article: [The Lost (Strategy)](/wiki/The_Lost_(Strategy) "The Lost (Strateg
 * Trinkets and Items like (Added in Repentance)[(Brain Worm)](/wiki/Brain_Worm "Brain Worm") [Brain Worm](/wiki/Brain_Worm "Brain Worm") that can home-in and target enemies even at a distance are invaluable early game as you do not need to place yourself directly in the enemy's attack path and The Lost's spectral tears pass through most obstacles.
 
 
-Item Interactions
+アイテム効果
 -------------------
-
 
 * (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Prevents items with the internal tag `[nolostbr](/wiki/Item_Tags_nolostbr "Item Tags nolostbr")` from spawning. In practice, this automatically rerolls most items that aren't beneficial to The Lost, namely ones that only give health, flight, and/or spectral tears or activate upon taking damage.
 * [![image](/image/Whore_of_Babylon.png)](/wiki/Whore_of_Babylon "Whore of Babylon") [Whore of Babylon](/wiki/Whore_of_Babylon "Whore of Babylon"): As the Lost has no health Whore of Babylon is constantly in effect, effectively changing into a damage and speed upgrade.
@@ -54,8 +65,6 @@ Item Interactions
 
 
 The Lost is unlocked by dying in a [sacrifice room](/wiki/Sacrifice_room "Sacrifice room") while holding [(Missing Poster)](/wiki/Missing_Poster "Missing Poster") [Missing Poster](/wiki/Missing_Poster "Missing Poster"). 
-
-
 
 * Looking for (Added in Afterbirth)[![image](/image/Mom%27s_Box.png)](/wiki/Mom%27s_Box "Mom's Box") [Mom's Box](/wiki/Mom%27s_Box "Mom's Box") in shops makes finding the poster easier.
 * (Added in Afterbirth)[![image](/image/Glitter_Bombs.png)](/wiki/Glitter_Bombs "Glitter Bombs") [Glitter Bombs](/wiki/Glitter_Bombs "Glitter Bombs"), in conjunction with a large enough or infinite source of bombs (such as a [Gold Bomb](/wiki/Gold_Bomb "Gold Bomb")), have a small chance to drop trinkets, making it easier to find the poster.
@@ -68,25 +77,15 @@ The Lost is unlocked by dying in a [sacrifice room](/wiki/Sacrifice_room "Sacrif
 (Removed in Afterbirth) Unlocking The Lost in Rebirth
 -------------------------------------------------------
 
-
 The Lost is unlocked by dying 4 times in a row, each time with a certain character dying in a certain circumstance. Deaths **must** be completed consecutively in the order shown below.
 Seeds can be used on all **but** the final step.
-
-
-  
-
-
-
 
 1. [(Isaac)](/wiki/Isaac "Isaac") [Isaac](/wiki/Isaac "Isaac") must die to a [Mulliboom](/wiki/Mulliboom "Mulliboom") in [Chapter 1](/wiki/Chapters "Chapters").
 2. [(Magdalene)](/wiki/Magdalene "Magdalene") [Magdalene](/wiki/Magdalene "Magdalene") must die to her own [bomb](/wiki/Bomb "Bomb") in [Chapter 2](/wiki/Chapters "Chapters").
 3. [(Judas)](/wiki/Judas "Judas") [Judas](/wiki/Judas "Judas") must die to [Mom](/wiki/Mom "Mom"). Being killed by any monster spawned by Mom will spoil the entire attempt at unlocking The Lost.
 4. Finally,  [(Azazel)](/wiki/Azazel "Azazel") [Azazel](/wiki/Azazel "Azazel") must die to [Satan](/wiki/Satan "Satan"). Being killed by any of the other enemies spawned by Satan will spoil the entire attempt at unlocking The Lost. Using [![image](/image/The_Bible.png)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible") on Satan does not count as death from Satan.
 
-
 The Lost will be unlocked after completing the steps shown above
-
-
 
 #### Notes on unlocking The Lost
 
@@ -102,9 +101,7 @@ The Lost will be unlocked after completing the steps shown above
 * Picking up [![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags"), [![image](/image/Judas%27_Shadow.png)](/wiki/Judas%27_Shadow "Judas' Shadow") [Judas' Shadow](/wiki/Judas%27_Shadow "Judas' Shadow"), or [![image](/image/Ankh.png)](/wiki/Ankh "Ankh") [Ankh](/wiki/Ankh "Ankh") should be avoided. These items will revive the current character as a different one and therefore prevent the current unlock-step from being fulfilled.
 * Exploit: If you die during a required run, but hit the "start" button just as you die and reset before it shows [Isaac's Last Will](/wiki/Isaac%27s_Last_Will "Isaac's Last Will"), it will not count as a death that spoils the run, instead it counts as a restart.
 
-
 ### File Manipulation
-
 
 By changing a file parameter, an unsuccessful try can be undone:
 
@@ -112,10 +109,7 @@ By changing a file parameter, an unsuccessful try can be undone:
 
 1. Backup the file `Options.ini` found in the `Documents\My Games\Binding of Isaac Rebirth` by making a copy of it in the same folder.
 
-
 Open the original file with Notepad and change the `SteamCloud` parameter in it to `0`. This will disable Steam Cloud gamesaves synchronization.
-
-
 
 1. After an unsuccessful try, delete the original file and rename the backup copy with the name of the original file: `Options.ini`
 2. Repeat steps 1 after each successful run until you unlock The Lost.
@@ -123,9 +117,6 @@ Open the original file with Notepad and change the `SteamCloud` parameter in it 
 
 
 ### Helpful Seeds For Rebirth
-
-
-
 
 | ==== Isaac ====
 PC GPE3 2T1H (Must be on Normal difficulty. 2 Mullibooms south of starting point. Use the sacrifice room above to damage yourself first)
@@ -160,50 +151,22 @@ The Lost
 PC HNA6 WEK7 (Dead Cat and Holy Mantle on first floor, helpful for practice runs) |  |
 
 
-Unlockable [Achievements](/wiki/Achievements "Achievements")
+解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
 
-* [(The D100)](/wiki/D100 "The D100")  [The D100](/wiki/D100 "D100") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [(-0- Baby)](/wiki/Babies "-0- Baby")  [-0- Baby](/wiki/Babies "Babies") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [![image](/image/The_Mind.png)](/wiki/The_Mind "The Mind")  [The Mind](/wiki/The_Mind "The Mind") - Defeat [Satan](/wiki/Satan "Satan") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [![image](/image/Isaac%27s_Heart.png)](/wiki/Isaac%27s_Heart "Isaac's Heart")  [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart") - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [![image](/image/The_Soul.png)](/wiki/The_Soul "The Soul")  [The Soul](/wiki/The_Soul "The Soul") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [![image](/image/The_Body.png)](/wiki/The_Body "The Body")  [The Body](/wiki/The_Body "The Body") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [![image](/image/Zodiac.png)](/wiki/Zodiac "Zodiac") (Added in Afterbirth) [Zodiac](/wiki/Zodiac "Zodiac") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [![image](/image/Dad%27s_Lost_Coin.png)](/wiki/Dad%27s_Lost_Coin "Dad's Lost Coin") (Added in Afterbirth †) [Dad's Lost Coin](/wiki/Dad%27s_Lost_Coin "Dad's Lost Coin") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [![image](/image/Sworn_Protector.png)](/wiki/Sworn_Protector "Sworn Protector") (Added in Afterbirth) [Sworn Protector](/wiki/Sworn_Protector "Sworn Protector") - Defeat [Hush](/wiki/Hush "Hush") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [(White Baby)](/wiki/Babies "White Baby") (Added in Afterbirth) [White Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [(Holy Card)](/wiki/Holy_Card "Holy Card") (Added in Afterbirth †) [Holy Card](/wiki/Holy_Card "Holy Card") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [![image](/image/Lost_Soul.png)](/wiki/Lost_Soul "Lost Soul") (Added in Repentance) [Lost Soul](/wiki/Lost_Soul "Lost Soul") - Defeat [Mother](/wiki/Mother "Mother") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [![image](/image/Hungry_Soul.png)](/wiki/Hungry_Soul "Hungry Soul") (Added in Repentance) [Hungry Soul](/wiki/Hungry_Soul "Hungry Soul") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
-* [(The Baleful)](/wiki/Tainted_Lost "The Baleful") (Added in Repentance) [The Baleful](/wiki/Tainted_Lost "Tainted Lost") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
-
-
+* [![image](/image/achievements/The_D100.png)](/wiki/The_D100 "The D100") [The D100](/wiki/The_D100 "The D100") ザ　ロストでボスラッシュを完了する。
+* [![image](/image/achievements/-0-_Baby.png)](/wiki/-0-_Baby "-0- Baby") [-0- Baby](/wiki/-0-_Baby "-0- Baby") ハードモードのMom's Heartをザ　ロストで倒す。
+* [![image](/image/achievements/The_Mind.png)](/wiki/The_Mind "The Mind") [The Mind](/wiki/The_Mind "The Mind") Satanをザ　ロストで倒す。
+* [![image](/image/achievements/Isaac%27s_Heart.png)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart") Issacをザ　ロストで倒す。
+* [![image](/image/achievements/The_Soul.png)](/wiki/The_Soul "The Soul") [The Soul](/wiki/The_Soul "The Soul") The Lambをザ　ロストで倒す。
+* [![image](/image/achievements/The_Body.png)](/wiki/The_Body "The Body") [The Body](/wiki/The_Body "The Body") ???をザ　ロストで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Zodiac.png)](/wiki/Zodiac "Zodiac") [Zodiac](/wiki/Zodiac "Zodiac") Ultra Greedをザ　ロストで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Dad%27s_Lost_Coin.png)](/wiki/Dad%27s_Lost_Coin "Dad's Lost Coin") [Dad's Lost Coin](/wiki/Dad%27s_Lost_Coin "Dad's Lost Coin") Ultra Greedierをザ　ロストで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/Sworn_Protector.png)](/wiki/Sworn_Protector "Sworn Protector") [Sworn Protector](/wiki/Sworn_Protector "Sworn Protector") Hushをザ　ロストで倒す。
+* (Added in Afterbirth) [![image](/image/achievements/White_Baby.png)](/wiki/White_Baby "White Baby") [White Baby](/wiki/White_Baby "White Baby") Mega Satanをザ　ロストで倒す。
+* (Added in Afterbirth+) [![image](/image/achievements/Holy_Card.png)](/wiki/Holy_Card "Holy Card") [Holy Card](/wiki/Holy_Card "Holy Card") Deliriumをザ　ロストで倒す。
+* (Added in Repentance) [![image](/image/achievements/Lost_Soul.png)](/wiki/Lost_Soul "Lost Soul") [Lost Soul](/wiki/Lost_Soul "Lost Soul") Motherをザ　ロストで倒す。
+* (Added in Repentance) [![image](/image/achievements/Hungry_Soul.png)](/wiki/Hungry_Soul "Hungry Soul") [Hungry Soul](/wiki/Hungry_Soul "Hungry Soul") The Beastをザ　ロストで倒す。
+* (Added in Repentance) [![image](/image/achievements/The_Baleful.png)](/wiki/The_Baleful "The Baleful") [The Baleful](/wiki/The_Baleful "The Baleful") ザ　ロストでRed Keyを使いHomeにある隠されたクローゼットを開く。
 * [![image](/image/Godhead.png)](/wiki/Godhead "Godhead")  [Godhead](/wiki/Godhead "Godhead") - Earn all (Removed in Afterbirth) 5 / (Added in Afterbirth / Removed in Afterbirth †) 9 (except [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed")) / (Added in Afterbirth † / Removed in Repentance) 10 / (Added in Repentance) 12 [Completion Marks](/wiki/Completion_Mark "Completion Mark") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.
