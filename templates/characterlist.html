@@ -3,30 +3,60 @@
 {% set data = load_data(path="static/characters.csv", format="csv") %}
 <table id="itemTable" class="table">
 <thead>
-<tr>
-{% for header in data.headers %}
-{% if loop.first %}
-<th>画像</th>
-{% else %}
-<th>{{header}}</th>
-{% endif %}
-{% endfor %}
-</tr>
+    <tr>
+    {% for header in data.headers %}
+        {% if loop.first %}
+        <th rowspan="2">画像</th>
+        {% elif loop.index == 2 %}
+        <th rowspan="2">{{header}}</th>
+        {% elif loop.index == 3 %}
+        {% elif loop.index == 10 %}
+        <th rowspan="2">{{header}}</th>
+        </tr><tr>
+        {% elif loop.index == 12 %}
+        <th colspan="2">{{header}}</th>
+        {% elif loop.index == 13 %}
+        <th colspan="3">{{header}}</th>
+        {% else %}
+        <th>{{header}}</th>
+        {% endif %}
+    {% endfor %}
+    </tr>
 </thead>
 
 <tbody>
 {% for record in data.records %}
-<tr>
-{% for cell in record %}
-{% if loop.first %}
-<td>
-<a href="/wiki/{{cell}}"><img src="/image/{{cell}}.png"></a>
-</td>
-{% else %}
-<td>{{cell}}</td>
-{% endif %}
-{% endfor %}
-</tr>
+    <tr>
+    {% for cell in record %}
+        {% if loop.first %}
+        <td rowspan="2">
+            <a href="/wiki/{{cell}}"><img src="/image/characters/{{cell}}.png"></a>
+        </td>
+        {% elif loop.index == 2 %}
+        <td rowspan="2">{{cell}}<br>
+        {% elif loop.index == 3 %}
+        {{cell}}</td>
+        {% elif loop.index == 4 %}
+        {% set life = cell | split(pat="|") %}
+        <td nowrap>
+        {% for l in life %}
+            {% set imgpath = ["/image/characters/", l, "-heart.png"] | join() %}
+            {% set image = resize_image(path=imgpath, width=10, height=10, op="fit_height") %}
+            <img src="{{ image.url }}">
+        {% endfor %}
+        </td>
+        {% elif loop.index == 10 %}
+        <td rowspan="2">{{cell}}</td>
+        </tr><tr>
+        {% elif loop.index == 12 %}
+        <td colspan="2">{{cell}}</td>
+        {% elif loop.index == 13 %}
+        <td colspan="3">{{cell}}</td>
+        {% else %}
+        <td>{{cell}}</td>
+        {% endif %}
+    {% endfor %}
+    </tr>
 {% endfor %}
 </tbody>
 </table>
