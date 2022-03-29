@@ -32,7 +32,10 @@
                 <div class="container">
                     <div class="sidebar-about">
                         {% block sidebar_about %}
-                            <a href="{{ config.base_url }}"><h1>{{ config.title }}</h1></a>
+							{% set imgpath = "/image/sites/logo.png" %}
+							{% set image = resize_image(path=imgpath, width=220, op="fit_width") %}
+							<img src="{{ image.url }}">
+                            <a href="{{ config.base_url }}"><p class="lead">{{ config.title }}</p></a>
                             {% if config.description %}
                             <p class="lead">{{config.description}}</p>
                             {% endif %}

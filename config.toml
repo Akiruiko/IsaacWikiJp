@@ -2,7 +2,7 @@
 base_url = "https://isaacrebirthwikijp.netlify.app/"
 
 # title
-title = "Isaac Wiki JP"
+title = "The Binding of Isaac: Rebirth 日本語Wiki"
 description = ""
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -31,8 +31,9 @@ anchors = "off"
 [extra]
 hyde_links = [
     {url = "/about/", name = "About"},
-    {url = "/", name = "Items"},
-    {url = "/Trinkets/", name = "Trinkets"},
-    {url = "/CardsAndRunes/", name = "Cards and Runes"},
-    {url = "/Characters/", name = "Characters"},
+	{url = "/operation/", name = "操作方法"},
+    {url = "/", name = "アイテム"},
+    {url = "/Trinkets/", name = "トリンケット"},
+#    {url = "/CardsAndRunes/", name = "Cards and Runes"},
+    {url = "/Characters/", name = "キャラクター"},
 ]
