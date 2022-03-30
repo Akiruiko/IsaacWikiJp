@@ -8,7 +8,7 @@ Effects
 
 
 * Creates a controllable crosshair. Isaac automatically and continuously fires towards the crosshair.
-	+ (Added in Repentance) The crosshair will not appear in each room until Isaac fires. Pressing the "drop" key or button (Keyboard default: left Control key; Controller default: right trigger) will make the crosshair disappear and stop Isaac from firing tears until a firing key is pressed again.[[1]](#cite_note-1)
+	+ (Added in Repentance) The crosshair will not appear in each room until Isaac fires. Pressing the "drop" key or button (Keyboard default: left Control key; Controller default: right trigger) will make the crosshair disappear and stop Isaac from firing tears until a firing key is pressed again.
 * +0.7 [tears](/wiki/Tears "Tears").
 * (Removed in Repentance) +3.15 [range](/wiki/Range "Range").
 * (Added in Repentance) +3.0 [range](/wiki/Range "Range").

@@ -96,8 +96,8 @@ The Lost will be unlocked after completing the steps shown above
 * Champion versions of monsters and bosses will count for the death criteria.
 * Runs can always be safely reset.
 * Mom's Foot's stomp counts as explosive damage, which makes [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac") a problematic choice when trying to complete *Step 3*.
-* Picking the wrong character while unlocking him doesn't mess up the unlocking process.[[1]](#cite_note-1)
-* Quitting and Restarting the game in the middle of the unlocking process doesn't mess it up.[[2]](#cite_note-2)
+* Picking the wrong character while unlocking him doesn't mess up the unlocking process.
+* Quitting and Restarting the game in the middle of the unlocking process doesn't mess it up.
 * Picking up [![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags"), [![image](/image/Judas%27_Shadow.png)](/wiki/Judas%27_Shadow "Judas' Shadow") [Judas' Shadow](/wiki/Judas%27_Shadow "Judas' Shadow"), or [![image](/image/Ankh.png)](/wiki/Ankh "Ankh") [Ankh](/wiki/Ankh "Ankh") should be avoided. These items will revive the current character as a different one and therefore prevent the current unlock-step from being fulfilled.
 * Exploit: If you die during a required run, but hit the "start" button just as you die and reset before it shows [Isaac's Last Will](/wiki/Isaac%27s_Last_Will "Isaac's Last Will"), it will not count as a death that spoils the run, instead it counts as a restart.
 

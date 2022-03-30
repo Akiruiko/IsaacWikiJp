@@ -19,7 +19,7 @@ Synergies
 * [(D Infinity)](/wiki/D_Infinity "D Infinity") [D Infinity](/wiki/D_Infinity "D Infinity"): Dropping the item will set its charges to the base of 2, allowing each die to be used with only 2 charges.
 * (Added in Repentance)[![image](/image/Dice_Bag.png)](/wiki/Dice_Bag "Dice Bag") [Dice Bag](/wiki/Dice_Bag "Dice Bag"): The single-use die items given by Dice Bag have a chance to be dropped as pedestal items on the ground, allowing you to keep them forever.
 * [(Tainted Isaac)](/wiki/Tainted_Isaac "Tainted Isaac") [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac"): Active items will swap into a different item everytime they're dropped, along with full charge if they're picked up again, allowing nearly infinite rerolls.
-* [(Void)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Items that are [normally unusable](#No_Effect) when holding Butter! can still activate their effects if absorbed by Void.
+* [(Void)](/wiki/Void "Void") [Void](/wiki/Void "Void"): Items that are  when holding Butter! can still activate their effects if absorbed by Void.
 
 
 Interactions
