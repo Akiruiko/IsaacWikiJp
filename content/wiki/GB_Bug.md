@@ -11,7 +11,7 @@ Effects
 * (Added in Repentance) Spawns a familiar that follows Isaac. Double tapping the fire button launches it forward, causing it to reroll the first [monster](/wiki/Monster "Monster"), [trinket](/wiki/Trinkets "Trinkets"), or [pickup](/wiki/Pickup "Pickup") it hits. It respawns after clearing a room.
 	+ If it cannot reroll an enemy (e.g. a boss), it will deal 8 damage instead.
 	+ Items and opened chests cannot be rerolled.
-	+ Pickups have a 10% chance of becoming chests (see [the algorithm](#Algorithm)).
+	+ Pickups have a 10% chance of becoming chests .
 		- If a chest is rerolled, it has a 28% chance of staying as some kind of a chest.
 
 

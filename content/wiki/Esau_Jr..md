@@ -24,7 +24,7 @@ Notes
 -------
 
 
-* The item may have severely glitchy interactions with some characters. Refer to the [bugs](#Bugs) section.
+* The item may have severely glitchy interactions with some characters. Refer to the bugs section.
 * Esau Jr. will keep any passive starting items the original character had; however, if said item(s) are rerollable, they will still count towards the number of items Esau Jr. will get.
 	+ For example, if  [(Eve)](/wiki/Eve "Eve") [Eve](/wiki/Eve "Eve") uses Esau Jr for the first time, Esau Jr. will get both [![image](/image/Dead_Bird.png)](/wiki/Dead_Bird "Dead Bird") [Dead Bird](/wiki/Dead_Bird "Dead Bird") and [![image](/image/Whore_of_Babylon.png)](/wiki/Whore_of_Babylon "Whore of Babylon") [Whore of Babylon](/wiki/Whore_of_Babylon "Whore of Babylon") as well as two extra [Treasure Room items](/wiki/Treasure_Room_(Item_Pool) "Treasure Room (Item Pool)") in addition to the ones he would normally receive.
 	+ Active items in the original character's consumable slot will also be given to Esau Jr in his consumable slot (such as  [(Tainted Magdalene)](/wiki/Tainted_Magdalene "Tainted Magdalene") [Tainted Magdalene](/wiki/Tainted_Magdalene "Tainted Magdalene")'s [![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart") or  [(Tainted Judas)](/wiki/Tainted_Judas "Tainted Judas") [Tainted Judas](/wiki/Tainted_Judas "Tainted Judas")' [![image](/image/Dark_Arts.png)](/wiki/Dark_Arts "Dark Arts") [Dark Arts](/wiki/Dark_Arts "Dark Arts")).

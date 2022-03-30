@@ -9,7 +9,7 @@ Effect
 
 * Gives a chance to drop a [Half Red Heart](/wiki/Hearts#Half_Red_Heart "Hearts") when [money](/wiki/Coins "Coins") is collected.
 	+ (Removed in Repentance) 50% chance.
-	+ (Added in Repentance) The chance is based on the coin's worth:[[1]](#cite_note-1)
+	+ (Added in Repentance) The chance is based on the coin's worth:
 
 
 

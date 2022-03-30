@@ -7,7 +7,7 @@ Effects
 ---------
 
 
-* Gives a chance to drop a [Half Soul Heart](/wiki/Hearts#Half_Soul_Heart "Hearts") when [money](/wiki/Coins "Coins") is collected. The chance is based on the coin's worth:[[1]](#cite_note-1)
+* Gives a chance to drop a [Half Soul Heart](/wiki/Hearts#Half_Soul_Heart "Hearts") when [money](/wiki/Coins "Coins") is collected. The chance is based on the coin's worth:
 
 
 

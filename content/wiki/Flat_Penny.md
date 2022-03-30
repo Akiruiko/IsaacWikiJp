@@ -9,7 +9,7 @@ Effect
 
 * Gives a chance of spawning a [Key](/wiki/Key "Key") upon collecting any [coin](/wiki/Coin "Coin").
 	+ (Removed in Repentance) 50% chance.
-	+ (Added in Repentance) The chance is based on the coin's worth:[[1]](#cite_note-1)
+	+ (Added in Repentance) The chance is based on the coin's worth:
 
 
 
