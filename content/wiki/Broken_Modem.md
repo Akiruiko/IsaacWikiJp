@@ -29,6 +29,6 @@ Bugs
 
 
 | (Bug) Bug!
- | (Added in Repentance) If this item is rerolled ([![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4"), etc.) while the freezing effect is taking place in a room with enemies, those enemies will remain frozen permanently as long as Isaac remains in that room, making it a matter of time before the room is cleared. This includes bosses.[[1]](#cite_note-1) |
+ | (Added in Repentance) If this item is rerolled ([![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4"), etc.) while the freezing effect is taking place in a room with enemies, those enemies will remain frozen permanently as long as Isaac remains in that room, making it a matter of time before the room is cleared. This includes bosses
 
 

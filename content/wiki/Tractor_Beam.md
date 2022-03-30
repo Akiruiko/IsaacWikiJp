@@ -78,6 +78,6 @@ Bugs
 
 
 | (Bug) Bug!
- | (Added in Repentance) Tractor Beam has unusual effects when combined with [![image](/image/Continuum.png)](/wiki/Continuum "Continuum") [Continuum](/wiki/Continuum "Continuum") and [![image](/image/Pop!.png)](/wiki/Pop! "Pop!") [Pop!](/wiki/Pop! "Pop!")[[1]](#cite_note-1). While shooting, tears will appear for brief moments at the back of Isaac's head, and if he hits an enemy with one of these, that enemy will be teleported to a corner of the screen for poorly understood reasons. Isaac himself can also get teleported to a corner, resulting in a potential softlock without flight or [![image](/image/How_to_Jump.png)](/wiki/How_to_Jump "How to Jump") [How to Jump](/wiki/How_to_Jump "How to Jump"). |
+ | (Added in Repentance) Tractor Beam has unusual effects when combined with [![image](/image/Continuum.png)](/wiki/Continuum "Continuum") [Continuum](/wiki/Continuum "Continuum") and [![image](/image/Pop!.png)](/wiki/Pop! "Pop!") [Pop!](/wiki/Pop! "Pop!"). While shooting, tears will appear for brief moments at the back of Isaac's head, and if he hits an enemy with one of these, that enemy will be teleported to a corner of the screen for poorly understood reasons. Isaac himself can also get teleported to a corner, resulting in a potential softlock without flight or [![image](/image/How_to_Jump.png)](/wiki/How_to_Jump "How to Jump") [How to Jump](/wiki/How_to_Jump "How to Jump"). |
 
 

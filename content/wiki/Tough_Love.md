@@ -14,7 +14,7 @@ Notes
 -------
 
 
-* + The chance for this to occur increases with [Luck](/wiki/Luck "Luck"). The activation rate is equal to 1/(10 - Luck). At base Luck (0), the chance is 10%, maxing out at 100% at 9 Luck[[1]](#cite_note-1).
+* + The chance for this to occur increases with [Luck](/wiki/Luck "Luck"). The activation rate is equal to 1/(10 - Luck). At base Luck (0), the chance is 10%, maxing out at 100% at 9 Luck.
 
 
 Interactions

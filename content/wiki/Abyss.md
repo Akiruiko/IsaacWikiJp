@@ -11,7 +11,7 @@ Effects
 	+ These locusts are permanent once created, up to a maximum of 64, after which creating more will replace older locusts.
 		- This limit is shared with [blue flies](/wiki/Blue_fly "Blue fly") and [blue spiders](/wiki/Blue_spider "Blue spider").
 	+ The locusts loosely follow Isaac similarly to regular blue flies, and charge in the direction Isaac is firing until they hit an enemy, a wall, or certain obstacles like key blocks, dealing Isaac's damage per tick (3 times per second).
-	+ The locusts may gain additional effects depending on the item destroyed[[1]](#cite_note-1).
+	+ The locusts may gain additional effects depending on the item destroyed.
 
 
 Notes

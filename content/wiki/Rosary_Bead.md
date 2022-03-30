@@ -8,7 +8,7 @@ Effects
 
 
 * Increases the chance to have an (Angel Room) [Angel Room](/wiki/Angel_Room "Angel Room") replace a (Devil Room) [Devil Room](/wiki/Devil_Room "Devil Room"), from 50% (base chance) to 75%.
-* Increases the chance to find [(The Bible)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible") to 45% in the (Library) [Library](/wiki/Library "Library") and in the (Shop) [Shop](/wiki/Shop "Shop") to 13%.[[1]](#cite_note-1)
+* Increases the chance to find [(The Bible)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible") to 45% in the (Library) [Library](/wiki/Library "Library") and in the (Shop) [Shop](/wiki/Shop "Shop") to 13%.
 
 
 Notes

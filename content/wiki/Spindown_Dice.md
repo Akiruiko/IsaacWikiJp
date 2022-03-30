@@ -9,7 +9,7 @@ Effects
 
 * Rerolls all pedestal items in a room by subtracting their internal ID number by one until a valid item is rolled. This effect occurs per item and is independent of any other items in the room.
 	+ Unlockable items will be skipped if they are not unlocked.
-	+ Hidden items [[1]](#cite_note-1) will always be skipped, including:
+	+ Hidden items  will always be skipped, including:
 		- [![image](/image/Recall.png)](/wiki/Recall "Recall") [Recall](/wiki/Recall "Recall")
 		- [![image](/image/Hold.png)](/wiki/Hold "Hold") [Hold](/wiki/Hold "Hold")
 		- The passive version of [![image](/image/Damocles.png)](/wiki/Damocles "Damocles") [Damocles](/wiki/Damocles "Damocles") created by usage of Damocles (the one with item ID "`656`").
