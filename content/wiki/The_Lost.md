@@ -10,12 +10,13 @@
 -------
 
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|なし|:----:|---|---|---|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|無し|3.5 (x1.00)|0|1|6.5|1|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|6.5|1|0|x1 coins| (Added in Afterbirth†)　Spectral tears /  (Added in Afterbirth†) (Removed in Repentance)[![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4") / (Added in Repentance) [![image](/image/Eternal_D6.png)](/wiki/Eternal_D6 "Eternal D6") [Eternal D6](/wiki/Eternal_D6 "Eternal D6") / (Added in Afterbirth) [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle")|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|0|x1 コイン| (Added in Afterbirth†)　地形貫通する涙<br />(Added in Afterbirth†) (Removed in Repentance)[![image](/image/D4.png)](/wiki/D4 "D4") [D4](/wiki/D4 "D4")<br />(Added in Repentance) [![image](/image/Eternal_D6.png)](/wiki/Eternal_D6 "Eternal D6") [Eternal D6](/wiki/Eternal_D6 "Eternal D6")<br />(Added in Afterbirth) [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle")|
 
 
 概要
@@ -96,8 +97,8 @@ The Lost will be unlocked after completing the steps shown above
 * Champion versions of monsters and bosses will count for the death criteria.
 * Runs can always be safely reset.
 * Mom's Foot's stomp counts as explosive damage, which makes [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac") a problematic choice when trying to complete *Step 3*.
-* Picking the wrong character while unlocking him doesn't mess up the unlocking process.
-* Quitting and Restarting the game in the middle of the unlocking process doesn't mess it up.
+* Picking the wrong character while unlocking him doesn't mess up the unlocking process.[[1]]
+* Quitting and Restarting the game in the middle of the unlocking process doesn't mess it up.[[2]]
 * Picking up [![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags"), [![image](/image/Judas%27_Shadow.png)](/wiki/Judas%27_Shadow "Judas' Shadow") [Judas' Shadow](/wiki/Judas%27_Shadow "Judas' Shadow"), or [![image](/image/Ankh.png)](/wiki/Ankh "Ankh") [Ankh](/wiki/Ankh "Ankh") should be avoided. These items will revive the current character as a different one and therefore prevent the current unlock-step from being fulfilled.
 * Exploit: If you die during a required run, but hit the "start" button just as you die and reset before it shows [Isaac's Last Will](/wiki/Isaac%27s_Last_Will "Isaac's Last Will"), it will not count as a death that spoils the run, instead it counts as a restart.
 
@@ -155,18 +156,18 @@ PC HNA6 WEK7 (Dead Cat and Holy Mantle on first floor, helpful for practice runs
 --------------------------------------------------------------
 
 
-* [![image](/image/achievements/The_D100.png)](/wiki/The_D100 "The D100") [The D100](/wiki/The_D100 "The D100") ザ　ロストでボスラッシュを完了する。
-* [![image](/image/achievements/-0-_Baby.png)](/wiki/-0-_Baby "-0- Baby") [-0- Baby](/wiki/-0-_Baby "-0- Baby") ハードモードのMom's Heartをザ　ロストで倒す。
-* [![image](/image/achievements/The_Mind.png)](/wiki/The_Mind "The Mind") [The Mind](/wiki/The_Mind "The Mind") Satanをザ　ロストで倒す。
-* [![image](/image/achievements/Isaac%27s_Heart.png)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart") Issacをザ　ロストで倒す。
-* [![image](/image/achievements/The_Soul.png)](/wiki/The_Soul "The Soul") [The Soul](/wiki/The_Soul "The Soul") The Lambをザ　ロストで倒す。
-* [![image](/image/achievements/The_Body.png)](/wiki/The_Body "The Body") [The Body](/wiki/The_Body "The Body") ???をザ　ロストで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Zodiac.png)](/wiki/Zodiac "Zodiac") [Zodiac](/wiki/Zodiac "Zodiac") Ultra Greedをザ　ロストで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Dad%27s_Lost_Coin.png)](/wiki/Dad%27s_Lost_Coin "Dad's Lost Coin") [Dad's Lost Coin](/wiki/Dad%27s_Lost_Coin "Dad's Lost Coin") Ultra Greedierをザ　ロストで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Sworn_Protector.png)](/wiki/Sworn_Protector "Sworn Protector") [Sworn Protector](/wiki/Sworn_Protector "Sworn Protector") Hushをザ　ロストで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/White_Baby.png)](/wiki/White_Baby "White Baby") [White Baby](/wiki/White_Baby "White Baby") Mega Satanをザ　ロストで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Holy_Card.png)](/wiki/Holy_Card "Holy Card") [Holy Card](/wiki/Holy_Card "Holy Card") Deliriumをザ　ロストで倒す。
-* (Added in Repentance) [![image](/image/achievements/Lost_Soul.png)](/wiki/Lost_Soul "Lost Soul") [Lost Soul](/wiki/Lost_Soul "Lost Soul") Motherをザ　ロストで倒す。
-* (Added in Repentance) [![image](/image/achievements/Hungry_Soul.png)](/wiki/Hungry_Soul "Hungry Soul") [Hungry Soul](/wiki/Hungry_Soul "Hungry Soul") The Beastをザ　ロストで倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Baleful.png)](/wiki/The_Baleful "The Baleful") [The Baleful](/wiki/The_Baleful "The Baleful") ザ　ロストでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/The_D100.png)](/wiki/The_D100 "The D100") [The D100](/wiki/The_D100 "The D100") - ザ　ロストでボスラッシュを完了する。
+* [![image](/image/achievements/-0-_Baby.png)](/wiki/-0-_Baby "-0- Baby") [-0- Baby](/wiki/-0-_Baby "-0- Baby") - ハードモードのMom's Heartをザ　ロストで倒す。
+* [![image](/image/achievements/The_Mind.png)](/wiki/The_Mind "The Mind") [The Mind](/wiki/The_Mind "The Mind") - Satanをザ　ロストで倒す。
+* [![image](/image/achievements/Isaac%27s_Heart.png)](/wiki/Isaac%27s_Heart "Isaac's Heart") [Isaac's Heart](/wiki/Isaac%27s_Heart "Isaac's Heart") - Issacをザ　ロストで倒す。
+* [![image](/image/achievements/The_Soul.png)](/wiki/The_Soul "The Soul") [The Soul](/wiki/The_Soul "The Soul") - The Lambをザ　ロストで倒す。
+* [![image](/image/achievements/The_Body.png)](/wiki/The_Body "The Body") [The Body](/wiki/The_Body "The Body") - ???をザ　ロストで倒す。
+* [![image](/image/achievements/Zodiac.png)](/wiki/Zodiac "Zodiac") [Zodiac](/wiki/Zodiac "Zodiac") - (Added in Afterbirth) Ultra Greedをザ　ロストで倒す。
+* [![image](/image/achievements/Dad%27s_Lost_Coin.png)](/wiki/Dad%27s_Lost_Coin "Dad's Lost Coin") [Dad's Lost Coin](/wiki/Dad%27s_Lost_Coin "Dad's Lost Coin") - (Added in Afterbirth+) Ultra Greedierをザ　ロストで倒す。
+* [![image](/image/achievements/Sworn_Protector.png)](/wiki/Sworn_Protector "Sworn Protector") [Sworn Protector](/wiki/Sworn_Protector "Sworn Protector") - (Added in Afterbirth) Hushをザ　ロストで倒す。
+* [![image](/image/achievements/White_Baby.png)](/wiki/White_Baby "White Baby") [White Baby](/wiki/White_Baby "White Baby") - (Added in Afterbirth) Mega Satanをザ　ロストで倒す。
+* [![image](/image/achievements/Holy_Card.png)](/wiki/Holy_Card "Holy Card") [Holy Card](/wiki/Holy_Card "Holy Card") - (Added in Afterbirth+) Deliriumをザ　ロストで倒す。
+* [![image](/image/achievements/Lost_Soul.png)](/wiki/Lost_Soul "Lost Soul") [Lost Soul](/wiki/Lost_Soul "Lost Soul") - (Added in Repentance) Motherをザ　ロストで倒す。
+* [![image](/image/achievements/Hungry_Soul.png)](/wiki/Hungry_Soul "Hungry Soul") [Hungry Soul](/wiki/Hungry_Soul "Hungry Soul") - (Added in Repentance) The Beastをザ　ロストで倒す。
+* [![image](/image/achievements/The_Baleful.png)](/wiki/The_Baleful "The Baleful") [The Baleful](/wiki/The_Baleful "The Baleful") - (Added in Repentance) ザ　ロストでRed Keyを使いHomeにある隠されたクローゼットを開く。
 * [![image](/image/Godhead.png)](/wiki/Godhead "Godhead")  [Godhead](/wiki/Godhead "Godhead") - Earn all (Removed in Afterbirth) 5 / (Added in Afterbirth / Removed in Afterbirth †) 9 (except [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed")) / (Added in Afterbirth † / Removed in Repentance) 10 / (Added in Repentance) 12 [Completion Marks](/wiki/Completion_Mark "Completion Mark") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(The Lost)](/wiki/The_Lost "The Lost") **The Lost**.

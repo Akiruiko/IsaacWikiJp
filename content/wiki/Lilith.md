@@ -10,13 +10,13 @@
 -------
 
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/r-heart.png) ![image](/image/characters/b-heart.png) ![image](/image/characters/b-heart.png)|3.5 (x1.00)|0|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/b-heart.png) ![image](/image/characters/b-heart.png)|3.5 (x1.00)|0|1|6.5|1|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|6.5|1|0|none|Blindfolded / (Added in Afterbirth)[![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") (Added in Afterbirth)[![image](/image/Cambion_Conception.png)](/wiki/Cambion_Conception "Cambion Conception") [Cambion Conception](/wiki/Cambion_Conception "Cambion Conception") (Added in Afterbirth)[![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends")|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|0|無し|目隠し<br />(Added in Afterbirth)[![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") <br />(Added in Afterbirth)[![image](/image/Cambion_Conception.png)](/wiki/Cambion_Conception "Cambion Conception") [Cambion Conception](/wiki/Cambion_Conception "Cambion Conception")><br />(Added in Afterbirth)[![image](/image/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends")|
 
 
 概要
@@ -98,18 +98,18 @@ These items will not affect Lilith due to her [blindfolded](/wiki/Blindfolded "B
 --------------------------------------------------------------
 
 
-* [![image](/image/achievements/Immaculate_Conception.png)](/wiki/Immaculate_Conception "Immaculate Conception") [Immaculate Conception](/wiki/Immaculate_Conception "Immaculate Conception") リリスでボスラッシュを完了する。
-* [![image](/image/achievements/Goat_Head_Baby.png)](/wiki/Goat_Head_Baby "Goat Head Baby") [Goat Head Baby](/wiki/Goat_Head_Baby "Goat Head Baby") ハードモードのMom's Heartをリリスで倒す。
-* [![image](/image/achievements/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss") Satanをリリスで倒す。
-* [![image](/image/achievements/Rune_Bag.png)](/wiki/Rune_Bag "Rune Bag") [Rune Bag](/wiki/Rune_Bag "Rune Bag") Issacをリリスで倒す。
-* [![image](/image/achievements/Succubus.png)](/wiki/Succubus "Succubus") [Succubus](/wiki/Succubus "Succubus") The Lambをリリスで倒す。
-* [![image](/image/achievements/Cambion_Conception.png)](/wiki/Cambion_Conception "Cambion Conception") [Cambion Conception](/wiki/Cambion_Conception "Cambion Conception") ???をリリスで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends") Ultra Greedをリリスで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Duality.png)](/wiki/Duality "Duality") [Duality](/wiki/Duality "Duality") Ultra Greedierをリリスで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") Hushをリリスで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Big_Baby.png)](/wiki/Big_Baby "Big Baby") [Big Baby](/wiki/Big_Baby "Big Baby") Mega Satanをリリスで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Euthanasia.png)](/wiki/Euthanasia "Euthanasia") [Euthanasia](/wiki/Euthanasia "Euthanasia") Deliriumをリリスで倒す。
-* (Added in Repentance) [![image](/image/achievements/Blood_Puppy.png)](/wiki/Blood_Puppy "Blood Puppy") [Blood Puppy](/wiki/Blood_Puppy "Blood Puppy") Motherをリリスで倒す。
-* (Added in Repentance) [![image](/image/achievements/C_Section.png)](/wiki/C_Section "C Section") [C Section](/wiki/C_Section "C Section") The Beastをリリスで倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Harlot.png)](/wiki/The_Harlot "The Harlot") [The Harlot](/wiki/The_Harlot "The Harlot") リリスでRed Keyを使いHomeにある隠されたクローゼットを開く。
-* (Added in Afterbirth) [![image](/image/achievements/Dark_Baby.png)](/wiki/Dark_Baby "Dark Baby") [Dark Baby](/wiki/Dark_Baby "Dark Baby") リリスですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/Immaculate_Conception.png)](/wiki/Immaculate_Conception "Immaculate Conception") [Immaculate Conception](/wiki/Immaculate_Conception "Immaculate Conception") - リリスでボスラッシュを完了する。
+* [![image](/image/achievements/Goat_Head_Baby.png)](/wiki/Goat_Head_Baby "Goat Head Baby") [Goat Head Baby](/wiki/Goat_Head_Baby "Goat Head Baby") - ハードモードのMom's Heartをリリスで倒す。
+* [![image](/image/achievements/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss") - Satanをリリスで倒す。
+* [![image](/image/achievements/Rune_Bag.png)](/wiki/Rune_Bag "Rune Bag") [Rune Bag](/wiki/Rune_Bag "Rune Bag") - Issacをリリスで倒す。
+* [![image](/image/achievements/Succubus.png)](/wiki/Succubus "Succubus") [Succubus](/wiki/Succubus "Succubus") - The Lambをリリスで倒す。
+* [![image](/image/achievements/Cambion_Conception.png)](/wiki/Cambion_Conception "Cambion Conception") [Cambion Conception](/wiki/Cambion_Conception "Cambion Conception") - ???をリリスで倒す。
+* [![image](/image/achievements/Box_of_Friends.png)](/wiki/Box_of_Friends "Box of Friends") [Box of Friends](/wiki/Box_of_Friends "Box of Friends") - (Added in Afterbirth) Ultra Greedをリリスで倒す。
+* [![image](/image/achievements/Duality.png)](/wiki/Duality "Duality") [Duality](/wiki/Duality "Duality") - (Added in Afterbirth+) Ultra Greedierをリリスで倒す。
+* [![image](/image/achievements/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") - (Added in Afterbirth) Hushをリリスで倒す。
+* [![image](/image/achievements/Big_Baby.png)](/wiki/Big_Baby "Big Baby") [Big Baby](/wiki/Big_Baby "Big Baby") - (Added in Afterbirth) Mega Satanをリリスで倒す。
+* [![image](/image/achievements/Euthanasia.png)](/wiki/Euthanasia "Euthanasia") [Euthanasia](/wiki/Euthanasia "Euthanasia") - (Added in Afterbirth+) Deliriumをリリスで倒す。
+* [![image](/image/achievements/Blood_Puppy.png)](/wiki/Blood_Puppy "Blood Puppy") [Blood Puppy](/wiki/Blood_Puppy "Blood Puppy") - (Added in Repentance) Motherをリリスで倒す。
+* [![image](/image/achievements/C_Section.png)](/wiki/C_Section "C Section") [C Section](/wiki/C_Section "C Section") - (Added in Repentance) The Beastをリリスで倒す。
+* [![image](/image/achievements/The_Harlot.png)](/wiki/The_Harlot "The Harlot") [The Harlot](/wiki/The_Harlot "The Harlot") - (Added in Repentance) リリスでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/Dark_Baby.png)](/wiki/Dark_Baby "Dark Baby") [Dark Baby](/wiki/Dark_Baby "Dark Baby") - (Added in Afterbirth) リリスですべてのハードモード完了のマークを獲得する。

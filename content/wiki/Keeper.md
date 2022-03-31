@@ -3,19 +3,20 @@
 
 #### ※この記事は翻訳作業中です
 
- # Keeper ![image](/image/Keeper.png) 
+ # キーパー (Keeper)
+ ![image](/image/characters/Keeper.png) 
 
 ステータス
 -------
 
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/c-heart.png) ![image](/image/characters/c-heart.png) (Added in Afterbirth†)  ![image](/image/characters/c-heart.png)|3.5 (x1.20)|-2|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/c-heart.png) ![image](/image/characters/c-heart.png) (Added in Afterbirth†)  ![image](/image/characters/c-heart.png)|3.5 (x1.20)|-2|1|6.5|0.85|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|6.5|0.85|-2|x1 bombs / x1 coins / (Added in Afterbirth)[![image](/image/Store_Keys.png)](/wiki/Store_Keys "Store Keys") [Store Keys](/wiki/Store_Keys "Store Keys")| Triple shot / (Added in Afterbirth)[![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel")|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|-2|x1 爆弾<br />x1 コイン<br />(Added in Afterbirth)[![image](/image/Store_Key.png)](/wiki/Store_Key "Store Key") [Store Key](/wiki/Store_Key "Store Key")| トリプルショット<br />(Added in Afterbirth)[![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel")|
 
 概要
 -------
@@ -213,18 +214,18 @@ The following shop items are particularly useful for Keeper:
 * [(Sale Baby)](/wiki/Babies "Sale Baby")  [Sale Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
 
 
-* [![image](/image/achievements/Sticky_Nickels.png)](/wiki/Sticky_Nickels "Sticky Nickels") [Sticky Nickels](/wiki/Sticky_Nickels "Sticky Nickels") キーパーでボスラッシュを完了する。
-* [![image](/image/achievements/Super_Greed_Baby.png)](/wiki/Super_Greed_Baby "Super Greed Baby") [Super Greed Baby](/wiki/Super_Greed_Baby "Super Greed Baby") ハードモードのMom's Heartをキーパーで倒す。
-* [![image](/image/achievements/Keeper_holds_Store_Key.png)](/wiki/Keeper_holds_Store_Key "Keeper holds Store Key") [Keeper holds Store Key](/wiki/Keeper_holds_Store_Key "Keeper holds Store Key") Satanをキーパーで倒す。
-* [![image](/image/achievements/Keeper_holds_Wooden_Nickel.png)](/wiki/Keeper_holds_Wooden_Nickel "Keeper holds Wooden Nickel") [Keeper holds Wooden Nickel](/wiki/Keeper_holds_Wooden_Nickel "Keeper holds Wooden Nickel") Issacをキーパーで倒す。
-* [![image](/image/achievements/Karma.png)](/wiki/Karma "Karma") [Karma](/wiki/Karma "Karma") The Lambをキーパーで倒す。
-* [![image](/image/achievements/Deep_Pockets.png)](/wiki/Deep_Pockets "Deep Pockets") [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets") ???をキーパーで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Rib_of_Greed.png)](/wiki/Rib_of_Greed "Rib of Greed") [Rib of Greed](/wiki/Rib_of_Greed "Rib of Greed") Ultra Greedをキーパーで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Eye_of_Greed.png)](/wiki/Eye_of_Greed "Eye of Greed") [Eye of Greed](/wiki/Eye_of_Greed "Eye of Greed") Ultra Greedierをキーパーで倒す。
-* (Added in Afterbirth) [(Keeper now holds... A Penny!)](/wiki/Keeper "Keeper now holds... A Penny!") Hushをキーパーで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Noose_Baby.png)](/wiki/Noose_Baby "Noose Baby") [Noose Baby](/wiki/Noose_Baby "Noose Baby") Mega Satanをキーパーで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Crooked_Penny.png)](/wiki/Crooked_Penny "Crooked Penny") [Crooked Penny](/wiki/Crooked_Penny "Crooked Penny") Deliriumをキーパーで倒す。
-* (Added in Repentance) [![image](/image/achievements/Keeper%27s_Sack.png)](/wiki/Keeper%27s_Sack "Keeper's Sack") [Keeper's Sack](/wiki/Keeper%27s_Sack "Keeper's Sack") Motherをキーパーで倒す。
-* (Added in Repentance) [![image](/image/achievements/Keeper%27s_Box.png)](/wiki/Keeper%27s_Box "Keeper's Box") [Keeper's Box](/wiki/Keeper%27s_Box "Keeper's Box") The Beastをキーパーで倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Miser.png)](/wiki/The_Miser "The Miser") [The Miser](/wiki/The_Miser "The Miser") キーパーでRed Keyを使いHomeにある隠されたクローゼットを開く。
-* (Added in Afterbirth) [![image](/image/achievements/Sale_Baby.png)](/wiki/Sale_Baby "Sale Baby") [Sale Baby](/wiki/Sale_Baby "Sale Baby") キーパーですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/Sticky_Nickels.png)](/wiki/Sticky_Nickels "Sticky Nickels") [Sticky Nickels](/wiki/Sticky_Nickels "Sticky Nickels") - キーパーでボスラッシュを完了する。
+* [![image](/image/achievements/Super_Greed_Baby.png)](/wiki/Super_Greed_Baby "Super Greed Baby") [Super Greed Baby](/wiki/Super_Greed_Baby "Super Greed Baby") - ハードモードのMom's Heartをキーパーで倒す。
+* [![image](/image/achievements/Keeper_holds_Store_Key.png)](/wiki/Keeper_holds_Store_Key "Keeper holds Store Key") [Keeper holds Store Key](/wiki/Keeper_holds_Store_Key "Keeper holds Store Key") - Satanをキーパーで倒す。
+* [![image](/image/achievements/Keeper_holds_Wooden_Nickel.png)](/wiki/Keeper_holds_Wooden_Nickel "Keeper holds Wooden Nickel") [Keeper holds Wooden Nickel](/wiki/Keeper_holds_Wooden_Nickel "Keeper holds Wooden Nickel") - Issacをキーパーで倒す。
+* [![image](/image/achievements/Karma.png)](/wiki/Karma "Karma") [Karma](/wiki/Karma "Karma") - The Lambをキーパーで倒す。
+* [![image](/image/achievements/Deep_Pockets.png)](/wiki/Deep_Pockets "Deep Pockets") [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets") - ???をキーパーで倒す。
+* [![image](/image/achievements/Rib_of_Greed.png)](/wiki/Rib_of_Greed "Rib of Greed") [Rib of Greed](/wiki/Rib_of_Greed "Rib of Greed") - (Added in Afterbirth) Ultra Greedをキーパーで倒す。
+* [![image](/image/achievements/Eye_of_Greed.png)](/wiki/Eye_of_Greed "Eye of Greed") [Eye of Greed](/wiki/Eye_of_Greed "Eye of Greed") - (Added in Afterbirth+) Ultra Greedierをキーパーで倒す。
+* [(Keeper now holds... A Penny!)](/wiki/Keeper "Keeper now holds... A Penny!") - (Added in Afterbirth) Hushをキーパーで倒す。
+* [![image](/image/achievements/Noose_Baby.png)](/wiki/Noose_Baby "Noose Baby") [Noose Baby](/wiki/Noose_Baby "Noose Baby") - (Added in Afterbirth) Mega Satanをキーパーで倒す。
+* [![image](/image/achievements/Crooked_Penny.png)](/wiki/Crooked_Penny "Crooked Penny") [Crooked Penny](/wiki/Crooked_Penny "Crooked Penny") - (Added in Afterbirth+) Deliriumをキーパーで倒す。
+* [![image](/image/achievements/Keeper%27s_Sack.png)](/wiki/Keeper%27s_Sack "Keeper's Sack") [Keeper's Sack](/wiki/Keeper%27s_Sack "Keeper's Sack") - (Added in Repentance) Motherをキーパーで倒す。
+* [![image](/image/achievements/Keeper%27s_Box.png)](/wiki/Keeper%27s_Box "Keeper's Box") [Keeper's Box](/wiki/Keeper%27s_Box "Keeper's Box") - (Added in Repentance) The Beastをキーパーで倒す。
+* [![image](/image/achievements/The_Miser.png)](/wiki/The_Miser "The Miser") [The Miser](/wiki/The_Miser "The Miser") - (Added in Repentance) キーパーでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/Sale_Baby.png)](/wiki/Sale_Baby "Sale Baby") [Sale Baby](/wiki/Sale_Baby "Sale Baby") - (Added in Afterbirth) キーパーですべてのハードモード完了のマークを獲得する。

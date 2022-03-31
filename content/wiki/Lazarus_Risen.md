@@ -11,13 +11,13 @@
 -------
 
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|4.5|1|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|4.5|1|-1|x1 pills|(Added in Afterbirth†) [![image](/image/Anemic.png)](/wiki/Anemic "Anemic") [Anemic](/wiki/Anemic "Anemic")|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|-1|x1 ピル|(Added in Afterbirth†) [![image](/image/Anemic.png)](/wiki/Anemic "Anemic") [Anemic](/wiki/Anemic "Anemic")|
 
 概要
 -------
@@ -30,13 +30,13 @@
 
 ### ステータス
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/r-heart.png)|3.5 (x1.20)|0|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/r-heart.png)|3.5 (x1.20)|0|1|6.5|1.25|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|6.5|1.25|0||(Added in Afterbirth†) A permanent version of [![image](/image/Anemic.png)](/wiki/Anemic "Anemic") [Anemic](/wiki/Anemic "Anemic")|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|0||(Added in Afterbirth†) 恒久的な [![image](/image/Anemic.png)](/wiki/Anemic "Anemic") [Anemic](/wiki/Anemic "Anemic")|
 
 When Lazarus (or another character with the item [![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags")) dies, they will be resurrected in the same room as *Lazarus Risen*.
 
@@ -99,20 +99,20 @@ Note that after his resurrection, or (Added in Afterbirth †) receiving Anemic 
 解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
-* [![image](/image/achievements/Missing_No..png)](/wiki/Missing_No. "Missing No.") [Missing No.](/wiki/Missing_No. "Missing No.") キーパーでボスラッシュを完了する。
-* [![image](/image/achievements/Wrapped_Baby.png)](/wiki/Wrapped_Baby "Wrapped Baby") [Wrapped Baby](/wiki/Wrapped_Baby "Wrapped Baby") ハードモードのMom's Heartをキーパーで倒す。
+* [![image](/image/achievements/Missing_No..png)](/wiki/Missing_No. "Missing No.") [Missing No.](/wiki/Missing_No. "Missing No.") - ラザラスでボスラッシュを完了する。
+* [![image](/image/achievements/Wrapped_Baby.png)](/wiki/Wrapped_Baby "Wrapped Baby") [Wrapped Baby](/wiki/Wrapped_Baby "Wrapped Baby") - ハードモードのMom's Heartをラザラスで倒す。
 	+ (Added in Afterbirth †) Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**.
-* [![image](/image/achievements/Broken_Ankh.png)](/wiki/Broken_Ankh "Broken Ankh") [Broken Ankh](/wiki/Broken_Ankh "Broken Ankh") Satanをキーパーで倒す。
-* [![image](/image/achievements/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags") Issacをキーパーで倒す。
-* [![image](/image/achievements/Pandora%27s_Box.png)](/wiki/Pandora%27s_Box "Pandora's Box") [Pandora's Box](/wiki/Pandora%27s_Box "Pandora's Box") The Lambをキーパーで倒す。
-* [![image](/image/achievements/Store_Credit.png)](/wiki/Store_Credit "Store Credit") [Store Credit](/wiki/Store_Credit "Store Credit") ???をキーパーで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Key_Bum.png)](/wiki/Key_Bum "Key Bum") [Key Bum](/wiki/Key_Bum "Key Bum") Ultra Greedをキーパーで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Plan_C.png)](/wiki/Plan_C "Plan C") [Plan C](/wiki/Plan_C "Plan C") Ultra Greedierをキーパーで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Empty_Vessel.png)](/wiki/Empty_Vessel "Empty Vessel") [Empty Vessel](/wiki/Empty_Vessel "Empty Vessel") Hushをキーパーで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Long_Baby.png)](/wiki/Long_Baby "Long Baby") [Long Baby](/wiki/Long_Baby "Long Baby") Mega Satanをキーパーで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture") Deliriumをキーパーで倒す。
+* [![image](/image/achievements/Broken_Ankh.png)](/wiki/Broken_Ankh "Broken Ankh") [Broken Ankh](/wiki/Broken_Ankh "Broken Ankh") - Satanをラザラスで倒す。
+* [![image](/image/achievements/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags") - Issacをラザラスで倒す。
+* [![image](/image/achievements/Pandora%27s_Box.png)](/wiki/Pandora%27s_Box "Pandora's Box") [Pandora's Box](/wiki/Pandora%27s_Box "Pandora's Box") - The Lambをラザラスで倒す。
+* [![image](/image/achievements/Store_Credit.png)](/wiki/Store_Credit "Store Credit") [Store Credit](/wiki/Store_Credit "Store Credit") - ???をラザラスで倒す。
+* [![image](/image/achievements/Key_Bum.png)](/wiki/Key_Bum "Key Bum") [Key Bum](/wiki/Key_Bum "Key Bum") - (Added in Afterbirth) Ultra Greedをラザラスで倒す。
+* [![image](/image/achievements/Plan_C.png)](/wiki/Plan_C "Plan C") [Plan C](/wiki/Plan_C "Plan C") - (Added in Afterbirth+) Ultra Greedierをラザラスで倒す。
+* [![image](/image/achievements/Empty_Vessel.png)](/wiki/Empty_Vessel "Empty Vessel") [Empty Vessel](/wiki/Empty_Vessel "Empty Vessel") - (Added in Afterbirth) Hushをラザラスで倒す。
+* [![image](/image/achievements/Long_Baby.png)](/wiki/Long_Baby "Long Baby") [Long Baby](/wiki/Long_Baby "Long Baby") - (Added in Afterbirth) Mega Satanをラザラスで倒す。
+* [![image](/image/achievements/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture") - (Added in Afterbirth+) Deliriumをラザラスで倒す。
 * [(Bethany)](/wiki/Bethany "Bethany") (Added in Repentance) [Bethany](/wiki/Bethany "Bethany") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart")/[It Lives!](/wiki/It_Lives! "It Lives!") on [hard mode](/wiki/Hard_mode "Hard mode") as  [(Lazarus)](/wiki/Lazarus "Lazarus") **Lazarus**, without [dying](/wiki/Death "Death") at all.
-* (Added in Repentance) [![image](/image/achievements/Tinytoma.png)](/wiki/Tinytoma "Tinytoma") [Tinytoma](/wiki/Tinytoma "Tinytoma") Motherをキーパーで倒す。
-* (Added in Repentance) [![image](/image/achievements/Astral_Projection.png)](/wiki/Astral_Projection "Astral Projection") [Astral Projection](/wiki/Astral_Projection "Astral Projection") The Beastをキーパーで倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Enigma.png)](/wiki/The_Enigma "The Enigma") [The Enigma](/wiki/The_Enigma "The Enigma") キーパーでRed Keyを使いHomeにある隠されたクローゼットを開く。
-* (Added in Afterbirth) [![image](/image/achievements/Sale_Baby.png)](/wiki/Sale_Baby "Sale Baby") [Sale Baby](/wiki/Sale_Baby "Sale Baby") キーパーですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/Tinytoma.png)](/wiki/Tinytoma "Tinytoma") [Tinytoma](/wiki/Tinytoma "Tinytoma") - (Added in Repentance) Motherをラザラスで倒す。
+* [![image](/image/achievements/Astral_Projection.png)](/wiki/Astral_Projection "Astral Projection") [Astral Projection](/wiki/Astral_Projection "Astral Projection") - (Added in Repentance) The Beastをラザラスで倒す。
+* [![image](/image/achievements/The_Enigma.png)](/wiki/The_Enigma "The Enigma") [The Enigma](/wiki/The_Enigma "The Enigma") - (Added in Repentance) ラザラスでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/Sale_Baby.png)](/wiki/Sale_Baby "Sale Baby") [Sale Baby](/wiki/Sale_Baby "Sale Baby") - (Added in Afterbirth) ラザラスですべてのハードモード完了のマークを獲得する。
