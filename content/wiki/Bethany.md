@@ -9,13 +9,13 @@
 ステータス
 -------
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|6.5|1|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|6.5|1|0|x4 soul charges|(Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues")|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|0|x4 soul charges|(Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues")|
 
 
 概要

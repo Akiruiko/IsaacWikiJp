@@ -10,29 +10,29 @@
 -------
 
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-||3.5 (x1.00)|0|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/bo-heart.png) ![image](/image/characters/bo-heart.png)|3.5 (x1.00)|0|1|6.5|1.00|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|6.5|1.00|0||Bone club|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|0|無し|ボーンクラブ|
 
 
 ザ　ソウル
 ----------
 
- ![image](/image/characters/The_Soul.png) 
+ ![image](/image/characters/The_Soul_(Character).png) 
 
 ### ステータス
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/s-heart.png)|3.5 (x1.00)|0|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/s-heart.png)|3.5 (x1.00)|0|1|6.5|1.3|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|6.5|1.3|0||Flight / Spectral tears|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|0|無し|飛行<br />地形貫通する涙|
 
 Pressing the swap key (CTRL on PC / R2 on PS4 / RT on Xbox / ZR on Switch) will switch control to **The Soul**, a blue ghost chained to The Forgotten who fires spectral tears and can fly. 
 
@@ -239,18 +239,18 @@ Many items have unique interactions with The Forgotten's bone club or The Soul a
 --------------------------------------------------------------
 
 
-* [![image](/image/achievements/Divorce_Papers.png)](/wiki/Divorce_Papers "Divorce Papers") [Divorce Papers](/wiki/Divorce_Papers "Divorce Papers") ザ　フォーガットンでボスラッシュを完了する。
-* [![image](/image/achievements/Marrow.png)](/wiki/Marrow "Marrow") [Marrow](/wiki/Marrow "Marrow") ハードモードのMom's Heartをザ　フォーガットンで倒す。
-* [![image](/image/achievements/Pointy_Rib.png)](/wiki/Pointy_Rib "Pointy Rib") [Pointy Rib](/wiki/Pointy_Rib "Pointy Rib") Satanをザ　フォーガットンで倒す。
-* [![image](/image/achievements/Slipped_Rib.png)](/wiki/Slipped_Rib "Slipped Rib") [Slipped Rib](/wiki/Slipped_Rib "Slipped Rib") Issacをザ　フォーガットンで倒す。
-* [![image](/image/achievements/Brittle_Bones.png)](/wiki/Brittle_Bones "Brittle Bones") [Brittle Bones](/wiki/Brittle_Bones "Brittle Bones") The Lambをザ　フォーガットンで倒す。
-* [![image](/image/achievements/Jaw_Bone.png)](/wiki/Jaw_Bone "Jaw Bone") [Jaw Bone](/wiki/Jaw_Bone "Jaw Bone") ???をザ　フォーガットンで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Finger_Bone.png)](/wiki/Finger_Bone "Finger Bone") [Finger Bone](/wiki/Finger_Bone "Finger Bone") Ultra Greedをザ　フォーガットンで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Dad%27s_Ring.png)](/wiki/Dad%27s_Ring "Dad's Ring") [Dad's Ring](/wiki/Dad%27s_Ring "Dad's Ring") Ultra Greedierをザ　フォーガットンで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Hallowed_Ground.png)](/wiki/Hallowed_Ground "Hallowed Ground") [Hallowed Ground](/wiki/Hallowed_Ground "Hallowed Ground") Hushをザ　フォーガットンで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Bound_Baby.png)](/wiki/Bound_Baby "Bound Baby") [Bound Baby](/wiki/Bound_Baby "Bound Baby") Mega Satanをザ　フォーガットンで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Book_of_the_Dead.png)](/wiki/Book_of_the_Dead "Book of the Dead") [Book of the Dead](/wiki/Book_of_the_Dead "Book of the Dead") Deliriumをザ　フォーガットンで倒す。
-* (Added in Repentance) [![image](/image/achievements/Bone_Spurs.png)](/wiki/Bone_Spurs "Bone Spurs") [Bone Spurs](/wiki/Bone_Spurs "Bone Spurs") Motherをザ　フォーガットンで倒す。
-* (Added in Repentance) [![image](/image/achievements/Spirit_Shackles.png)](/wiki/Spirit_Shackles "Spirit Shackles") [Spirit Shackles](/wiki/Spirit_Shackles "Spirit Shackles") The Beastをザ　フォーガットンで倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Fettered.png)](/wiki/The_Fettered "The Fettered") [The Fettered](/wiki/The_Fettered "The Fettered") ザ　フォーガットンでRed Keyを使いHomeにある隠されたクローゼットを開く。
-* (Added in Afterbirth) [![image](/image/achievements/Bone_Baby.png)](/wiki/Bone_Baby "Bone Baby") [Bone Baby](/wiki/Bone_Baby "Bone Baby") ザ　フォーガットンですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/Divorce_Papers.png)](/wiki/Divorce_Papers "Divorce Papers") [Divorce Papers](/wiki/Divorce_Papers "Divorce Papers") - ザ　フォーガットンでボスラッシュを完了する。
+* [![image](/image/achievements/Marrow.png)](/wiki/Marrow "Marrow") [Marrow](/wiki/Marrow "Marrow") - ハードモードのMom's Heartをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Pointy_Rib.png)](/wiki/Pointy_Rib "Pointy Rib") [Pointy Rib](/wiki/Pointy_Rib "Pointy Rib") - Satanをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Slipped_Rib.png)](/wiki/Slipped_Rib "Slipped Rib") [Slipped Rib](/wiki/Slipped_Rib "Slipped Rib") - Issacをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Brittle_Bones.png)](/wiki/Brittle_Bones "Brittle Bones") [Brittle Bones](/wiki/Brittle_Bones "Brittle Bones") - The Lambをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Jaw_Bone.png)](/wiki/Jaw_Bone "Jaw Bone") [Jaw Bone](/wiki/Jaw_Bone "Jaw Bone") - ???をザ　フォーガットンで倒す。
+* [![image](/image/achievements/Finger_Bone.png)](/wiki/Finger_Bone "Finger Bone") [Finger Bone](/wiki/Finger_Bone "Finger Bone") - (Added in Afterbirth) Ultra Greedをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Dad%27s_Ring.png)](/wiki/Dad%27s_Ring "Dad's Ring") [Dad's Ring](/wiki/Dad%27s_Ring "Dad's Ring") - (Added in Afterbirth+) Ultra Greedierをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Hallowed_Ground.png)](/wiki/Hallowed_Ground "Hallowed Ground") [Hallowed Ground](/wiki/Hallowed_Ground "Hallowed Ground") - (Added in Afterbirth) Hushをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Bound_Baby.png)](/wiki/Bound_Baby "Bound Baby") [Bound Baby](/wiki/Bound_Baby "Bound Baby") - (Added in Afterbirth) Mega Satanをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Book_of_the_Dead.png)](/wiki/Book_of_the_Dead "Book of the Dead") [Book of the Dead](/wiki/Book_of_the_Dead "Book of the Dead") - (Added in Afterbirth+) Deliriumをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Bone_Spurs.png)](/wiki/Bone_Spurs "Bone Spurs") [Bone Spurs](/wiki/Bone_Spurs "Bone Spurs") - (Added in Repentance) Motherをザ　フォーガットンで倒す。
+* [![image](/image/achievements/Spirit_Shackles.png)](/wiki/Spirit_Shackles "Spirit Shackles") [Spirit Shackles](/wiki/Spirit_Shackles "Spirit Shackles") - (Added in Repentance) The Beastをザ　フォーガットンで倒す。
+* [![image](/image/achievements/The_Fettered.png)](/wiki/The_Fettered "The Fettered") [The Fettered](/wiki/The_Fettered "The Fettered") - (Added in Repentance) ザ　フォーガットンでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/Bone_Baby.png)](/wiki/Bone_Baby "Bone Baby") [Bone Baby](/wiki/Bone_Baby "Bone Baby") - (Added in Afterbirth) ザ　フォーガットンですべてのハードモード完了のマークを獲得する。

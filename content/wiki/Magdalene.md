@@ -9,13 +9,13 @@
 -------
 
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|6.5|0.85|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|6.5|0.85|0|(Added in Repentance)x1 Full Health pill / (Added in Afterbirth†)(Removed in Repentance)x1 Speed Up pill|[![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart")|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|0|(Added in Repentance)x1 Full Health ピル <br /> (Added in Afterbirth+)(Removed in Repentance)x1 Speed Up ピル|[![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart")|
 
 
 概要
@@ -25,7 +25,7 @@
 
 マグダーレンは4つの赤ハートコンテナと[![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart")を所持した状態でスタートする。
 
-(Afterbirth †で追加、Repentanceで削除)マグダーレンは「the Aprils Fool」チャレンジのクリア後はスピードアップのピルを所持した状態でスタートする。
+(Afterbirth +で追加、Repentanceで削除)マグダーレンは「the Aprils Fool」チャレンジのクリア後はスピードアップのピルを所持した状態でスタートする。
 
 (Repentanceで追加)マグダーレンは「the Aprils Fool」チャレンジのクリア後はFull Healthのピルを持ってスタートする。Full HealthとHealth Upのピル効果がそのゲームのピル効果ローテーションに含まれることが保証される。
 
@@ -37,7 +37,7 @@
 	+ 生け贄部屋は特に強力で、Full Healthピルの使用を前提に最初の階層で天使部屋へ行くことが可能。
 	+ 協力モードでは[![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart")を使用するとパートナーの体力を半ハート分回復する。
 * マグダーレンの最も大きな弱みは遅いスピードで、特に速い動きの攻撃や敵の誘導弾が脅威となる。スピードが上昇するアイテムは取得し、下降するアイテムは避けるのが良い。
-	+ (Afterbirth†で追加、Repentanceで削除)一度「the Aprils Fool」チャレンジを完了すると、Speed Upピルを毎回持ってゲームを開始できるためこの弱みは解消される。
+	+ (Afterbirth+で追加、Repentanceで削除)一度「the Aprils Fool」チャレンジを完了すると、Speed Upピルを毎回持ってゲームを開始できるためこの弱みは解消される。
 	+ Repentanceではゲージ満タンの[![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart")とFull Healthピルの組み合わせによって、生け贄部屋のトゲに7回乗ることが可能となるため最初の階層で天使部屋のアイテムを2つ得る可能性を持つ。ただし、この場合マグダーレンの体力は赤ハート1つ分しか残らない。
 
 
@@ -53,7 +53,7 @@
 	+ [![image](/image/Razor_Blade.png)](/wiki/Razor_Blade "Razor Blade") [Razor Blade](/wiki/Razor_Blade "Razor Blade")や[![image](/image/Kamikaze%21.png)](/wiki/Kamikaze%21 "Kamikaze!") [Kamikaze!](/wiki/Kamikaze%21 "Kamikaze!")のような自傷ダメージのアイテムも実用性が増す。
 * 体力を犠牲にする[![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag")はコインが少ないときに少し有用。
 * [![image](/image/The_Belt.png)](/wiki/The_Belt "The Belt") [The Belt](/wiki/The_Belt "The Belt")のようなスピードだけ上昇させるアイテムはマグダーレンのスピードが遅い弱点を解消する。
-	+ (Afterbirth†で追加、Repentanceで削除)もし「Aprils Fool」を完了しているなら、開始時に所持しているSpeed Upピルは弱点を解消する。
+	+ (Afterbirth+で追加、Repentanceで削除)もし「Aprils Fool」を完了しているなら、開始時に所持しているSpeed Upピルは弱点を解消する。
 * トリンケットの[![image](/image/AAA_Battery.png)](/wiki/AAA_Battery "AAA Battery") [AAA Battery](/wiki/AAA_Battery "AAA Battery")は3部屋クリアした時点で[![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart")のチャージを直ちに4にする。
 * [![image](/image/Guppy%27s_Paw.png)](/wiki/Guppy%27s_Paw "Guppy's Paw") [Guppy's Paw](/wiki/Guppy%27s_Paw "Guppy's Paw")はマグダーレンの初期ハートコンテナ4つをハート所持限界のソウルハート12個に変換する。
 * [![image](/image/Habit.png)](/wiki/Habit "Habit") [Habit](/wiki/Habit "Habit")と[![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt")は[![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart")を持っているならより早くチャージができるため、体力回復に役立つアイテムとなる。
@@ -77,18 +77,18 @@
 解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
-* [![image](/image/achievements/Maggy%27s_Bow.png)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow") マギーでボスラッシュを完了する。
-* [![image](/image/achievements/Cute_Baby.png)](/wiki/Cute_Baby "Cute Baby") [Cute Baby](/wiki/Cute_Baby "Cute Baby") ハードモードのMom's Heartをマギーで倒す。
-* [![image](/image/achievements/Guardian_Angel.png)](/wiki/Guardian_Angel "Guardian Angel") [Guardian Angel](/wiki/Guardian_Angel "Guardian Angel") Satanをマギーで倒す。
-* [![image](/image/achievements/The_Relic.png)](/wiki/The_Relic "The Relic") [The Relic](/wiki/The_Relic "The Relic") Issacをマギーで倒す。
-* [![image](/image/achievements/Maggy%27s_Faith.png)](/wiki/Maggy%27s_Faith "Maggy's Faith") [Maggy's Faith](/wiki/Maggy%27s_Faith "Maggy's Faith") The Lambをマギーで倒す。
-* [![image](/image/achievements/Celtic_Cross.png)](/wiki/Celtic_Cross "Celtic Cross") [Celtic Cross](/wiki/Celtic_Cross "Celtic Cross") ???をマギーで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Censer.png)](/wiki/Censer "Censer") [Censer](/wiki/Censer "Censer") Ultra Greedをマギーで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Glyph_of_Balance.png)](/wiki/Glyph_of_Balance "Glyph of Balance") [Glyph of Balance](/wiki/Glyph_of_Balance "Glyph of Balance") Ultra Greedierをマギーで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Purity.png)](/wiki/Purity "Purity") [Purity](/wiki/Purity "Purity") Hushをマギーで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Red_Baby.png)](/wiki/Red_Baby "Red Baby") [Red Baby](/wiki/Red_Baby "Red Baby") Mega Satanをマギーで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Eucharist.png)](/wiki/Eucharist "Eucharist") [Eucharist](/wiki/Eucharist "Eucharist") Deliriumをマギーで倒す。
-* (Added in Repentance) [![image](/image/achievements/Yuck_Heart.png)](/wiki/Yuck_Heart "Yuck Heart") [Yuck Heart](/wiki/Yuck_Heart "Yuck Heart") Motherをマギーで倒す。
-* (Added in Repentance) [![image](/image/achievements/Candy_Heart.png)](/wiki/Candy_Heart "Candy Heart") [Candy Heart](/wiki/Candy_Heart "Candy Heart") The Beastをマギーで倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Dauntless.png)](/wiki/The_Dauntless "The Dauntless") [The Dauntless](/wiki/The_Dauntless "The Dauntless") マギーでRed Keyを使いHomeにある隠されたクローゼットを開く。
-* (Added in Afterbirth) [![image](/image/achievements/Colorful_Baby.png)](/wiki/Colorful_Baby "Colorful Baby") [Colorful Baby](/wiki/Colorful_Baby "Colorful Baby") マギーですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/Maggy%27s_Bow.png)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow") - マギーでボスラッシュを完了する。
+* [![image](/image/achievements/Cute_Baby.png)](/wiki/Cute_Baby "Cute Baby") [Cute Baby](/wiki/Cute_Baby "Cute Baby") - ハードモードのMom's Heartをマギーで倒す。
+* [![image](/image/achievements/Guardian_Angel.png)](/wiki/Guardian_Angel "Guardian Angel") [Guardian Angel](/wiki/Guardian_Angel "Guardian Angel") - Satanをマギーで倒す。
+* [![image](/image/achievements/The_Relic.png)](/wiki/The_Relic "The Relic") [The Relic](/wiki/The_Relic "The Relic") - Issacをマギーで倒す。
+* [![image](/image/achievements/Maggy%27s_Faith.png)](/wiki/Maggy%27s_Faith "Maggy's Faith") [Maggy's Faith](/wiki/Maggy%27s_Faith "Maggy's Faith") - The Lambをマギーで倒す。
+* [![image](/image/achievements/Celtic_Cross.png)](/wiki/Celtic_Cross "Celtic Cross") [Celtic Cross](/wiki/Celtic_Cross "Celtic Cross") - ???をマギーで倒す。
+* [![image](/image/achievements/Censer.png)](/wiki/Censer "Censer") [Censer](/wiki/Censer "Censer") - (Added in Afterbirth) Ultra Greedをマギーで倒す。
+* [![image](/image/achievements/Glyph_of_Balance.png)](/wiki/Glyph_of_Balance "Glyph of Balance") [Glyph of Balance](/wiki/Glyph_of_Balance "Glyph of Balance") - (Added in Afterbirth+) Ultra Greedierをマギーで倒す。
+* [![image](/image/achievements/Purity.png)](/wiki/Purity "Purity") [Purity](/wiki/Purity "Purity") - (Added in Afterbirth) Hushをマギーで倒す。
+* [![image](/image/achievements/Red_Baby.png)](/wiki/Red_Baby "Red Baby") [Red Baby](/wiki/Red_Baby "Red Baby") - (Added in Afterbirth) Mega Satanをマギーで倒す。
+* [![image](/image/achievements/Eucharist.png)](/wiki/Eucharist "Eucharist") [Eucharist](/wiki/Eucharist "Eucharist") - (Added in Afterbirth+) Deliriumをマギーで倒す。
+* [![image](/image/achievements/Yuck_Heart.png)](/wiki/Yuck_Heart "Yuck Heart") [Yuck Heart](/wiki/Yuck_Heart "Yuck Heart") - (Added in Repentance) Motherをマギーで倒す。
+* [![image](/image/achievements/Candy_Heart.png)](/wiki/Candy_Heart "Candy Heart") [Candy Heart](/wiki/Candy_Heart "Candy Heart") - (Added in Repentance) The Beastをマギーで倒す。
+* [![image](/image/achievements/The_Dauntless.png)](/wiki/The_Dauntless "The Dauntless") [The Dauntless](/wiki/The_Dauntless "The Dauntless") - (Added in Repentance) マギーでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/Colorful_Baby.png)](/wiki/Colorful_Baby "Colorful Baby") [Colorful Baby](/wiki/Colorful_Baby "Colorful Baby") - (Added in Afterbirth) マギーですべてのハードモード完了のマークを獲得する。

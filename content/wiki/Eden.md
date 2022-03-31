@@ -10,13 +10,13 @@
 -------
 
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|random|3.5 ± 1.0 (x1.00)|± 0.75|1 ± 0.25|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|ランダム|3.5 ± 1.0 (x1.00)|± 0.75|1 ± 0.25|6.5 ± 1.5|1.00 ± 0.15|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|6.5 ± 1.5|1.00 ± 0.15|0 ± 1|x0-2 bombs / x0-1 keys / x0-5 coins / x0-1 trinket or pill or card|Randam active item / Random passive item|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|0 ± 1|x0-2 爆弾<br />x0-1 鍵<br />x0-5 コイン<br />x0-1 トリンケットまたはピルまたはカード|ランダムなアクティブアイテム<br />ランダムなパッシブアイテム|
 
 概要
 -------
@@ -48,18 +48,18 @@
 --------------------------------------------------------------
 
 
-* [![image](/image/achievements/Undefined.png)](/wiki/Undefined "Undefined") [Undefined](/wiki/Undefined "Undefined") エデンでボスラッシュを完了する。
-* [![image](/image/achievements/Glitch_Baby.png)](/wiki/Glitch_Baby "Glitch Baby") [Glitch Baby](/wiki/Glitch_Baby "Glitch Baby") ハードモードのMom's Heartをエデンで倒す。
-* [![image](/image/achievements/Book_of_Secrets.png)](/wiki/Book_of_Secrets "Book of Secrets") [Book of Secrets](/wiki/Book_of_Secrets "Book of Secrets") Satanをエデンで倒す。
-* [![image](/image/achievements/Blank_Card.png)](/wiki/Blank_Card "Blank Card") [Blank Card](/wiki/Blank_Card "Blank Card") Issacをエデンで倒す。
-* [![image](/image/achievements/Mystery_Sack.png)](/wiki/Mystery_Sack "Mystery Sack") [Mystery Sack](/wiki/Mystery_Sack "Mystery Sack") The Lambをエデンで倒す。
-* [![image](/image/achievements/Mysterious_Paper.png)](/wiki/Mysterious_Paper "Mysterious Paper") [Mysterious Paper](/wiki/Mysterious_Paper "Mysterious Paper") ???をエデンで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/GB_Bug.png)](/wiki/GB_Bug "GB Bug") [GB Bug](/wiki/GB_Bug "GB Bug") Ultra Greedをエデンで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Metronome.png)](/wiki/Metronome "Metronome") [Metronome](/wiki/Metronome "Metronome") Ultra Greedierをエデンで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Eden%27s_Blessing.png)](/wiki/Eden%27s_Blessing "Eden's Blessing") [Eden's Blessing](/wiki/Eden%27s_Blessing "Eden's Blessing") Hushをエデンで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Yellow_Baby.png)](/wiki/Yellow_Baby "Yellow Baby") [Yellow Baby](/wiki/Yellow_Baby "Yellow Baby") Mega Satanをエデンで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Eden%27s_Soul.png)](/wiki/Eden%27s_Soul "Eden's Soul") [Eden's Soul](/wiki/Eden%27s_Soul "Eden's Soul") Deliriumをエデンで倒す。
-* (Added in Repentance) [![image](/image/achievements/%27M.png)](/wiki/%27M "’M") [’M](/wiki/%27M "’M") Motherをエデンで倒す。
-* (Added in Repentance) [![image](/image/achievements/Everything_Jar.png)](/wiki/Everything_Jar "Everything Jar") [Everything Jar](/wiki/Everything_Jar "Everything Jar") The Beastをエデンで倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Capricious.png)](/wiki/The_Capricious "The Capricious") [The Capricious](/wiki/The_Capricious "The Capricious") エデンでRed Keyを使いHomeにある隠されたクローゼットを開く。
-* (Added in Afterbirth) [![image](/image/achievements/Cracked_Baby.png)](/wiki/Cracked_Baby "Cracked Baby") [Cracked Baby](/wiki/Cracked_Baby "Cracked Baby") エデンですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/Undefined.png)](/wiki/Undefined "Undefined") [Undefined](/wiki/Undefined "Undefined") - エデンでボスラッシュを完了する。
+* [![image](/image/achievements/Glitch_Baby.png)](/wiki/Glitch_Baby "Glitch Baby") [Glitch Baby](/wiki/Glitch_Baby "Glitch Baby") - ハードモードのMom's Heartをエデンで倒す。
+* [![image](/image/achievements/Book_of_Secrets.png)](/wiki/Book_of_Secrets "Book of Secrets") [Book of Secrets](/wiki/Book_of_Secrets "Book of Secrets") - Satanをエデンで倒す。
+* [![image](/image/achievements/Blank_Card.png)](/wiki/Blank_Card "Blank Card") [Blank Card](/wiki/Blank_Card "Blank Card") - Issacをエデンで倒す。
+* [![image](/image/achievements/Mystery_Sack.png)](/wiki/Mystery_Sack "Mystery Sack") [Mystery Sack](/wiki/Mystery_Sack "Mystery Sack") - The Lambをエデンで倒す。
+* [![image](/image/achievements/Mysterious_Paper.png)](/wiki/Mysterious_Paper "Mysterious Paper") [Mysterious Paper](/wiki/Mysterious_Paper "Mysterious Paper") - ???をエデンで倒す。
+* [![image](/image/achievements/GB_Bug.png)](/wiki/GB_Bug "GB Bug") [GB Bug](/wiki/GB_Bug "GB Bug") - (Added in Afterbirth) Ultra Greedをエデンで倒す。
+* [![image](/image/achievements/Metronome.png)](/wiki/Metronome "Metronome") [Metronome](/wiki/Metronome "Metronome") - (Added in Afterbirth+) Ultra Greedierをエデンで倒す。
+* ([![image](/image/achievements/Eden%27s_Blessing.png)](/wiki/Eden%27s_Blessing "Eden's Blessing") [Eden's Blessing](/wiki/Eden%27s_Blessing "Eden's Blessing") - Added in Afterbirth) Hushをエデンで倒す。
+* [![image](/image/achievements/Yellow_Baby.png)](/wiki/Yellow_Baby "Yellow Baby") [Yellow Baby](/wiki/Yellow_Baby "Yellow Baby") - (Added in Afterbirth) Mega Satanをエデンで倒す。
+* [![image](/image/achievements/Eden%27s_Soul.png)](/wiki/Eden%27s_Soul "Eden's Soul") [Eden's Soul](/wiki/Eden%27s_Soul "Eden's Soul") - (Added in Afterbirth+) Deliriumをエデンで倒す。
+* [![image](/image/achievements/%27M.png)](/wiki/%27M "’M") [’M](/wiki/%27M "’M") - (Added in Repentance) Motherをエデンで倒す。
+* [![image](/image/achievements/Everything_Jar.png)](/wiki/Everything_Jar "Everything Jar") [Everything Jar](/wiki/Everything_Jar "Everything Jar") - (Added in Repentance) The Beastをエデンで倒す。
+* [![image](/image/achievements/The_Capricious.png)](/wiki/The_Capricious "The Capricious") [The Capricious](/wiki/The_Capricious "The Capricious") - (Added in Repentance) エデンでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/Cracked_Baby.png)](/wiki/Cracked_Baby "Cracked Baby") [Cracked Baby](/wiki/Cracked_Baby "Cracked Baby") - (Added in Afterbirth) エデンですべてのハードモード完了のマークを獲得する。

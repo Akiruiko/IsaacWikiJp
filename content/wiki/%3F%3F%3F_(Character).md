@@ -8,13 +8,13 @@
 -------
 
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/s-heart.png) ![image](/image/characters/s-heart.png) ![image](/image/characters/s-heart.png)|3.5 (x1.05)|0|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/s-heart.png) ![image](/image/characters/s-heart.png) ![image](/image/characters/s-heart.png)|3.5 (x1.05)|0|1|6.5|1.1|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|6.5|1.1|0|The Poop|[![image](/image/The_Poop.png)](/wiki/The_Poop "The Poop") [The Poop](/wiki/The_Poop "The Poop")|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|0|The Poop|[![image](/image/The_Poop.png)](/wiki/The_Poop "The Poop") [The Poop](/wiki/The_Poop "The Poop")|
 
 概要
 -------
@@ -94,18 +94,18 @@
 --------------------------------------------------------------
 
 
-* [![image](/image/achievements/%3F%3F%3F%27s_Only_Friend.png)](/wiki/%3F%3F%3F%27s_Only_Friend "???'s Only Friend") [???'s Only Friend](/wiki/%3F%3F%3F%27s_Only_Friend "???'s Only Friend") ???でボスラッシュを完了する。
-* [![image](/image/achievements/Dead_Baby.png)](/wiki/Dead_Baby "Dead Baby") [Dead Baby](/wiki/Dead_Baby "Dead Baby") ハードモードのMom's Heartを???で倒す。
-* [![image](/image/achievements/Forget_Me_Now.png)](/wiki/Forget_Me_Now "Forget Me Now") [Forget Me Now](/wiki/Forget_Me_Now "Forget Me Now") Satanを???で倒す。
-* [![image](/image/achievements/The_D6.png)](/wiki/The_D6 "The D6") [The D6](/wiki/The_D6 "The D6") Issacを???で倒す。
-* [![image](/image/achievements/%3F%3F%3F%27s_Soul.png)](/wiki/%3F%3F%3F%27s_Soul "???'s Soul") [???'s Soul](/wiki/%3F%3F%3F%27s_Soul "???'s Soul") The Lambを???で倒す。
-* [![image](/image/achievements/Fate.png)](/wiki/Fate "Fate") [Fate](/wiki/Fate "Fate") ???を???で倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Cracked_Dice.png)](/wiki/Cracked_Dice "Cracked Dice") [Cracked Dice](/wiki/Cracked_Dice "Cracked Dice") Ultra Greedを???で倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Meconium.png)](/wiki/Meconium "Meconium") [Meconium](/wiki/Meconium "Meconium") Ultra Greedierを???で倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Fate%27s_Reward.png)](/wiki/Fate%27s_Reward "Fate's Reward") [Fate's Reward](/wiki/Fate%27s_Reward "Fate's Reward") Hushを???で倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Blue_Baby.png)](/wiki/Blue_Baby "Blue Baby") [Blue Baby](/wiki/Blue_Baby "Blue Baby") Mega Satanを???で倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/King_Baby.png)](/wiki/King_Baby "King Baby") [King Baby](/wiki/King_Baby "King Baby") Deliriumを???で倒す。
-* (Added in Repentance) [![image](/image/achievements/Eternal_D6.png)](/wiki/Eternal_D6 "Eternal D6") [Eternal D6](/wiki/Eternal_D6 "Eternal D6") Motherを???で倒す。
-* (Added in Repentance) [![image](/image/achievements/Montezuma%27s_Revenge.png)](/wiki/Montezuma%27s_Revenge "Montezuma's Revenge") [Montezuma's Revenge](/wiki/Montezuma%27s_Revenge "Montezuma's Revenge") The Beastを???で倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Soiled.png)](/wiki/The_Soiled "The Soiled") [The Soiled](/wiki/The_Soiled "The Soiled") ???でRed Keyを使いHomeにある隠されたクローゼットを開く。
-* (Added in Afterbirth) [![image](/image/achievements/Hive_Baby.png)](/wiki/Hive_Baby "Hive Baby") [Hive Baby](/wiki/Hive_Baby "Hive Baby") ???ですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/%3F%3F%3F%27s_Only_Friend.png)](/wiki/%3F%3F%3F%27s_Only_Friend "???'s Only Friend") [???'s Only Friend](/wiki/%3F%3F%3F%27s_Only_Friend "???'s Only Friend") - ???でボスラッシュを完了する。
+* [![image](/image/achievements/Dead_Baby.png)](/wiki/Dead_Baby "Dead Baby") [Dead Baby](/wiki/Dead_Baby "Dead Baby") - ハードモードのMom's Heartを???で倒す。
+* [![image](/image/achievements/Forget_Me_Now.png)](/wiki/Forget_Me_Now "Forget Me Now") [Forget Me Now](/wiki/Forget_Me_Now "Forget Me Now") - Satanを???で倒す。
+* [![image](/image/achievements/The_D6.png)](/wiki/The_D6 "The D6") [The D6](/wiki/The_D6 "The D6") - Issacを???で倒す。
+* [![image](/image/achievements/%3F%3F%3F%27s_Soul.png)](/wiki/%3F%3F%3F%27s_Soul "???'s Soul") [???'s Soul](/wiki/%3F%3F%3F%27s_Soul "???'s Soul") - The Lambを???で倒す。
+* [![image](/image/achievements/Fate.png)](/wiki/Fate "Fate") [Fate](/wiki/Fate "Fate") - ???を???で倒す。
+* [![image](/image/achievements/Cracked_Dice.png)](/wiki/Cracked_Dice "Cracked Dice") [Cracked Dice](/wiki/Cracked_Dice "Cracked Dice") - (Added in Afterbirth) Ultra Greedを???で倒す。
+* [![image](/image/achievements/Meconium.png)](/wiki/Meconium "Meconium") [Meconium](/wiki/Meconium "Meconium") - (Added in Afterbirth+) Ultra Greedierを???で倒す。
+* [![image](/image/achievements/Fate%27s_Reward.png)](/wiki/Fate%27s_Reward "Fate's Reward") [Fate's Reward](/wiki/Fate%27s_Reward "Fate's Reward") - (Added in Afterbirth) Hushを???で倒す。
+* [![image](/image/achievements/Blue_Baby.png)](/wiki/Blue_Baby "Blue Baby") [Blue Baby](/wiki/Blue_Baby "Blue Baby") - (Added in Afterbirth) Mega Satanを???で倒す。
+* [![image](/image/achievements/King_Baby.png)](/wiki/King_Baby "King Baby") [King Baby](/wiki/King_Baby "King Baby") - (Added in Afterbirth+) Deliriumを???で倒す。
+* [![image](/image/achievements/Eternal_D6.png)](/wiki/Eternal_D6 "Eternal D6") [Eternal D6](/wiki/Eternal_D6 "Eternal D6") - (Added in Repentance) Motherを???で倒す。
+* [![image](/image/achievements/Montezuma%27s_Revenge.png)](/wiki/Montezuma%27s_Revenge "Montezuma's Revenge") [Montezuma's Revenge](/wiki/Montezuma%27s_Revenge "Montezuma's Revenge") - (Added in Repentance) The Beastを???で倒す。
+* [![image](/image/achievements/The_Soiled.png)](/wiki/The_Soiled "The Soiled") [The Soiled](/wiki/The_Soiled "The Soiled") - (Added in Repentance) ???でRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/Hive_Baby.png)](/wiki/Hive_Baby "Hive Baby") [Hive Baby](/wiki/Hive_Baby "Hive Baby") - (Added in Afterbirth) ???ですべてのハードモード完了のマークを獲得する。

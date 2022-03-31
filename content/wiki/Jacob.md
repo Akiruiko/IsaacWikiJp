@@ -11,23 +11,23 @@
 
 ### ヤコブ
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|2.75 (x1.00)|+3|1.15|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|2.75 (x1.00)|+3|1.15|5|1|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|5|1|+1|||
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|+1|無し|無し|
 
 ### エサウ
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/r-heart.png) ![image](/image/characters/s-heart.png)|3.75 (x1.00)|+2.5|0.85|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/s-heart.png)|3.75 (x1.00)|+2.5|0.85|8|1|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|8|1|-1|||
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|-1|無し|無し|
 
 
 概要
@@ -85,18 +85,18 @@
 解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
-* [![image](/image/achievements/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom") ヤコブ & エサウでボスラッシュを完了する。
-* [![image](/image/achievements/Double_Baby.png)](/wiki/Double_Baby "Double Baby") [Double Baby](/wiki/Double_Baby "Double Baby") ハードモードのMom's Heartをヤコブ & エサウで倒す。
-* [![image](/image/achievements/Red_Stew.png)](/wiki/Red_Stew "Red Stew") [Red Stew](/wiki/Red_Stew "Red Stew") Satanをヤコブ & エサウで倒す。
-* [![image](/image/achievements/The_Stairway.png)](/wiki/The_Stairway "The Stairway") [The Stairway](/wiki/The_Stairway "The Stairway") Issacをヤコブ & エサウで倒す。
-* [![image](/image/achievements/Damocles.png)](/wiki/Damocles "Damocles") [Damocles](/wiki/Damocles "Damocles") The Lambをヤコブ & エサウで倒す。
-* [![image](/image/achievements/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") ???をヤコブ & エサウで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Inner_Child.png)](/wiki/Inner_Child "Inner Child") [Inner Child](/wiki/Inner_Child "Inner Child") Ultra Greedをヤコブ & エサウで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Genesis.png)](/wiki/Genesis "Genesis") [Genesis](/wiki/Genesis "Genesis") Ultra Greedierをヤコブ & エサウで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Vanishing_Twin.png)](/wiki/Vanishing_Twin "Vanishing Twin") [Vanishing Twin](/wiki/Vanishing_Twin "Vanishing Twin") Hushをヤコブ & エサウで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Illusion_Baby.png)](/wiki/Illusion_Baby "Illusion Baby") [Illusion Baby](/wiki/Illusion_Baby "Illusion Baby") Mega Satanをヤコブ & エサウで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Suplex%21.png)](/wiki/Suplex%21 "Suplex!") [Suplex!](/wiki/Suplex%21 "Suplex!") Deliriumをヤコブ & エサウで倒す。
-* (Added in Repentance) [![image](/image/achievements/Magic_Skin.png)](/wiki/Magic_Skin "Magic Skin") [Magic Skin](/wiki/Magic_Skin "Magic Skin") Motherをヤコブ & エサウで倒す。
-* (Added in Repentance) [![image](/image/achievements/Friend_Finder.png)](/wiki/Friend_Finder "Friend Finder") [Friend Finder](/wiki/Friend_Finder "Friend Finder") The Beastをヤコブ & エサウで倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Deserter.png)](/wiki/The_Deserter "The Deserter") [The Deserter](/wiki/The_Deserter "The Deserter") ヤコブ & エサウでRed Keyを使いHomeにある隠されたクローゼットを開く。
-* (Added in Afterbirth) [![image](/image/achievements/Solomon%27s_Baby.png)](/wiki/Solomon%27s_Baby "Solomon's Baby") [Solomon's Baby](/wiki/Solomon%27s_Baby "Solomon's Baby") ヤコブ & エサウですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/Rock_Bottom.png)](/wiki/Rock_Bottom "Rock Bottom") [Rock Bottom](/wiki/Rock_Bottom "Rock Bottom") - ヤコブ & エサウでボスラッシュを完了する。
+* [![image](/image/achievements/Double_Baby.png)](/wiki/Double_Baby "Double Baby") [Double Baby](/wiki/Double_Baby "Double Baby") - ハードモードのMom's Heartをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Red_Stew.png)](/wiki/Red_Stew "Red Stew") [Red Stew](/wiki/Red_Stew "Red Stew") - Satanをヤコブ & エサウで倒す。
+* [![image](/image/achievements/The_Stairway.png)](/wiki/The_Stairway "The Stairway") [The Stairway](/wiki/The_Stairway "The Stairway") - Issacをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Damocles.png)](/wiki/Damocles "Damocles") [Damocles](/wiki/Damocles "Damocles") - The Lambをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") - ???をヤコブ & エサウで倒す。
+* [![image](/image/achievements/Inner_Child.png)](/wiki/Inner_Child "Inner Child") [Inner Child](/wiki/Inner_Child "Inner Child") - (Added in Afterbirth) Ultra Greedをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Genesis.png)](/wiki/Genesis "Genesis") [Genesis](/wiki/Genesis "Genesis") - (Added in Afterbirth+) Ultra Greedierをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Vanishing_Twin.png)](/wiki/Vanishing_Twin "Vanishing Twin") [Vanishing Twin](/wiki/Vanishing_Twin "Vanishing Twin") - (Added in Afterbirth) Hushをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Illusion_Baby.png)](/wiki/Illusion_Baby "Illusion Baby") [Illusion Baby](/wiki/Illusion_Baby "Illusion Baby") - (Added in Afterbirth) Mega Satanをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Suplex%21.png)](/wiki/Suplex%21 "Suplex!") [Suplex!](/wiki/Suplex%21 "Suplex!") - (Added in Afterbirth+) Deliriumをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Magic_Skin.png)](/wiki/Magic_Skin "Magic Skin") [Magic Skin](/wiki/Magic_Skin "Magic Skin") - (Added in Repentance) Motherをヤコブ & エサウで倒す。
+* [![image](/image/achievements/Friend_Finder.png)](/wiki/Friend_Finder "Friend Finder") [Friend Finder](/wiki/Friend_Finder "Friend Finder") - (Added in Repentance) The Beastをヤコブ & エサウで倒す。
+* [![image](/image/achievements/The_Deserter.png)](/wiki/The_Deserter "The Deserter") [The Deserter](/wiki/The_Deserter "The Deserter") - (Added in Repentance) ヤコブ & エサウでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/Solomon%27s_Baby.png)](/wiki/Solomon%27s_Baby "Solomon's Baby") [Solomon's Baby](/wiki/Solomon%27s_Baby "Solomon's Baby") - (Added in Afterbirth) ヤコブ & エサウですべてのハードモード完了のマークを獲得する。

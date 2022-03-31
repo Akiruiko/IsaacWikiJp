@@ -11,13 +11,13 @@
 -------
 
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.20)|0|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|---|---|---|:--:|:--:|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.20)|0|1|4.5|1.3|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|4.5|1.3|0|x1 Key / (Added in Afterbirth) Paper Clip|[![image](/image/Lucky_Foot.png)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot")|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|0|x1 鍵 <br /> (Added in Afterbirth) Paper Clip|[![image](/image/Lucky_Foot.png)](/wiki/Lucky_Foot "Lucky Foot") [Lucky Foot](/wiki/Lucky_Foot "Lucky Foot")|
 
 
 概要
@@ -60,18 +60,18 @@
 解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
 
-* [![image](/image/achievements/Cain%27s_Other_Eye.png)](/wiki/Cain%27s_Other_Eye "Cain's Other Eye") [Cain's Other Eye](/wiki/Cain%27s_Other_Eye "Cain's Other Eye") ケインでボスラッシュを完了する。
-* * [![image](/image/achievements/Glass_Baby.png)](/wiki/Glass_Baby "Glass Baby") [Glass Baby](/wiki/Glass_Baby "Glass Baby") ハードモードのMom's Heartをケインで倒す。
-* [![image](/image/achievements/A_Bag_of_Bombs.png)](/wiki/A_Bag_of_Bombs "A Bag of Bombs") [A Bag of Bombs](/wiki/A_Bag_of_Bombs "A Bag of Bombs") Satanをケインで倒す。
-* [![image](/image/achievements/A_Bag_of_Pennies.png)](/wiki/A_Bag_of_Pennies "A Bag of Pennies") [A Bag of Pennies](/wiki/A_Bag_of_Pennies "A Bag of Pennies") Issacをケインで倒す。
-* [![image](/image/achievements/Abel.png)](/wiki/Abel "Abel") [Abel](/wiki/Abel "Abel") The Lambをケインで倒す。
-* [![image](/image/achievements/Cain%27s_Eye.png)](/wiki/Cain%27s_Eye "Cain's Eye") [Cain's Eye](/wiki/Cain%27s_Eye "Cain's Eye") ???をケインで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Evil_Eye.png)](/wiki/Evil_Eye "Evil Eye") [Evil Eye](/wiki/Evil_Eye "Evil Eye") Ultra Greedをケインで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Sack_of_Sacks.png)](/wiki/Sack_of_Sacks "Sack of Sacks") [Sack of Sacks](/wiki/Sack_of_Sacks "Sack of Sacks") Ultra Greedierをケインで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/D12.png)](/wiki/D12 "D12") [D12](/wiki/D12 "D12") Hushをケインで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Green_Baby.png)](/wiki/Green_Baby "Green Baby") [Green Baby](/wiki/Green_Baby "Green Baby") Mega Satanをケインで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Silver_Dollar.png)](/wiki/Silver_Dollar "Silver Dollar") [Silver Dollar](/wiki/Silver_Dollar "Silver Dollar") Deliriumをケインで倒す。
-* (Added in Repentance) [![image](/image/achievements/Guppy%27s_Eye.png)](/wiki/Guppy%27s_Eye "Guppy's Eye") [Guppy's Eye](/wiki/Guppy%27s_Eye "Guppy's Eye") Motherをケインで倒す。
-* (Added in Repentance) [![image](/image/achievements/A_Pound_of_Flesh.png)](/wiki/A_Pound_of_Flesh "A Pound of Flesh") [A Pound of Flesh](/wiki/A_Pound_of_Flesh "A Pound of Flesh") The Beastをケインで倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Hoarder.png)](/wiki/The_Hoarder "The Hoarder") [The Hoarder](/wiki/The_Hoarder "The Hoarder") ケインでRed Keyを使いHomeにある隠されたクローゼットを開く。
-* (Added in Afterbirth) [![image](/image/achievements/Picky_Baby.png)](/wiki/Picky_Baby "Picky Baby") [Picky Baby](/wiki/Picky_Baby "Picky Baby") ケインですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/Cain%27s_Other_Eye.png)](/wiki/Cain%27s_Other_Eye "Cain's Other Eye") [Cain's Other Eye](/wiki/Cain%27s_Other_Eye "Cain's Other Eye") - ケインでボスラッシュを完了する。
+* * [![image](/image/achievements/Glass_Baby.png)](/wiki/Glass_Baby "Glass Baby") [Glass Baby](/wiki/Glass_Baby "Glass Baby") - ハードモードのMom's Heartをケインで倒す。
+* [![image](/image/achievements/A_Bag_of_Bombs.png)](/wiki/A_Bag_of_Bombs "A Bag of Bombs") [A Bag of Bombs](/wiki/A_Bag_of_Bombs "A Bag of Bombs") - Satanをケインで倒す。
+* [![image](/image/achievements/A_Bag_of_Pennies.png)](/wiki/A_Bag_of_Pennies "A Bag of Pennies") [A Bag of Pennies](/wiki/A_Bag_of_Pennies "A Bag of Pennies") - Issacをケインで倒す。
+* [![image](/image/achievements/Abel.png)](/wiki/Abel "Abel") [Abel](/wiki/Abel "Abel") - The Lambをケインで倒す。
+* [![image](/image/achievements/Cain%27s_Eye.png)](/wiki/Cain%27s_Eye "Cain's Eye") [Cain's Eye](/wiki/Cain%27s_Eye "Cain's Eye") - ???をケインで倒す。
+* [![image](/image/achievements/Evil_Eye.png)](/wiki/Evil_Eye "Evil Eye") [Evil Eye](/wiki/Evil_Eye "Evil Eye") - (Added in Afterbirth) Ultra Greedをケインで倒す。
+* [![image](/image/achievements/Sack_of_Sacks.png)](/wiki/Sack_of_Sacks "Sack of Sacks") [Sack of Sacks](/wiki/Sack_of_Sacks "Sack of Sacks") - (Added in Afterbirth+) Ultra Greedierをケインで倒す。
+* [![image](/image/achievements/D12.png)](/wiki/D12 "D12") [D12](/wiki/D12 "D12") - (Added in Afterbirth) Hushをケインで倒す。
+* [![image](/image/achievements/Green_Baby.png)](/wiki/Green_Baby "Green Baby") [Green Baby](/wiki/Green_Baby "Green Baby") - (Added in Afterbirth) Mega Satanをケインで倒す。
+* [![image](/image/achievements/Silver_Dollar.png)](/wiki/Silver_Dollar "Silver Dollar") [Silver Dollar](/wiki/Silver_Dollar "Silver Dollar") - (Added in Afterbirth+) Deliriumをケインで倒す。
+* [![image](/image/achievements/Guppy%27s_Eye.png)](/wiki/Guppy%27s_Eye "Guppy's Eye") [Guppy's Eye](/wiki/Guppy%27s_Eye "Guppy's Eye") - (Added in Repentance) Motherをケインで倒す。
+* [![image](/image/achievements/A_Pound_of_Flesh.png)](/wiki/A_Pound_of_Flesh "A Pound of Flesh") [A Pound of Flesh](/wiki/A_Pound_of_Flesh "A Pound of Flesh") - (Added in Repentance) The Beastをケインで倒す。
+* [![image](/image/achievements/The_Hoarder.png)](/wiki/The_Hoarder "The Hoarder") [The Hoarder](/wiki/The_Hoarder "The Hoarder") - (Added in Repentance) ケインでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/Picky_Baby.png)](/wiki/Picky_Baby "Picky Baby") [Picky Baby](/wiki/Picky_Baby "Picky Baby") - (Added in Afterbirth) ケインですべてのハードモード完了のマークを獲得する。

@@ -10,13 +10,13 @@
 -------
 
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/b-heart.png) ![image](/image/characters/b-heart.png) ![image](/image/characters/b-heart.png)|3.5 (x1.50)|+0.5 x1/3|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/b-heart.png) ![image](/image/characters/b-heart.png) ![image](/image/characters/b-heart.png)|3.5 (x1.50)|+0.5 x1/3|1|4.5|1|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|4.5|1|-1|0 - The Fool|(短射程の)[![image](/image/Brimstorn.png)](/wiki/Brimstorn "Brimstorn") [Brimstorn](/wiki/Brimstorn "Brimstorn") / 飛行|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|-1|0 - The Fool|飛行 <br /> (短射程の)[![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone")|
 
 
 概要
@@ -60,7 +60,7 @@
 * [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis") doubles the Brimstone laser's damage without any downsides.
 	+ (Added in Afterbirth) The beam will decrease in damage the further it travels, but Proptosis still greatly increases damage at close range.
 * (Added in Afterbirth) [![image](/image/Rubber_Cement.png)](/wiki/Rubber_Cement "Rubber Cement") [Rubber Cement](/wiki/Rubber_Cement "Rubber Cement") allows Azazel's laser to bounce off of walls. Unlike Azazel's normal mini-Brimstone, beams that bounce off of walls have infinite range but deals half of the damage.
-	+ (Added in Afterbirth †) The beam will no longer turn into normal Brimstone upon bouncing off a wall. It will instead turn into his mini-Brimstone.
+	+ (Added in Afterbirth +) The beam will no longer turn into normal Brimstone upon bouncing off a wall. It will instead turn into his mini-Brimstone.
 * [![image](/image/Sad_Bombs.png)](/wiki/Sad_Bombs "Sad Bombs") [Sad Bombs](/wiki/Sad_Bombs "Sad Bombs") shoots 10 short-ranged Brimstone beams around the explosion point, which deals enormous amounts of damage.
 * [![image](/image/Tammy%27s_Head.png)](/wiki/Tammy%27s_Head "Tammy's Head") [Tammy's Head](/wiki/Tammy%27s_Head "Tammy's Head") shoots 10 short-ranged Brimstone beams around him, which deal enormous amounts of damage.
 * (Added in Afterbirth)[(Tape Worm)](/wiki/Tape_Worm "Tape Worm") [Tape Worm](/wiki/Tape_Worm "Tape Worm") greatly increases the Brimstone laser's range.
@@ -86,13 +86,13 @@
 * Items that give flight will have no real effect, since Azazel has a built-in ability to fly.
 * (Removed in Repentance)[![image](/image/Kidney_Stone.png)](/wiki/Kidney_Stone "Kidney Stone") [Kidney Stone](/wiki/Kidney_Stone "Kidney Stone") only reduces Azazel's speed and short Brimstone's range.
 * The following items have their effect nullified with Azazel's short-ranged Brimstone:
-	+ (Added in Afterbirth †)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")
+	+ (Added in Afterbirth +)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")
 	+ [![image](/image/Cupid%27s_Arrow.png)](/wiki/Cupid%27s_Arrow "Cupid's Arrow") [Cupid's Arrow](/wiki/Cupid%27s_Arrow "Cupid's Arrow")
 	+ [![image](/image/Ouija_Board.png)](/wiki/Ouija_Board "Ouija Board") [Ouija Board](/wiki/Ouija_Board "Ouija Board")
 	+ [(Pulse Worm)](/wiki/Pulse_Worm "Pulse Worm") [Pulse Worm](/wiki/Pulse_Worm "Pulse Worm")
 	+ (Added in Afterbirth)[![image](/image/Pupula_Duplex.png)](/wiki/Pupula_Duplex "Pupula Duplex") [Pupula Duplex](/wiki/Pupula_Duplex "Pupula Duplex")
 	+ [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor") (Until [![image](/image/Anti-Gravity.png)](/wiki/Anti-Gravity "Anti-Gravity") [Anti-Gravity](/wiki/Anti-Gravity "Anti-Gravity") is picked up)
-	+ (Added in Afterbirth †)[![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion")
+	+ (Added in Afterbirth +)[![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion")
 	+ (Added in Repentance)[![image](/image/Tropicamide.png)](/wiki/Tropicamide "Tropicamide") [Tropicamide](/wiki/Tropicamide "Tropicamide")
 
 
@@ -102,14 +102,14 @@
 	+ (Added in Afterbirth) Creep will spawn at the edge of the laser.
 * (Added in Afterbirth)[![image](/image/Dead_Eye.png)](/wiki/Dead_Eye "Dead Eye") [Dead Eye](/wiki/Dead_Eye "Dead Eye") has no effect.
 * (Added in Repentance)[![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac") The tear delay remains unchanged, and the end of the beam is explosive. No tear is fired.
-* (Added in Afterbirth †)[![image](/image/Lead_Pencil.png)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil") overridden by Azazel's short Brimstone
+* (Added in Afterbirth +)[![image](/image/Lead_Pencil.png)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil") overridden by Azazel's short Brimstone
 	+ (Added in Repentance) Azazel will fire a low range Monstro's Lung -like barrage of 12 tears occasionally.
-* (Added in Afterbirth †)[![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder") Jacob's Ladder has no effect; sparks do not fly from Azazel's Brimstone when it connects with enemies.
+* (Added in Afterbirth +)[![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder") Jacob's Ladder has no effect; sparks do not fly from Azazel's Brimstone when it connects with enemies.
 	+ (Added in Repentance) Sparks appear where the brimstone ends.
 * The following items override Azazel's short-ranged Brimstone:
 	+ [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus")
 	+ [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus")
-	+ (Added in Afterbirth †)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria")
+	+ (Added in Afterbirth +)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria")
 	+ [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife")
 	+ (Added in Repentance)[![image](/image/Spirit_Sword.png)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword")
 
@@ -118,19 +118,19 @@
 --------------------------------------------------------------
 
 
-* [![image](/image/achievements/The_Nail.png)](/wiki/The_Nail "The Nail") [The Nail](/wiki/The_Nail "The Nail") アザゼルでボスラッシュを完了する。
-* (Removed in Afterbirth †)[![image](/image/achievements/Begotten_Baby.png)](/wiki/Begotten_Baby "Begotten Baby") [Begotten Baby](/wiki/Begotten_Baby "Begotten Baby") ハードモードのMom's Heartをラザラスで倒す。
-	+ (Added in Afterbirth †) [![image](/image/achievements/Begotten_Baby.png)](/wiki/Begotten_Baby "Begotten Baby") [Begotten Baby](/wiki/Begotten_Baby "Begotten Baby") ハードモードのMom's Heartをアザゼルで倒す。
-* [![image](/image/achievements/Daemon%27s_Tail.png)](/wiki/Daemon%27s_Tail "Daemon's Tail") [Daemon's Tail](/wiki/Daemon%27s_Tail "Daemon's Tail") Satanをアザゼルで倒す。
-* [![image](/image/achievements/Satanic_Bible.png)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible") Issacをアザゼルで倒す。
-* [![image](/image/achievements/Demon_Baby.png)](/wiki/Demon_Baby "Demon Baby") [Demon Baby](/wiki/Demon_Baby "Demon Baby") The Lambをアザゼルで倒す。
-* [![image](/image/achievements/Abaddon.png)](/wiki/Abaddon "Abaddon") [Abaddon](/wiki/Abaddon "Abaddon") ???をアザゼルで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Lilith.png)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith") Ultra Greedをアザゼルで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Bat_Wing.png)](/wiki/Bat_Wing "Bat Wing") [Bat Wing](/wiki/Bat_Wing "Bat Wing") Ultra Greedierをアザゼルで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Maw_of_the_Void.png)](/wiki/Maw_of_the_Void "Maw of the Void") [Maw of the Void](/wiki/Maw_of_the_Void "Maw of the Void") Hushをアザゼルで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Black_Baby.png)](/wiki/Black_Baby "Black Baby") [Black Baby](/wiki/Black_Baby "Black Baby") Mega Satanをアザゼルで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Dark_Prince%27s_Crown.png)](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown") [Dark Prince's Crown](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown") Deliriumをアザゼルで倒す。
-* (Added in Repentance) [![image](/image/achievements/Devil%27s_Crown.png)](/wiki/Devil%27s_Crown "Devil's Crown") [Devil's Crown](/wiki/Devil%27s_Crown "Devil's Crown") Motherをアザゼルで倒す。
-* (Added in Repentance) [![image](/image/achievements/Lil_Abaddon.png)](/wiki/Lil_Abaddon "Lil Abaddon") [Lil Abaddon](/wiki/Lil_Abaddon "Lil Abaddon") The Beastをアザゼルで倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Benighted.png)](/wiki/The_Benighted "The Benighted") [The Benighted](/wiki/The_Benighted "The Benighted") アザゼルでRed Keyを使いHomeにある隠されたクローゼットを開く。
-* (Added in Afterbirth) [![image](/image/achievements/Sucky_Baby.png)](/wiki/Sucky_Baby "Sucky Baby") [Sucky Baby](/wiki/Sucky_Baby "Sucky Baby") アザゼルですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/The_Nail.png)](/wiki/The_Nail "The Nail") [The Nail](/wiki/The_Nail "The Nail") - アザゼルでボスラッシュを完了する。
+* [![image](/image/achievements/Begotten_Baby.png)](/wiki/Begotten_Baby "Begotten Baby") [Begotten Baby](/wiki/Begotten_Baby "Begotten Baby") - (Removed in Afterbirth+) ハードモードのMom's Heartをラザラスで倒す。
+	+ [![image](/image/achievements/Begotten_Baby.png)](/wiki/Begotten_Baby "Begotten Baby") [Begotten Baby](/wiki/Begotten_Baby "Begotten Baby") - (Added in Afterbirth+) ハードモードのMom's Heartをアザゼルで倒す。
+* [![image](/image/achievements/Daemon%27s_Tail.png)](/wiki/Daemon%27s_Tail "Daemon's Tail") [Daemon's Tail](/wiki/Daemon%27s_Tail "Daemon's Tail") - Satanをアザゼルで倒す。
+* [![image](/image/achievements/Satanic_Bible.png)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible") - Issacをアザゼルで倒す。
+* [![image](/image/achievements/Demon_Baby.png)](/wiki/Demon_Baby "Demon Baby") [Demon Baby](/wiki/Demon_Baby "Demon Baby") - The Lambをアザゼルで倒す。
+* [![image](/image/achievements/Abaddon.png)](/wiki/Abaddon "Abaddon") [Abaddon](/wiki/Abaddon "Abaddon") - ???をアザゼルで倒す。
+* [![image](/image/achievements/Lilith.png)](/wiki/Lilith "Lilith") [Lilith](/wiki/Lilith "Lilith") - (Added in Afterbirth) Ultra Greedをアザゼルで倒す。
+* [![image](/image/achievements/Bat_Wing.png)](/wiki/Bat_Wing "Bat Wing") [Bat Wing](/wiki/Bat_Wing "Bat Wing") - (Added in Afterbirth+) Ultra Greedierをアザゼルで倒す。
+* [![image](/image/achievements/Maw_of_the_Void.png)](/wiki/Maw_of_the_Void "Maw of the Void") [Maw of the Void](/wiki/Maw_of_the_Void "Maw of the Void") - (Added in Afterbirth) Hushをアザゼルで倒す。
+* [![image](/image/achievements/Black_Baby.png)](/wiki/Black_Baby "Black Baby") [Black Baby](/wiki/Black_Baby "Black Baby") - (Added in Afterbirth) Mega Satanをアザゼルで倒す。
+* [![image](/image/achievements/Dark_Prince%27s_Crown.png)](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown") [Dark Prince's Crown](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown") - (Added in Afterbirth+) Deliriumをアザゼルで倒す。
+* [![image](/image/achievements/Devil%27s_Crown.png)](/wiki/Devil%27s_Crown "Devil's Crown") [Devil's Crown](/wiki/Devil%27s_Crown "Devil's Crown") - (Added in Repentance) Motherをアザゼルで倒す。
+* [![image](/image/achievements/Lil_Abaddon.png)](/wiki/Lil_Abaddon "Lil Abaddon") [Lil Abaddon](/wiki/Lil_Abaddon "Lil Abaddon") - (Added in Repentance) The Beastをアザゼルで倒す。
+* [![image](/image/achievements/The_Benighted.png)](/wiki/The_Benighted "The Benighted") [The Benighted](/wiki/The_Benighted "The Benighted") - (Added in Repentance) アザゼルでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/Sucky_Baby.png)](/wiki/Sucky_Baby "Sucky Baby") [Sucky Baby](/wiki/Sucky_Baby "Sucky Baby") - (Added in Afterbirth) アザゼルですべてのハードモード完了のマークを獲得する。

@@ -10,13 +10,13 @@
 -------
 
 
-|ライフ|ダメージ|ティア|ショットスピード|
-|:----:|---|---|---|
-|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|
+|ライフ|ダメージ|ティア|ショットスピード|レンジ|スピード|
+|:----:|:--:|:--:|:--:|:--:|:--:|
+|![image](/image/characters/r-heart.png) ![image](/image/characters/r-heart.png)|3.5 (x1.00)|0|1|6.5|1|
 
-|レンジ|スピード|ラック|初期ピックアップ|初期アイテム|
-|:--:|:--:|:--:|:--:|:--:|
-|6.5|1|0|(Added in Afterbirth†) Void|[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")|
+|ラック|初期ピックアップ|初期アイテム|
+|:--:|:--:|:--:|
+|0|無し|(Added in Afterbirth†)[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")|
 
 
 概要
@@ -51,18 +51,18 @@
 --------------------------------------------------------------
 
 
-* [![image](/image/achievements/Locust_of_Conquest.png)](/wiki/Locust_of_Conquest "Locust of Conquest") [Locust of Conquest](/wiki/Locust_of_Conquest "Locust of Conquest") アポリオンでボスラッシュを完了する。
-* [![image](/image/achievements/Smelter.png)](/wiki/Smelter "Smelter") [Smelter](/wiki/Smelter "Smelter") ハードモードのMom's Heartをアポリオンで倒す。
-* [![image](/image/achievements/Locust_of_Pestilence.png)](/wiki/Locust_of_Pestilence "Locust of Pestilence") [Locust of Pestilence](/wiki/Locust_of_Pestilence "Locust of Pestilence") Satanをアポリオンで倒す。
-* [![image](/image/achievements/Locust_of_Wrath.png)](/wiki/Locust_of_Wrath "Locust of Wrath") [Locust of Wrath](/wiki/Locust_of_Wrath "Locust of Wrath") Issacをアポリオンで倒す。
-* [![image](/image/achievements/Locust_of_Death.png)](/wiki/Locust_of_Death "Locust of Death") [Locust of Death](/wiki/Locust_of_Death "Locust of Death") The Lambをアポリオンで倒す。
-* [![image](/image/achievements/Locust_of_Famine.png)](/wiki/Locust_of_Famine "Locust of Famine") [Locust of Famine](/wiki/Locust_of_Famine "Locust of Famine") ???をアポリオンで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Brown_Nugget.png)](/wiki/Brown_Nugget "Brown Nugget") [Brown Nugget](/wiki/Brown_Nugget "Brown Nugget") Ultra Greedをアポリオンで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Black_Rune.png)](/wiki/Black_Rune "Black Rune") [Black Rune](/wiki/Black_Rune "Black Rune") Ultra Greedierをアポリオンで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Hushy.png)](/wiki/Hushy "Hushy") [Hushy](/wiki/Hushy "Hushy") Hushをアポリオンで倒す。
-* (Added in Afterbirth) [![image](/image/achievements/Mort_Baby.png)](/wiki/Mort_Baby "Mort Baby") [Mort Baby](/wiki/Mort_Baby "Mort Baby") Mega Satanをアポリオンで倒す。
-* (Added in Afterbirth+) [![image](/image/achievements/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void") Deliriumをアポリオンで倒す。
-* (Added in Repentance) [![image](/image/achievements/Lil_Portal.png)](/wiki/Lil_Portal "Lil Portal") [Lil Portal](/wiki/Lil_Portal "Lil Portal") Motherをアポリオンで倒す。
-* (Added in Repentance) [![image](/image/achievements/Worm_Friend.png)](/wiki/Worm_Friend "Worm Friend") [Worm Friend](/wiki/Worm_Friend "Worm Friend") The Beastをアポリオンで倒す。
-* (Added in Repentance) [![image](/image/achievements/The_Empty.png)](/wiki/The_Empty "The Empty") [The Empty](/wiki/The_Empty "The Empty") アポリオンでRed Keyを使いHomeにある隠されたクローゼットを開く。
-* (Added in Afterbirth) [![image](/image/achievements/Apollyon_Baby.png)](/wiki/Apollyon_Baby "Apollyon Baby") [Apollyon Baby](/wiki/Apollyon_Baby "Apollyon Baby") アポリオンですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/Locust_of_Conquest.png)](/wiki/Locust_of_Conquest "Locust of Conquest") [Locust of Conquest](/wiki/Locust_of_Conquest "Locust of Conquest") - アポリオンでボスラッシュを完了する。
+* [![image](/image/achievements/Smelter.png)](/wiki/Smelter "Smelter") [Smelter](/wiki/Smelter "Smelter") - ハードモードのMom's Heartをアポリオンで倒す。
+* [![image](/image/achievements/Locust_of_Pestilence.png)](/wiki/Locust_of_Pestilence "Locust of Pestilence") [Locust of Pestilence](/wiki/Locust_of_Pestilence "Locust of Pestilence") - Satanをアポリオンで倒す。
+* [![image](/image/achievements/Locust_of_Wrath.png)](/wiki/Locust_of_Wrath "Locust of Wrath") [Locust of Wrath](/wiki/Locust_of_Wrath "Locust of Wrath") - Issacをアポリオンで倒す。
+* [![image](/image/achievements/Locust_of_Death.png)](/wiki/Locust_of_Death "Locust of Death") [Locust of Death](/wiki/Locust_of_Death "Locust of Death") - The Lambをアポリオンで倒す。
+* [![image](/image/achievements/Locust_of_Famine.png)](/wiki/Locust_of_Famine "Locust of Famine") [Locust of Famine](/wiki/Locust_of_Famine "Locust of Famine") - ???をアポリオンで倒す。
+* [![image](/image/achievements/Brown_Nugget.png)](/wiki/Brown_Nugget "Brown Nugget") [Brown Nugget](/wiki/Brown_Nugget "Brown Nugget") - (Added in Afterbirth) Ultra Greedをアポリオンで倒す。
+* [![image](/image/achievements/Black_Rune.png)](/wiki/Black_Rune "Black Rune") [Black Rune](/wiki/Black_Rune "Black Rune") - (Added in Afterbirth+) Ultra Greedierをアポリオンで倒す。
+* [![image](/image/achievements/Hushy.png)](/wiki/Hushy "Hushy") [Hushy](/wiki/Hushy "Hushy") - (Added in Afterbirth) Hushをアポリオンで倒す。
+* [![image](/image/achievements/Mort_Baby.png)](/wiki/Mort_Baby "Mort Baby") [Mort Baby](/wiki/Mort_Baby "Mort Baby") - (Added in Afterbirth) Mega Satanをアポリオンで倒す。
+* [![image](/image/achievements/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void") - (Added in Afterbirth+) Deliriumをアポリオンで倒す。
+* [![image](/image/achievements/Lil_Portal.png)](/wiki/Lil_Portal "Lil Portal") [Lil Portal](/wiki/Lil_Portal "Lil Portal") - (Added in Repentance) Motherをアポリオンで倒す。
+* [![image](/image/achievements/Worm_Friend.png)](/wiki/Worm_Friend "Worm Friend") [Worm Friend](/wiki/Worm_Friend "Worm Friend") - (Added in Repentance) The Beastをアポリオンで倒す。
+* [![image](/image/achievements/The_Empty.png)](/wiki/The_Empty "The Empty") [The Empty](/wiki/The_Empty "The Empty") - (Added in Repentance) アポリオンでRed Keyを使いHomeにある隠されたクローゼットを開く。
+* [![image](/image/achievements/Apollyon_Baby.png)](/wiki/Apollyon_Baby "Apollyon Baby") [Apollyon Baby](/wiki/Apollyon_Baby "Apollyon Baby") - (Added in Afterbirth) アポリオンですべてのハードモード完了のマークを獲得する。
