@@ -1,8 +1,6 @@
 +++
 +++
 
-#### ※この記事は翻訳作業中です
-
  # アポリオン(Apollyon)
  ![image](/image/characters/Apollyon.png) 
 
@@ -16,35 +14,35 @@
 
 |ラック|初期ピックアップ|初期アイテム|
 |:--:|:--:|:--:|
-|0|無し|(Added in Afterbirth†)[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")|
+|0|無し|(Added in Afterbirth+)[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")|
 
 
 概要
 -------
 
+アポリオンはアフターバースで追加されたキャラクター。初めてメガサタンを倒した後にアンロックされる。  
+アポリオンは2つの赤ハートコンテナと[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")を持ってスタートする。
 
 ノート
 -------
 
-* Knowing most item effects is very important for Apollyon, as you want to know whether or not to absorb something.
-* [![image](/image/The_Battery.png)](/wiki/The_Battery "The Battery") [The Battery](/wiki/The_Battery "The Battery") and [![image](/image/Charged_Baby.png)](/wiki/Charged_Baby "Charged Baby") [Charged Baby](/wiki/Charged_Baby "Charged Baby") allow [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void") to be used twice consecutively without going into other rooms. This is helpful if you want to use [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void") to fight the boss and then absorb the item after defeating it after all rooms have been cleared, or when a Devil/Angel Room spawns after defeating the boss and you do not have [![image](/image/Goat_Head.png)](/wiki/Goat_Head "Goat Head") [Goat Head](/wiki/Goat_Head "Goat Head") or [![image](/image/Eucharist.png)](/wiki/Eucharist "Eucharist") [Eucharist](/wiki/Eucharist "Eucharist").
-* (Removed in Repentance) [![image](/image/There%27s_Options.png)](/wiki/There%27s_Options "There's Options") [There's Options](/wiki/There%27s_Options "There's Options") and [![image](/image/More_Options.png)](/wiki/More_Options "More Options") [More Options](/wiki/More_Options "More Options") are amazing items for Apollyon, as they give the opportunity to absorb twice as many items that could increase his stats or add to his actives collection.
-* (Added in Repentance) Absorbing passive items from a room with choice pedestals will count as absorbing only one of them, this includes pedestals added by [![image](/image/There%27s_Options.png)](/wiki/There%27s_Options "There's Options") [There's Options](/wiki/There%27s_Options "There's Options") and [![image](/image/More_Options.png)](/wiki/More_Options "More Options") [More Options](/wiki/More_Options "More Options"). Choice rooms can still be effective for copying active item effects, however.
-* (Added in Repentance) Void can be used during the 'item get' animation to absorb the held item. This allows Apollyon to absorb undesirable devil and shop items, albeit by paying their cost first. It can also be used on items formerly unidentified due to the [Curse of the Blind](/wiki/Curses "Curses") (Pausing is recommended right after picking up the item to properly check what it is before absorbing it or not).
-* Finding a [Library](/wiki/Library "Library") can be very powerful as Apollyon can use [![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void") to gain numerous amounts of active effects from one room.
-	+ However, it is not recommended to absorb a few books for the following reasons:
-		- [![image](/image/The_Bible.png)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible") will instantly kill you if used while fighting [Satan](/wiki/Satan "Satan"). However, taking it is fine as long as you don't forget you have it or aren't fighting him.
-		- (Added in Repentance) [![image](/image/Satanic_Bible.png)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible") replaces the boss item with a Devil Deal, which could be bad if low on health. Devil deals also cannot be absorbed until they've been paid for.
-		- [![image](/image/How_to_Jump.png)](/wiki/How_to_Jump "How to Jump") [How to Jump](/wiki/How_to_Jump "How to Jump") causes a sudden movement, which can potentially throw you into an enemy or trap you behind rocks (the latter can be fixed by leaving the run and continuing).
-		- (Added in Repentance)[![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues") is treated as a passive item if absorbed by Void. It's much better to take Book of Virtues and gain the passive wisp effect over a minor stat boost.
-	+ It's also a good idea to touch at least three books if possible before using Void, to get the free [Bookworm](/wiki/Bookworm "Bookworm") transformation.
-
-
+* アポリオンは[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")を使って何を吸収するか判断するためにアイテムの効果を知る事が重要となる。
+* [![image](/image/The_Battery.png)](/wiki/The_Battery "The Battery") [The Battery](/wiki/The_Battery "The Battery")や[![image](/image/Charged_Baby.png)](/wiki/Charged_Baby "Charged Baby") [Charged Baby](/wiki/Charged_Baby "Charged Baby")を活用する事で[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")を2回連続で使う事が可能になる。全ての部屋をクリアした後にアイテムを吸収したい場合やボスを倒した後に悪魔/天使部屋が出現し[![image](/image/Goat_Head.png)](/wiki/Goat_Head "Goat Head") [Goat Head](/wiki/Goat_Head "Goat Head")や[![image](/image/Eucharist.png)](/wiki/Eucharist "Eucharist") [Eucharist](/wiki/Eucharist "Eucharist")を持っていない場合に役立つ。
+* [![image](/image/There%27s_Options.png)](/wiki/There%27s_Options "There's Options") [There's Options](/wiki/There%27s_Options "There's Options")と[![image](/image/More_Options.png)](/wiki/More_Options "More Options") [More Options](/wiki/More_Options "More Options")は吸収出来るアイテムを2倍にするチャンスを与えてくれる。
+* 複数の台座から1つだけアイテムを入手出来る部屋からパッシブアイテムを[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")で吸収するとそのうちの1つだけ吸収されたことになる。これは[![image](/image/There%27s_Options.png)](/wiki/There%27s_Options "There's Options") [There's Options](/wiki/There%27s_Options "There's Options")や[![image](/image/More_Options.png)](/wiki/More_Options "More Options") [More Options](/wiki/More_Options "More Options")によって追加された台座にも反映される。ただし、複数の台座からアクティブアイテムの効果をコピーする事は可能。
+* アイテムを取得しているアニメーション中に[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")を使用すると、掲げているアイテムを吸収する事ができる。これによりアポリオンは必要無い悪魔部屋やショップのアイテムを吸収する事が出来る。また、呪いにより識別されていないアイテムを吸収する事も出来る。アイテム取得直後にポーズをして、吸収する前になんのアイテムか確認することをおすすめします。
+* アポリオンは[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")を使用して1つの部屋から大量のアクティブ効果を得る事が出来るため、図書館を見つける事は非常に強力となる。  
+	+ ただし、次の理由から数冊の本は吸収することをおすすめできない。
+		- [![image](/image/The_Bible.png)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible")をサタンと戦っている場合に使用すると即座に死んでしまう。[![image](/image/The_Bible.png)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible")をコピーしていることを忘れないか、サタンと戦わない限り[![image](/image/The_Bible.png)](/wiki/The_Bible "The Bible") [The Bible](/wiki/The_Bible "The Bible")を吸収しても問題ない。
+		- [![image](/image/Satanic_Bible.png)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible")はボスアイテムを悪魔取引に置き換えてしまうので体力が低い場合は注意したい。体力で取引するまでは吸収する事が出来ない。
+		- [![image](/image/How_to_Jump.png)](/wiki/How_to_Jump "How to Jump") [How to Jump](/wiki/How_to_Jump "How to Jump")はジャンプする事で敵と接触したり、岩の後ろに閉じ込められる可能性がある。岩の後ろに閉じ込められる等した場合は一度メニュー画面に戻りコンテニューする事で戻る事ができる。
+		- [![image](/image/Book_of_Virtues.png)](/wiki/Book_of_Virtues "Book of Virtues") [Book of Virtues](/wiki/Book_of_Virtues "Book of Virtues")は[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")で吸収した場合パッシブアイテムとして扱われます。取得してウィスプを生成する効果を得たほうが良い。
+	+ Bookwormの変身をする為に可能であれば3冊の本を取得する事をおすすめする。
 
 アイテム効果
 -------------------
 
-* (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Using [Void](/wiki/Void "Void") has a chance to spawn an item previously destroyed by it while keeping the bonus stats. The more items absorbed into [Void](/wiki/Void "Void") the higher chance for an item to spawn upon activation. Has no effect if [Void](/wiki/Void "Void") is not held.
+* (Added in Repentance) [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright")：[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")を使用すると上昇したステータスを維持したまま、以前に吸収したアイテムをスポーンする事がある。[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")に吸収したアイテムが多いほど使用時にアイテムをスポーンする確率が高くなる。[![image](/image/Void.png)](/wiki/Void "Void") [Void](/wiki/Void "Void")を保持していないと効果がない。
 
 
 解放される要素 ([実績](/wiki/Achievements "Achievements"))

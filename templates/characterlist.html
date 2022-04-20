@@ -40,9 +40,14 @@
         {% set life = cell | split(pat="|") %}
         <td nowrap>
         {% for l in life %}
-            {% set imgpath = ["/image/characters/", l, "-heart.png"] | join() %}
-            {% set image = resize_image(path=imgpath, width=10, height=10, op="fit_height") %}
-            <img src="{{ image.url }}">
+			{% if l == "-" %}
+				-
+			{% else %}
+				{% set imgpath = ["/image/characters/", l, "-heart.png"] | join() %}
+				{% set image = resize_image(path=imgpath, width=10, height=10, op="fit_height") %}
+				<img src="{{ image.url }}">
+			{% endif %}
+            
         {% endfor %}
         </td>
         {% elif loop.index == 10 %}
