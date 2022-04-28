@@ -66,7 +66,7 @@
 ### 有利なアイテム
 
 * 汚染サムソンは敵と至近距離まで接近するため、接触ダメージを受けることが多い。  
-結果、ダメージを受けた時に効果が発動するアイテム([![image](/image/Anemic.png)](/wiki/Anemic "Anemic") [Anemic](/wiki/Anemic "Anemic")や[![image](/image/Dead_Bird.png)](/wiki/Dead_Bird "Dead Bird") [Dead Bird](/wiki/Dead_Bird "Dead Bird")など)や敵と接触したときに発動するアイテム([![image](/image/E._Coil.png)](/wiki/E._Coil "E. Coil") [E. Coil](/wiki/E._Coil "E. Coil")や[![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss")など)、ダメージを受けた時にアイテムをドロップするアイテム([![image](/image/Gimpy.png)](/wiki/Gimpy "Gimpy") [Gimpy](/wiki/Gimpy "Gimpy")や[![image](/image/Old_Bandage.png)](/wiki/Old_Bandage "Old Bandage") [Old Bandage](/wiki/Old_Bandage "Old Bandage")など)と相性がいい。
+結果、ダメージを受けた時に効果が発動するアイテム([![image](/image/Anemic.png)](/wiki/Anemic "Anemic") [Anemic](/wiki/Anemic "Anemic")や[![image](/image/Dead_Bird.png)](/wiki/Dead_Bird "Dead Bird") [Dead Bird](/wiki/Dead_Bird "Dead Bird")など)や敵と接触したときに発動するアイテム([![image](/image/E._Coli.png)](/wiki/E._Coli "E. Coli") [E. Coli](/wiki/E._Coli "E. Coli")や[![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss")など)、ダメージを受けた時にアイテムをドロップするアイテム([![image](/image/Gimpy.png)](/wiki/Gimpy "Gimpy") [Gimpy](/wiki/Gimpy "Gimpy")や[![image](/image/Old_Bandage.png)](/wiki/Old_Bandage "Old Bandage") [Old Bandage](/wiki/Old_Bandage "Old Bandage")など)と相性がいい。
 * 体力が上昇するアイテムは汚染サムソンが接近戦を好むため推奨される。
 * オービタルファミリアは汚染サムソンが狂乱状態の間、ダメージを与えるのに有効活用できる。  
 ダメージを与えないものでも弾を防ぐものであれば流れ弾を吸収するので有用となる。
