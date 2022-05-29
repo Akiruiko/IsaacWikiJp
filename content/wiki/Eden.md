@@ -1,8 +1,6 @@
 +++
 +++
 
-#### ※この記事は翻訳作業中です
-
  # エデン(Eden)
  ![image](/image/characters/Eden.png) 
 
@@ -21,27 +19,37 @@
 概要
 -------
 
+エデンはThe binding of isaac：Rebirthで新しく追加されたキャラクターだ。[[Womb]]を始めて攻略したときに解禁される。
+
+エデンはエデントークンを1つ以上持っている場合にのみプレイできるユニークなキャラクターだ。  
+エデントークンはMom's Heart、It Lives、(Added in Afterbirth) Ultra Greed、(Added in Repentance) The Beastを1回倒すごとに1つ獲得できる。  
+エデンでゲームを開始するたびに、トークンを1つ消費してシード値を基準にした様々なヘアスタイル、ランダムな基本ステータスおよびランダムなアイテムを2つ取得したエデンを生成する。
+
+エデンのステータスはアイザックのステータスを基準にしており、平均的に見ればアイザックと同じだが、ランによって大きく異なる場合がある。  
+このページで表示されるステータスは、アイザックのステータスを中心に一定量のプラスマイナスをした範囲です。
+
 
 ノート
 -------
 
-* Holding R to reset doesn't work with Eden, and every time you start a new run, you use up one Eden token.
-	+ After starting a run and transforming into another character (using items like [![image](/image/Ankh.png)](/wiki/Ankh "Ankh") [Ankh](/wiki/Ankh "Ankh") or (Added in Afterbirth †)[![image](/image/Clicker.png)](/wiki/Clicker "Clicker") [Clicker](/wiki/Clicker "Clicker")), holding R to reset will work and start a new run as Eden, even if you don't have tokens.
-	+ (Added in Afterbirth †) Holding R to reset will consume an Eden Token and start a new run.
-* (Removed in Repentance) Eden can start with most items, including [![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative") or [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid") if already unlocked.
-	+ [![image](/image/Key_Piece_1.png)](/wiki/Key_Piece_1 "Key Piece 1") [Key Piece 1](/wiki/Key_Piece_1 "Key Piece 1"), [![image](/image/Key_Piece_2.png)](/wiki/Key_Piece_2 "Key Piece 2") [Key Piece 2](/wiki/Key_Piece_2 "Key Piece 2"), (Added in Afterbirth †)[![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel"), (Added in Afterbirth †)[![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel") and (Added in Afterbirth †)[![image](/image/Mom%27s_Shovel.png)](/wiki/Mom%27s_Shovel "Mom's Shovel") [Mom's Shovel](/wiki/Mom%27s_Shovel "Mom's Shovel") cannot be granted.
-	+ (Added in Repentance) A new [noeden item tag](/wiki/Item_Tags_noeden "Item Tags noeden") has been introduced, which depicts items that Eden cannot start with. These also include [![image](/image/Knife_Piece_1.png)](/wiki/Knife_Piece_1 "Knife Piece 1") [Knife Piece 1](/wiki/Knife_Piece_1 "Knife Piece 1"), [![image](/image/Knife_Piece_2.png)](/wiki/Knife_Piece_2 "Knife Piece 2") [Knife Piece 2](/wiki/Knife_Piece_2 "Knife Piece 2"), [![image](/image/Dogma_(Item).png)](/wiki/Dogma_(Item) "Dogma") [Dogma](/wiki/Dogma_(Item) "Dogma (Item)"), [![image](/image/Dad%27s_Note.png)](/wiki/Dad%27s_Note "Dad's Note") [Dad's Note](/wiki/Dad%27s_Note "Dad's Note"), [![image](/image/Recall.png)](/wiki/Recall "Recall") [Recall](/wiki/Recall "Recall") and [![image](/image/Hold.png)](/wiki/Hold "Hold") [Hold](/wiki/Hold "Hold") cannot be granted.
-* Stats are assigned before items. For example, starting with [![image](/image/Bucket_of_Lard.png)](/wiki/Bucket_of_Lard "Bucket of Lard") [Bucket of Lard](/wiki/Bucket_of_Lard "Bucket of Lard") will make Eden spawn with however many hearts they started with, plus an additional two Red Heart containers (one half of which will be filled, the rest left empty).
-* Some of the items Eden can start with will instantly unlock certain [characters](/wiki/Character "Character") (e.g. Starting with [![image](/image/A_Dollar.png)](/wiki/A_Dollar "A Dollar") [A Dollar](/wiki/A_Dollar "A Dollar") while  [(Cain)](/wiki/Cain "Cain") [Cain](/wiki/Cain "Cain") has yet to be unlocked, or starting with (Added in Afterbirth)[![image](/image/PJs.png)](/wiki/PJs "PJs") [PJs](/wiki/PJs "PJs") before unlocking  [(Lazarus)](/wiki/Lazarus "Lazarus") [Lazarus](/wiki/Lazarus "Lazarus")).
-* Eden Tokens are not awarded for killing Mom's Heart or It Lives in [(The Void)](/wiki/The_Void "The Void") [The Void](/wiki/The_Void "The Void").
+* Rキーを長押ししてもリセットが効かず、新しく始めるたびにエデントークンを1つ消費する。（解釈的にはRキーでリセットしても同じアイテムでスタートすることができない　だと思います。）
+	+ ランを開始し別のキャラクターに変身した（ [![image](/image/Ankh.png)](/wiki/Ankh "Ankh") [Ankh](/wiki/Ankh "Ankh") アンクや (Added in Afterbirth +) [![image](/image/Clicker.png)](/wiki/Clicker "Clicker") [Clicker](/wiki/Clicker "Clicker") クリッカーを使用した）後に、Rキーでリセットをするとトークンが無くてもエデンのランを新しく開始することができる。
+	+ (Added in Afterbirth +) Rキーのリセットをするとエデントークンを消費して新しくランを始める。
+* (Removed in Repentance) エデンは [![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative")や [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid")を含むアンロックしているほとんどのアイテムを持ってスタートすることができる。
+	+ [![image](/image/Key_Piece_1.png)](/wiki/Key_Piece_1 "Key Piece 1") [Key Piece 1](/wiki/Key_Piece_1 "Key Piece 1")、 [![image](/image/Key_Piece_2.png)](/wiki/Key_Piece_2 "Key Piece 2") [Key Piece 2](/wiki/Key_Piece_2 "Key Piece 2")、 (Added in Afterbirth +) [![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel")、 (Added in Afterbirth +) [![image](/image/Mom%27s_Shovel.png)](/wiki/Mom%27s_Shovel "Mom's Shovel") [Mom's Shovel](/wiki/Mom%27s_Shovel "Mom's Shovel") を持ってスタートすることはできない。
+	+ (Added in Repentance) エデンが始めに持つことができないアイテムに印をつけたノーエデンアイテムタグを新しく導入した。  
+それには [![image](/image/Key_Piece_1.png)](/wiki/Key_Piece_1 "Key Piece 1") [Key Piece 1](/wiki/Key_Piece_1 "Key Piece 1")、[![image](/image/Key_Piece_2.png)](/wiki/Key_Piece_2 "Key Piece 2") [Key Piece 2](/wiki/Key_Piece_2 "Key Piece 2")、[![image](/image/Dogma_(Item).png)](/wiki/Dogma_(Item) "Dogma") [Dogma](/wiki/Dogma_(Item) "Dogma")、[![image](/image/Dad%27s_Note.png)](/wiki/Dad%27s_Note "Dad's Note") [Dad's Note](/wiki/Dad%27s_Note "Dad's Note")、[![image](/image/Recall.png)](/wiki/Recall "Recall") [Recall](/wiki/Recall "Recall")、[![image](/image/Hold.png)](/wiki/Hold "Hold") [Hold](/wiki/Hold "Hold")もスタートアイテムとして選ばれることはない。
+* ステータスはアイテムの前に割り振りが行われる。例えば、最初に [![image](/image/Bucket_of_Lard.png)](/wiki/Bucket_of_Lard "Bucket of Lard") [Bucket of Lard](/wiki/Bucket_of_Lard "Bucket of Lard") を所持しているとエデンは2つの赤ハートコンテナ（半分は満タン、残りは空の状態）が増えた状態でスタートする。
+* エデンがスタートアイテムとして所持する中には、特定のキャラクターを即座に解禁するものがある。（例：[![image](/image/A_Dollar.png)](/wiki/A_Dollar "A Dollar") [A Dollar](/wiki/A_Dollar "A Dollar")でスタートするとケインを即座にアンロックし、(Added in Afterbirth) [![image](/image/PJs.png)](/wiki/PJs "PJs") [PJs](/wiki/PJs "PJs")を持ってスタートすると即座にラザルスをアンロックする。）
+* The VoidでMom's HeartやIt Livesを倒してもエデントークンを得ることはできない。
 
 
 アイテム効果
 -------------------
 
-* (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Spawns 3 random items from random item pools. Only one can be taken.
-* (Added in Repentance)[![image](/image/Genesis.png)](/wiki/Genesis "Genesis") [Genesis](/wiki/Genesis "Genesis"): If Eden uses Genesis it will reroll the character as if it was a new run (new starting items, new hairstyle and new stats).
-* (Added in Afterbirth)[![image](/image/Glowing_Hour_Glass.png)](/wiki/Glowing_Hour_Glass "Glowing Hour Glass") [Glowing Hour Glass](/wiki/Glowing_Hour_Glass "Glowing Hour Glass"): If Eden starts with this item and immediately uses it in the starting room, they will reset the room and remove their starting items.
+* (Added in Repentance) [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") 出生権：取った瞬間に1回限りでランダムなアイテムプールからランダムなアイテムを3つ取得する。
+* (Added in Repentance) [![image](/image/Genesis.png)](/wiki/Genesis "Genesis") [Genesis](/wiki/Genesis "Genesis")：エデンで[![image](/image/Genesis.png)](/wiki/Genesis "Genesis") [Genesis](/wiki/Genesis "Genesis")を使用すると新しいランを始めるようにリロールする。（新たなスタートアイテム、新たな髪型、新たなステータス）
+* (Added in Afterbith) [![image](/image/Glowing_Hour_Glass.png)](/wiki/Glowing_Hour_Glass "Glowing Hour Glass") [Glowing Hour Glass](/wiki/Glowing_Hour_Glass "Glowing Hour Glass")：エデンがこのアイテムを持ってスタートし、初期地点で使用するとルームがリセットされ、スタートアイテムが消える。
 
 
 解放される要素 ([実績](/wiki/Achievements "Achievements"))

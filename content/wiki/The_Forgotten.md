@@ -19,6 +19,12 @@
 |0|無し|ボーンクラブ|
 
 
+概要
+-------
+
+ザ・フォーガットンは、Booster Pack #5で追加されたBonyに似た隠しキャラクター。通常の涙を発射することはできず、代わりに近接武器として振ったり投げたりすることができるこん棒を持っている。  
+ザ・フォーガットンは通常のハートコンテナを入手できない。入手した通常のハートコンテナはすべて骨ハートになり、青ハートや黒ハートは霊体に与えられます。ザ・フォーガットンとザ・ソウルは体力の枠を共有しているので、最大の体力は通常の12個ではなく各最大6個までになる。
+
 ザ　ソウル
 ----------
 
@@ -34,205 +40,190 @@
 |:--:|:--:|:--:|
 |0|無し|飛行<br />地形貫通する涙|
 
-Pressing the swap key (CTRL on PC / R2 on PS4 / RT on Xbox / ZR on Switch) will switch control to **The Soul**, a blue ghost chained to The Forgotten who fires spectral tears and can fly. 
+交換キー(PCはCTRL、PS4はR2、XboxはRT、SwitchはZR)を押すと、制御がザ・ソウルに切り替わる。ザ・ソウルは地形貫通効果の涙を発射でき、飛行能力を持つ、ザ・フォーガットンに鎖でつながれた青い霊体の姿をしている。
 
-While controlling The Soul, The Forgotten cannot take damage, blocks all normal shots that touch it, and attracts shots in a small <1 tile radius. If The Soul dies, the run will end.
-
-
-概要
--------
-
+ザ・ソウルをコントロールしてる間、ザ・フォーガットンはダメージを受けず、触れるすべての通常の弾をブロックし、弾を引き寄せる効果を持っている(自分から1タイル未満の範囲のみ有効)。ザ・ソウルが死んでしまった場合、ゲームオーバーになる。
 
 ノート
 -------
 
-* The Forgotten's bone club deals 3× his damage when swung and 1.5× his damage when thrown. The melee attack deals knockback to enemies ((Added in Repentance)and occasionally The Forgotten himself) if it hits.
-	+ (Added in Repentance) At 22.50 [fire rate](/wiki/Tears "Tears") or above, he can no longer throw the bone club, and at 30.00 or above, the melee attack is automatically performed while holding shoot key.
-* The Forgotten's bone club passes through walls, obstacles, and enemies. Thrown bone club can hit an enemy up to twice (once on lauching path and once on returning path).
-* The Forgotten cannot take [deals with the Devil](/wiki/Deal_with_the_Devil "Deal with the Devil") as he only has bone hearts, but The Soul can with its soul hearts. If a deal would kill The Soul, quickly switching to The Forgotten will keep him alive.
-	+ If The Soul has no Hearts, switching to The Soul is disabled until another Soul or Black Heart is acquired.
-	+ Losing red hearts inside bone heart containers does not count as red heart damage for devil deal chances, but breaking bone heart containers does. (This includes breaking them through self-damaging items, Curse Room usage, Sacrifice Rooms, Devil Beggars, Blood Donation Machines, etc.)
-	+ (Added in Repentance) The Forgotten can take devil deals at the cost of Bone Hearts, equally to normal Red Hearts.
-		- (Added in Repentance) As such, it is possible to softlock the game by taking a deal that would kill The Forgotten and switching to The Soul.
-			* (Added in Repentance) It may be possible to avoid this softlock with (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"), since going through doorways as The Soul doesn't reset control to The Forgotten.
-* The Forgotten's melee attack can collect pickups and open chests.
-	+ Opening a [Mimic Chest](/wiki/Mimic_Chest "Mimic Chest") this way deals no damage.
-	+ [Bomb Chests](/wiki/Chests#Stone_Chest "Chests") cannot be opened this way. [Locked Chests](/wiki/Locked_Chest "Locked Chest") and [Eternal Chests](/wiki/Eternal_Chest "Eternal Chest") still require a key or the [(Paper Clip)](/wiki/Paper_Clip "Paper Clip") [Paper Clip](/wiki/Paper_Clip "Paper Clip") to open.
-	+ Items that can be moved but cannot be picked up are pushed. This can launch [bombs](/wiki/Bomb "Bomb") [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus")-style or knock [Troll Bombs](/wiki/Troll_Bomb "Troll Bomb") away.
-* The Forgotten has a higher chance of finding Bone Hearts compared to other characters.
-* [(Crow Heart)](/wiki/Crow_Heart "Crow Heart") [Crow Heart](/wiki/Crow_Heart "Crow Heart") prevents The Forgotten from losing bone heart containers as long as it still has red health.
-* The [shot speed](/wiki/Shot_speed "Shot speed") and [tear height](/wiki/Tear_height "Tear height") stats have no effect on The Forgotten's melee attack or bone toss.
-* The [range](/wiki/Range "Range") stat increases how far away from The Forgotten the melee attack's arcs appear. It doesn't affect the bone toss.
-* The range of the melee attack scales with character size, but if character size is smaller than initial size, the melee attack range does not become smaller than initial.
-* To switch between two pills/cards, press the swap key twice quickly.
-* Picking up health upgrades as The Soul will convert them into soul hearts, just like  [(???)](/wiki/%3F%3F%3F_(Character) "???") [???](/wiki/%3F%3F%3F_(Character) "??? (Character)"). It's generally advisable to pick up health as The Forgotten, since bone hearts are much rarer.
-* (Removed in Repentance)Unidentified pills are more safely consumed in Soul form, as a [Hematemesis](/wiki/Hematemesis "Hematemesis") pill can be very detrimental for The Forgotten but has no negative effect when consumed as The Soul.
-	+ [Health Down](/wiki/Health_Down "Health Down") pills are converted to [Health Up](/wiki/Health_Up "Health Up") for both forms, but the empty bone heart gained may be risky for retaining Devil Room chances.
-	+ (Added in Repentance) Health Down pills aren't converted to Health Up anymore.
-* (Added in Repentance) With (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"), the player can leave The Forgotten's body in a room and move to a different room with The Soul. When the player switches control back to The Forgotten, The Soul instantly teleports back to the other room where the body was left in.
-	+ (Added in Repentance) This makes it possible to enter and leave [Curse Rooms](/wiki/Curse_Room "Curse Room") entirely without taking damage - leave the body outside of the Curse Room, go into the Curse Room as The Soul, then switch control to leave.
-	+ (Added in Repentance) This behavior can possibly complicate things at the [Rotgut](/wiki/Rotgut "Rotgut") fight - after the player defeats the third phase of the boss as The Soul and is ejected back into the boss room, switching control back to The Forgotten will teleport the player back into the third phase of the fight, with that phase of the boss having respawned.
-* In Co-Op mode, if The Forgotten dies, their ghost baby will wield the bone club instead of firing tears.
+* ザ・フォーガットンのこん棒は、振った時に3倍のダメージを与え、投げた時に1.5倍のダメージを与える。近接攻撃がヒットしたとき、敵をノックバックする。 ((Added in Repentance)  場合によっては自分自身にも) 
+	+ (Added in Repentance)ティアが22.50以上の時、こん棒を投げることができなくなり、30.00以上では攻撃を押しっぱなしにすると自動的に攻撃する。
+* ザ・フォーガットンのこん棒は壁、障害物、敵を通り抜ける。投げられたこん棒は、最大2回(1回目のヒットは行きで、2回目のヒットは戻りで)敵を攻撃できる。
+* ザ・フォーガットンは骨ハートしかもっていないので、悪魔取引をすることはできないが、ザ・ソウルは青ハートを持っているので取引をできる。取引したときにザ・ソウルが死んでしまう場合、すぐにザ・フォーガットンに切り替えることで生き残ることができる。
+	+ ザ・ソウルがハートを持っていないとき、新たに青ハートもしくは黒ハートを手に入れるまで、ザ・ソウルへの切り替えはできなくなる。
+	+ 骨ハートの中の赤ハートを失うことは悪魔取引のチャンスを減らすダメージとして数えられないが、骨ハートが壊れた時悪魔取引のチャンスが減る。(自傷アイテム、呪い部屋のトゲ、生贄部屋のトゲ、悪魔乞食、献血機を利用した場合でも骨ハートが壊れれば悪魔取引のチャンスは減る。)
+	+ (Added in Repentance)ザ・フォーガットンは通常の赤ハートと同じように、骨ハートを犠牲にして悪魔取引を行うことができる。
+		+ (Added in Repentance)そのため、ザ・フォーガットンでハートが無くなるように悪魔取引をしてザ・ソウルに切り替えた場合、ゲームをソフトロックすることができる。
+			+ (Added in Repentance)(Added in Repentance) [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright")を使用することでこのソフトロックを回避できる可能性がある。
+* ザ・フォーガットンの近接攻撃は、ピックアップを取得したり、チェストを開くことができる。
+	+ この方法でミミックチェストを開いてもダメージはない。
+	+ ボムチェストはこの方法で開くことはできない。金チェストとエターナルチェストを開くには、カギもしくは[![image](/image/Paper_Clip.png)](/wiki/Paper_Clip "Paper Clip") [Paper Clip](/wiki/Paper_Clip "Paper Clip")ペーパークリップが必要。
+	+ 動かせるが拾えないアイテムは近接攻撃でプッシュできる。これを利用して[![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus")のように爆弾を発射することができる。また、トロールボムを遠くに吹き飛ばせる。
+* ザ・フォーガットンは、他のキャラクターと比較して、骨ハートを見つける確率が高くなります。
+* [![image](/image/Crow_Heart.png)](/wiki/Crow_Heart "Crow Heart") [Crow Heart](/wiki/Crow_Heart "Crow Heart")は、骨ハートに赤ハートが入っている限り、骨ハートの器を失うことを防ぐ。
+* ショットスピードとティアの高さのステータスはザ・フォーガットンの近接攻撃や骨を投げるのに影響を与えない。
+* レンジのステータスはザ・フォーガットンの近接攻撃の弧が出る距離を増やす。骨投げには影響しない。
+* 近接攻撃の範囲は体のサイズに比例するが、キャラクターのサイズが初期サイズより小さい場合、近接攻撃の範囲は初期サイズより小さくならない。
+* 2つのピル/カードを切り替えるには、交換キーをすばやく2回押すことで切り替えることができる。
+* ザ・ソウルが体力の増えるアイテムを手に入れた時、それは???のように青ハートに変換される。骨ハートは出現率が低いので、基本的にはザ・フォーガットンの体力を増やすために体力アップを取るほうが良い。
+* (Removed in Repentance)吐血ピルはザ・フォーガットンにとってとても有害な可能性があるが、ザ・ソウルで使用した時に悪影響がないので、分からないピルはザ・ソウル形態で使うと安全に使える。
+	+ ヘルスダウンピルは両方の形態でヘルスアップに変換されるが、得られた空の骨ハートは悪魔取引のチャンスを維持するのに危険かもしれない。
+	+ (Added in Repentance)ヘルスダウンピルはヘルスアップに変換されなくなった。
+* (Added in Repentance)(Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright")を使用すると、プレイヤーはザ・フォーガットンの体を部屋に残し、ザ・ソウルを使用して別の部屋に移動できる。プレイヤーがコントロールをザ・フォーガットンに戻すと、ザ・ソウルは体が残っている別の部屋にテレポートする。
+	+ (Added in Repentance)これにより、ダメージを受けることなく安全に呪い部屋に出入りすることができる。体を呪い部屋の外に置き、ザ・ソウルで呪いの部屋に入り、コントロールを切り替えて出られる。
+	+ (Added in Repentance)この動作はRotgutとの戦いで事態を複雑にする可能性がある。プレイヤーがザ・ソウルとしてボスの第3形態を倒し、ボスルームに戻された後、コントロールをザ・フォーガットンに戻すとプレイヤーがテレポートされ、戦いの第3形態に戻り、ボスが復活する。
+* 協力モードでは、ザ・フォーガットンが死んだ場合、ゴーストベイビーは涙を発射する代わりに骨を発射するようになる。
 
-
-Unlocking The Forgotten
+キャラクター解除方法
 -------------------------
 
 
-[The Lamb](/wiki/The_Lamb "The Lamb") must have been defeated previously before The Forgotten can be unlocked, and unlocking The Forgotten can be done in both Normal and Hard difficulty. Having [![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative") unlocked is recommended.
+ザ・フォーガットンのアンロックをするには先にラムを倒してなければいけない。ザ・フォーガットンのアンロックはノーマルとハードの両方で出来るが、[[The Negative]]のロックを解除しておいた方が良い。
 
+(Added in Repentance)ステップ1とステップ2は、(Added in Repentance) [![image](/image/Spindown_Dice.png)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice")を(Added in Repentance) [![image](/image/Mucormycosis.png)](/wiki/Mucormycosis "Mucormycosis") [Mucormycosis](/wiki/Mucormycosis "Mucormycosis")に使用することでスキップすることが可能。完成されたショベルにリロールされる。
 
-(Added in Repentance) Step 1 and Step 2 can be circumvented entirely if you use (Added in Repentance)[![image](/image/Spindown_Dice.png)](/wiki/Spindown_Dice "Spindown Dice") [Spindown Dice](/wiki/Spindown_Dice "Spindown Dice") on (Added in Repentance)[![image](/image/Mucormycosis.png)](/wiki/Mucormycosis "Mucormycosis") [Mucormycosis](/wiki/Mucormycosis "Mucormycosis"), as it will reroll into the completed Shovel.
-
-
-
-1. First, start a new unseeded run as any character. Defeat the first floor's boss within 1 minute. If done correctly, Mom will yell and the sound of running footsteps will play, then a large shadow of a shovel handle will loom over the floor of the starting room. Bombing anywhere in the starting room will spawn the [![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel"). Initially the shovel piece behaves like a pickup, laying on the floor, and turns into an active collectible only when touched for the first time.
-	* Holding the Broken Shovel will cause Mom to continually try to stomp Isaac. Using the Broken Shovel will stop the stomping for the current room, or the current wave of a multi-wave room such as the Boss Rush.
-		+ The stomps won't happen in the [Mom](/wiki/Mom "Mom") fight.
-		+ (Removed in Repentance) Stomps count as explosions, so [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac") or [![image](/image/Host_Hat.png)](/wiki/Host_Hat "Host Hat") [Host Hat](/wiki/Host_Hat "Host Hat") provide immunity to them.
-		+ Stomps break rocks and damage enemies. If the player has [![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf") and a lot of patience, the stomps will eventually clear most rooms.
-		+ Stomps will open secret rooms.
-	* On XL floors, only the last boss must be defeated. [The Emperor](/wiki/The_Emperor "The Emperor") Card allows the first boss to be skipped.
-	* Once the Broken Shovel is picked up, it ***must not*** be replaced by another active item. If it is on an item pedestal when Isaac leaves the room, it will disappear.
-		+ If Isaac has [![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag"), another active item can still be carried safely.
-			- (Added in Repentance)Mom still stomps if the Broken Shovel is carried in either Schoolbag slot.
-	* If playing in Co-op, Mom will only target the player with the Broken Shovel. If this character dies, the stomps will stop, and if they are resurrected, the stomps continue. If you beat Mom while the character holding the Broken Shovel is dead, the Boss Rush door is closed and the Womb entrance is sealed. If you have a card/pill/item that allows for teleportation, returning to Boss Room fixes this bug.
-	* (Added in Repentance) [![image](/image/Mama_Mega!.png)](/wiki/Mama_Mega! "Mama Mega!") [Mama Mega!](/wiki/Mama_Mega! "Mama Mega!") can also be used to spawn the [![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel").
-2. Next, clear [Boss Rush](/wiki/Boss_Rush "Boss Rush"). This will grant the second piece of the [![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel"), completing [![image](/image/Mom%27s_Shovel.png)](/wiki/Mom%27s_Shovel "Mom's Shovel") [Mom's Shovel](/wiki/Mom%27s_Shovel "Mom's Shovel").
-	* You should be careful if you're playing as [Tainted Isaac](/wiki/Tainted_Isaac "Tainted Isaac"). due to the fact that the 2nd piece of the broken shovel will be shifting between the shovel piece and a random item.
-	* The Broken Shovel ***must*** be held when the boss rush is beaten. Otherwise, only a normal boss rush completion item will drop.
-	* After defeating [Mom](/wiki/Mom "Mom"), if it is unlocked, only[![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative") will spawn, otherwise a standard boss item will spawn.
-	* If [![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative") is not unlocked you must use a [Sacrifice Room](/wiki/Sacrifice_Room "Sacrifice Room") to proceed to [(Dark Room)](/wiki/Dark_Room "Dark Room") [Dark Room](/wiki/Dark_Room "Dark Room"), ***you are not guaranteed to be able to do this on every run.***
-	* The normal 20-minute time limit to reach Boss Rush does not apply. The hole to [(Womb)](/wiki/Womb "Womb") [Womb](/wiki/Womb "Womb") after [Mom](/wiki/Mom "Mom") will be sealed until the Boss Rush is completed.
-	* After Mom's Shovel is acquired, Mom's feet will stop attempting to stomp Isaac.
-3. Finally, a single [Grave Room](/wiki/Grave_Room "Grave Room") with a [dirt patch](/wiki/Dirt_patch "Dirt patch") in its center will appear in the [(Dark Room)](/wiki/Dark_Room "Dark Room") [Dark Room](/wiki/Dark_Room "Dark Room"). Using Mom's Shovel while standing on the dirt patch unlocks The Forgotten.
-	* If the Grave Room is exited before the soul reaches the top of the screen, The Forgotten may not unlock.
-	* Holding Mom's Shovel prevents the beam of light to the Cathedral from appearing, forcing Isaac into the trapdoor to [(Sheol)](/wiki/Sheol "Sheol") [Sheol](/wiki/Sheol "Sheol").
-	* If stuck, confused, or frustrated, check the[![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel") page for tips and help.
-
+1. まず、任意のキャラクターでシードされていない新しいゲームを開始する。1分以内に1階のボスを倒す。成功するとママが怒鳴り、足音がなり、ショベルの柄の大きな影がスタートルームの床に浮かび上がる。スタートルームのどこかで爆弾を使うと、[![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel")がスポーンする。最初、ショベルピースはピックアップのように動作し、床に置かれて触れた時に初めてアクティブアイテムになる。
+	* ブロークンショベルを持っていると、ママは常にアイザックを踏みつけてくる。ブロークンショベルを使用すると、現在の部屋、またはボスラッシュなどの現在のウェーブのママの踏みつけが止まる。
+		+ ママとの戦いでは踏みつけは止まる。
+		+ (Removed in Repentance)踏みつけは爆発として判定されるため、[![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac")や[![image](/image/Host_Hat.png)](/wiki/Host_Hat "Host Hat") [Host Hat](/wiki/Host_Hat "Host Hat")で耐性を得られる。
+		+ 踏みつけは岩を破壊し、敵にダメージを与える。プレイヤーが[![image](/image/Gnawed_Leaf.png)](/wiki/Gnawed_Leaf "Gnawed Leaf") [Gnawed Leaf](/wiki/Gnawed_Leaf "Gnawed Leaf")と多くの時間をかけても良い場合、踏みつけでほとんどの部屋をクリアすることができる。
+		+ 踏みつけはシークレットルームを開くことができる。
+	* XLフロアでは最後のボスだけを倒す必要がある。エンペラーを使用すると、最初のボスをスキップできる。
+	* ブロークンショベルを手に取ったら、別のアクティブアイテムと交換してはいけない。アイザックが部屋を出るときにアイテムの台座にある場合、それは消えてしまう。
+		+ アイザックが[![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag")を持っていれば、別のアクティブなアイテムを安全に運ぶことができる。
+			- (Added in Repentance)ブロークンショベルがどちらかのスクールバッグに入っている場合、ママは踏みつけをする。
+	* 協力モードでプレイしている場合、ママはブロークンショベルを持っているプレイヤーのみをターゲットにする。このキャラが死んだ場合、踏みつけは停止し、復活した場合、踏みつけは続行される。ブロークンショベルを持っているキャラが死んでいる間にママを倒すと、ボスラッシュのドアが閉じられ、子宮の入り口が閉じられる。テレポートできるカード/ピル/アイテムを持っている場合、ボスルームに戻るとこのバグが修正される。
+	* (Added in Repentance) [![image](/image/Mama_Mega%21.png)](/wiki/Mama_Mega%21 "Mama Mega!") [Mama Mega!](/wiki/Mama_Mega%21 "Mama Mega!")は[![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel")をスポーンするためにも使用できる。
+2. 2.次にボスラッシュをクリアする。これにより、[![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel")の2つ目のショベルピースが付与され、[![image](/image/Mom%27s_Shovel.png)](/wiki/Mom%27s_Shovel "Mom's Shovel") [Mom's Shovel](/wiki/Mom%27s_Shovel "Mom's Shovel")が完成する。
+	* Tainted Isaacとしてプレイする場合、2つ目のショベルピースがランダムなアイテムと順番に変化するので注意が必要。
+	* ボスラッシュを倒すときは、ブロークンショベルを持っておく必要がある。それ以外のアイテムを持っていた場合は、通常のボスラッシュ報酬のみがドロップされる。
+	* ママを倒した後、ロックが解除されている場合は、[![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative")のみがスポーンする。それ以外の場合は、標準のボスアイテムがスポーンする。
+	* もし[![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative")がアンロックされていない場合は、生贄部屋を使用してDarkRoomに進む必要がある。すべてのプレイでこれを実行できるとは限らない。
+	* ボスラッシュに到達するための20分の制限時間は適用されない。ママの後の子宮へ続く穴はボスラッシュが完了するまで封印される。
+	* ママのショベルを取得した後、ママの足はアイザックを踏みつけるのをやめる。
+3. 3.最後に、中央に穴を掘ることが出来る墓室がダークルームに現れる。そこでママのショベルを使用して、ザ・フォーガットンをアンロックすることができる。
+	* ザ・ソウルが画面の上部に到達する前に部屋から出た場合、ザ・フォーガットンがアンロックされない場合がある。
+	* ママのショベルを持っていると、カセドラルへの光のビームが出現することを防ぎ、アイザックをシェオルへのトラップドアに引き込む。
+	* 行き詰ったり混乱したり、イライラした場合は、[![image](/image/Broken_Shovel.png)](/wiki/Broken_Shovel "Broken Shovel") [Broken Shovel](/wiki/Broken_Shovel "Broken Shovel")のページでヒントやヘルプを確認。
 
 アイテム効果
 -------------------
 
+多くのアイテムは、ザ・フォーガットンのこん棒やザ・フォーガットンとザ・ソウルの特徴的な体力システムとシナジーを持っている。ザ・ソウルの涙弾は正常に影響を受ける。
 
-
-Many items have unique interactions with The Forgotten's bone club or The Soul and The Forgotten's unique health system. The Soul's tears are affected normally.
-
-
-
-* [![image](/image/Abaddon.png)](/wiki/Abaddon "Abaddon") [Abaddon](/wiki/Abaddon "Abaddon"): Grants 2 black hearts to The Soul and empties The Forgotten's bone hearts, but doesn't remove them.
-* [![image](/image/Adrenaline.png)](/wiki/Adrenaline "Adrenaline") [Adrenaline](/wiki/Adrenaline "Adrenaline"): Empty bone hearts increase damage, but the damage buff is removed if the bone heart breaks.
-* (Added in Repentance)[![image](/image/Almond_Milk.png)](/wiki/Almond_Milk "Almond Milk") [Almond Milk](/wiki/Almond_Milk "Almond Milk"): Holding shoot key makes The Forgotten constantly perform his melee attack and releasing the key makes him throw his bone club. The delay between melee and bone toss attack is also removed.
-* [![image](/image/Angelic_Prism.png)](/wiki/Angelic_Prism "Angelic Prism") [Angelic Prism](/wiki/Angelic_Prism "Angelic Prism"): When the bone club hits the prism, the prism fires 4 bone clubs while the original bone club travels back to The Forgotten. The bone club will quadruple when passing through prism whether traveling away from or back towards The Forgotten. However, bone clubs fired from the prism will travel and spread out very quickly, making it hard to hit enemies with them unless they are close to the prism.
-* [![image](/image/Anti-Gravity.png)](/wiki/Anti-Gravity "Anti-Gravity") [Anti-Gravity](/wiki/Anti-Gravity "Anti-Gravity"): The bone's melee attack will linger in place briefly and can damage enemies, or even pick up items that move into the arc. Will not damage enemies more than once per swing. The throw is unaffected.
-	+ **Anti-Gravity** + **Mom's Knife**: As Mom's Knife allows hitting enemies more than once in a single swing, with Anti-Gravity it will hit enemies up to 4 times. The throw is unaffected.
-* (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): The Soul is unchained and free to move. It can leave The Forgotten behind and leave the room, and switching back teleports to the skeletal body even from hostile, closed rooms.
-* [![image](/image/Blood_Clot.png)](/wiki/Blood_Clot "Blood Clot") [Blood Clot](/wiki/Blood_Clot "Blood Clot"): The Forgotten has a 50% chance for Blood Clot effects to apply to melee or ranged attack. When Blood Clot effects are applied the bone will turn red.
-* [Bookworm](/wiki/Bookworm "Bookworm"): Bookworm transformation will make the bone swing go twice sometimes.
-* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The charged attack will spawn a Brimstone ball which will float in front of The Forgotten for a few seconds before disappearing. The Forgotten will still melee attack while performing this action.
-* (Added in Repentance)[![image](/image/C_Section.png)](/wiki/C_Section "C Section") [C Section](/wiki/C_Section "C Section"): Fetuses are skeletons that attack with bone clubs in addition to contact damage.
-* [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk"): The bone grows in size and damage as it is charged, but it cannot be thrown. Unlike regular tears, the bone swing cannot be spammed by rapidly tapping the attack button.
-* [![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")/[![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body"): Smaller bone shots appear whenever an enemy is hit with the melee attack. The throw is unaffected.
-* [![image](/image/Converter.png)](/wiki/Converter "Converter") [Converter](/wiki/Converter "Converter"): Takes (Removed in Repentance)two or (Added in Repentance)one soul or black hearts and gives a bone heart if used in Soul form. If The Soul runs out of hearts this way, it will not cause death but instead just automatically swap back to The Forgotten.
-* [![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye"): The Forgotten's bone toss attack is replaced with multiple rapid melee attacks, the number depending on how long the attack buttons are held.
-* [![image](/image/Dark_Bum.png)](/wiki/Dark_Bum "Dark Bum") [Dark Bum](/wiki/Dark_Bum "Dark Bum"): Makes it harder to keep The Forgotten's bone heart containers, since every red hearts on the floor will be collected and transformed into soul hearts, which can only be used by The Soul.
-* [![image](/image/Dark_Prince%27s_Crown.png)](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown") [Dark Prince's Crown](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown"): The crown activates at one full bone heart.
-* [![image](/image/Dead_Cat.png)](/wiki/Dead_Cat "Dead Cat") [Dead Cat](/wiki/Dead_Cat "Dead Cat"): Sets The Forgotten's bone hearts or The Soul's soul hearts to 1 depending on which form The Forgotten is in when picking the item up. If it's picked up as The Soul, The Forgotten is healed by 1 red heart.
-* [![image](/image/Dead_Eye.png)](/wiki/Dead_Eye "Dead Eye") [Dead Eye](/wiki/Dead_Eye "Dead Eye"): Each successful hit with the bone club will increase the damage multiplier.
-* [![image](/image/Dead_Tooth.png)](/wiki/Dead_Tooth "Dead Tooth") [Dead Tooth](/wiki/Dead_Tooth "Dead Tooth"): The green aura will become active when using melee and charging throw attack.
-* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): A live bomb will spawn on top of The Forgotten when he starts charging his attack. The Forgotten will toss bombs after releasing the charge, airborne bombs deal 1.5× his damage if they collide with an enemy with enough speed. Max distance is obtained with minimal charge. If the bomb explodes while charging, a normal ranged bone attack happens after releasing it. The melee is unaffected.
-	+ **Dr. Fetus** + (Added in Repentance)[![image](/image/Rocket_in_a_Jar.png)](/wiki/Rocket_in_a_Jar "Rocket in a Jar") [Rocket in a Jar](/wiki/Rocket_in_a_Jar "Rocket in a Jar"): The bomb is replaced with a rocket and can be held indefinitely.
-* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): The charge attack is replaced by a missile in The Forgotten's hand and a crosshair that may be moved. The missile is thrown at the crosshair when all attack buttons are released, with an additional melee swing in the same direction. Unlike Dr. Fetus, the missile can be held indefinitely without exploding in his hand. The melee attack is unaffected.
-	+ (Added in Repentance) **Epic Fetus** + [![image](/image/Stop_Watch.png)](/wiki/Stop_Watch "Stop Watch") [Stop Watch](/wiki/Stop_Watch "Stop Watch"): The missile is slowed and falls to the ground before reaching the crosshair, causing a slight range down on the missile attack.
-* [![image](/image/Euthanasia.png)](/wiki/Euthanasia "Euthanasia") [Euthanasia](/wiki/Euthanasia "Euthanasia"): Adds a chance for melee or throw to do triple damage. Attacks will not split into burst bone clubs or be able to kill normally unkillable enemies.
-	+ (Added in Repentance)The insta-kill ability from Euthanasia works as expected.
-* [![image](/image/Evil_Eye.png)](/wiki/Evil_Eye "Evil Eye") [Evil Eye](/wiki/Evil_Eye "Evil Eye"): As the Evil Eye projectile launches, it mimics The Forgotten's melee attack. After launching an Evil Eye projectile as The Forgotten and switching to The Soul, the Evil Eye projectile will continue the melee attack from The Forgotten. After launching an Evil Eye projectile as The Soul and switching to The Forgotten, the Evil Eye projectile will fire bones.
-* [![image](/image/Explosivo.png)](/wiki/Explosivo "Explosivo") [Explosivo](/wiki/Explosivo "Explosivo"): The Forgotten's club swing can attach explosives.
-	+ The short range of the club also increases the risk of attached explosives detonating and damaging the player.
-* [(Extension Cord)](/wiki/Extension_Cord "Extension Cord") [Extension Cord](/wiki/Extension_Cord "Extension Cord"): The Forgotten's body is treated as a familiar while controlling The Soul, causing electricity to bounce to it.
-* [![image](/image/Eye_of_Belial.png)](/wiki/Eye_of_Belial "Eye of Belial") [Eye of Belial](/wiki/Eye_of_Belial "Eye of Belial"): No effect on The Forgotten's bone club.
-* [![image](/image/Eye_of_Greed.png)](/wiki/Eye_of_Greed "Eye of Greed") [Eye of Greed](/wiki/Eye_of_Greed "Eye of Greed"): No effect on The Forgotten's bone club.
-	+ (Added in Repentance) Every 20th attack fires a golden tear.
-* [![image](/image/Fate%27s_Reward.png)](/wiki/Fate%27s_Reward "Fate's Reward") [Fate's Reward](/wiki/Fate%27s_Reward "Fate's Reward")/[![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus"): The familiars will fire smaller bone shots even when The Forgotten uses their charged attack.
-	+ (Added in Repentance) [![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus") attacks with a smaller bone club like The Forgotten does.
-* [![image](/image/Fire_Mind.png)](/wiki/Fire_Mind "Fire Mind") [Fire Mind](/wiki/Fire_Mind "Fire Mind"): Melee and throw have a chance to inflict [burning](/wiki/Burn "Burn"). However, neither melee nor throw attacks trigger the explosive effect.
-* [![image](/image/Flat_Stone.png)](/wiki/Flat_Stone "Flat Stone") [Flat Stone](/wiki/Flat_Stone "Flat Stone"): The bone bounces on the ground a few times when thrown, dealing splash damage that is equal to The Forgotten's damage.
-* [![image](/image/Fruit_Cake.png)](/wiki/Fruit_Cake "Fruit Cake") [Fruit Cake](/wiki/Fruit_Cake "Fruit Cake"): The [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac") explosion effect may activate on melee attacks. Unlike with actual Ipecac, the explosion will hurt The Forgotten.
-* (Added in Repentance)[![image](/image/Giant_Cell.png)](/wiki/Giant_Cell "Giant Cell") [Giant Cell](/wiki/Giant_Cell "Giant Cell"): The familiars spawned will attack with a club like The Forgotten.
-* [![image](/image/Glass_Cannon.png)](/wiki/Glass_Cannon "Glass Cannon") [Glass Cannon](/wiki/Glass_Cannon "Glass Cannon"): Only the active character's health is affected: The Forgotten is set to one empty bone heart and The Soul is set to half a soul heart.
-* [![image](/image/Ghost_Pepper.png)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"): Fire is occasionally spawned while attacking or charging.
-* [![image](/image/Godhead.png)](/wiki/Godhead "Godhead") [Godhead](/wiki/Godhead "Godhead"): Gives The Forgotten's bone homing when thrown, but does not grant an aura.
-* [![image](/image/Guillotine.png)](/wiki/Guillotine "Guillotine") [Guillotine](/wiki/Guillotine "Guillotine"): The Forgotten will fire from its body, while The Soul is affected normally.
-* [![image](/image/Guppy%27s_Paw.png)](/wiki/Guppy%27s_Paw "Guppy's Paw") [Guppy's Paw](/wiki/Guppy%27s_Paw "Guppy's Paw")/[![image](/image/Potato_Peeler.png)](/wiki/Potato_Peeler "Potato Peeler") [Potato Peeler](/wiki/Potato_Peeler "Potato Peeler"): The Forgotten cannot use either of these items, as neither bone hearts or soul/black hearts qualify for them.
-* [![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria"): A burst of blood shots appears whenever an enemy is hit with the melee attack. The throw is unaffected. Size and reach of the melee attack are increased.
-* [![image](/image/Head_of_the_Keeper.png)](/wiki/Head_of_the_Keeper "Head of the Keeper") [Head of the Keeper](/wiki/Head_of_the_Keeper "Head of the Keeper"): Head of the Keeper will not work with either the melee attack or throw.
-	+ (Added in Repentance)Both melee and bone throw attack has a chance to spawn a coin when hitting an enemy.
-* [![image](/image/Holy_Light.png)](/wiki/Holy_Light "Holy Light") [Holy Light](/wiki/Holy_Light "Holy Light"): The melee and ranged attack can create beams of light.
-* [Homing tears](/wiki/Homing_tears "Homing tears"): The thrown bone homes in on enemies.
-* (Added in Repentance)[![image](/image/Immaculate_Heart.png)](/wiki/Immaculate_Heart "Immaculate Heart") [Immaculate Heart](/wiki/Immaculate_Heart "Immaculate Heart"): Every melee swing has a chance to create an orbiting bone tear.
-* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): The Forgotten's melee attack will trigger an explosion when it makes contact with an enemy, but The Forgotten will not be harmed by it. This does not make The Forgotten impervious to other types of explosions.
-	+ **Ipecac** + [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac"): The Forgotten will be healed by the explosion whenever they hit an enemy.
-	+ (Added in Repentance) The thrown bone club will also trigger an explosion in contact with an enemy (but not on its way returning) and will not hurt The Forgotten himself. The explosion damage scales with charge state of the club.
-* [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag")/[Blood Donation Machines](/wiki/Blood_Donation_Machine "Blood Donation Machine"): Will empty bone hearts without destroying them while in skeletal form.
-* [![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder"): Both the melee and thrown attacks cause 1-2 arcs of electricity to zap out when they hit an enemy.
-* [![image](/image/Kidney_Stone.png)](/wiki/Kidney_Stone "Kidney Stone") [Kidney Stone](/wiki/Kidney_Stone "Kidney Stone"): The Forgotten launches a quick series of melee attacks after firing the kidney stone.
-* [![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"): No effect on The Forgotten's bone club.
-* (Removed in Repentance) [![image](/image/Lead_Pencil.png)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil"): No effect on The Forgotten's bone club.
-	+ (Added in Repentance) Every 15 swings with the club results in a barrage of bones to be fired from The Forgotten's body.
-* [![image](/image/Libra.png)](/wiki/Libra "Libra") [Libra](/wiki/Libra "Libra"): Barring combinations with other items, The Forgotten's heavy attack rate penalty is mitigated but all other stats consequently become lower. The Soul is less affected, gaining a small all stats up from the speed bonus.
-* [![image](/image/Little_Horn_(Item).png)](/wiki/Little_Horn_(Item) "Little Horn") [Little Horn](/wiki/Little_Horn_(Item) "Little Horn (Item)"): The club arcs occasionally turn black, but they do not instantly kill enemies.
-	+ (Added in Repentance)The club arcs occasionally turn black and summon [Big Horn](/wiki/Big_Horn "Big Horn")'s hand.
-* [![image](/image/Loki%27s_Horns.png)](/wiki/Loki%27s_Horns "Loki's Horns") [Loki's Horns](/wiki/Loki%27s_Horns "Loki's Horns"): The Forgotten holds four bones, one in each cardinal direction. There is a chance for the melee or throw attacks to be triggered in all cardinal directions.
-* [![image](/image/Lost_Contact.png)](/wiki/Lost_Contact "Lost Contact") [Lost Contact](/wiki/Lost_Contact "Lost Contact"): The melee attack can deflect enemy shots. Deflected shots may hit enemies for fairly small damage depending on the enemy shot's size.
-* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): The large tear will follow The Forgotten. It can be hit with the melee attack to propel it, which also increases its damage.
-	+ **The Ludovico Technique** + [![image](/image/Multidimensional_Baby.png)](/wiki/Multidimensional_Baby "Multidimensional Baby") [Multidimensional Baby](/wiki/Multidimensional_Baby "Multidimensional Baby"): Creates a second large tear when the first tear touches Multidimensional Baby.
-	+ **The Ludovico Technique** + [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet"): causes the tear to move really fast and will not follow The Forgotten. Switching to the soul will bring it back to normal
-* [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"): The melee attack is unaffected regardless of range. The bone toss attack does extra damage from further away.
-* [![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): The Forgotten will get stat upgrades but is otherwise unaffected.
-	+ (Added in Repentance)The Forgotten can attack in any direction as well.
-* (Added in Repentance)[![image](/image/Mega_Mush.png)](/wiki/Mega_Mush "Mega Mush") [Mega Mush](/wiki/Mega_Mush "Mega Mush"): The Forgotten turns into Isaac with grey skin, retaining the melee attack with all the benefits of the massive size.
-* [![image](/image/Mom%27s_Eye.png)](/wiki/Mom%27s_Eye "Mom's Eye") [Mom's Eye](/wiki/Mom%27s_Eye "Mom's Eye"): The Forgotten holds two bones, one behind and one in front. There is a chance for the melee or throw attacks to be triggered in both directions.
-* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): The knife will attach to The Forgotten's bone club, forming a scythe. Increases the size of both the melee swing and the bone throw, and allows a single melee swing to deal damage to an enemy twice instead of just once and bone toss attack to deal damage multiple times. +4 flat damage.
-* [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung"): The Forgotten's bone toss attack is replaced by a typical Monstro's Lung shot, though the tears are all bones.
-* [![image](/image/My_Reflection.png)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection"): The Forgotten will get stat upgrades but is otherwise unaffected.
-* [![image](/image/Mysterious_Liquid.png)](/wiki/Mysterious_Liquid "Mysterious Liquid") [Mysterious Liquid](/wiki/Mysterious_Liquid "Mysterious Liquid"): Throwing the bone creates a trail of damaging green creep.
-* [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Smaller bone shots and normal split tears appear whenever an enemy is hit with the melee attack. The bone throw will cause smaller bone shots to appear when it hits an enemy.
-* [![image](/image/Parasitoid.png)](/wiki/Parasitoid "Parasitoid") [Parasitoid](/wiki/Parasitoid "Parasitoid"): No effect on The Forgotten's bone club.
-* (Added in Repentance)[![image](/image/Playdough_Cookie.png)](/wiki/Playdough_Cookie "Playdough Cookie") [Playdough Cookie](/wiki/Playdough_Cookie "Playdough Cookie") Each swing of the bone club will have a random effect. The Soul's tears work as expected.
-* [![image](/image/Polyphemus.png)](/wiki/Polyphemus "Polyphemus") [Polyphemus](/wiki/Polyphemus "Polyphemus"): The bone club becomes a lot larger, causing hits to cover a larger area.
-* [![image](/image/Pop!.png)](/wiki/Pop! "Pop!") [Pop!](/wiki/Pop! "Pop!"): No effect on The Forgotten's bone club.
-* [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): Damage is doubled ((Added in Repentance)tripled) for melee, while damage reduces normally with range when thrown.
-* [![image](/image/Pupula_Duplex.png)](/wiki/Pupula_Duplex "Pupula Duplex") [Pupula Duplex](/wiki/Pupula_Duplex "Pupula Duplex"): No effect on The Forgotten's bone club.
-* (Added in Repentance)[![image](/image/Rotten_Tomato.png)](/wiki/Rotten_Tomato "Rotten Tomato") [Rotten Tomato](/wiki/Rotten_Tomato "Rotten Tomato") Hitting an enemy with The Forgotten's bone club can mark them
-* [![image](/image/Rubber_Cement.png)](/wiki/Rubber_Cement "Rubber Cement") [Rubber Cement](/wiki/Rubber_Cement "Rubber Cement"): No effect on The Forgotten's bone club.
-* [![image](/image/Scapular.png)](/wiki/Scapular "Scapular") [Scapular](/wiki/Scapular "Scapular"): The Soul gains a Soul Heart every time the Forgotten goes on half a bone heart/an empty bone heart, regardless of the Soul's HP
-* [![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag")/[![image](/image/Starter_Deck.png)](/wiki/Starter_Deck "Starter Deck") [Starter Deck](/wiki/Starter_Deck "Starter Deck")/[![image](/image/Little_Baggy.png)](/wiki/Little_Baggy "Little Baggy") [Little Baggy](/wiki/Little_Baggy "Little Baggy")/[![image](/image/Polydactyly.png)](/wiki/Polydactyly "Polydactyly") [Polydactyly](/wiki/Polydactyly "Polydactyly")/(Removed in Repentance)[![image](/image/Deep_Pockets.png)](/wiki/Deep_Pockets "Deep Pockets") [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets"): The swap key must be double tapped to switch active items/consumables.
-* (Removed in Repentance) [![image](/image/Sinus_Infection.png)](/wiki/Sinus_Infection "Sinus Infection") [Sinus Infection](/wiki/Sinus_Infection "Sinus Infection"): No effect on The Forgotten's bone club.
-	+ (Added in Repentance)Hitting an enemy with The Forgotten's bone club can create a sticky booger like normal tears.
-* Size Up pills cause The Forgotten's bone club to become a lot larger.
-* [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"): The bone's melee attack is extremely fast and the charge for throwing is short.
-	+ (Added in Repentance) Holding shoot key makes The Forgotten constantly perform his melee attack and releasing the key makes him throw his bone club. The delay between melee and bone toss attack is also removed.
-* [![image](/image/Sprinkler.png)](/wiki/Sprinkler "Sprinkler") [Sprinkler](/wiki/Sprinkler "Sprinkler"): Sprinkler fires bone tears that do The Forgotten's tear damage without the multiplier.
-* [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor"): Melee will attract pickups and throw will attract enemies to the bone club making them easier to kill.
-* [![image](/image/Sulfuric_Acid.png)](/wiki/Sulfuric_Acid "Sulfuric Acid") [Sulfuric Acid](/wiki/Sulfuric_Acid "Sulfuric Acid"): Increases damage. Melee swings and throws occasionally turn yellow but no other effect.
-	+ (Added in Repentance)Thrown bone club has a chance to destroy rocks and open doors and secret rooms no matter whether it's yellow or not.
-* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"): A laser ring will appear around The Forgotten whenever he swings, and a laser is fired between The Forgotten and the bone club whenever it is thrown.
-	+ **Technology** + [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): Size of the laser ring is doubled.
-	+ **Technology** + [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): The thrown bone club constantly explodes and causes unavoidable self-damage.
-* [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): A laser ring appears around the bone club whenever it is thrown.
-	+ **Tech X** + [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): The laser ring appears around the brimstone ball instead.
-	+ **Tech X** + [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"): The laser ring appears around the thrown bomb instead.
-* [![image](/image/Tech.5.png)](/wiki/Tech.5 "Tech.5") [Tech.5](/wiki/Tech.5 "Tech.5"): Lasers occasionally fire when using melee or charging throw.
-* [![image](/image/Technology_Zero.png)](/wiki/Technology_Zero "Technology Zero") [Technology Zero](/wiki/Technology_Zero "Technology Zero"): No effect on The Forgotten's bone club.
-* (Added in Repentance)[![image](/image/Terra.png)](/wiki/Terra "Terra") [Terra](/wiki/Terra "Terra"): Thrown bone club has a chance to destroy rocks and open doors and secret rooms.
-* [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet"): The bone throw now spins around in a circle and can be thrown further than normal with range upgrades.
-	+ (Added in Repentance)The thrown bone club orbits The Forgotten at a very high speed until it's max range is reached, then circles back at the same speed. However, the bone club still hits the same enemy no more than twice and does not receive a larger hitbox, effectively lowering the DPS and accuracy of the bone throw.
-* [![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"): No effect on The Forgotten's bone club.
-	+ (Added in Repentance) **Trisagion** + [![image](/image/Explosivo.png)](/wiki/Explosivo "Explosivo") [Explosivo](/wiki/Explosivo "Explosivo")/[![image](/image/Sinus_Infection.png)](/wiki/Sinus_Infection "Sinus Infection") [Sinus Infection](/wiki/Sinus_Infection "Sinus Infection")/(Added in Repentance)[![image](/image/Mucormycosis.png)](/wiki/Mucormycosis "Mucormycosis") [Mucormycosis](/wiki/Mucormycosis "Mucormycosis"): Hitting an enemy with The Forgotten's bone club has a chance to create a Trisagion blast that sticks on the enemy, doing damage and rapidly creating Explosivo tears, boogers or spores, respectively.
-		- Other Trisagion synergies also work on this Trisagion blast.
-* [![image](/image/Varicose_Veins.png)](/wiki/Varicose_Veins "Varicose Veins") [Varicose Veins](/wiki/Varicose_Veins "Varicose Veins"): Fires ten bone tears in all directions that deal high damage.
-* [![image](/image/The_Wiz.png)](/wiki/The_Wiz "The Wiz") [The Wiz](/wiki/The_Wiz "The Wiz"): The Forgotten wields two clubs, one in each hand, pointing diagonally outwards.
-
+* [![image](/image/Abaddon.png)](/wiki/Abaddon "Abaddon") [Abaddon](/wiki/Abaddon "Abaddon")ザ・ソウルに2つの黒ハートを与え、ザ・フォーガットンの骨ハートを空にするが、削除はしない。
+* [![image](/image/Adrenaline.png)](/wiki/Adrenaline "Adrenaline") [Adrenaline](/wiki/Adrenaline "Adrenaline"):空の骨ハートはダメージを増加させるが、骨ハートが壊れた場合ダメージ増加はなくなる。
+* (Added in Repentance) [![image](/image/Almond_Milk.png)](/wiki/Almond_Milk "Almond Milk") [Almond Milk](/wiki/Almond_Milk "Almond Milk"):攻撃キーを押し続けると、ザ・フォーガットンは常に近接攻撃をし、キーを話すとこん棒を投げます。こん棒を投げた後の近接攻撃の遅延もなくなる。
+* [![image](/image/Angelic_Prism.png)](/wiki/Angelic_Prism "Angelic Prism") [Angelic Prism](/wiki/Angelic_Prism "Angelic Prism"):こん棒がプリズムに当たると、こん棒がザ・フォーガットンに戻るまでの間、4つのこん棒に分裂する。こん棒はプリズムを通過するときに、ザ・フォーガットンから離れるか、ザ・フォーガットンに戻るかにかかわらず、4倍になる。ただし、プリズムから分裂されたこん棒は非常に早く移動して広がるため、プリズムの近くにいない限り、敵を攻撃するのは困難。
+* [![image](/image/Anti-Gravity.png)](/wiki/Anti-Gravity "Anti-Gravity") [Anti-Gravity](/wiki/Anti-Gravity "Anti-Gravity"):近接攻撃の弧が一時的に残り、敵にダメージを与えたり、弧に向かって移動するアイテムを拾ったりする可能性がある。スイングごとに数回的にダメージを与えることはない。骨投げは影響を受けない。
+	+ **Anti-Gravity** + [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"):このシナジーでは1回のスイングで複数回敵を攻撃できるため、最大で4回敵を攻撃できる。骨投げは影響を受けない。
+* (Added in Repentance) [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"):ザ・ソウルは鎖でつながれておらず、自由に動くことができるようになる。それはザ・フォーガットンを置き去りにして部屋を去り、閉鎖された部屋からでもザ・フォーガットンにテレポートして戻ることが出来る。
+* [![image](/image/Blood_Clot.png)](/wiki/Blood_Clot "Blood Clot") [Blood Clot](/wiki/Blood_Clot "Blood Clot"):ザ・フォーガットンは、近接攻撃または骨投げに適用される確率が50%ある。効果が適用されると、骨が赤くなる。
+* Bookworm:ブックワームの変身により、骨のスイングが2つ発生することがある。
+* [![image](/image/Bookworm.png)](/wiki/Bookworm "Bookworm") [Bookworm](/wiki/Bookworm "Bookworm"):チャージ攻撃はブリムストーンボールを発生させ、消えるまでの数秒間ザ・フォーガットンの前に残り続ける。ザ・フォーガットンはこのアクションを実行している間にも近接攻撃を行える。
+* (Added in Repentance) [![image](/image/C_Section.png)](/wiki/C_Section "C Section") [C Section](/wiki/C_Section "C Section"):発射される胎児は、接触ダメージに加えて、こん棒で攻撃するスケルトンになる。
+* [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk"):チャージすると骨のサイズが大きくなり、より大きいダメージを与えられるが投げることができなくなる。通常の涙弾とは異なり、攻撃ボタンを素早く連打しても早く攻撃できるわけではない。
+* [![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")/[![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body"):近接攻撃で敵を攻撃するたび、小さな骨弾が発生する。骨投げは影響を受けない。
+* [![image](/image/Converter.png)](/wiki/Converter "Converter") [Converter](/wiki/Converter "Converter"): (Removed in Repentance)2つまたは(Added in Repentance)1つの青ハートか黒ハートを使い、ザ・ソウルの形態で使用すると、骨ハートを得られる。ザ・ソウルがこれでハートを使い果たした場合、死なずに代わりにザ・フォーガットンに自動的に切り替わる。
+* [![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye"):ザ・フォーガットンの骨投げ攻撃は、攻撃ボタンが押されてる時間に応じた数の複数の高速近接攻撃に置き換えられる。
+* [![image](/image/Dark_Bum.png)](/wiki/Dark_Bum "Dark Bum") [Dark Bum](/wiki/Dark_Bum "Dark Bum"):床にあるすべての赤ハートが集められ、ザ・ソウルだけが使用できる青ハートに変換されるため、ザ・フォーガットンの骨ハートの体力を保持するのが難しくなる。
+* [![image](/image/Dark_Prince%27s_Crown.png)](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown") [Dark Prince's Crown](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown"):完全な骨ハート(中身が入っている)が1つだけの場合アクティブになる。
+* [![image](/image/Dead_Cat.png)](/wiki/Dead_Cat "Dead Cat") [Dead Cat](/wiki/Dead_Cat "Dead Cat"):アイテムを拾うときに、ザ・フォーガットンがどの形態であるかに応じて、ザ・フォーガットンの骨ハートまたはザ・ソウルの青ハートを1に設定する。それがザ・ソウルとして拾われたとき、ザ・フォーガットンは赤ハート1つ分回復する。
+* [![image](/image/Dead_Eye.png)](/wiki/Dead_Eye "Dead Eye") [Dead Eye](/wiki/Dead_Eye "Dead Eye"):近接攻撃はヒットするたびにダメージが増加する。
+* [![image](/image/Dead_Tooth.png)](/wiki/Dead_Tooth "Dead Tooth") [Dead Tooth](/wiki/Dead_Tooth "Dead Tooth"):近接攻撃と骨投げを使用すると緑のオーラがアクティブになる。
+* [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"):攻撃をチャージし始めた時に、爆弾がザ・フォーガットンの上に出現し、チャージを開放した時に爆弾を投げることが出来る。爆弾は十分な速度で敵にぶつかった場合、1.5倍のダメージを与える。最大射程距離は最小チャージで得られる。チャージしすぎると爆弾が爆発し、チャージを開放すると通常の骨投げが発生する。近接攻撃は影響を受けない。
+	+ **Dr. Fetus** + (Added in Repentance) [![image](/image/Rocket_in_a_Jar.png)](/wiki/Rocket_in_a_Jar "Rocket in a Jar") [Rocket in a Jar](/wiki/Rocket_in_a_Jar "Rocket in a Jar"):爆弾はロケットに置き換えられ、無期限に保持することが出来る。
+* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"):チャージ攻撃が、ザ・フォーガットンの手にあるミサイルと移動可能な照準(十字線)に置き換えられる。攻撃ボタンが離されると、ミサイルが照準に投げられ、同じ方向に近接攻撃が行われる。[![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus")とは異なり、ミサイルは自分の手の上で爆発することはなく、無期限に保持することが出来る。近接攻撃は影響を受けない。
+	+ (Added in Repentance) **Epic Fetus** + [![image](/image/Stop_Watch.png)](/wiki/Stop_Watch "Stop Watch") [Stop Watch](/wiki/Stop_Watch "Stop Watch"):ミサイルは減速され、照準に到達する前に地面に落下し、ミサイル攻撃のレンジをわずかに下げる。
+* [![image](/image/Euthanasia.png)](/wiki/Euthanasia "Euthanasia") [Euthanasia](/wiki/Euthanasia "Euthanasia"):近接または骨投げで3倍のダメージを与えるチャンスを追加する。攻撃はこん棒が分裂したり、通常は殺せない敵を殺したりすることはできない。
+	+ (Added in Repentance)[![image](/image/Euthanasia.png)](/wiki/Euthanasia "Euthanasia") [Euthanasia](/wiki/Euthanasia "Euthanasia")の即死効果は通常通り機能する。
+* [![image](/image/Evil_Eye.png)](/wiki/Evil_Eye "Evil Eye") [Evil Eye](/wiki/Evil_Eye "Evil Eye"):Evil Eyeが発射されると、ザ・フォーガットンの近接攻撃を模倣する。ザ・フォーガットンとしてEvil Eyeを発射し、ザ・ソウルに切り替えると、Evil Eyeはザ・フォーガットンの近接攻撃を継続する。ザ・ソウルとしてEvil Eyeを発射し、ザ・フォーガットンに切り替えると、Evil Eyeは骨を発射する
+* [![image](/image/Explosivo.png)](/wiki/Explosivo "Explosivo") [Explosivo](/wiki/Explosivo "Explosivo"):ザ・フォーガットンの近接攻撃は爆発物を敵につけることができる。
+	+ レンジが短い時は、爆発物が爆発して、プレイヤーにダメージを与えるリスクが高くなる。
+* [![image](/image/Extension_Cord.png)](/wiki/Extension_Cord "Extension Cord") [Extension Cord](/wiki/Extension_Cord "Extension Cord"):ザ・ソウルをコントロールしている間、ザ・フォーガットンはファミリアとして扱われ、ザ・フォーガットンとの間に電気が跳ね返る。
+* [![image](/image/Eye_of_Belial.png)](/wiki/Eye_of_Belial "Eye of Belial") [Eye of Belial](/wiki/Eye_of_Belial "Eye of Belial"):ザ・フォーガットンの近接攻撃には影響しない。
+* [![image](/image/Eye_of_Greed.png)](/wiki/Eye_of_Greed "Eye of Greed") [Eye of Greed](/wiki/Eye_of_Greed "Eye of Greed"):ザ・フォーガットンの近接攻撃には影響しない。
+	+ (Added in Repentance)20回の攻撃ごとにゴールドティアが発射される。
+* [![image](/image/Fate%27s_Reward.png)](/wiki/Fate%27s_Reward "Fate's Reward") [Fate's Reward](/wiki/Fate%27s_Reward "Fate's Reward")/[![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus"):ファミリアはザ・フォーガットンが攻撃をチャージしている場合でも小さな骨を発射する。
+	+ (Added in Repentance) [![image](/image/Incubus.png)](/wiki/Incubus "Incubus") [Incubus](/wiki/Incubus "Incubus")はザ・フォーガットンのように小さなこん棒で攻撃する。
+* [![image](/image/Fire_Mind.png)](/wiki/Fire_Mind "Fire Mind") [Fire Mind](/wiki/Fire_Mind "Fire Mind"):近接攻撃と骨投げは燃焼効果を与えるチャンスを得る。ただし、近接攻撃も骨投げも爆発効果は起こさない。
+* [![image](/image/Flat_Stone.png)](/wiki/Flat_Stone "Flat Stone") [Flat Stone](/wiki/Flat_Stone "Flat Stone"):骨を投げた時に地面を数回跳ね返り、ザ・フォーガットンと同じダメージのスプラッシュダメージを与える。
+* [![image](/image/Fruit_Cake.png)](/wiki/Fruit_Cake "Fruit Cake") [Fruit Cake](/wiki/Fruit_Cake "Fruit Cake"):[![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac")の爆発効果は近接攻撃で発動する可能性がある。実際のIpecacとは異なり、爆発はザ・フォーガットン自身にダメージを与える。
+* (Added in Repentance) [![image](/image/Giant_Cell.png)](/wiki/Giant_Cell "Giant Cell") [Giant Cell](/wiki/Giant_Cell "Giant Cell"):スポーンされたファミリアはザ・フォーガットンのようなこん棒で攻撃する。
+* [![image](/image/Glass_Cannon.png)](/wiki/Glass_Cannon "Glass Cannon") [Glass Cannon](/wiki/Glass_Cannon "Glass Cannon"):アクティブなキャラクターの体力のみが影響を受ける。ザ・フォーガットンは1つの空のボーンハートになり、ザ・ソウルは半分の青ハートになる。
+* [![image](/image/Ghost_Pepper.png)](/wiki/Ghost_Pepper "Ghost Pepper") [Ghost Pepper](/wiki/Ghost_Pepper "Ghost Pepper"):攻撃中またはチャージ中に火が発生することがある。
+* [![image](/image/Godhead.png)](/wiki/Godhead "Godhead") [Godhead](/wiki/Godhead "Godhead"):ザ・フォーガットンは骨投げにホーミング効果が与えられるが、オーラは発生しない。
+* [![image](/image/Guillotine.png)](/wiki/Guillotine "Guillotine") [Guillotine](/wiki/Guillotine "Guillotine"):ザ・フォーガットンの攻撃は体から発射されるが、ザ・ソウルは通常通りの影響を受ける。
+* [![image](/image/Guppy%27s_Paw.png)](/wiki/Guppy%27s_Paw "Guppy's Paw") [Guppy's Paw](/wiki/Guppy%27s_Paw "Guppy's Paw")/[![image](/image/Potato_Peeler.png)](/wiki/Potato_Peeler "Potato Peeler") [Potato Peeler](/wiki/Potato_Peeler "Potato Peeler"):ザ・フォーガットンは骨ハート・青ハート・黒ハートがアイテムの対象外となるので、これらのアイテムは使用できない。
+* [[Haemolacria]] Haemolacria:近接攻撃で敵を攻撃するたびに、小さい小弾が炸裂する。骨投げは影響をうけない。近接攻撃のサイズとリーチが増加する。
+* [![image](/image/Head_of_the_Keeper.png)](/wiki/Head_of_the_Keeper "Head of the Keeper") [Head of the Keeper](/wiki/Head_of_the_Keeper "Head of the Keeper"):近接攻撃でも骨投げでも機能しない。
+	+ (Added in Repentance)近接攻撃と骨投げの両方で敵に当たった時にコインをスポーンするチャンスがある。
+* [![image](/image/Holy_Light.png)](/wiki/Holy_Light "Holy Light") [Holy Light](/wiki/Holy_Light "Holy Light"):近接攻撃と骨投げは光のビームを発生するチャンスがある。
+* [![image](/image/Homing_tears.png)](/wiki/Homing_tears "Homing tears") [Homing tears](/wiki/Homing_tears "Homing tears"):投げられた骨は敵にホーミングされる。
+* (Added in Repentance) [![image](/image/Immaculate_Heart.png)](/wiki/Immaculate_Heart "Immaculate Heart") [Immaculate Heart](/wiki/Immaculate_Heart "Immaculate Heart"):すべての近接攻撃は、自分の周りを回る骨の涙を発生させるチャンスがある。
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"):ザ・フォーガットンの近接攻撃は敵に当たった時に爆発を起こすようになるが、ザ・フォーガットンはそれによってダメージを受けない。しかし他のタイプの爆発に対して耐性を得るわけではない。
+	+ Ipecac + [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac"):ザ・フォーガットンは敵に近接攻撃を当てるたびに回復する。
+	+ (Added in Repentance)骨投げは敵に当たった時(ただし戻る途中ではない)に爆発を起こし、自身にダメージは与えない。爆発によるダメージはチャージ量に応じて変化する。
+* [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag")/Blood Donation Machines:骨ハートを破壊することなく、骨ハートを空に出来る。
+* [![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder"):近接攻撃と骨投げの両方で、敵に当たった時に1～2本の電撃が発生する。
+* [![image](/image/Kidney_Stone.png)](/wiki/Kidney_Stone "Kidney Stone") [Kidney Stone](/wiki/Kidney_Stone "Kidney Stone"):ザ・フォーガットンはKidney Stoneを発射した後、高速近接攻撃が自動で発射される。
+* [![image](/image/Lachryphagy.png)](/wiki/Lachryphagy "Lachryphagy") [Lachryphagy](/wiki/Lachryphagy "Lachryphagy"):ザ・フォーガットンの近接攻撃には影響しない。
+* (Removed in Repentance) [![image](/image/Lead_Pencil.png)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil"):ザ・フォーガットンの近接攻撃には影響しない。
+	+ (Added in Repentance)近接攻撃を15回するたびに体から骨の弾幕が発射される。
+* [![image](/image/Libra.png)](/wiki/Libra "Libra") [Libra](/wiki/Libra "Libra"):他のアイテムとの組み合わせを除いて、ザ・フォーガットンの重い連射力のペナルティは軽減されるが、他のすべてのステータスは結果的に低くなる。ザ・ソウルはそれほど影響を受けず、スピードが下がり他のステータスが少し上昇する。
+* [![image](/image/Little_Horn.png)](/wiki/Little_Horn "Little Horn") [Little Horn](/wiki/Little_Horn "Little Horn"):近接攻撃は時々黒くなるが、敵を即死させることはない。
+	+ (Added in Repentance)近接攻撃が時々黒くなり、ビッグホーンの手を召喚する。
+* [![image](/image/Loki%27s_Horns.png)](/wiki/Loki%27s_Horns "Loki's Horns") [Loki's Horns](/wiki/Loki%27s_Horns "Loki's Horns"):ザ・フォーガットンは各方向に1つずつ合計4つのこん棒を持つようになる。近接攻撃か骨投げがすべての方向で同時に起動される可能性を得る。
+* [![image](/image/Lost_Contact.png)](/wiki/Lost_Contact "Lost Contact") [Lost Contact](/wiki/Lost_Contact "Lost Contact"):近接攻撃は敵の弾を逸らすことが出来るようになる。逸らした弾は敵の弾のサイズによっては、かなり小さいダメージで敵に当たることがある。
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"):大きな涙が出現し、ザ・フォーガットンの後をゆっくりと追いかけるようになる。近接攻撃で攻撃して飛ばすことができ、ダメージも増加する。
+	+ The Ludovico Technique + [![image](/image/Multidimensional_Baby.png)](/wiki/Multidimensional_Baby "Multidimensional Baby") [Multidimensional Baby](/wiki/Multidimensional_Baby "Multidimensional Baby"):最初の涙がMultidimensional Babyに触れると、2つ目の大きな涙を生成する。
+	+ The Ludovico Technique + [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet"):涙を非常に速く動かし、ザ・フォーガットンに追従しないようになる。ザ・ソウルに切り替えると、通常の状態に戻る。
+* [![image](/image/A_Lump_of_Coal.png)](/wiki/A_Lump_of_Coal "A Lump of Coal") [A Lump of Coal](/wiki/A_Lump_of_Coal "A Lump of Coal"):近接攻撃はレンジに関係なく影響を受けない。骨投げ攻撃は遠距離だと追加のダメージを与える。
+* [![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"):ザ・フォーガットンはステータスアップグレードを得られるが、それ以外の影響は受けない。
+	+ (Added in Repentance)ザ・フォーガットンは、どの方向でも攻撃できるようになる。
+* (Added in Repentance) [![image](/image/Mega_Mush.png)](/wiki/Mega_Mush "Mega Mush") [Mega Mush](/wiki/Mega_Mush "Mega Mush"):ザ・フォーガットンは灰色の肌を持つアイザックに変化し、巨大なサイズのすべての利点を備えた近接攻撃を持つ。
+* [![image](/image/Mom%27s_Eye.png)](/wiki/Mom%27s_Eye "Mom's Eye") [Mom's Eye](/wiki/Mom%27s_Eye "Mom's Eye"):ザ・フォーガットンは後ろと前の2つのこん棒を持つようになる。近接攻撃または骨投げが両方向に発射される可能性がある。
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"):ザ・フォーガットンのこん棒にナイフが取り付けられ鎌のような形になる。近接攻撃と骨投げの両方のサイズを大きくし、1回の近接攻撃で敵に1回ではなく2回ダメージを与えることができ、骨投げ攻撃では複数回のダメージを与えられるようになる。+4フラットダメージ。
+* [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung"):ザ・フォーガットンの骨投げ攻撃は、Monstro's Lungのショットに置き換えられるが、発射される涙はすべて骨になる。
+* [![image](/image/My_Reflection.png)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection"):ザ・フォーガットンはステータスアップグレードを得られるが、それ以外の影響を受けない。
+* [![image](/image/Mysterious_Liquid.png)](/wiki/Mysterious_Liquid "Mysterious Liquid") [Mysterious Liquid](/wiki/Mysterious_Liquid "Mysterious Liquid"):骨を投げると、敵にダメージを与える緑のクリープが生成される。
+* [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"):敵を近接攻撃で攻撃するたびに、小さい骨弾と通常の分裂涙弾が発生する。骨投げは敵に当たった時に小さな骨弾が発生する。
+* [![image](/image/Parasitoid.png)](/wiki/Parasitoid "Parasitoid") [Parasitoid](/wiki/Parasitoid "Parasitoid"):ザ・フォーガットンのこん棒には影響しない。
+* (Added in Repentance) [![image](/image/Playdough_Cookie.png)](/wiki/Playdough_Cookie "Playdough Cookie") [Playdough Cookie](/wiki/Playdough_Cookie "Playdough Cookie")こん棒を振るたびにランダムな効果がある。ザ・ソウルの涙弾は通常通りに機能する。
+* [![image](/image/Polyphemus.png)](/wiki/Polyphemus "Polyphemus") [Polyphemus](/wiki/Polyphemus "Polyphemus"):こん棒が非常に大きくなり、より広い範囲を攻撃できるようになる。
+* [![image](/image/Pop%21.png)](/wiki/Pop%21 "Pop!") [Pop!](/wiki/Pop%21 "Pop!"):ザ・フォーガットンのこん棒には影響しない。
+* [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"):近接攻撃ではダメージが2倍((Added in Repentance)3倍)になるが、骨を投げた時のダメージはレンジと共に減少する。
+* [![image](/image/Pupula_Duplex.png)](/wiki/Pupula_Duplex "Pupula Duplex") [Pupula Duplex](/wiki/Pupula_Duplex "Pupula Duplex"):ザ・フォーガットンのこん棒には影響しない。
+* (Added in Repentance) [![image](/image/Rotten_Tomato.png)](/wiki/Rotten_Tomato "Rotten Tomato") [Rotten Tomato](/wiki/Rotten_Tomato "Rotten Tomato")ザ・フォーガットンのこん棒で敵を攻撃すると、それらにマークを付けることができる。
+* [![image](/image/Rubber_Cement.png)](/wiki/Rubber_Cement "Rubber Cement") [Rubber Cement](/wiki/Rubber_Cement "Rubber Cement"):ザ・フォーガットンのこん棒には影響しない。
+* [![image](/image/Scapular.png)](/wiki/Scapular "Scapular") [Scapular](/wiki/Scapular "Scapular"):ザ・ソウルのHPに関係なく、ザ・フォーガットンが半分の骨ハート/空の骨ハートになるたびにザ・ソウルは青ハートを得る。
+* [![image](/image/Schoolbag.png)](/wiki/Schoolbag "Schoolbag") [Schoolbag](/wiki/Schoolbag "Schoolbag")/[![image](/image/Starter_Deck.png)](/wiki/Starter_Deck "Starter Deck") [Starter Deck](/wiki/Starter_Deck "Starter Deck")/[[Little Baggy]] Little Baggy/[![image](/image/Polydactyly.png)](/wiki/Polydactyly "Polydactyly") [Polydactyly](/wiki/Polydactyly "Polydactyly")/(Removed in Repentance) [![image](/image/Deep_Pockets.png)](/wiki/Deep_Pockets "Deep Pockets") [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets"):アクティブアイテムや消費アイテムを切り替えるには交換キーをダブルタップする必要がある。
+* (Removed in Repentance) [![image](/image/Sinus_Infection.png)](/wiki/Sinus_Infection "Sinus Infection") [Sinus Infection](/wiki/Sinus_Infection "Sinus Infection"):ザ・フォーガットンのこん棒には影響しない。
+	+ (Added in Repentance)ザ・フォーガットンのこん棒で敵を攻撃すると、通常の涙のように敵にくっつくブーガー(はなくそ)を生成できる。
+* サイズアップピルはザ・フォーガットンのこん棒のサイズを大きくする。
+* [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"):ザ・フォーガットンの近接攻撃が非常に速くなり、骨投げのチャージが非常に短くなる。
+	+ (Added in Repentance)攻撃キーを押し続けるとザ・フォーガットンは常に近接攻撃をし続け、キーを話すと骨を投げる。近接攻撃と骨投げ攻撃の間の遅延も削除される。
+* [![image](/image/Sprinkler.png)](/wiki/Sprinkler "Sprinkler") [Sprinkler](/wiki/Sprinkler "Sprinkler"):スプリンクラーは乗数なしでザ・フォーガットンの涙のダメージを与える骨の涙を発射する。
+* [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor"):近接攻撃はピックアップを引き付け、骨を投げると敵をこん棒に引き付けて殺しやすくする。
+* [![image](/image/Sulfuric_Acid.png)](/wiki/Sulfuric_Acid "Sulfuric Acid") [Sulfuric Acid](/wiki/Sulfuric_Acid "Sulfuric Acid"):ダメージが増加する。近接攻撃と骨投げは時々黄色に変わるが、他の効果はない。
+	+ (Added in Repentance)投げられた骨は黄色であるかどうかに関係なく、岩を破壊しドアやシークレットルームを開くチャンスがある。
+* [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology"):ザ・フォーガットンが近接攻撃をするたびにレーザーリングが発生し、骨を投げるとザ・フォーガットンとこん棒の間にレーザーが発生する。
+	+ Technology + [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"):レーザーリングのサイズが2倍になる。
+	+ Technology + [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"):投げられた骨は絶えず爆発し、避けられない自傷を起こす。
+* [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"):骨が投げられるたびに、レーザーリングがこん棒の周りに発生する。
+	+ Tech X + [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"):代わりにレーザーリングがブリムストーンボールの周りに発生する。
+	+ Tech X + [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"):代わりに投げられた爆弾の周りにレーザーリングが発生する。
+* [![image](/image/Tech.5.png)](/wiki/Tech.5 "Tech.5") [Tech.5](/wiki/Tech.5 "Tech.5"):近接攻撃または骨投げをすると、レーザーが時々発射される。
+* [![image](/image/Technology_Zero.png)](/wiki/Technology_Zero "Technology Zero") [Technology Zero](/wiki/Technology_Zero "Technology Zero"):ザ・フォーガットンのこん棒には影響しない。
+* (Added in Repentance) [![image](/image/Terra.png)](/wiki/Terra "Terra") [Terra](/wiki/Terra "Terra"):投げられた骨は、岩を破壊しドアやシークレットルームを開くチャンスがある。
+* [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet"):骨投げが円を描くように回転し、レンジをアップグレードすることで通常よりも遠くに投げられるようになる。
+	+ (Added in Repentance)投げられた骨は、最大レンジに到達するまで非常に高速でザ・フォーガットンを周回し、その後同じ速度で旋回し戻る。ただし骨投げは同じ敵に2回しかヒットせず、より大きなヒットボックスを受けられないため、DPSと骨投げの精度が低下する。
+* [![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion"):ザ・フォーガットンのこん棒には影響しない。
+	+ (Added in Repentance) Trisagion + [![image](/image/Explosivo.png)](/wiki/Explosivo "Explosivo") [Explosivo](/wiki/Explosivo "Explosivo")/[![image](/image/Sinus_Infection.png)](/wiki/Sinus_Infection "Sinus Infection") [Sinus Infection](/wiki/Sinus_Infection "Sinus Infection")/(Added in Repentance) [![image](/image/Mucormycosis.png)](/wiki/Mucormycosis "Mucormycosis") [Mucormycosis](/wiki/Mucormycosis "Mucormycosis"):ザ・フォーガットンのこん棒で敵を攻撃するたびに敵に付着するTrisagionを生成するチャンスがある。それらはダメージを与えながら、Explosivoの涙/ブーガー/胞子をそれぞれ急速に生成する。
+		- 他のTrisagionシナジーも同様に作用する。
+* [![image](/image/Varicose_Veins.png)](/wiki/Varicose_Veins "Varicose Veins") [Varicose Veins](/wiki/Varicose_Veins "Varicose Veins"):全方向に10個の骨の涙を発射し、高いダメージを与える。
+* [![image](/image/The_Wiz.png)](/wiki/The_Wiz "The Wiz") [The Wiz](/wiki/The_Wiz "The Wiz"):ザ・フォーガットンは2つのこん棒を持ち、斜め外側に同時に2つのこん棒を使用する。
 
 
 解放される要素 ([実績](/wiki/Achievements "Achievements"))
