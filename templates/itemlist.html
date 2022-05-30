@@ -22,7 +22,7 @@
             {% for cell in record %}
             {% if loop.first %}
             <td>
-                <a href="/wiki/{{cell}}"><img src="/image/{{cell}}.png"></a>
+                <a href="/wiki/{{cell}}"><img src="/image/{{cell}}.png" loading="lazy"></a>
             </td>
             {% else %}
             <td>{{cell}}</td>
