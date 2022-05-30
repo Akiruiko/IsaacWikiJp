@@ -1,8 +1,6 @@
 +++
 +++
 
-#### ※この記事は翻訳作業中です
-
  # ザ　フォーガットン(The_Forgotten)
  ![image](/image/characters/The_Forgotten.png) 
 
