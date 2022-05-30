@@ -35,7 +35,7 @@
 							{% set imgpath = "/image/sites/logo.png" %}
 							{% set image = resize_image(path=imgpath, width=220, op="fit_width") %}
 							<img src="{{ image.url }}">
-                            <a href="{{ config.base_url }}"><p class="lead">{{ config.title }}</p></a>
+                            <a href="{{ config.base_url }}"><h1>{{ config.title }}</h1></a>
                             {% if config.description %}
                             <p class="lead">{{config.description}}</p>
                             {% endif %}

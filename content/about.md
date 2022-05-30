@@ -41,7 +41,6 @@ Rust製の静的サイトジェネレータ[Zola](https://www.getzola.org/)を�
   + [@ruikoaki](https://twitter.com/ruikoaki)
   + [@nonreason_jack](https://twitter.com/nonreason_jack)
   + [@spring_call](https://twitter.com/spring_call)
-<!-- メニューのメールアイコンをクリックするとメーラーが開きます。 -->
 
 ---
 
