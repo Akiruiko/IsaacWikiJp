@@ -33,9 +33,9 @@
             <a href="/wiki/{{cell}}"><img src="/image/characters/{{cell}}.png"></a>
         </td>
         {% elif loop.index == 2 %}
-        <td rowspan="2">{{cell}}<br>
+        <td rowspan="2"><a href="/wiki/{{cell}}">{{cell}}<br>
         {% elif loop.index == 3 %}
-        {{cell}}</td>
+        {{cell}}</a></td>
         {% elif loop.index == 4 %}
         {% set life = cell | split(pat="|") %}
         <td nowrap>
