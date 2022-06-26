@@ -29,7 +29,7 @@
 
 @media (min-width: 48em) {
   .content {
-      max-width:38rem;
+      max-width:55rem;
       margin-left: 20rem;
       margin-right: 2rem
   }
@@ -47,4 +47,12 @@
   margin-top: -.5rem;
   margin-bottom: 1rem;
   color: #9a9a9a
+}
+
+/* Tables */
+table {
+  font-size: 16px;
+}
+th.nw {
+  white-space: nowrap;
 }
