@@ -17,10 +17,10 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
-    <link rel="stylesheet" href="{{ get_url(path=" print.css", trailing_slash=false) }}" media="print">
-    <link rel="stylesheet" href="{{ get_url(path=" poole.css", trailing_slash=false) }}">
-    <link rel="stylesheet" href="{{ get_url(path=" hyde.css", trailing_slash=false) }}">
-    <link rel="stylesheet" href="{{ get_url(path=" override.css", trailing_slash=false) }}">
+    <link rel="stylesheet" href="{{ get_url(path="print.css", trailing_slash=false) }}" media="print">
+    <link rel="stylesheet" href="{{ get_url(path="poole.css", trailing_slash=false) }}">
+    <link rel="stylesheet" href="{{ get_url(path="hyde.css", trailing_slash=false) }}">
+    <link rel="stylesheet" href="{{ get_url(path="override.css", trailing_slash=false) }}">
 
     {% if config.generate_feed %}
       <link rel="alternate" type={% if config.feed_filename == "atom.xml" %} "application/atom+xml" {% else %} "application/rss+xml" {% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
@@ -35,9 +35,9 @@
         <div class="container">
           <div class="sidebar-about">
             {% block sidebar_about %}
-              {% set imgpath = "/image/sites/logo.png" %}
+              {# {% set imgpath = "/image/sites/logo.png" %}
               {% set image = resize_image(path = imgpath, width = 220, op = "fit_width") %}
-              <img src="{{ image.url }}">
+              <img src="{{ image.url }}"> #}
               <a href="{{ config.base_url }}">
                 <h1>{{ config.title }}</h1>
               </a>
@@ -70,13 +70,11 @@
                   {{ page.title }}
                 </a>
               </h1>
-
             </div>
           {% endfor %}
         </div>
       {% endblock content %}
     </div>
-
   </body>
 
 </html>
