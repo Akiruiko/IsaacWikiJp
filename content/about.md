@@ -1,6 +1,6 @@
 +++
 title = "About"
-date = 2022-04-01
+date = 2022-06-27
 page_template = "page.html"
 +++
 
@@ -19,24 +19,21 @@ Wikiの雛形として[英語Wiki](https://bindingofisaacrebirth.fandom.com/wiki
 
 Wiki編集メンバーとして有志を募集しています。以下に該当する方は是非とも運営メンバーにお声がけください。
 * The Binding of Isaac: Rebirthに興味がある、プレイ中、もっと深く知りたい
-* 英語翻訳ができる方
-* markdown / html / css など記述の経験がある方
+* 英語翻訳ができる
 
 ## このサイトについて
 
 Rust製の静的サイトジェネレータ[Zola](https://www.getzola.org/)を使っています。
 テーマは[hyde](https://github.com/getzola/hyde.git)を改変したものを使っています。
-共に[MITライセンス](https://opensource.org/licenses/mit-license.php)の下で公開されており、誰でも使うことができます。
+共にMITライセンスの下で公開されており、誰でも使うことができます。
 
-このWikiのデータ
-はmarkdownファイルによる個別記事とスプレッドシートによるリストの2つのみから成ります。
 こちらの[GitHub](https://github.com/Akiruiko/IsaacWikiJp)で編集を管理しています。
 
 ## 連絡先
 
-記事についての連絡は **[Discord "Isaac JPサーバー"](http://discord.gg/4XkGkqh)** に参加をお願いします。
+記事についての連絡は **[Discord "Isaac JPサーバー"](http://discord.gg/4XkGkqh)** のwiki総合チャンネルにお願いします。
 
-* Wiki運営メンバー(2022/04/01現在)
+* Wiki運営メンバー
   + [@3kch1_katzen](https://twitter.com/3kch1_katzen)
   + [@ruikoaki](https://twitter.com/ruikoaki)
   + [@nonreason_jack](https://twitter.com/nonreason_jack)
@@ -44,5 +41,5 @@ Rust製の静的サイトジェネレータ[Zola](https://www.getzola.org/)を�
 
 ---
 
-### Last Update: 2022-04-01
+### Last Update: 2022-06-27
 
