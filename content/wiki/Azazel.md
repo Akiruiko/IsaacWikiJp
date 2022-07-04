@@ -1,8 +1,6 @@
 +++
 +++
 
-#### ※この記事は翻訳作業中です
-
  # アザゼル(Azazel)
  ![image](/image/Characters/Azazel.png) 
 
@@ -21,92 +19,96 @@
 
 概要
 -------
+アザゼルは1度のランで3回悪魔取引をすることでアンロックされるキャラクターです。  
+アザゼルは短距離の[![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone")※・飛行能力・0 - The Foolのカードを持ってスタートします。  
+アザゼルの体力は黒ハート3つですが、 [???](/wiki/%3F%3F%3F_(Character) "???") や　(Added in Repentance) [Dark Judas](/wiki/Dark_Judas "Dark Judas") / [Tainted Judas](/wiki/Tainted_Judas "Tainted Judas")　と異なり赤ハートコンテナを増やすことが可能です。
 
+※(Removed in Repentance)1秒間に13回ダメージを与える　/ (Added in Repentance) 1秒間に8回ダメージを与える
 
 ノート
 -------
 
-* Azazel suffers from the shortest effective range of all characters; this is balanced with greater maneuverability provided by a flight and a high speed stat, additional power per hit via his Brimstone-like attack, and significant damage to all enemies in the room upon the loss of a Black Heart, killing most lesser enemies.
-* Due to his flight, Azazel takes damage only when leaving a [Curse Room](/wiki/Curse_Room "Curse Room"), not when entering, effectively letting him use these rooms at half-price. Additionally, he can use the Fool [card](/wiki/Card "Card") he starts with to avoid the cost for one room entirely.
-* It is possible to slightly increase attack range by taking [range](/wiki/Range "Range")-increasing items.
-* With enough range, acquiring [homing tears](/wiki/Homing_tears "Homing tears") will make Azazel's Brimstone home in on enemies.
+* アザゼルは全キャラクターの中で最も射程が短いという欠点があります。しかし、飛行と高い速度による機動力、Brimstoneのような攻撃による一撃の威力、部屋内の全ての敵に大きなダメージを与える黒ハートを所持しているなど、優れた長所を持っています。
+* アザゼルは飛行しているため呪いの部屋へ入るときはダメージを受けないので実質半分のダメージで利用することができます。さらに、「愚者」カードを使用することで1部屋分のダメージを完全に回避できます。
+* 射程増加アイテムを取ることで攻撃範囲を少し広げることが可能です。
+* 十分な射程があれば、ホーミングを取得することでアザゼルのBrimstoneを敵に誘導させることができます。
 
 
 アイテム効果
 -------------------
 
-* (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Azazel's Brimstone beam doubles in width, like (Added in Afterbirth)[![image](/image/Mega_Blast.png)](/wiki/Mega_Blast "Mega Blast") [Mega Blast](/wiki/Mega_Blast "Mega Blast"). No effect on damage.
+* (Added in Repentance) [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): アザゼルの[![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone")は (Added in Afterbirth) [![image](/image/Mega_Blast.png)](/wiki/Mega_Blast "Mega Blast") [Mega Blast](/wiki/Mega_Blast "Mega Blast") のように幅が2倍になる。ダメージへの影響はありません。
 
 
-### Good Items
+### 有利なアイテム
 
 
-* (Added in Afterbirth) [![image](/image/20/20.png)](/wiki/20/20 "20/20") [20/20](/wiki/20/20 "20/20") doubles lasers without increasing tear delay.
-* [![image](/image/Abaddon.png)](/wiki/Abaddon "Abaddon") [Abaddon](/wiki/Abaddon "Abaddon") Aside from the lack of Angel Rooms, it provides no downside, given Azazel still has no Red Heart containers. As it costs 3 Soul Hearts, it will add 3 Black Hearts to his health bar, increase damage and speed, and give his Brimstone laser a fear effect.
-	+ (Added in Repentance) This is no longer the case, as the amount of black hearts given by Abaddon is now based on the amount of red hearts it removes.
-* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") gives Azazel the long-range version.
-* (Removed in Afterbirth) [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk") reduces charge time.
-	+ (Added in Repentance) His Brimstone laser takes longer to be fully charged but can be released anytime. Width and damage of the laser increases at higher charges. Width scales from 50% at minimum charge to 160% at maximum charge. Damage scales from 25% at minimum charge to 250% at maximum charge. Unlike with normal tears, the tears stat does not directly affect maximum or minimum damage.
-* (Added in Afterbirth)[![image](/image/Circle_of_Protection.png)](/wiki/Circle_of_Protection "Circle of Protection") [Circle of Protection](/wiki/Circle_of_Protection "Circle of Protection") The circle is nearly the same size as Azazel's laser, adding extra damage.
-* [(Hook Worm)](/wiki/Hook_Worm "Hook Worm") [Hook Worm](/wiki/Hook_Worm "Hook Worm") allows the lasers to deal more damage per tick because of the shape it takes on.
-* [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye") / [![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider") shoots multiple mini Brimstone lasers with a massively increased tear delay.
-* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique") gives a Brimstone ring, *whether Azazel has the short or long-ranged version of it*, giving him the ability to damage many enemies at a time due to its size and negates Azazel's short-range, but halves Azazel's damage.
-* [![image](/image/Mom%27s_Eye.png)](/wiki/Mom%27s_Eye "Mom's Eye") [Mom's Eye](/wiki/Mom%27s_Eye "Mom's Eye") allows Azazel to shoot two beams, one of which is shot behind him.
-* (Added in Afterbirth) [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung") gives several additional Brimstone beams around Azazel.
-* [![image](/image/My_Reflection.png)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection") greatly increases the range of Azazel's brimstone.
-	+ (Added in Afterbirth) Greatly increases the Brimstone laser's range and makes the laser curve as Azazel moves around the room.
-		- (Added in Repentance) Greatly increases the Brimstone laser's range and makes the laser double back on itself to land behind Azazel.
-* [![image](/image/Number_One.png)](/wiki/Number_One "Number One") [Number One](/wiki/Number_One "Number One") slightly decreases Azazel's range but significantly decreases the charge time of Azazel's Brimstone. It also turns Azazel's laser yellow.
-* [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis") doubles the Brimstone laser's damage without any downsides.
-	+ (Added in Afterbirth) The beam will decrease in damage the further it travels, but Proptosis still greatly increases damage at close range.
-* (Added in Afterbirth) [![image](/image/Rubber_Cement.png)](/wiki/Rubber_Cement "Rubber Cement") [Rubber Cement](/wiki/Rubber_Cement "Rubber Cement") allows Azazel's laser to bounce off of walls. Unlike Azazel's normal mini-Brimstone, beams that bounce off of walls have infinite range but deals half of the damage.
-	+ (Added in Afterbirth +) The beam will no longer turn into normal Brimstone upon bouncing off a wall. It will instead turn into his mini-Brimstone.
-* [![image](/image/Sad_Bombs.png)](/wiki/Sad_Bombs "Sad Bombs") [Sad Bombs](/wiki/Sad_Bombs "Sad Bombs") shoots 10 short-ranged Brimstone beams around the explosion point, which deals enormous amounts of damage.
-* [![image](/image/Tammy%27s_Head.png)](/wiki/Tammy%27s_Head "Tammy's Head") [Tammy's Head](/wiki/Tammy%27s_Head "Tammy's Head") shoots 10 short-ranged Brimstone beams around him, which deal enormous amounts of damage.
-* (Added in Afterbirth)[(Tape Worm)](/wiki/Tape_Worm "Tape Worm") [Tape Worm](/wiki/Tape_Worm "Tape Worm") greatly increases the Brimstone laser's range.
-* (Added in Afterbirth) [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology") along with a physical change in the Brimstone, damage is increased.
-* [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2") provides a laser while Brimstone is charging, allowing the player to do damage while the charge occurs. However, this also decreases the damage of Azazel's Brimstone.
-* (Added in Repentance)[![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X") makes Azazel fire a ring-shaped brimstone.
-* [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet") changes the path of Azazel's Brimstone into a circle, giving it an area of effect. The range increase becomes especially powerful if you add a homing tears effect.
-* (Added in Repentance) [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body"): Adds a scatter of blood tears from Azazel's Brimstone's landing point.
-* (Added in Repentance)[![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): Azazel's Brimstone is auto-fired in the direction of a controllable target. Press Fire to start and Drop to stop.
-* (Added in Repentance)[![image](/image/Eye_of_the_Occult.png)](/wiki/Eye_of_the_Occult "Eye of the Occult") [Eye of the Occult](/wiki/Eye_of_the_Occult "Eye of the Occult"): Azazel's Brimstone becomes a lasso, auto-fired at a controllable target. Press Fire to start and Drop to stop.
-* (Added in Repentance) [![image](/image/Continuum.png)](/wiki/Continuum "Continuum") [Continuum](/wiki/Continuum "Continuum"): The range of Azazel's short Brimstone is increased and wraps around the screen, though without other significant range boosts it doesn't wrap far enough reach into the room.
-* (Added in Repentance) [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite"): Creates 2 short lasers upon hitting the first enemy.
-* (Added in Repentance) [![image](/image/Varicose_Veins.png)](/wiki/Varicose_Veins "Varicose Veins") [Varicose Veins](/wiki/Varicose_Veins "Varicose Veins"): Causes a short [Brimstone](/wiki/Brimstone "Brimstone") explosion around the player upon getting damaged.
+* (Added in Afterbirth) [![image](/image/20%2F20.png)](/wiki/20%2F20 "20/20") [20/20](/wiki/20%2F20 "20/20") ティアディレイを増やさずにBrimstoneの数を2倍にする。
+* [![image](/image/Abaddon.png)](/wiki/Abaddon "Abaddon") [Abaddon](/wiki/Abaddon "Abaddon")（初期状態から赤ハートコンテナを増やしていない場合）黒ハートが3個追加され、ダメージとスピードが増加し、Brimstoneに恐怖効果が付与される。エンジェルルームが出現しなくなる点を除けばデメリット無しで取引することができます。
+	+ (Added in Repentance) Abaddonが与える黒ハートの量は取り除いた赤いハートの量に応じたものになったため、上記のメリットは弱体化されました。
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone") 長距離のBrimstoneに変化する。
+* (Removed in Afterbirth) [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk")　Brimstoneのチャージ時間を短縮します。
+	+ (Added in Repentance) チャージ時間が延長されますが、チャージ中にもBrimstoneを放つことができるようになります。チャージ時間に応じて幅は50～160％、ダメージは25～250％まで増減します。通常の涙弾とは異なり、ティアのステータスは最大・最小ダメージに直接影響を与えません。
+* (Added in Afterbirth) [![image](/image/Circle_of_Protection.png)](/wiki/Circle_of_Protection "Circle of Protection") [Circle of Protection](/wiki/Circle_of_Protection "Circle of Protection")はアザゼルのレーザーと同じサイズで追加ダメージが発生する。
+* [![image](/image/Hook_Worm.png)](/wiki/Hook_Worm "Hook Worm") [Hook Worm](/wiki/Hook_Worm "Hook Worm")を取得するとレーザーの形状によりティック毎により多くのダメージを与える事ができる。
+* [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye") / [![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider")はティアを大幅にダウンさせ、複数のレーザーを放つようになる。
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique")はアザゼルのレンジに関係なく輪っか状のブリムストーンを操作できる。一度に多くの敵にダメージを与えられるがアザゼルのダメージは半分となる。
+* [![image](/image/Mom%27s_Eye.png)](/wiki/Mom%27s_Eye "Mom's Eye") [Mom's Eye](/wiki/Mom%27s_Eye "Mom's Eye")を取得するとアザゼルの後方からもレーザーが発射されるようになる。
+* (Added in Afterbirth) [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung")はアザゼルの周囲にいくつかのレーザーを追加する。
+* [![image](/image/My_Reflection.png)](/wiki/My_Reflection "My Reflection") [My Reflection](/wiki/My_Reflection "My Reflection")はアザゼルのブリムストーンのレンジを大幅に増加させる。
+	+ (Added in Afterbirth) ブリムストーンレーザーのレンジを大幅に増加させ、アザゼルが移動する度にレーザーがカーブする。
+		- (Added in Repentance) ブリムストーンレーザーのレンジを大幅に増加させ、アザゼルのレーザーをバックさせアザゼルの後ろに着弾させる。
+* [![image](/image/Number_One.png)](/wiki/Number_One "Number One") [Number One](/wiki/Number_One "Number One")はアザゼルの射程をわずかに減少させ、ブリムストーンのチャージを大幅に短縮する。また、アザゼルのレーザーの色が黄色になる。
+* [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis")は欠点無しにブリムストーンのダメージを2倍にする。
+	+ (Added in Afterbirth) レーザーは離れるほどダメージが減少するが、近距離では大幅にダメージを増加させる。
+* (Added in Afterbirth) [![image](/image/Rubber_Cement.png)](/wiki/Rubber_Cement "Rubber Cement") [Rubber Cement](/wiki/Rubber_Cement "Rubber Cement")を取得するとアザゼルのレーザーが壁に当たって跳ね返る。通常のレーザーと異なりレーザーの射程は無限だがダメージは半分となる。
+	+ (Added in Afterbirth+) 壁に当たって跳ね返ったレーザーが通常のブリムストーンにならなくなった。代わりに通常のミニブリムストーンが跳ね返る。
+* [![image](/image/Sad_Bombs.png)](/wiki/Sad_Bombs "Sad Bombs") [Sad Bombs](/wiki/Sad_Bombs "Sad Bombs")は爆発した所から10本のミニブリムストーンを放つようになる。高いダメージを与える事ができる。
+* [![image](/image/Tammy%27s_Head.png)](/wiki/Tammy%27s_Head "Tammy's Head") [Tammy's Head](/wiki/Tammy%27s_Head "Tammy's Head")は10本のミニブリムストーンを放ち高いダメージを与える。
+* (Added in Afterbirth) [![image](/image/Tape_Worm.png)](/wiki/Tape_Worm "Tape Worm") [Tape Worm](/wiki/Tape_Worm "Tape Worm")はブリムストーンレーザーの射程を大幅に拡大する。
+* (Added in Afterbirth) [![image](/image/Technology.png)](/wiki/Technology "Technology") [Technology](/wiki/Technology "Technology")はブリムストーンの見た目を変更し、ダメージを増加させる。
+* [![image](/image/Technology_2.png)](/wiki/Technology_2 "Technology 2") [Technology 2](/wiki/Technology_2 "Technology 2")はブリムストーンのチャージ中にレーザーを放つようになるが、アザゼルのダメージが減少する。
+* (Added in Repentance) [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X")はリング状のブリムストーンを発射するようになる。
+* [![image](/image/Tiny_Planet.png)](/wiki/Tiny_Planet "Tiny Planet") [Tiny Planet](/wiki/Tiny_Planet "Tiny Planet")はアザゼルの周囲を回り込むようにレーザーを発射するようになり、レーザーの範囲を増加させる。ホーミングを取得すると更に強力になる。
+* (Added in Repentance) [![image](/image/Cricket%27s_Body.png)](/wiki/Cricket%27s_Body "Cricket's Body") [Cricket's Body](/wiki/Cricket%27s_Body "Cricket's Body")はアザゼルのブリムストーンの着弾点から血の涙が弾けるようになる。
+* (Added in Repentance) [![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked")はアザゼルのブリムストーンを操作可能なターゲットの方向に発射するようになる。射撃ボタンで発射し、ドロップボタンで停止する。
+* (Added in Repentance) [![image](/image/Eye_of_the_Occult.png)](/wiki/Eye_of_the_Occult "Eye of the Occult") [Eye of the Occult](/wiki/Eye_of_the_Occult "Eye of the Occult")はアザゼルのブリムストーンを投げ縄状にし、操作可能なターゲットの方向に発射するようになる。射撃ボタンで発射し、ドロップボタンで停止する。
+* (Added in Repentance) [![image](/image/Continuum.png)](/wiki/Continuum "Continuum") [Continuum](/wiki/Continuum "Continuum")はアザゼルのブリムストーンの射程が大きくなるが、他の大幅な射程増加が無いと部屋をまたぐほど届かない。
+* (Added in Repentance) [![image](/image/The_Parasite.png)](/wiki/The_Parasite "The Parasite") [The Parasite](/wiki/The_Parasite "The Parasite")は最初に当たった敵から2つの短いレーザーが出るようになる。
+* (Added in Repentance) [![image](/image/Varicose_Veins.png)](/wiki/Varicose_Veins "Varicose Veins") [Varicose Veins](/wiki/Varicose_Veins "Varicose Veins")はダメージを受けるとプレイヤーの周囲に複数の短いブリムストーンを発射する。
 
 
-### Bad Items
+### 不利なアイテム
 
 
-* (Added in Afterbirth)[![image](/image/The_Wiz.png)](/wiki/The_Wiz "The Wiz") [The Wiz](/wiki/The_Wiz "The Wiz") while useful in some situations, enemies such as The Thing or other Creeps will be dangerous.
-* [![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye") has no effect, other than teleports upon taking damage while in the state of charging.
-* Items that respawn Azazel as a different character, including [![image](/image/Ankh.png)](/wiki/Ankh "Ankh") [Ankh](/wiki/Ankh "Ankh"), [![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags"), and [![image](/image/Judas%27_Shadow.png)](/wiki/Judas%27_Shadow "Judas' Shadow") [Judas' Shadow](/wiki/Judas%27_Shadow "Judas' Shadow") will remove the ability to fly and the brimstone laser.
-* Items that break Rocks, like [![image](/image/Leo.png)](/wiki/Leo "Leo") [Leo](/wiki/Leo "Leo") or [![image](/image/Thunder_Thighs.png)](/wiki/Thunder_Thighs "Thunder Thighs") [Thunder Thighs](/wiki/Thunder_Thighs "Thunder Thighs") nullify part of the advantage Azazel gains from flight as he will no longer be able to hover over them to avoid enemy projectiles.
-* Items that give flight will have no real effect, since Azazel has a built-in ability to fly.
-* (Removed in Repentance)[![image](/image/Kidney_Stone.png)](/wiki/Kidney_Stone "Kidney Stone") [Kidney Stone](/wiki/Kidney_Stone "Kidney Stone") only reduces Azazel's speed and short Brimstone's range.
-* The following items have their effect nullified with Azazel's short-ranged Brimstone:
+* (Added in Afterbirth) [![image](/image/The_Wiz.png)](/wiki/The_Wiz "The Wiz") [The Wiz](/wiki/The_Wiz "The Wiz")は状況によっては便利だが、The Thing等の敵は非常に倒しづらくなる。
+* [![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye")はチャージ中にダメージを受けたときにテレポートする以外の効果がない。
+* [![image](/image/Ankh.png)](/wiki/Ankh "Ankh") [Ankh](/wiki/Ankh "Ankh"), [![image](/image/Lazarus%27_Rags.png)](/wiki/Lazarus%27_Rags "Lazarus' Rags") [Lazarus' Rags](/wiki/Lazarus%27_Rags "Lazarus' Rags"), [![image](/image/Judas%27_Shadow.png)](/wiki/Judas%27_Shadow "Judas' Shadow") [Judas' Shadow](/wiki/Judas%27_Shadow "Judas' Shadow")などの別のキャラクターとして転生するアイテムは飛行能力とブリムストーンを削除する。
+* [![image](/image/Leo.png)](/wiki/Leo "Leo") [Leo](/wiki/Leo "Leo") or [![image](/image/Thunder_Thighs.png)](/wiki/Thunder_Thighs "Thunder Thighs") [Thunder Thighs](/wiki/Thunder_Thighs "Thunder Thighs")などの岩を破壊するアイテムはアザゼルが岩の上にホバリングできなくなるため、飛行状態から得られる利点の一部を無効にする事になる。
+* アザゼルは飛行を持っているため飛行を与えるアイテムは効果がない。
+* (Removed in Repentance) [![image](/image/Kidney_Stone.png)](/wiki/Kidney_Stone "Kidney Stone") [Kidney Stone](/wiki/Kidney_Stone "Kidney Stone")はアザゼルのスピードと射程をダウンさせるだけとなる。
+* 次のアイテムはアザゼルの短いブリムストーンでは効果が無い。
 	+ (Added in Afterbirth +)[![image](/image/Compound_Fracture.png)](/wiki/Compound_Fracture "Compound Fracture") [Compound Fracture](/wiki/Compound_Fracture "Compound Fracture")
 	+ [![image](/image/Cupid%27s_Arrow.png)](/wiki/Cupid%27s_Arrow "Cupid's Arrow") [Cupid's Arrow](/wiki/Cupid%27s_Arrow "Cupid's Arrow")
 	+ [![image](/image/Ouija_Board.png)](/wiki/Ouija_Board "Ouija Board") [Ouija Board](/wiki/Ouija_Board "Ouija Board")
 	+ [(Pulse Worm)](/wiki/Pulse_Worm "Pulse Worm") [Pulse Worm](/wiki/Pulse_Worm "Pulse Worm")
 	+ (Added in Afterbirth)[![image](/image/Pupula_Duplex.png)](/wiki/Pupula_Duplex "Pupula Duplex") [Pupula Duplex](/wiki/Pupula_Duplex "Pupula Duplex")
-	+ [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor") (Until [![image](/image/Anti-Gravity.png)](/wiki/Anti-Gravity "Anti-Gravity") [Anti-Gravity](/wiki/Anti-Gravity "Anti-Gravity") is picked up)
+	+ [![image](/image/Strange_Attractor.png)](/wiki/Strange_Attractor "Strange Attractor") [Strange Attractor](/wiki/Strange_Attractor "Strange Attractor") (Until [![image](/image/Anti-Gravity.png)](/wiki/Anti-Gravity "Anti-Gravity") [Anti-Gravity](/wiki/Anti-Gravity "Anti-Gravity") を取得するまで))
 	+ (Added in Afterbirth +)[![image](/image/Trisagion.png)](/wiki/Trisagion "Trisagion") [Trisagion](/wiki/Trisagion "Trisagion")
 	+ (Added in Repentance)[![image](/image/Tropicamide.png)](/wiki/Tropicamide "Tropicamide") [Tropicamide](/wiki/Tropicamide "Tropicamide")
 
 
-### Other interactions
+### その他のアイテム効果
 
-* [![image](/image/Mysterious_Liquid.png)](/wiki/Mysterious_Liquid "Mysterious Liquid") [Mysterious Liquid](/wiki/Mysterious_Liquid "Mysterious Liquid") overridden by Azazel's short Brimstone.
-	+ (Added in Afterbirth) Creep will spawn at the edge of the laser.
-* (Added in Afterbirth)[![image](/image/Dead_Eye.png)](/wiki/Dead_Eye "Dead Eye") [Dead Eye](/wiki/Dead_Eye "Dead Eye") has no effect.
-* (Added in Repentance)[![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac") The tear delay remains unchanged, and the end of the beam is explosive. No tear is fired.
-* (Added in Afterbirth +)[![image](/image/Lead_Pencil.png)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil") overridden by Azazel's short Brimstone
-	+ (Added in Repentance) Azazel will fire a low range Monstro's Lung -like barrage of 12 tears occasionally.
-* (Added in Afterbirth +)[![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder") Jacob's Ladder has no effect; sparks do not fly from Azazel's Brimstone when it connects with enemies.
-	+ (Added in Repentance) Sparks appear where the brimstone ends.
-* The following items override Azazel's short-ranged Brimstone:
+* [[Mysterious Liquid]] [![image](/image/Mysterious_Liquid.png)](/wiki/Mysterious_Liquid "Mysterious Liquid") [Mysterious Liquid](/wiki/Mysterious_Liquid "Mysterious Liquid")はアザゼルの短いブリムストーンで上書きされる。
+	+ (Added in Afterbirth) クリープがレーザーの端に出る。
+* (Added in Afterbirth) [![image](/image/Dead_Eye.png)](/wiki/Dead_Eye "Dead Eye") [Dead Eye](/wiki/Dead_Eye "Dead Eye")は効果が無い。
+* (Added in Repentance) [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac")はチャージダウンは無く、ビームの着弾点が爆発する。
+* (Added in Afterbirth+) [![image](/image/Lead_Pencil.png)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil")はアザゼルのブリムストーンに上書きされる。
+	+ (Added in Repentance) アザゼルが時折[![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung")のような涙を発射するようになる。
+* (Added in Afterbirth+) [![image](/image/Jacob%27s_Ladder.png)](/wiki/Jacob%27s_Ladder "Jacob's Ladder") [Jacob's Ladder](/wiki/Jacob%27s_Ladder "Jacob's Ladder")は効果が無い。ブリムストーンが着弾したところから電撃が放たれる事はない。
+	+ (Added in Repentance)ブリムストーンの着弾点から電撃が放たれる。
+* 次のアイテムはアザゼルのブリムストーンを上書きする。
 	+ [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus")
 	+ [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus")
 	+ (Added in Afterbirth +)[![image](/image/Haemolacria.png)](/wiki/Haemolacria "Haemolacria") [Haemolacria](/wiki/Haemolacria "Haemolacria")
