@@ -1,8 +1,6 @@
 +++
 +++
 
-#### ※この記事は翻訳作業中です
-
  # キーパー (Keeper)
  ![image](/image/characters/Keeper.png) 
 
@@ -21,198 +19,186 @@
 概要
 -------
 
+KeeperはAfterbirhで追加された隠されたキャラクターです。キーパーの解禁方法はグリードマシーンに1000コイン募金することです。
+
+* キーパーは爆弾を1つと [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye")のようなトリプルショットを持ってスタートします。
+* KeeperでIsaacを倒した後、Keeperのスタートアイテムに [![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel")が追加されます。
+* KeeperでSatanを倒した後、Keeperのスタートアイテムに [![image](/image/Store_Key.png)](/wiki/Store_Key "Store Key") [Store Key](/wiki/Store_Key "Store Key")が追加されます。
+* (Added in Repentance) HushをKeeperで倒して以降、コインハートが2から3になります。
+* (Added in Repentance) 悪魔部屋取引を行う際、コインハートの代わりにコインを使うことになります。
+	+ 1赤ハートと2赤ハートの取引はそれぞれ15コイン、30コイン必要になります。
+	+ [![image](/image/Satanic_Bible.png)](/wiki/Satanic_Bible "Satanic Bible") [Satanic Bible](/wiki/Satanic_Bible "Satanic Bible")で生成された悪魔部屋アイテムも同じようにコインを支払って取引を行います。
+* Keeperは他のキャラクターと違って、HPがコインになります。2つのコインハートでスタートし、ダメージを食らうごとに1つコインハートを失い、コイン1枚で1つ回復します。全てのタイプのハートは青いハエに変換されます。
+* 仮にKeeperがコインハートコンテナを失った時（悪魔取引 (Removed in Repentance) やヘルスダウン）はHPアップアイテムを取ることでコインハートコンテナを増やすことができます。
 
 ノート
 -------
 
-* (Removed in Repentance) Keeper cannot have more than 2 [Coin Hearts](/wiki/Coin_Heart "Coin Heart").
-* (Added in Repentance) Keeper cannot have more than 3 [Coin Hearts](/wiki/Coin_Heart "Coin Heart"). This cap applies even before Hush is defeated.
-	+ The only three exceptions to this are (Added in Afterbirth †)[![image](/image/Greed%27s_Gullet.png)](/wiki/Greed%27s_Gullet "Greed's Gullet") [Greed's Gullet](/wiki/Greed%27s_Gullet "Greed's Gullet"), which allows him to have up to 6 Coin Hearts, and (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright") and (Added in Repentance)[(Mother's Kiss)](/wiki/Mother%27s_Kiss "Mother's Kiss") [Mother's Kiss](/wiki/Mother%27s_Kiss "Mother's Kiss"), which allow him to have a 4th Coin Heart.
-		- (Added in Repentance) Greed's Gullet in combination with [![image](/image/Deep_Pockets.png)](/wiki/Deep_Pockets "Deep Pockets") [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets") can allow Keeper to reach 12 coin hearts at 600 coins.
-			* It is possible to reach 15 coin hearts at 900 coins. Any coin heart container past the max of 12 will appear as an additional row beneath the standard two rows of coin hearts, similar to  [(Magdalene)](/wiki/Magdalene "Magdalene") [Magdalene](/wiki/Magdalene "Magdalene")'s (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright").
-	+ Theoretically, Keeper could gain limitless coin hearts by generating and smelting Mother's Kiss, as each copy would grant a heart container, eventually bypassing the 12 heart container cap.
-	+ If the effect of (Added in Repentance)[(Mother's Kiss)](/wiki/Mother%27s_Kiss "Mother's Kiss") [Mother's Kiss](/wiki/Mother%27s_Kiss "Mother's Kiss") is doubled via [Mom's Box](/wiki/Mom%27s_Box "Mom's Box") or a [Golden Trinket](/wiki/Golden_Trinket "Golden Trinket"), keeper will also receive an extra coin.
-* Keeper always takes one full Coin Heart of damage, which means he generally cannot have half Coin Hearts.
-	+ Because Keeper can usually not have less than one full heart, items such as [![image](/image/Whore_of_Babylon.png)](/wiki/Whore_of_Babylon "Whore of Babylon") [Whore of Babylon](/wiki/Whore_of_Babylon "Whore of Babylon") and [![image](/image/Empty_Vessel.png)](/wiki/Empty_Vessel "Empty Vessel") [Empty Vessel](/wiki/Empty_Vessel "Empty Vessel") cannot be activated.
-	+ The effects of (Removed in Afterbirth †) [![image](/image/Guppy%27s_Collar.png)](/wiki/Guppy%27s_Collar "Guppy's Collar") [Guppy's Collar](/wiki/Guppy%27s_Collar "Guppy's Collar") and (Added in Afterbirth †)[![image](/image/Clicker.png)](/wiki/Clicker "Clicker") [Clicker](/wiki/Clicker "Clicker") can allow Keeper to have half Coin Hearts.
-		- (Added in Afterbirth †) [![image](/image/Guppy%27s_Collar.png)](/wiki/Guppy%27s_Collar "Guppy's Collar") [Guppy's Collar](/wiki/Guppy%27s_Collar "Guppy's Collar") now gives Keeper one full Coin Heart upon respawning.
-* The amount of blue flies created from each heart depends on the type of heart.
-	+ [Half Red Hearts](/wiki/Half_Red_Heart "Half Red Heart") are transformed into 1 blue fly.
-	+ Full [Red Hearts](/wiki/Red_Heart "Red Heart"), (Added in Afterbirth †) [Blended Hearts](/wiki/Blended_Heart "Blended Heart"), (Added in Afterbirth †) [half Soul Hearts](/wiki/Half_Soul_Heart "Half Soul Heart"), and (Added in Repentance) [Rotten Hearts](/wiki/Rotten_Heart "Rotten Heart") are transformed into 2 blue flies.
-	+ Full [Soul Hearts](/wiki/Soul_Hearts "Soul Hearts") are transformed into 3 blue flies.
-	+ [Black Hearts](/wiki/Black_Heart "Black Heart"), [Double Hearts](/wiki/Double_Heart "Double Heart"), and (Added in Afterbirth †) [Bone Hearts](/wiki/Bone_Heart "Bone Heart") are transformed into 4 blue flies.
-	+ [Eternal Hearts](/wiki/Eternal_Heart "Eternal Heart") are transformed into 5 blue flies.
-	+ (Added in Afterbirth †) [Gold Hearts](/wiki/Gold_Heart "Gold Heart") are transformed into 6 blue flies.
-* Every time Keeper uses a coin to heal himself, that coin is consumed and isn't added to his current coin amount.
-	+ Double Pennies, Nickels, Dimes, and [![image](/image/A_Quarter.png)](/wiki/A_Quarter "A Quarter") [A Quarter](/wiki/A_Quarter "A Quarter") will give 1, 4, 9, and 24 coins respectively if used to heal.
-	+ Using a Lucky Penny to refill health will not give a coin, but will still give +1 Luck.
-	+ [(2 of Diamonds)](/wiki/Cards_and_Runes "2 of Diamonds") [2 of Diamonds](/wiki/Cards_and_Runes "Cards and Runes") can refill Keeper's health at the cost of 1 coin.
-	+ [(Counterfeit Penny)](/wiki/Counterfeit_Penny "Counterfeit Penny") [Counterfeit Penny](/wiki/Counterfeit_Penny "Counterfeit Penny") allows the chance for Keeper to gain the full value of a coin while healing.
-* Coin Hearts are generally treated as Red Hearts, such as in (Removed in Repentance)[Devil](/wiki/Devil_Room "Devil Room")/[Angel Room](/wiki/Angel_Room "Angel Room") chance,(Removed in Repentance) [Devil deals](/wiki/Devil_deal "Devil deal"), [Challenge Rooms](/wiki/Challenge_Room "Challenge Room"), [Boss Challenge Rooms](/wiki/Boss_Challenge_Room "Boss Challenge Room"), and items such as (Added in Afterbirth †)[![image](/image/Dark_Prince%27s_Crown.png)](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown") [Dark Prince's Crown](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown").
-	+ (Removed in Repentance) Taking a Devil deal costing 2 Red Hearts will kill Keeper.
-* (Added in Repentance) Getting hit will not lower the chance for a Devil/Angel room to appear.
-* (Removed in Repentance) If Keeper doesn't have maximum Coin Heart containers, using [(XI - Strength)](/wiki/Cards_and_Runes "XI - Strength") [XI - Strength](/wiki/Cards_and_Runes "Cards and Runes") will give Keeper an additional Coin Heart that does not disappear upon leaving the room.
-* [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag") only gives Keeper 0-1 coins per use (instead of 1-3).
-* (Added in Repentance) [Blood Donation Machines](/wiki/Blood_Donation_Machine "Blood Donation Machine") aren't guaranteed to pay Keeper out with a coin.
-* [![image](/image/Piggy_Bank.png)](/wiki/Piggy_Bank "Piggy Bank") [Piggy Bank](/wiki/Piggy_Bank "Piggy Bank") only allows Keeper to drop 0-1 pennies when taking damage (instead of 1-2).
-	+ (Added in Repentance)Having a partner in True Co-Op mode can get around this, as the Co-Op partner will drop pennies normally (as long as they are not Keeper themselves), giving Keeper a reliable source of health.
-* (Added in Repentance) [(Swallowed Penny)](/wiki/Swallowed_Penny "Swallowed Penny") [Swallowed Penny](/wiki/Swallowed_Penny "Swallowed Penny") only allows Keeper to drop 0-1 pennies when taking damage (instead of 1).
-* Despite having an innate triple shot, Keeper does not start with [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye"). Because of this, the item can still spawn.
-	+ (Removed in Repentance)The Inner Eye grants six shots with a reduced fire rate.
-	+ (Added in Repentance) The Inner Eye grants four shots with a reduced fire rate.
-* (Added in Repentance) Health Down [pills](/wiki/Pill "Pill") cannot spawn while playing as Keeper.
-* In Co-op mode, when Keeper dies, his ghost baby will maintain his innate triple shot.
-* (Added in Repentance) In Co-op mode, Keeper will not convert hearts into flies unless he's granted them directly by an item.
-* (Added in Repentance) In Co-op mode, Devil Deals will use coins for all players if Keeper is being played.
+* (Removed in Repentance) Keeperは2コインハートより多くのハートを持つことができません。
+* (Added in Repentance) Keeperは3コインハートより多くのハートを持つことはできません。この上限はハッシュを倒す前でも適用されます。
+	+ この上限を超えることができる例外が、(Added in After birth+) [![image](/image/Greed%27s_Gullet.png)](/wiki/Greed%27s_Gullet "Greed's Gullet") [Greed's Gullet](/wiki/Greed%27s_Gullet "Greed's Gullet")で6つまでコインハートを持つことができます。それと、(Added in Repentance) [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright")、(Added in Repentance) [![image](/image/Mother%27s_Kiss.png)](/wiki/Mother%27s_Kiss "Mother's Kiss") [Mother's Kiss](/wiki/Mother%27s_Kiss "Mother's Kiss") によって4つ目のコインハートを持つことができます。
+		- (Added in Repentance) Greed's Gulletと[![image](/image/Deep_Pockets.png)](/wiki/Deep_Pockets "Deep Pockets") [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets")を組み合わせると600コインで12コインハートを持つことができます。
+			* 900コインで15コインハートを持つことができます。コインハートが12を超えると、 Magdaleneの (Added in Repentance) [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright")と同様に、標準のハートコンテナの下に追加の列として表示されるようになります。
+	+ 理論的には、Mother's Kissを生成して錬成することで、1枚ごとにハートのコンテナを1つ付与し、最終的にハートのコンテナの上限を12個にして、無限にコインハートを獲得することができます。
+	+ もし (Added in Repentance) [![image](/image/Mother%27s_Kiss.png)](/wiki/Mother%27s_Kiss "Mother's Kiss") [Mother's Kiss](/wiki/Mother%27s_Kiss "Mother's Kiss")がMom's Boxやゴールデントリンケットの効果で2倍になったときはKeeperも追加のエクストラコインを受け取ることができます。
+* Keeperは常にコインハート1個分のダメージを受けるので、一般的にコインハート半分のダメージを受けることができません。
+	+ Keeperはフルハートを1つ以下にすることができないので基本的に [![image](/image/Whore_of_Babylon.png)](/wiki/Whore_of_Babylon "Whore of Babylon") [Whore of Babylon](/wiki/Whore_of_Babylon "Whore of Babylon")や [![image](/image/Empty_Vessel.png)](/wiki/Empty_Vessel "Empty Vessel") [Empty Vessel](/wiki/Empty_Vessel "Empty Vessel")の効果を発動することができません。
+	+ (Removed in Afterbirth+) [![image](/image/Guppy%27s_Collar.png)](/wiki/Guppy%27s_Collar "Guppy's Collar") [Guppy's Collar](/wiki/Guppy%27s_Collar "Guppy's Collar") と (Added in Afterbirth+) [![image](/image/Clicker.png)](/wiki/Clicker "Clicker") [Clicker](/wiki/Clicker "Clicker")はキーパーのHPを半コインハートにすることができます。
+		- (Added in Afterbirth+) [![image](/image/Guppy%27s_Collar.png)](/wiki/Guppy%27s_Collar "Guppy's Collar") [Guppy's Collar](/wiki/Guppy%27s_Collar "Guppy's Collar") は現在、キーパーのHPを1フルコインハートにした状態で復活します。
+* ハートの種類によって青ハエの生成量は異なります。
+	+ 半赤ハートは1匹の青ハエに変換されます。
+	+ フル赤ハート、(Added in Afterbirth+) ブレンドハート、(Added in Afterbirth+) 半ソウルハート、(Added in Repentance) 腐ったハートは2匹の青ハエに変換されます。
+	+ フルソウルハートは3匹の青ハエに変換されます。
+	+ 黒ハート、ダブルハート、(Added in Afterbirth+) 骨ハートは4匹の青ハエに変換されます。
+	+ エターナルハートは5匹の青ハエに変換されます。
+	+ (Added in Afterbirth+) 金ハートは6匹の青ハエに変換されます。
+* Keeperは常にコインを消費することでHPを回復し、現在の取得コイン数には加算されません。
+	+ ダブルペニー、ニッケル、ダイムと [![image](/image/A_Quarter.png)](/wiki/A_Quarter "A Quarter") [A Quarter](/wiki/A_Quarter "A Quarter")を回復に使った場合、それぞれ1、4、9、24コインを取得します。
+	+ ラッキーペニーを使用して回復した場合、コインは増えませんが、+1Luckを得ることができます。
+	+ 2 of Diamondsは1コインのコストでHPを回復することができます。
+	+ [![image](/image/Counterfeit_Penny.png)](/wiki/Counterfeit_Penny "Counterfeit Penny") [Counterfeit Penny](/wiki/Counterfeit_Penny "Counterfeit Penny")はKeeperが回復に使ったコインすべてを取得するチャンスがあります。
+* コインハートは通常、(Removed in Repentance) 悪魔/天使部屋チャンス、 (Removed in Repentance) 悪魔取引、チャレンジルーム、ボスチャレンジルームや (Added in Afterbirth+) [![image](/image/Dark_Prince%27s_Crown.png)](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown") [Dark Prince's Crown](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown")といったアイテムと同様に赤ハートとしての扱いを受けます。
+	+ (Removed in Repentance) 赤ハート2個の悪魔取引を行うとKeeperは死亡します。
+* (Added in Repentance) ダメージを受けても悪魔/天使部屋の出現確率に影響しません。
+* (Removed in Repentance) Keeperにコインハートが最大値までない場合に XI- Strengthを使用すると、部屋を出ても消えない追加のコインハートがキーパーに付与されます。
+* [![image](/image/IV_Bag.png)](/wiki/IV_Bag "IV Bag") [IV Bag](/wiki/IV_Bag "IV Bag") はKeeperに1回の使用につきに(1-3コインではなく)0-1コインしか与えません。
+* (Added in Repentance) 献血機はKeeperにコインを支払うことを保証していません。
+* [![image](/image/Piggy_Bank.png)](/wiki/Piggy_Bank "Piggy Bank") [Piggy Bank](/wiki/Piggy_Bank "Piggy Bank") はKeeperがダメージを受けたときに(1-2コインではなく)0-1コインしか落としません。
+	+ (Added in Repentance) True Co-opモードでパートナーがいる場合、0-1コインしか落とさない状況を回避できます。これはCo-opでパートナー(Keeperでない限り)は通常通りコインをドロップし、Keeperに信頼できる回復源として働きます。
+* [[Added in Repenatance]] [![image](/image/Swallowed_Penny.png)](/wiki/Swallowed_Penny "Swallowed Penny") [Swallowed Penny](/wiki/Swallowed_Penny "Swallowed Penny")はKeeperがダメージを受けたときに(1コインではなく)0-1コインの間でドロップします。
+* Keeperはトリプルショットを持っているが[![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye")を持ってスタートするわけではありません。そのため、The Inner Eyeは1回のラン中にもスポーンする可能性があります。
+	+ The Inner Eye は発射率を下げて弾を6発にします。
+	+ (Added in Repentance) The Inner Eyeは発射率を下げて弾を4発にします。
+* (Added in Repentance) ヘルスダウンピルはKeeperでプレイ中にスポーンしません。
+* Co-opモードでキーパーが死んでも、ゴーストベイビーはトリプルショットを維持したままです。
+* (Added in Repentance) Co-opモード中のKeeperは、アイテムから直接生成しない限り、ハートをハエに変換しません。
+* (Added in Repentance) Co-opモード中にKeeperが使用されている場合、すべてのプレイヤーは悪魔取引でコインを使用するようになります。
 
 戦略
 --------------
 
-* Due to his (Removed in Repentance)2/(Added in Repentance)3 Coin Heart limit, Keeper can easily die due to fast shooting enemies, and (Removed in Repentance)Devil Deals costing 2 Red Hearts will kill him. As all hearts turn into flies, Soul/Black Hearts cannot be found to protect the Keeper's health.
-* It is strongly recommended to defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as soon as possible so that Keeper has the [![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel"), which will vastly improve his survivability.
-	+ (Removed in Afterbirth †) Keeper can take a 2 heart Devil Deal by spawning in a co-op baby, taking the devil deal, then quickly getting rid of the co-op baby, which will leave Keeper with one Coin Heart.
-* Leaving a few coins on the ground when clearing a floor makes Keeper able to heal himself in the case where he would take a hit from an enemy.
-* Try to bomb as many urns as possible during Chapter 1; [(Swallowed Penny)](/wiki/Swallowed_Penny "Swallowed Penny") [Swallowed Penny](/wiki/Swallowed_Penny "Swallowed Penny") can drop from urns, which is amazing as Keeper (see Good Items).
-	+ Urns can also appear in [angel rooms](/wiki/Angel_room "Angel room"), [arcades](/wiki/Arcade "Arcade"), and the [(Cathedral)](/wiki/Cathedral "Cathedral") [Cathedral](/wiki/Cathedral "Cathedral").
-* In [Greed Mode](/wiki/Greed_Mode "Greed Mode"), as coins spawn during waves, Keeper can easily heal himself during each wave by leaving some coins on the ground, even if this will decrease the amount of coins he will be able to collect and spend in the Shop. [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") attacks make the player lose coins when damaged, which means that Keeper can heal himself as long as he possesses coins.
-* (Removed in Repentance) It is possible to take a 2 Red Heart Devil Deal by using [(Judas' Tongue)](/wiki/Judas%27_Tongue "Judas' Tongue") [Judas' Tongue](/wiki/Judas%27_Tongue "Judas' Tongue"), a [Health Up Pill](/wiki/Pill "Pill"), or [(XI - Strength)](/wiki/Cards_and_Runes "XI - Strength") [XI - Strength](/wiki/Cards_and_Runes "Cards and Runes") right after paying for the item. This would leave Keeper at 1 health coin (empty if it was recovered using the pill, but he will not be killed), which is quite risky as he would be one hit away from death. However, if the boss item is a normally-useless HP up ([![image](/image/Stem_Cells.png)](/wiki/Stem_Cells "Stem Cells") [Stem Cells](/wiki/Stem_Cells "Stem Cells"), [![image](/image/A_Snack.png)](/wiki/A_Snack "A Snack") [A Snack](/wiki/A_Snack "A Snack"), etc.), it can make even a 2-heart Devil Deal effectively free if you possess a Strength Card and take the boss item after leaving the Devil Room.
-* As Keeper starts with triple shot, his tear rate is quite low, and this can be troublesome against fast enemies or large groups. Finding Tears Up items/Pills on the early floors will be useful to clear rooms. Items/trinkets increasing the tears' hitbox are also useful as enemies can be hit by two or three tears more easily.
-* Curse Rooms are very risky to enter as Keeper. Entering it through the door will leave you at one Health, which means if you don't find any coins there, it will end your run. Even with the [![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel") unlocked, it's not guaranteed that you will leave the Curse Room alive.
-* (Added in Repentance) After defeating Hush, entering a cursed room and leaving through the door will leave you at one Health, which means if you get hit by an enemy inside the room, it will end your run. The [![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel") does make it somewhat less risky, however.
-	+ Pills should be used outside of the Curse Room because using an "Addicted!" pill will kill you when you try to leave the room.
-	+ However, it is possible to enter the Curse Room and remain at full health. This is achieved with a coin in the room right next to the Curse Room's door, most easily achieved with Wooden Nickel. The player can then walk into the Curse Room doorframe to take damage, quickly pick up the coin and heal, then walk through the door into the Curse Room while their invincibility frames is still active.
-* Pills can be risky to use as the Keeper since many have adverse effects, with many of them able to quickly ruin a run should they happen. Picking up [![image](/image/PHD.png)](/wiki/PHD "PHD") [PHD](/wiki/PHD "PHD") is recommended before trying any pills.
-	+ (Removed in Repentance) The Hematemesis pill will reduce your health, but in exchange, spawn many flies.
-		- (Added in Repentance) The Hematemesis pill will spawn many [coins](/wiki/Coin "Coin") on the floor, making it very useful for quick health regeneration.
-	+ (Added in Repentance) Health Down pills are excluded from the pool while playing as Keeper.
-* (Removed in Repentance)Hold onto any [(Joker)](/wiki/Cards_and_Runes "Joker") [Joker](/wiki/Cards_and_Runes "Cards and Runes") cards: you will probably be given an item that increases health at some point in your run; before taking it, use your Joker to see if any one-heart devil deals are available.
-	+ (Removed in Repentance)Keeper's health coins count as Red Hearts for a devil/angel door appearing at all, making Joker Cards, [![image](/image/Goat_Head.png)](/wiki/Goat_Head "Goat Head") [Goat Head](/wiki/Goat_Head "Goat Head"), or (Added in Afterbirth †)[![image](/image/Eucharist.png)](/wiki/Eucharist "Eucharist") [Eucharist](/wiki/Eucharist "Eucharist") invaluable in getting into devil/angel rooms.
-* Co-op babies can be used to exploit [Blood Donation Machines](/wiki/Machines#Blood_Donation_Machine "Machines") and [Devil Beggars](/wiki/Devil_beggar "Devil beggar") because babies still spawn with a whole heart while Keeper always has a full coin; thus, the baby's health can be replenished by spawning/respawning.
-	+ Doesn't work in [Chapter 4](/wiki/Chapter_4 "Chapter 4") and beyond unless Keeper has [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer").
-* In fights against [Hush](/wiki/Hush "Hush") and [Mega Satan](/wiki/Mega_Satan "Mega Satan"), bring [(X - Wheel of Fortune)](/wiki/Cards_and_Runes "X - Wheel of Fortune") [X - Wheel of Fortune](/wiki/Cards_and_Runes "Cards and Runes"): they will not attack you until you get closer to the center of the room, allowing you to spawn lots of coins from the [slot machine](/wiki/Slot_machine "Slot machine") for healing in the middle of battle.
-* The Keeper can utilize [Sacrifice Rooms](/wiki/Sacrifice_Room "Sacrifice Room") much more reliably and efficiently than other characters. To do this, instead of picking up extra dropped coins, leave them all on the floor. When you find a sacrifice room, you can repeatedly step on the spikes for a reward, then go pick up a penny left on the floor. Repeat this process until you are satisfied with your rewards. This process is easier in *Repentance*, as the player can start with 3 coin hearts rather then 2.
-* Once unlocked, [(Rib of Greed)](/wiki/Rib_of_Greed "Rib of Greed") [Rib of Greed](/wiki/Rib_of_Greed "Rib of Greed") is particularly useful for Keeper, since it increases the chances of coins dropping after a room clear in place of hearts. This allows for more opportunities to heal.
+* (Removed in Repentance) 2/ (Added in Repentance) 3コインハートの制限は敵の素早い攻撃や、 (Removed in Repentance) 2赤ハートを消費する悪魔取引でKeeperは簡単に死ぬことができます。全てのハートはハエに変換されるのでKeeperのHPを保護するためのソウル/黒ハートを見つけることはできません。
+* [![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel")はKeeperの生存率を上げるので、なるべく早くIsaacを倒すことをお勧めします。
+	+ (Removed in Afterbirth+) Keeperで2赤ハートの悪魔取引を行うためにはCo-opベイビーを呼び出し、取引した後素早くCo-opベイビーを削除することでKeeperのコインハートを1つ残すことができます。
+* フロアをクリアする際に地面に数枚コインを残しておくと、Keeperはダメージを受けたときすぐに回復することができます。
+* Chapter 1ではできるだけ多くの壺を破壊してください。[![image](/image/Swallowed_Penny.png)](/wiki/Swallowed_Penny "Swallowed Penny") [Swallowed Penny](/wiki/Swallowed_Penny "Swallowed Penny")が壺からドロップし、Keeperにとても良いトリンケットです。（いいアイテムを参照）
+	+ 壺は天使部屋、アーケード、カセドラル（大聖堂）にも出現します。
+* グリードモードでは、1ウェーブごとにコインがスポーンするので、Keeperは地面に数枚のコインを残すことでウェーブ間で簡単に回復することができます。 ウルトラグリードの攻撃は、ダメージを受けた際にプレイヤーがコインを落とすのでコインを持っている限り回復をすることができます。
+* (Removed in Repentance) [![image](/image/Judas%27_Tongue.png)](/wiki/Judas%27_Tongue "Judas' Tongue") [Judas' Tongue](/wiki/Judas%27_Tongue "Judas' Tongue")、ヘルスアップピルまたは XI - Strengthを取引後に使用することで2赤ハートの悪魔取引が可能になります。これによってKeeperは1コインハート残すことができます（ピルで回復した場合は空のコインハートになりますが死ぬことはありません。）が、ダメージを1発でも受けると死ぬ危険性があります。ただし、ボスアイテムが通常役に立たないHPアップ（[![image](/image/Stem_Cells.png)](/wiki/Stem_Cells "Stem Cells") [Stem Cells](/wiki/Stem_Cells "Stem Cells")、[![image](/image/A_Snack.png)](/wiki/A_Snack "A Snack") [A Snack](/wiki/A_Snack "A Snack")など）の場合、Strengthのカードを所持して悪魔部屋を出た後にボスアイテムを取ることで2赤ハートの悪魔取引を事実上無料にすることができます。
+* Keeperはトリプルショットでスタートするためティアレート（連射率）がかなり低く、素早い敵や大きな集団に対して手間がかかる可能性があります。ティアーズアップアイテムやピルを浅い階層で見つけることで部屋をクリアすることが早くなります。アイテムやトリンケットなどで弾のサイズが大きくなると敵に2つまたは3つの弾が当たりやすくなるので倒すのが容易になります。
+* Keeperで呪い部屋に入ることは非常に危険です。呪い部屋の扉を通過するとHPが1つになってしまい、コインが見つからないとあなたのランはそこで終わりです。[![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel")を解除していたとしても呪いの部屋を生存したまま出られるかは保証できません。
+* (Added in Repentance) Hushを倒した後に呪い部屋に入って扉から出ると、HPが1つになります。つまり、呪い部屋の中で敵の攻撃を受けた場合、あなたのランはそこで終わりです。[![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel")を持っている場合、その危険性を少し減らすことができます。
+	+ "Addicted!"効果のピルは呪い部屋の外で使用する必要があり、ピル使用後に呪い部屋から出ようとすると死にます。
+	+ ただし、呪いの部屋に入る際にHPを満タンに維持することが可能です。それは、呪い部屋の扉の近くにコインを落とすことで、Wooden Nickelがあれば簡単に成功します。プレイヤーが呪い部屋の扉の枠でダメージを受け、素早くコインを拾って回復し、無敵時間がまだ残っている状態で扉を通過すれば呪い部屋に入ることができます。
+* 多くのピルは悪い効果を持つため、Keeperでは特にピルの使用は危険で、現在のランを早い段階でダメにしてしまうかもしれません。ピルを試す前に[![image](/image/PHD.png)](/wiki/PHD "PHD") [PHD](/wiki/PHD "PHD")を取得することをお勧めします。
+	+ (Removed in Repentance) HematemesisピルはHPを減らす代わりに多くのハエを生成します。
+		- (Added in Repentance) Hematemesisピルはそのフロアに多くのコインを落とし、素早く回復するのに便利になります。
+	+ (Added in Repentance)  Health DownピルはKeeperでプレイしている間は出現プールから除外されます。
+* (Removed in Repentance) Joker カードを持っている場合、ランを開始している時点でいくつかHPが増えるアイテムが手に入ると思います。Health Downピルを使う前にJokerを使って悪魔部屋で1赤ハート取引があるかどうかを確認するべきです。
+	+ (Removed in Repentance) Keeperのコインハートは赤ハートと同様に悪魔/天使部屋の出現確率に影響します。Jokerカード、[![image](/image/Goat_Head.png)](/wiki/Goat_Head "Goat Head") [Goat Head](/wiki/Goat_Head "Goat Head")や (Added in Afterbirth+) [![image](/image/Eucharist.png)](/wiki/Eucharist "Eucharist") [Eucharist](/wiki/Eucharist "Eucharist")は悪魔/天使部屋に入るための貴重なアイテムです。
+* Co-opベイビーはスポーン/リスポーンするごとに常にHP満タンで出現するため、KeeperのHPを満タンに保ったまま献血マシンや悪魔乞食を利用することができます。
+	+ Chapter 4以降、Keeperが[![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer")を持っていたとしても機能しません。
+* HushとMega Satan戦では X - Wheel of Fortuneを持ち込んでください。画面中央に近づくまでは戦闘が始まらないためスロットマシーンからたくさんのコインを落とすことで戦闘中の回復に役立ちます。
+* Keeperは他のキャラと比べ生贄部屋を確実かつ効率的に利用することができます。ドロップした追加のコインを拾わないでそのフロアに置いたままにしておき、報酬を得るために生贄部屋のトゲを踏んで他のフロアに落としたコインを拾いに行くことを繰り返し、満足のいく報酬が出るまで繰り返します。RepentanceではKeeperのコインハートが2枚から3枚になるのでより簡単に報酬を受け取ることができます。
+* [![image](/image/Rib_of_Greed.png)](/wiki/Rib_of_Greed "Rib of Greed") [Rib of Greed](/wiki/Rib_of_Greed "Rib of Greed")をアンロックすると部屋をクリアしたときにハートの代わりにコインが落ちるチャンスが増えるため、特にKeeperで役に立ちます。これによって、より多く回復の機会が得られます。
 
 
-### Wooden Nickel
+### 木製硬貨	(Wooden Nickel)
 
 
-After beating Cathedral with Keeper, he will start with [![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel"), giving Keeper a source of potential free coin.
+KeeperでCathedralを突破した後、[![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel")を持った状態でスタートします。Keeperにとって潜在的な無料のコインのソースを提供します
+
+* 部屋に入った直後にWooden Nickelを使用することは緊急の回復として非常に役立つため、おススメします。
+* [![image](/image/The_Battery.png)](/wiki/The_Battery "The Battery") [The Battery](/wiki/The_Battery "The Battery")、[![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt")、[![image](/image/Charged_Baby.png)](/wiki/Charged_Baby "Charged Baby") [Charged Baby](/wiki/Charged_Baby "Charged Baby")、[![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery")はコインの枚数をさらに増やすために役立ちます。また[![image](/image/Habit.png)](/wiki/Habit "Habit") [Habit](/wiki/Habit "Habit")を持っているとKeeperがダメージを受けるたびにWooden Nickelがチャージされ、Wooden Nickelが使用できる限りKeeperが永久的に生存できる可能性があります。
+* 生贄部屋で得たコインで回復できるため、Wooden Nickelをより沢山使うことができます。
 
 
-
-* It's usually a good idea to use the Wooden Nickel right after entering a room, so that the coin dropped will also work as emergency healing.
-* [![image](/image/The_Battery.png)](/wiki/The_Battery "The Battery") [The Battery](/wiki/The_Battery "The Battery"), [![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt"), [![image](/image/Charged_Baby.png)](/wiki/Charged_Baby "Charged Baby") [Charged Baby](/wiki/Charged_Baby "Charged Baby"), and [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery") help to further increase the amount of coins produced. Having [![image](/image/Habit.png)](/wiki/Habit "Habit") [Habit](/wiki/Habit "Habit") will recharge the Wooden Nickel whenever Keeper is hit, allowing him to potentially sustain himself endlessly, as long as the Wooden Nickel pays out. Having [![image](/image/Habit.png)](/wiki/Habit "Habit") [Habit](/wiki/Habit "Habit") and [![image](/image/Car_Battery.png)](/wiki/Car_Battery "Car Battery") [Car Battery](/wiki/Car_Battery "Car Battery") increases chances for infinite coins.
-* Sacrifice rooms can be used much more with the Wooden Nickel, as the coins gained from it can be spent on them.
+### ショップ (Shops)
 
 
-### Shops
+Sheolを踏破した後のKeeperは、[![image](/image/Store_Key.png)](/wiki/Store_Key "Store Key") [Store Key](/wiki/Store_Key "Store Key")を持ってスタートし、Keeperは店に鍵無しで入れます。
 
+以下のショップアイテムはKeeperにとって特に有効に働きます。
 
-After beating Sheol with Keeper, he will start with [(Store Key)](/wiki/Store_Key "Store Key") [Store Key](/wiki/Store_Key "Store Key"), giving Keeper free access to Shops. 
-
-
-The following shop items are particularly useful for Keeper:
-
-
-
-* [![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Enhances the many [blue flies](/wiki/Blue_fly "Blue fly") Keeper will naturally produce.
-* [![image](/image/BFFS!.png)](/wiki/BFFS! "BFFS!") [BFFS!](/wiki/BFFS! "BFFS!"): Any [orbital familiars](/wiki/Orbital_familiar "Orbital familiar") are important to protect the Keeper's low health, so increasing their size is always good.
-* [![image](/image/Piggy_Bank.png)](/wiki/Piggy_Bank "Piggy Bank") [Piggy Bank](/wiki/Piggy_Bank "Piggy Bank"): Drops 0-1 coins with Keeper instead of 1-2, but still provides increased survivability.
-	+ (Added in Repentance) In Co-Op, a player not using Keeper can take the Piggy Bank instead for its full benefit and thus supply Keeper with coins when necessary.
-* [![image](/image/Mom%27s_Box.png)](/wiki/Mom%27s_Box "Mom's Box") [Mom's Box](/wiki/Mom%27s_Box "Mom's Box"): Can drop [(Swallowed Penny)](/wiki/Swallowed_Penny "Swallowed Penny") [Swallowed Penny](/wiki/Swallowed_Penny "Swallowed Penny"), and makes Swallowed Penny drop two coins instead of one, resulting in infinite money.
-	+ (Added in Repentance) While this no longer results in infinite money, having a Swallowed Penny that's twice as effective will drastically increases survivability.
-* Any Battery type items; *see [Keeper#Wooden Nickel](/wiki/Keeper#Wooden_Nickel "Keeper")*
-* (Removed in Repentance) [![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug") takes only one HP on use.
-
+* [![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind"): Keeperが自動的に生成する多くの青ハエを強化します。
+* [![image](/image/BFFS%21.png)](/wiki/BFFS%21 "BFFS!") [BFFS!](/wiki/BFFS%21 "BFFS!"): いくつかのオービタルファミリアはKeeperのHPが低くなることを防げるため重要で、オービタルファミリアのサイズが大きくなることは常に良いことです。
+* [![image](/image/Piggy_Bank.png)](/wiki/Piggy_Bank "Piggy Bank") [Piggy Bank](/wiki/Piggy_Bank "Piggy Bank"): Keeperの場合1-2コインではなく0-1コインになってしまいますが、それでも生存率は上昇します。
+	+ (Added in Repentance) Co-opでは、Keeperを使っていないプレイヤーがPiggy Bankを利用することで最大限コインを得ることができ、また必要に応じてKeeperにコインを与えることができます。
+* [[Mom's Box]] Mom's Box: [![image](/image/Swallowed_Penny.png)](/wiki/Swallowed_Penny "Swallowed Penny") [Swallowed Penny](/wiki/Swallowed_Penny "Swallowed Penny")をドロップすることができ、Swallowed Pennyがコインを2枚落とすようになるため、結果的に無限にお金を得られます。
+	+ (Added in Repentance) 無限にお金が生成されることが無くなりましたが、Swallowed Pennyの2倍の効果は残っているため生存率は大幅に上昇します。
+* バッテリータイプのアイテムはKeeperの#Wooden Nickelを参照してください。
+* (Removed in Repentance) [![image](/image/Sharp_Plug.png)](/wiki/Sharp_Plug "Sharp Plug") [Sharp Plug](/wiki/Sharp_Plug "Sharp Plug")は使用時にHPを1つしか減らさなくなりました。
 
 
 アイテム効果
 -------------------
 
-* (Added in Repentance)[![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Raises Keeper's HP cap by 1.
+* (Added in Repentance) [![image](/image/Birthright.png)](/wiki/Birthright "Birthright") [Birthright](/wiki/Birthright "Birthright"): Keeperの最大HPを+1上昇させます。
 
 
-### Good Items
+### 有利なアイテム
 
 
-* Because of Keeper's slow rate of fire, any Tears Up items are a boon to him. His tears stat can be raised higher than the normal Inner Eye cap with enough Tears Up. This is because his low Tears stat is separate from his triple shot effect, allowing him to hit the standard Tears levels while having triple shots.
-* Flight is useful in general, and it also lets Keeper enter Curse Rooms with less risk.
-* Since every heart is changed into flies, items that give extra Heart drops like [![image](/image/Gimpy.png)](/wiki/Gimpy "Gimpy") [Gimpy](/wiki/Gimpy "Gimpy"), [![image](/image/The_Virus.png)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus"), [![image](/image/Old_Bandage.png)](/wiki/Old_Bandage "Old Bandage") [Old Bandage](/wiki/Old_Bandage "Old Bandage"), [![image](/image/Fanny_Pack.png)](/wiki/Fanny_Pack "Fanny Pack") [Fanny Pack](/wiki/Fanny_Pack "Fanny Pack"), [(Bloody Penny)](/wiki/Bloody_Penny "Bloody Penny") [Bloody Penny](/wiki/Bloody_Penny "Bloody Penny"), [![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss"), [![image](/image/Little_C.H.A.D..png)](/wiki/Little_C.H.A.D. "Little C.H.A.D.") [Little C.H.A.D.](/wiki/Little_C.H.A.D. "Little C.H.A.D."), or [![image](/image/The_Relic.png)](/wiki/The_Relic "The Relic") [The Relic](/wiki/The_Relic "The Relic") become great sources to generate flies. Having [![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind") also helps Keeper deal extra damage to enemies.
-* (Removed in Repentance) [![image](/image/1up!.png)](/wiki/1up! "1up!") [1up!](/wiki/1up! "1up!")/[![image](/image/Dead_Cat.png)](/wiki/Dead_Cat "Dead Cat") [Dead Cat](/wiki/Dead_Cat "Dead Cat") will allow Keeper to trade all of his health coins in Devil deals, reviving him with 1 health coin for Dead Cat and 0 health coins and 1/2 soul heart for 1up. Keeper can later regain lost health coins with health up items.
-* [![image](/image/20/20.png)](/wiki/20/20 "20/20") [20/20](/wiki/20/20 "20/20") causes Keeper to shoot 5 tears in an arc, without decreasing his fire rate.
-	+ (Added in Repentance) [![image](/image/20/20.png)](/wiki/20/20 "20/20") [20/20](/wiki/20/20 "20/20") grants a similar effect to [![image](/image/Odd_Mushroom_(Thin).png)](/wiki/Odd_Mushroom_(Thin) "Odd Mushroom") [Odd Mushroom](/wiki/Odd_Mushroom_(Thin) "Odd Mushroom (Thin)"), giving Keeper a massive Tears Up in exchange for a Damage Down.
-* [(Blind Rage)](/wiki/Blind_Rage "Blind Rage") [Blind Rage](/wiki/Blind_Rage "Blind Rage") has good synergy with money-dropping items. Since coins need to complete its animation before you can collect it, the extra invincibility frames give you a bigger window of opportunity to pick them up.
-* [![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye") allows him to fire 12 tears without an increase in tear delay.
-* (Added in Afterbirth †)[(Dim Bulb)](/wiki/Dim_Bulb "Dim Bulb") [Dim Bulb](/wiki/Dim_Bulb "Dim Bulb") is very useful if you keep the Wooden Nickel, as using it at the start of any room or beforehand will grant a hefty boost to most stats.
-* [![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia")/[(Credit Card)](/wiki/Credit_Card "Credit Card") [Credit Card](/wiki/Credit_Card "Credit Card") can be used to take Devil Deal items without spending any hearts/ (Added in Repentance)coins.
-* [![image](/image/Glass_Cannon.png)](/wiki/Glass_Cannon "Glass Cannon") [Glass Cannon](/wiki/Glass_Cannon "Glass Cannon") works good in early game for killing bosses and large groups of fast enemies, especially when holding (Added in Afterbirth †)[![image](/image/Dark_Prince%27s_Crown.png)](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown") [Dark Prince's Crown](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown") or [![image](/image/Dead_Cat.png)](/wiki/Dead_Cat "Dead Cat") [Dead Cat](/wiki/Dead_Cat "Dead Cat"). It's also useful for speeding up the run when the player's goal is Boss Rush or Blue Womb.
-* (Added in Afterbirth †)[![image](/image/Greed%27s_Gullet.png)](/wiki/Greed%27s_Gullet "Greed's Gullet") [Greed's Gullet](/wiki/Greed%27s_Gullet "Greed's Gullet") allows Keeper's health to extend past 2 coins, which is normally impossible. DO NOT pick up Dead Cat if you have all available health points using Greed's Gullet. This will instantly kill you, and when you are brought back by the Dead Cat, you will have only 1 hit point which you can no longer increase.
-* [![image](/image/Head_of_the_Keeper.png)](/wiki/Head_of_the_Keeper "Head of the Keeper") [Head of the Keeper](/wiki/Head_of_the_Keeper "Head of the Keeper") is very useful since enemies will drop coins when hit, which will help Keeper stay alive.
-	+ When combined with [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk"), it practically guarantees a steady stream of coin drops. This makes the Keeper effectively immortal as long as he keeps collecting those coins.
-* [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle") allows Keeper to enter and leave Curse Rooms with less risk.
-* [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye")/[![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider") cause Keeper's fire rate to drop considerably, but he shoots 6/7 tears in an arc, allowing for greater damage output.
-	+ (Added in Repentance)[![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider") will shoot 5 tears with reduced fire rate.
-	+ (Added in Repentance)[![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye") now shoots 4 tears with a reduced fire rate.
-* [(Lucky Rock)](/wiki/Lucky_Rock "Lucky Rock") [Lucky Rock](/wiki/Lucky_Rock "Lucky Rock") can allow Keeper to get coins from rocks as long as he has bombs.
-* [![image](/image/Missing_Page_2.png)](/wiki/Missing_Page_2 "Missing Page 2") [Missing Page 2](/wiki/Missing_Page_2 "Missing Page 2") will activate every time Keeper takes damage, making it an effective replacement to [![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative")'s [![image](/image/The_Necronomicon.png)](/wiki/The_Necronomicon "The Necronomicon") [The Necronomicon](/wiki/The_Necronomicon "The Necronomicon") effect.
-* (Added in Afterbirth †)[![image](/image/Moving_Box.png)](/wiki/Moving_Box "Moving Box") [Moving Box](/wiki/Moving_Box "Moving Box") can be used to drop multiple coins in a potentially harder room or boss fight.
-* [![image](/image/Piggy_Bank.png)](/wiki/Piggy_Bank "Piggy Bank") [Piggy Bank](/wiki/Piggy_Bank "Piggy Bank") works differently with Keeper and doesn't drop coins every time he takes damage. Still, it allows him to sometimes recover from a hit for free. (Added in Repentance) The same is true for [(Swallowed Penny)](/wiki/Swallowed_Penny "Swallowed Penny") [Swallowed Penny](/wiki/Swallowed_Penny "Swallowed Penny").
-* [![image](/image/Placenta.png)](/wiki/Placenta "Placenta") [Placenta](/wiki/Placenta "Placenta") regeneration effect affects the health coins just like regular red hearts and will allow the Keeper to regenerate 1 health coin every minute. As Keeper does not benefit from items that trigger at half a red heart, this item has no downsides.
-* [![image](/image/Portable_Slot.png)](/wiki/Portable_Slot "Portable Slot") [Portable Slot](/wiki/Portable_Slot "Portable Slot") can be used to generate coins to heal Keeper during extended fights and in some cases might be better than [![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel") when money is not a concern.
-* [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac") is great with Keeper too, because now you can also heal yourself with all explosions. Combine this with a good bomb item like [![image](/image/Kamikaze!.png)](/wiki/Kamikaze! "Kamikaze!") [Kamikaze!](/wiki/Kamikaze! "Kamikaze!"), [![image](/image/Dr._Fetus.png)](/wiki/Dr._Fetus "Dr. Fetus") [Dr. Fetus](/wiki/Dr._Fetus "Dr. Fetus"), [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"), [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac") and you'll be almost immortal.
-* Items that restore red hearts directly such as [![image](/image/Leech.png)](/wiki/Leech "Leech") [Leech](/wiki/Leech "Leech") and [![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart") will heal Keeper.
-* (Removed in Repentance) [(Swallowed Penny)](/wiki/Swallowed_Penny "Swallowed Penny") [Swallowed Penny](/wiki/Swallowed_Penny "Swallowed Penny") is very powerful as Keeper will always be able to heal himself after taking a hit. This can also grant unlimited money since this will sometimes drop a nickel or a dime. However, invincibility after taking damage does not last long enough to pick up the money without risk of death.
-	+ (Added in Afterbirth †) The coin dropped on hit can be picked up before Keeper's invincibility frames end, making Swallowed Penny even better for him.
-	+ If Keeper takes damage from entering a [Curse Room](/wiki/Curse_Room "Curse Room"), the coin will be dropped on the outside and can't be used to heal before leaving.
-		- However, if one quickly enters, exits to collect the coin, and re-enters the room before the invulnerability period ends, the Swallowed Penny allows the Curse Room to be traversed with no net loss in life. Just be wary that there may be enemies in the curse room that would lock the door and prevent the player from leaving and collecting the coin outside the curse room.
-	+ Obtaining Swallowed Penny means you can play Blood Donation Machines, Devil Beggars and [Sacrifice Rooms](/wiki/Sacrifice_Room "Sacrifice Room") practically for free until they pay out since each time you donate a coin to them, you get a coin back.
-	+ (Added in Repentance)You are no longer guaranteed to get a coin back.
-* [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X") synergizes well with Keeper's triple shot.
-* [![image](/image/Tractor_Beam.png)](/wiki/Tractor_Beam "Tractor Beam") [Tractor Beam](/wiki/Tractor_Beam "Tractor Beam") will make all 3 of Keeper's tears travel along the beam, hitting a single target all at the same time and effectively increasing damage output.
+* Keeperの涙の発射間隔は遅いので、いくつかのTears Upアイテムは有効です。KeeperのTearsは十分なTears Upで通常のInner EyeのTear上限より高く上げることができます。これは、Keeperの低いTearsステータスがトリプルショット効果とは別物であり、トリプルショットを持ちながら標準的なTearレベルにすることができるためです。
+* 飛行は一般的に便利であり、Keeperが呪い部屋に入るためのリスクを減少させることができます。
+* 全てのハートをハエに変換するため、[![image](/image/Gimpy.png)](/wiki/Gimpy "Gimpy") [Gimpy](/wiki/Gimpy "Gimpy")、[![image](/image/The_Virus.png)](/wiki/The_Virus "The Virus") [The Virus](/wiki/The_Virus "The Virus")、[![image](/image/Old_Bandage.png)](/wiki/Old_Bandage "Old Bandage") [Old Bandage](/wiki/Old_Bandage "Old Bandage")、[![image](/image/Fanny_Pack.png)](/wiki/Fanny_Pack "Fanny Pack") [Fanny Pack](/wiki/Fanny_Pack "Fanny Pack")、[![image](/image/Bloody_Penny.png)](/wiki/Bloody_Penny "Bloody Penny") [Bloody Penny](/wiki/Bloody_Penny "Bloody Penny")、[![image](/image/Serpent%27s_Kiss.png)](/wiki/Serpent%27s_Kiss "Serpent's Kiss") [Serpent's Kiss](/wiki/Serpent%27s_Kiss "Serpent's Kiss")、[![image](/image/Little_C.H.A.D.png)](/wiki/Little_C.H.A.D "Little C.H.A.D") [Little C.H.A.D](/wiki/Little_C.H.A.D "Little C.H.A.D")、[[The Relic]] The Relicはハエを生成するための優秀なソースになります。[![image](/image/Hive_Mind.png)](/wiki/Hive_Mind "Hive Mind") [Hive Mind](/wiki/Hive_Mind "Hive Mind")を持っているとKeeperが敵に与える追加のダメージソースとして役に立ちます。
+* (Removed in Repentance) [![image](/image/1up%21.png)](/wiki/1up%21 "1up!") [1up!](/wiki/1up%21 "1up!") / [![image](/image/Dead_Cat.png)](/wiki/Dead_Cat "Dead Cat") [Dead Cat](/wiki/Dead_Cat "Dead Cat")はすべてのコインハートを悪魔取引で交換できるようにし、復活した際にDead Catは1コインハートを、1up!は0コインハートと半ソウルハートをKeeperに与えます。Keeperは後でHPupアイテムを取ることで無くなったコインハートを回収することができます。
+* [![image](/image/20%2F20.png)](/wiki/20%2F20 "20/20") [20/20](/wiki/20%2F20 "20/20")はKeeperの発射間隔を下げることなく、弧の形に弾を5つ同時に発射します。
+	+ (Added in Repentance) [![image](/image/20%2F20.png)](/wiki/20%2F20 "20/20") [20/20](/wiki/20%2F20 "20/20")は、[![image](/image/Odd_Mushroom_(Thin).png)](/wiki/Odd_Mushroom_(Thin) "Odd Mushroom") [Odd Mushroom](/wiki/Odd_Mushroom_(Thin) "Odd Mushroom")と同様の効果になり、Keeperはダメージダウンと引き換えにTearsが大幅に上昇します。
+* [![image](/image/Blind_Rage.png)](/wiki/Blind_Rage "Blind Rage") [Blind Rage](/wiki/Blind_Rage "Blind Rage")はお金を落とすアイテムと良いシナジーを持っています。追加でダメージを食らう前にコインを拾わないと死んでしまうため、無敵時間が増えるとコインを拾える機会が増えます。
+* [![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye")はKeeperの弾の発射間隔を遅延させないまま12発の弾を出すことができます。
+* (Added in Afterbirth+) [![image](/image/Dim_Bulb.png)](/wiki/Dim_Bulb "Dim Bulb") [Dim Bulb](/wiki/Dim_Bulb "Dim Bulb")はWooden Nickelを持っている場合に非常に便利で、部屋に入った直後または事前に使用しておくと、すべてのステータスが大幅に上昇します。
+* [![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia") / [![image](/image/Credit_Card.png)](/wiki/Credit_Card "Credit Card") [Credit Card](/wiki/Credit_Card "Credit Card")を使用すると、ハート/ (Added in Repentance) コインを使わずに悪魔アイテムの取引ができます。
+* [![image](/image/Glass_Cannon.png)](/wiki/Glass_Cannon "Glass Cannon") [Glass Cannon](/wiki/Glass_Cannon "Glass Cannon") は、特に (Added in Afterbirth+) [![image](/image/Dark_Prince%27s_Crown.png)](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown") [Dark Prince's Crown](/wiki/Dark_Prince%27s_Crown "Dark Prince's Crown")か [![image](/image/Dead_Cat.png)](/wiki/Dead_Cat "Dead Cat") [Dead Cat](/wiki/Dead_Cat "Dead Cat")を持っている場合、敵の数が多い時やボスを早く倒すのに役立ちます。プレイヤーのゴールがボスラッシュやBlue Wombの場合に、ゲームをスピーディに進めるのに役立ちます。
+* (Added in Afterbirth+) [![image](/image/Greed%27s_Gullet.png)](/wiki/Greed%27s_Gullet "Greed's Gullet") [Greed's Gullet](/wiki/Greed%27s_Gullet "Greed's Gullet")を持っているとKeeperのHPを2コイン以上増やすことができるが、これは通常では不可能です。Greed's Gulletを持っているときに取引可能なHPがある状態でDead Catを絶対に拾わないでください。Dead Catを拾った瞬間即座に死亡してしまい、Dead Catの力で復活したときに1コインハートしか持っておらず、HP上限を増やす手立てが無くなります。
+* [![image](/image/Head_of_the_Keeper.png)](/wiki/Head_of_the_Keeper "Head of the Keeper") [Head of the Keeper](/wiki/Head_of_the_Keeper "Head of the Keeper")は、敵に攻撃がヒットするとコインをドロップすることがあり、Keeperが生存し続けるのに役立ちます。
+	+ [![image](/image/Soy_Milk.png)](/wiki/Soy_Milk "Soy Milk") [Soy Milk](/wiki/Soy_Milk "Soy Milk")と組み合わせると、安定したコインドロップを保証します。これにより、Keeperはコインを収集し続け、事実上不死身になります。
+* [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle")はKeeperが呪い部屋を出入りするときのリスクを少なくします。
+* [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye") / [![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider")はKeeperの発射間隔を大きく低下させてしまうが、6または7発の弾を一度に発射し、より大きなダメージを出せるようになります。
+	+ (Added in Repentance) [![image](/image/Mutant_Spider.png)](/wiki/Mutant_Spider "Mutant Spider") [Mutant Spider](/wiki/Mutant_Spider "Mutant Spider") は発射間隔を下げ、弾を5つ発射します。
+	+ (Added in Repentance) [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye") は発射間隔を下げ、弾を4つ発射します。
+* [![image](/image/Lucky_Rock.png)](/wiki/Lucky_Rock "Lucky Rock") [Lucky Rock](/wiki/Lucky_Rock "Lucky Rock")はKeeperが爆弾を持っている限り、岩からコインを取得できるようにします。
+* [![image](/image/Missing_Page_2.png)](/wiki/Missing_Page_2 "Missing Page 2") [Missing Page 2](/wiki/Missing_Page_2 "Missing Page 2") はKeeperがダメージを受けるたびに発動し、[![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative") や[![image](/image/The_Necronomicon.png)](/wiki/The_Necronomicon "The Necronomicon") [The Necronomicon](/wiki/The_Necronomicon "The Necronomicon")の効果の代わりになります。
+* (Added in Afterbirth+) [![image](/image/Moving_Box.png)](/wiki/Moving_Box "Moving Box") [Moving Box](/wiki/Moving_Box "Moving Box")を使うことで、より難しい部屋やボス戦で複数のコインをドロップできます。
+* [![image](/image/Piggy_Bank.png)](/wiki/Piggy_Bank "Piggy Bank") [Piggy Bank](/wiki/Piggy_Bank "Piggy Bank") はKeeperの場合少し効果が異なり、ダメージを受けるたびにコインを落とすわけではありません。それでもKeeperでは時々ダメージを受けた際の回復として機能します。(Added in Repentance) [![image](/image/Swallowed_Penny.png)](/wiki/Swallowed_Penny "Swallowed Penny") [Swallowed Penny](/wiki/Swallowed_Penny "Swallowed Penny") でも似たような効果になります。
+* [![image](/image/Placenta.png)](/wiki/Placenta "Placenta") [Placenta](/wiki/Placenta "Placenta")のリジェネ(再生)効果は、通常の赤ハートと同様にコインハートに影響を与え、Keeperが毎分1コインハートを回復できるようにします。Keeperには半赤ハートの状態でトリガーするアイテムの恩恵を受けないため、このアイテムに欠点はなく、取り得です。
+* [![image](/image/Portable_Slot.png)](/wiki/Portable_Slot "Portable Slot") [Portable Slot](/wiki/Portable_Slot "Portable Slot") は、長時間の戦闘中にKeeperを回復するためのコイン生成として使え、お金が十分にある場合は[![image](/image/Wooden_Nickel.png)](/wiki/Wooden_Nickel "Wooden Nickel") [Wooden Nickel](/wiki/Wooden_Nickel "Wooden Nickel")よりも優れている場合があります。
+* [![image](/image/Pyromaniac.png)](/wiki/Pyromaniac "Pyromaniac") [Pyromaniac](/wiki/Pyromaniac "Pyromaniac")はKeeperにとても良いアイテムです。なぜなら、あらゆる爆発でKeeper自身を回復することができるからです。組み合わせると良い爆弾系アイテムは[![image](/image/Kamikaze%21.png)](/wiki/Kamikaze%21 "Kamikaze!") [Kamikaze!](/wiki/Kamikaze%21 "Kamikaze!")、[![image](/image/Dr.Fetus.png)](/wiki/Dr.Fetus "Dr.Fetus") [Dr.Fetus](/wiki/Dr.Fetus "Dr.Fetus")、[![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus")、[![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac")で、Keeperをほとんど不滅に近い状態にします。
+* [![image](/image/Leech.png)](/wiki/Leech "Leech") [Leech](/wiki/Leech "Leech") や[![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart")などの赤ハートを直接回復させるアイテムはKeeperのコインハートも回復できます。
+* (Removed in Repentance) [![image](/image/Swallowed_Penny.png)](/wiki/Swallowed_Penny "Swallowed Penny") [Swallowed Penny](/wiki/Swallowed_Penny "Swallowed Penny")はKeeperがダメージを受けた後も常に回復できる可能性があるため非常に強力です。また、ダイムやニッケルをたまに落とすので無限にお金を得ることも可能です。しかし、ダメージを受けた後の無敵は十分に長い時間があるわけでは無いため、死のリスクを考えないで拾うことは難しいです。
+	+ (Added in Afterbirth+) 被ダメージ後にドロップしたコインは、Keeperの無敵フレームが終了する前に拾うことができ、Swallowed Pennyをさらに良くします。
+	+ Keeperが呪い部屋に入ってダメージを受けた場合は、コインは外側に落ちてしまうので、呪い部屋を出る前に回復をするための手段にはなりません。
+		- しかし、無敵時間が終わる前に、すぐにコインを拾って再び部屋に入ることで、Swallowed PennyでHPを失うことなく呪い部屋を横断することができます。呪い部屋に敵がいて扉をロックした場合、プレイヤーが呪い部屋の外に出てコインを集めることができない可能性に注意してください。
+	+ Swallowed Pennyを手に入れたということは、献血機、悪魔乞食、生贄部屋をダメージが受けるたびにコインが戻ってきて回復できるので、アイテムが排出されるまで実質的に無料でプレイできることを意味します。
+	+ (Added in Repentance) コインが戻ってくる保証がなくなりました。
+* [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X")はKeeperのトリプルショットとシナジーしています。
+* [![image](/image/Tractor_Beam.png)](/wiki/Tractor_Beam "Tractor Beam") [Tractor Beam](/wiki/Tractor_Beam "Tractor Beam")はKeeperのトリプルショットをビームに集約し、1つのターゲットに同時に当たるためダメージ出力を効果的に増加させます。
 
 
-### Bad Items
+### 不利なアイテム
 
 
-* Health Ups are useless when Keeper has maximum health (3 health coins). They still heal him if he has unfilled health coins.
-* (Added in Repentance)[![image](/image/Alabaster_Box.png)](/wiki/Alabaster_Box "Alabaster Box") [Alabaster Box](/wiki/Alabaster_Box "Alabaster Box") can only be charged with items that directly give Soul Hearts to the player, as Soul Hearts spawned on the ground will be converted into blue flies.
-* (Removed in Repentance) Devil Deals requiring 2 Red Hearts cannot be taken unless Keeper has a resurrection item, (Added in Afterbirth †)[![image](/image/Coupon.png)](/wiki/Coupon "Coupon") [Coupon](/wiki/Coupon "Coupon"), [(Credit Card)](/wiki/Credit_Card "Credit Card") [Credit Card](/wiki/Credit_Card "Credit Card"), [![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia"), [Strength](/wiki/Cards_and_Runes#Tarot_Cards "Cards and Runes"), a [Health Up Pill](/wiki/Pill "Pill"), or [(Judas' Tongue)](/wiki/Judas%27_Tongue "Judas' Tongue") [Judas' Tongue](/wiki/Judas%27_Tongue "Judas' Tongue").
-* (Added in Repentance)[(Judas' Tongue)](/wiki/Judas%27_Tongue "Judas' Tongue") [Judas' Tongue](/wiki/Judas%27_Tongue "Judas' Tongue") is completely useless with Keeper. It won't decrease 30 Cent devil deals to 15 Cents, and does not have any other effect.
-* It is not recommended to take [![image](/image/Bum_Friend.png)](/wiki/Bum_Friend "Bum Friend") [Bum Friend](/wiki/Bum_Friend "Bum Friend") or [![image](/image/Bumbo.png)](/wiki/Bumbo "Bumbo") [Bumbo](/wiki/Bumbo "Bumbo"), as they will pick up coins off the ground that could have been used as health.
-* (Removed in Repentance) Taking [![image](/image/Abaddon.png)](/wiki/Abaddon "Abaddon") [Abaddon](/wiki/Abaddon "Abaddon") will instantly kill Keeper, since it takes away all red health and Keeper cannot make use of the Black Hearts given. Amusingly, it will spawn a lot of flies in the process.
-	+ (Added in Repentance) Taking [![image](/image/Abaddon.png)](/wiki/Abaddon "Abaddon") [Abaddon](/wiki/Abaddon "Abaddon") will not kill Keeper as in previous versions, but it will reduce his health to one Coin Heart.
-* [![image](/image/Empty_Vessel.png)](/wiki/Empty_Vessel "Empty Vessel") [Empty Vessel](/wiki/Empty_Vessel "Empty Vessel") does not work with Keeper, as health coins count as red heart containers.
-* [![image](/image/Guppy%27s_Paw.png)](/wiki/Guppy%27s_Paw "Guppy's Paw") [Guppy's Paw](/wiki/Guppy%27s_Paw "Guppy's Paw") will remove a health coin and spawn 9 blue flies. Removing all health coins with Guppy's Paw will not kill the Keeper immediately, but he will die upon picking up an item.
-* [![image](/image/Maggy%27s_Bow.png)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow"), [![image](/image/The_Jar.png)](/wiki/The_Jar "The Jar") [The Jar](/wiki/The_Jar "The Jar"), [![image](/image/Dark_Bum.png)](/wiki/Dark_Bum "Dark Bum") [Dark Bum](/wiki/Dark_Bum "Dark Bum"), [![image](/image/Immaculate_Conception.png)](/wiki/Immaculate_Conception "Immaculate Conception") [Immaculate Conception](/wiki/Immaculate_Conception "Immaculate Conception") and will not provide Keeper any benefit, as all heart pickups turn into flies.
-* [(Maggy's Faith)](/wiki/Maggy%27s_Faith "Maggy's Faith") [Maggy's Faith](/wiki/Maggy%27s_Faith "Maggy's Faith") does nothing for Keeper and will not grant 5 blue flies when traveling to the next floor, like it would if an Eternal Heart spawned.
-* [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung") will take a dangerously long time to charge, giving it terrible usability.
-* [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid"), [![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative") ((Added in Repentance) though the damage up still applies), or [![image](/image/Whore_of_Babylon.png)](/wiki/Whore_of_Babylon "Whore of Babylon") [Whore of Babylon](/wiki/Whore_of_Babylon "Whore of Babylon") cannot be triggered by the Keeper since he can't have half a heart of health. (Removed in Repentance) An exception is after being revived by [![image](/image/Guppy%27s_Collar.png)](/wiki/Guppy%27s_Collar "Guppy's Collar") [Guppy's Collar](/wiki/Guppy%27s_Collar "Guppy's Collar"), which is presumably a bug.
-* (Added in Repentance)[![image](/image/Heartbreak.png)](/wiki/Heartbreak "Heartbreak") [Heartbreak](/wiki/Heartbreak "Heartbreak") will instantly kill Keeper by replacing all his coin hearts with broken hearts.
-* (Added in Repentance)[(III - The Empress?)](/wiki/Cards_and_Runes "III - The Empress?") [III - The Empress?](/wiki/Cards_and_Runes "Cards and Runes") will temporarily boost the Keeper's HP to 3 hearts, but then remove all hearts and bring him down to 1 Heart even if he grabs an HP up during its active time.
-* (Added in Repentance)[(Apple of Sodom)](/wiki/Apple_of_Sodom "Apple of Sodom") [Apple of Sodom](/wiki/Apple_of_Sodom "Apple of Sodom"), (Added in Repentance)[![image](/image/Candy_Heart.png)](/wiki/Candy_Heart "Candy Heart") [Candy Heart](/wiki/Candy_Heart "Candy Heart"), and (Added in Repentance)[![image](/image/Soul_Locket.png)](/wiki/Soul_Locket "Soul Locket") [Soul Locket](/wiki/Soul_Locket "Soul Locket") are useless, as all heart pickups are replaced with flies.
+* KeeperのHPが最大（3コインハート）の時は、ヘルスアップは役に立ちません。KeeperのHPが減っているときに取った場合、ヘルスアップはHPを回復させます。
+* (Added in Repentance) 地面にスポーンしたソウルハートは青ハエに変換されるため、 [![image](/image/Alabaster_Box.png)](/wiki/Alabaster_Box "Alabaster Box") [Alabaster Box](/wiki/Alabaster_Box "Alabaster Box")はプレイヤーに直接ソウルハートを与えるアイテムでのみチャージが可能です。
+* (Removed in Repentance) Keeperは復活できるアイテムや(Added in Afterbirth+) [![image](/image/Coupon.png)](/wiki/Coupon "Coupon") [Coupon](/wiki/Coupon "Coupon")、[![image](/image/Credit_Card.png)](/wiki/Credit_Card "Credit Card") [Credit Card](/wiki/Credit_Card "Credit Card")、 [![image](/image/Diplopia.png)](/wiki/Diplopia "Diplopia") [Diplopia](/wiki/Diplopia "Diplopia")、Strength、HPupピル、[![image](/image/Judas%27_Tongue.png)](/wiki/Judas%27_Tongue "Judas' Tongue") [Judas' Tongue](/wiki/Judas%27_Tongue "Judas' Tongue")を持っていない限り、2赤ハートを使う悪魔取引を行うことができません。
+* (Added in Repentance) [![image](/image/Judas%27_Tongue.png)](/wiki/Judas%27_Tongue "Judas' Tongue") [Judas' Tongue](/wiki/Judas%27_Tongue "Judas' Tongue")はKeeperでは全く役に立ちません。30コインを必要とする悪魔取引が15コインに減少することなく、効果を発揮しません。
+* [![image](/image/Bum_Friend.png)](/wiki/Bum_Friend "Bum Friend") [Bum Friend](/wiki/Bum_Friend "Bum Friend")や、[![image](/image/Bumbo.png)](/wiki/Bumbo "Bumbo") [Bumbo](/wiki/Bumbo "Bumbo")は、HPの回復に使用する可能性のあるコインを地面から拾うため、取得することはおススメしません。
+* (Removed in Repentance) [![image](/image/Abaddon.png)](/wiki/Abaddon "Abaddon") [Abaddon](/wiki/Abaddon "Abaddon")を取るとすべての赤ハートコンテナを奪いブラックハートに変えますが、Keeperはブラックハートを利用できないためKeeperは即死します。面白いことに、その過程で多くのハエを生み出します。
+	+ (Added in Repentance) [![image](/image/Abaddon.png)](/wiki/Abaddon "Abaddon") [Abaddon](/wiki/Abaddon "Abaddon")を取ったとしても、以前のバージョンのようにKeeperを殺すことはありませんが、コインハートが1つになります。
+* [![image](/image/Empty_Vessel.png)](/wiki/Empty_Vessel "Empty Vessel") [Empty Vessel](/wiki/Empty_Vessel "Empty Vessel")はKeeperのコインハートを赤ハートコンテナとして扱われるため飛行を得ることはできません。
+* [![image](/image/Guppy%27s_Paw.png)](/wiki/Guppy%27s_Paw "Guppy's Paw") [Guppy's Paw](/wiki/Guppy%27s_Paw "Guppy's Paw")はコインハートを消費して9匹の青ハエを生み出します。Guppy's Pawを拾っても使わなければ死ぬことはありませんが、コインハートをすべて消費してしまった途端に死にます。
+* Keeperはすべてのピックアップされたハートをハエに変化させるため、[![image](/image/Maggy%27s_Bow.png)](/wiki/Maggy%27s_Bow "Maggy's Bow") [Maggy's Bow](/wiki/Maggy%27s_Bow "Maggy's Bow")、[![image](/image/The_Jar.png)](/wiki/The_Jar "The Jar") [The Jar](/wiki/The_Jar "The Jar")、[![image](/image/Dark_Bum.png)](/wiki/Dark_Bum "Dark Bum") [Dark Bum](/wiki/Dark_Bum "Dark Bum")、[![image](/image/Immaculate_Conception.png)](/wiki/Immaculate_Conception "Immaculate Conception") [Immaculate Conception](/wiki/Immaculate_Conception "Immaculate Conception")は何のメリットもありません。
+* [![image](/image/Maggy%27s_Faith.png)](/wiki/Maggy%27s_Faith "Maggy's Faith") [Maggy's Faith](/wiki/Maggy%27s_Faith "Maggy's Faith")は階層移動した時にエターナルハートを付与しますが、Keeperの場合エターナルハートは青ハエを5匹に変換されます。しかし、Maggy's FaithはKeeperに対して何も起きず、エターナルハートも青ハエも付与しません。
+* [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung")はチャージに必要な時間が危険なほどかかってしまい、使い勝手は最悪です。
+* [![image](/image/The_Polaroid.png)](/wiki/The_Polaroid "The Polaroid") [The Polaroid](/wiki/The_Polaroid "The Polaroid")、[![image](/image/The_Negative.png)](/wiki/The_Negative "The Negative") [The Negative](/wiki/The_Negative "The Negative")（(Added in Repentance) ダメージアップは適応されます。）または[![image](/image/Whore_of_Babylon.png)](/wiki/Whore_of_Babylon "Whore of Babylon") [Whore of Babylon](/wiki/Whore_of_Babylon "Whore of Babylon")はKeeperが半ハートのみを所持することができないため、トリガーされず効果を発動しません。(Removed in Repentance) [![image](/image/Guppy%27s_Collar.png)](/wiki/Guppy%27s_Collar "Guppy's Collar") [Guppy's Collar](/wiki/Guppy%27s_Collar "Guppy's Collar")で復活した時のみ例外で効果を発動しますが、これはおそらくバグです。
+* (Added in Repentance) [![image](/image/Heartbreak.png)](/wiki/Heartbreak "Heartbreak") [Heartbreak](/wiki/Heartbreak "Heartbreak")はすべてのコインハートをブロークンハートに置き換えてしまうため、Keeperが即死します。
+* (Added in Repentance) III- The Empress?はKeeperのHPを一時的に3まで引き上げますが、Empress?の効果時間中にHPupを取得した場合でも効果が切れると全てのHPを削除して1まで減らします。
+* (Added in Repentance) [![image](/image/Apple_of_Sodom.png)](/wiki/Apple_of_Sodom "Apple of Sodom") [Apple of Sodom](/wiki/Apple_of_Sodom "Apple of Sodom")、[![image](/image/Candy_Heart.png)](/wiki/Candy_Heart "Candy Heart") [Candy Heart](/wiki/Candy_Heart "Candy Heart")、[![image](/image/Soul_Locket.png)](/wiki/Soul_Locket "Soul Locket") [Soul Locket](/wiki/Soul_Locket "Soul Locket")はすべてのハート系ピックアップをハエに変換するため役に立ちません。
 
 
 
 解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
-
-* [(Sticky Nickels)](/wiki/Sticky_nickel "Sticky Nickels")  [Sticky Nickels](/wiki/Sticky_nickel "Sticky nickel") - Complete the (Boss Rush) [Boss Rush](/wiki/Boss_Rush "Boss Rush") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [(Super Greed Baby)](/wiki/Babies "Super Greed Baby")  [Super Greed Baby](/wiki/Babies "Babies") - Defeat [Mom's Heart](/wiki/Mom%27s_Heart "Mom's Heart") on [Hard mode](/wiki/Hard_mode "Hard mode") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [(Keeper holds Store Key)](/wiki/Keeper "Keeper holds Store Key")  **Keeper holds Store Key** - Defeat [Satan](/wiki/Satan "Satan") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [(Keeper holds Wooden Nickel)](/wiki/Keeper "Keeper holds Wooden Nickel")  **Keeper holds Wooden Nickel** - Defeat [Isaac](/wiki/Isaac_(Boss) "Isaac (Boss)") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [(Karma)](/wiki/Karma "Karma")  [Karma](/wiki/Karma "Karma") - Defeat [The Lamb](/wiki/The_Lamb "The Lamb") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [![image](/image/Deep_Pockets.png)](/wiki/Deep_Pockets "Deep Pockets")  [Deep Pockets](/wiki/Deep_Pockets "Deep Pockets") - Defeat [???](/wiki/%3F%3F%3F_(Boss) "??? (Boss)") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [(Rib of Greed)](/wiki/Rib_of_Greed "Rib of Greed")  [Rib of Greed](/wiki/Rib_of_Greed "Rib of Greed") - Defeat [Ultra Greed](/wiki/Ultra_Greed "Ultra Greed") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [![image](/image/Eye_of_Greed.png)](/wiki/Eye_of_Greed "Eye of Greed") (Added in Afterbirth †) [Eye of Greed](/wiki/Eye_of_Greed "Eye of Greed") - Defeat [Ultra Greedier](/wiki/Ultra_Greedier "Ultra Greedier") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [(Keeper now holds... A Penny!)](/wiki/Keeper "Keeper now holds... A Penny!")  **Keeper now holds... A Penny!** - Defeat [Hush](/wiki/Hush "Hush") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [(Noose Baby)](/wiki/Babies "Noose Baby")  [Noose Baby](/wiki/Babies "Babies") - Defeat [Mega Satan](/wiki/Mega_Satan "Mega Satan") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [![image](/image/Crooked_Penny.png)](/wiki/Crooked_Penny "Crooked Penny") (Added in Afterbirth †) [Crooked Penny](/wiki/Crooked_Penny "Crooked Penny") - Defeat [Delirium](/wiki/Delirium "Delirium") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [![image](/image/Keeper%27s_Sack.png)](/wiki/Keeper%27s_Sack "Keeper's Sack") (Added in Repentance) [Keeper's Sack](/wiki/Keeper%27s_Sack "Keeper's Sack") - Defeat [Mother](/wiki/Mother "Mother") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [![image](/image/Keeper%27s_Box.png)](/wiki/Keeper%27s_Box "Keeper's Box") (Added in Repentance) [Keeper's Box](/wiki/Keeper%27s_Box "Keeper's Box") - Defeat [The Beast](/wiki/The_Beast "The Beast") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [(The Miser)](/wiki/Tainted_Keeper "The Miser") (Added in Repentance) [The Miser](/wiki/Tainted_Keeper "Tainted Keeper") - Use [![image](/image/Red_Key.png)](/wiki/Red_Key "Red Key") [Red Key](/wiki/Red_Key "Red Key") (etc.) to open the hidden closet in [(Home)](/wiki/Home "Home") [Home](/wiki/Home "Home") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-* [(Sale Baby)](/wiki/Babies "Sale Baby")  [Sale Baby](/wiki/Babies "Babies") - Earn all [Hard mode](/wiki/Hard_mode "Hard mode") [Completion Marks](/wiki/Completion_Mark "Completion Mark") as  [(Keeper)](/wiki/Keeper "Keeper") **Keeper**.
-
 
 * [![image](/image/achievements/Sticky_Nickels.png)](/wiki/Sticky_Nickels "Sticky Nickels") [Sticky Nickels](/wiki/Sticky_Nickels "Sticky Nickels") - キーパーでボスラッシュを完了する。
 * [![image](/image/achievements/Super_Greed_Baby.png)](/wiki/Super_Greed_Baby "Super Greed Baby") [Super Greed Baby](/wiki/Super_Greed_Baby "Super Greed Baby") - ハードモードのMom's Heartをキーパーで倒す。
