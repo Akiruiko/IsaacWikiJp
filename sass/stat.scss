@@ -1,0 +1,128 @@
+@charset "utf-8";
+
+.bigframe {
+	font-size: 62.5%;
+    width: 450px;
+    border: solid 2px #333;
+}
+.headline, .start-item {
+    display: flex;
+}
+.headline {
+    width: 350px;
+    margin: 0 auto;
+}
+.character {
+    margin: 0 10px 10px 10px;
+    border-bottom: solid 2px #333;
+}
+.chara-name {
+    width: 150px;
+    margin-top: 75px;
+}
+.small {
+    font-size: 1.0rem;
+    margin-bottom: 10px;
+}
+.statframe {
+    margin: 10px;
+    border-bottom: solid 2px #333;
+}
+.statframe {
+    margin: 10px;
+}
+.stat {
+    margin-left: 10px;
+}
+.stat>div {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+ul.stat-detail {
+    list-style: none;
+    column-count: 2;
+}
+ul.stat-detail li {
+    display: flex;
+    font-size: 0.8rem;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+.stat-detail {
+    margin-left: 10px;
+}
+ul.stat-detail li::before {
+    display: inline-block;
+    content: "";
+    width: 40px;
+    height: 40px;
+    /*background-image: url(../icon/stat.png);*/
+	background-image: url(/image/characters/stat.png);
+    background-size: 120px 80px;
+    background-repeat: no-repeat;
+}
+ul.stat-detail li:nth-child(1)::before {
+    background-position: 1px 0;
+}
+ul.stat-detail li:nth-child(2)::before {
+    background-position: -40px 0;
+}
+ul.stat-detail li:nth-child(3)::before {
+    background-position: -83px 0;
+}
+ul.stat-detail li:nth-child(4)::before {
+    background-position: 0px -40px;
+}
+ul.stat-detail li:nth-child(5)::before {
+    background-position: -40px -42px;
+}
+ul.stat-detail li:nth-child(6)::before {
+    background-position: -81px -42px;
+}
+ul.stat-detail li div {
+    vertical-align: middle;
+    text-align: center;
+}
+ul.stat-detail li > div {
+    width: 65px;
+    height: 40px;
+}
+.numbers {
+    padding-left: 10px;
+    width: 70px;
+    font-weight: 600;
+    vertical-align: middle;
+    text-align: center;
+}
+.label {
+    padding-top: 11px;
+}
+.label0 {
+    padding-top: 5px;
+}
+.itemframe {
+    margin: 10px;
+}
+.item {
+    margin-left: 10px;
+}
+.item>div:nth-child(1) {
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.start-item {
+    font-size: 0.8rem;
+    vertical-align: middle;
+    text-align: center;
+}
+.box {
+    display: flex;
+    margin: 0 20px 0 10px;
+}
+.box img {
+    width: 48px;
+    height: 48px;
+}
+.label2 {
+    padding-top: 15px;
+}
