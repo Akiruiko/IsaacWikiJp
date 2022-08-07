@@ -417,12 +417,12 @@ a.pagination-item:hover {
   }
 }
 
-.tablesorter-header th{
+.tablesorter th{
   position: relative;
   cursor: pointer;
   text-align: left;
 }
-.tablesorter-header th::before, .tablesorter-header th::after{
+.tablesorter th::before, .tablesorter th::after{
   content: '';
   position: absolute;
   z-index: 2;
@@ -433,32 +433,32 @@ a.pagination-item:hover {
   border-color: #333 transparent;
   pointer-events: none;
 }
-.tablesorter-header th::before{
+.tablesorter th::before{
   border-bottom-style: solid;
   border-top: none;
-  top: 30%;
+  top: 43%;
 }
-.tablesorter-header th::after{
+.tablesorter th::after{
   border-top-style: solid;
   border-bottom: none;
-  bottom: 30%;
+  bottom: 43%;
 }
-.tablesorter-header th.tablesorter-header-headerAsc:after{
+.tablesorter th.tablesorter-headerAsc:after{
   border: none;
 }
-.tablesorter-header th.tablesorter-header-headerAsc:before{
+.tablesorter th.tablesorter-headerAsc:before{
   top: 50%;
   transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
 }
-.tablesorter-header th.tablesorter-header-headerDesc:before{
+.tablesorter th.tablesorter-headerDesc:before{
   border: none;
 }
-.tablesorter-header th.tablesorter-header-headerDesc:after{
+.tablesorter th.tablesorter-headerDesc:after{
   top: 50%;
   transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
 }
-.tablesorter-header th.sorter-false:before, .tablesorter-header th.sorter-false:after{
+.tablesorter th.sorter-false:before, .tablesorter th.sorter-false:after{
   border: none;
 }
