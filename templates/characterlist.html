@@ -9,43 +9,45 @@
 
 {% for record in data.records %}
 <div class="bigframe">
-	<div class="character">
-		<div class="headline">
-			<div class="chara-icon">
-				{% set imgpath = ["/image/characters/", record.0, ".png"] | join() %}
-				<a href="/wiki/{{record.0}}">{% set image = resize_image(path=imgpath, width=179, height=179, op="fit_height") %}<img src="{{ image.url }}"></a>
-			</div>
-			<div class="chara-name">
-				<a href="/wiki/{{record.0}}"><div>{{record.1}}</div>
-				<div class="small">{{record.2}}</div></a>
-				<div>
-				{% set life = record.3 | split(pat="|") %}
-				<td nowrap>
-				{% for l in life %}
-					{% if l == "-" %}
-						-
-					{% else %}
-						{% set imgpath = ["/image/characters/", l, "-heart.png"] | join() %}
-						{% set image = resize_image(path=imgpath, width=20, height=20, op="fit_height") %}
-						<img src="{{ image.url }}">
-					{% endif %}
-					
-				{% endfor %}
+	<div class="browser">
+		<div class="character">
+			<div class="headline">
+				<div class="chara-icon">
+					{% set imgpath = ["/image/characters/", record.0, ".png"] | join() %}
+					<a href="/wiki/{{record.0}}">{% set image = resize_image(path=imgpath, width=179, height=179, op="fit_height") %}<img src="{{ image.url }}"></a>
+				</div>
+				<div class="chara-name">
+					<a href="/wiki/{{record.0}}"><div>{{record.1}}</div>
+					<div class="small">{{record.2}}</div></a>
+					<div>
+					{% set life = record.3 | split(pat="|") %}
+					<td nowrap>
+					{% for l in life %}
+						{% if l == "-" %}
+							-
+						{% else %}
+							{% set imgpath = ["/image/characters/", l, "-heart.png"] | join() %}
+							{% set image = resize_image(path=imgpath, width=20, height=20, op="fit_height") %}
+							<img src="{{ image.url }}">
+						{% endif %}
+						
+					{% endfor %}
+					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-	<div class="statframe">
-		<div class="stat">
-			<div>ステータス</div>
-			<ul class="stat-detail">
-				<li><div class="label">{{data.headers.4}}</div><div class="numbers label0"><div>{{record.4}}</div></li>
-				<li><div class="label">{{data.headers.8}}</div><div class="numbers"><div class="label">{{record.8}}</div></div></li>
-				<li><div class="label">{{data.headers.5}}</div><div class="numbers"><div class="label">{{record.5}}</div></div></li>
-				<li><div class="label">{{data.headers.7}}</div><div class="numbers"><div class="label">{{record.7}}</div></div></li>
-				<li><div class="label0">{{data.headers.6}}</div><div class="numbers"><div class="label">{{record.6}}</div></div></li>
-				<li><div class="label">{{data.headers.10}}</div><div class="numbers"><div class="label">{{record.10}}</div></div></li>
-			</ul>
+		<div class="statframe">
+			<div class="stat">
+				<div>ステータス</div>
+				<ul class="stat-detail">
+					<li><div class="label">{{data.headers.4}}</div><div class="numbers label0">{{record.4}}</div></li>
+					<li><div class="label">{{data.headers.8}}</div><div class="numbers"><div class="label">{{record.8}}</div></div></li>
+					<li><div class="label">{{data.headers.5}}</div><div class="numbers"><div class="label">{{record.5}}</div></div></li>
+					<li><div class="label">{{data.headers.7}}</div><div class="numbers"><div class="label">{{record.7}}</div></div></li>
+					<li><div class="label0">{{data.headers.6}}</div><div class="numbers"><div class="label">{{record.6}}</div></div></li>
+					<li><div class="label">{{data.headers.10}}</div><div class="numbers"><div class="label">{{record.10}}</div></div></li>
+				</ul>
+			</div>
 		</div>
 	</div>
 	<div class="itemframe">

@@ -3,6 +3,7 @@
 .bigframe {
 	font-size: 62.5%;
     width: 450px;
+    margin: 0 auto;
     border: solid 2px #333;
 }
 .headline, .start-item {
@@ -32,7 +33,7 @@
     margin: 10px;
 }
 .stat {
-    margin-left: 10px;
+    margin: 0 0 10px 10px;
 }
 .stat>div {
     font-weight: 600;
@@ -46,10 +47,9 @@ ul.stat-detail li {
     display: flex;
     font-size: 0.8rem;
     vertical-align: middle;
-    margin-bottom: 10px;
 }
 .stat-detail {
-    margin-left: 10px;
+    margin: 10px 0 0 10px;
 }
 ul.stat-detail li::before {
     display: inline-block;
@@ -106,7 +106,7 @@ ul.stat-detail li > div {
 .item {
     margin-left: 10px;
 }
-.item>div:nth-child(1) {
+.item {
     font-weight: 600;
     margin-bottom: 10px;
 }
@@ -124,5 +124,45 @@ ul.stat-detail li > div {
     height: 48px;
 }
 .label2 {
-    padding-top: 15px;
+    /*height: 50px;*/
+    /*line-height: 50px;*/
+}
+
+@media(min-width:750px){
+    .browser {
+        display: flex;
+    }
+    .bigframe {
+        width: 100%;
+        max-width: 950px;
+        border: solid 2px #333;
+    }
+    .headline {
+        width: 300px;
+    }
+    .stat {
+        margin: 15px 0 0 20px;
+    }
+    .character, .statframe {
+        border: none;
+    }
+    .chara-name {
+        width: 100px;
+    }
+    .statframe {
+        margin-top: 35px;
+        border-left: solid 2px #333
+    }
+    ul.stat-detail {
+        column-count: 3;
+    }
+    .itemframe {
+        border-top: solid 2px #333;
+    }
+    .item {
+        display: flex;
+        margin: 15px 0 0 20px;
+        height: 90px;
+        line-height: 50px;
+    }
 }
