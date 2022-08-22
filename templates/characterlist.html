@@ -1,70 +1,71 @@
 {% extends "page.html" %}
+{% block extra_head %}
+<link rel="stylesheet" href="{{ get_url(path="stat.css", trailing_slash=false) }}">
+{% endblock extra_head %}
 {% block content %}
-{% set data = load_data(path="static/characters.csv", format="csv") %}
-<table id="itemTable" class="table">
-<thead>
-    <tr>
-    {% for header in data.headers %}
-        {% if loop.first %}
-        <th rowspan="2">画像</th>
-        {% elif loop.index == 2 %}
-        <th rowspan="2" class="nw">{{header}}</th>
-        {% elif loop.index == 3 %}
-        {% elif loop.index == 10 %}
-        <th rowspan="2">{{header}}</th>
-        </tr><tr>
-        {% elif loop.index == 12 %}
-        <th colspan="2">{{header}}</th>
-        {% elif loop.index == 13 %}
-        <th colspan="3">{{header}}</th>
-        {% else %}
-        <th>{{header}}</th>
-        {% endif %}
-    {% endfor %}
-    </tr>
-</thead>
+<h4>キャラクター<br />（キャラ名・画像をクリックして詳細ページに移動します）</h4>
 
-<tbody>
+{% set data = load_data(path="static/characters.csv", format="csv") %}
+
 {% for record in data.records %}
-    <tr>
-    {% for cell in record %}
-        {% if loop.first %}
-        <td rowspan="2">
-            <a href="/wiki/{{cell}}"><img src="/image/characters/{{cell}}.png"></a>
-        </td>
-        {% elif loop.index == 2 %}
-        <td rowspan="2" class="nw"><a href="/wiki/{{record[2]}}">{{cell}}<br>
-        {% elif loop.index == 3 %}
-        {{cell}}</a></td>
-        {% elif loop.index == 4 %}
-        {% set life = cell | split(pat="|") %}
-        <td nowrap>
-        {% for l in life %}
-			{% if l == "-" %}
-				-
-			{% else %}
-				{% set imgpath = ["/image/characters/", l, "-heart.png"] | join() %}
-				{% set image = resize_image(path=imgpath, width=10, height=10, op="fit_height") %}
-				<img src="{{ image.url }}">
-			{% endif %}
-            
-        {% endfor %}
-        </td>
-        {% elif loop.index == 10 %}
-        <td rowspan="2">{{cell}}</td>
-        </tr><tr>
-        {% elif loop.index == 12 %}
-        <td colspan="2">{{cell}}</td>
-        {% elif loop.index == 13 %}
-        <td colspan="3">{{cell}}</td>
-        {% else %}
-        <td>{{cell}}</td>
-        {% endif %}
-    {% endfor %}
-    </tr>
+<div class="bigframe">
+	<div class="browser">
+		<div class="character">
+			<div class="headline">
+				<div class="chara-icon">
+					{% set imgpath = ["/image/characters/", record.0, ".png"] | join() %}
+					<a href="/wiki/{{record.0}}">{% set image = resize_image(path=imgpath, width=179, height=179, op="fit_height") %}<img src="{{ image.url }}"></a>
+				</div>
+				<div class="chara-name">
+					<a href="/wiki/{{record.0}}"><div>{{record.1}}</div>
+					<div class="small">{{record.2}}</div></a>
+					<div>
+					{% set life = record.3 | split(pat="|") %}
+					<td nowrap>
+					{% for l in life %}
+						{% if l == "-" %}
+							-
+						{% else %}
+							{% set imgpath = ["/image/characters/", l, "-heart.png"] | join() %}
+							{% set image = resize_image(path=imgpath, width=20, height=20, op="fit_height") %}
+							<img src="{{ image.url }}">
+						{% endif %}
+						
+					{% endfor %}
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="statframe">
+			<div class="stat">
+				<div>ステータス</div>
+				<ul class="stat-detail">
+					<li><div class="label">{{data.headers.4}}</div><div class="numbers label0">{{record.4}}</div></li>
+					<li><div class="label">{{data.headers.8}}</div><div class="numbers"><div class="label">{{record.8}}</div></div></li>
+					<li><div class="label">{{data.headers.5}}</div><div class="numbers"><div class="label">{{record.5}}</div></div></li>
+					<li><div class="label">{{data.headers.7}}</div><div class="numbers"><div class="label">{{record.7}}</div></div></li>
+					<li><div class="label0">{{data.headers.6}}</div><div class="numbers"><div class="label">{{record.6}}</div></div></li>
+					<li><div class="label">{{data.headers.10}}</div><div class="numbers"><div class="label">{{record.10}}</div></div></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="itemframe">
+		<div class="item">
+				<div>初期アイテム</div>
+			<div class="start-item">
+				{% set imgpath = ["/image/sites/", "topmenu_sorry", ".png"] | join() %}
+				{% set image = resize_image(path=imgpath, width=45, height=45, op="fit_height") %}
+				<div class="box"><div><img src="{{ image.url }}"></div><div class="label2">{{record.12}}</div></div>
+				<div class="label2">{{record.11}}</div>
+			</div>
+		</div>
+	</div>
+</div>
+<br />
 {% endfor %}
-</tbody>
-</table>
+
+
 
 <script>
 $(function(){
@@ -79,4 +80,6 @@ $(function(){
     });
 });
 </script>
+
+
 {% endblock %}
