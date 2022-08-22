@@ -18,10 +18,10 @@
 
     <tbody>
       {% for record in data.records %}
+        {% set_global norm_name = record[0] %}
         <tr>
           {% for cell in record %}
             {% if loop.first %}
-              {% set_global norm_name = cell %}
               <td>
                 <a href="/wiki/{{norm_name}}"><img src="/image/{{norm_name}}.png" loading="lazy"></a>
               </td>
