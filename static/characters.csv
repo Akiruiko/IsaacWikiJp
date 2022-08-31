@@ -1,41 +1,41 @@
 norm_name,キャラクター名,character_name,ライフ,ダメージ,ティア,ショットスピード,レンジ,スピード,DLC,ラック,初期ピックアップ,初期アイテム
-Isaac,アイザック,Isaac,r|r|r,3.5 (x1.00),0,1,6.5,1.00,Rebirth,0,x1 爆弾,The D6
-Magdalene,マギー,Magdalene,r|r|r|r,3.5 (x1.00),0,1,6.5,0.85,Rebirth,0,x1 Full Health ピル ,Yum Heart
-Cain,ケイン,Cain,r|r,3.5 (x1.20),0,1,4.5,1.3,Rebirth,0,x1 鍵 / Paper Clip,Lucky Foot
-Judas,ユダ,Judas,r,3.5 (x1.35),0,1,6.5,1.00,Rebirth,0,x3 コイン,The Book of Belial
-Dark_Judas,ダークユダ,Dark Judas,b|b,3.5 (x2.00),0,1,6.5,1.1,Rebirth,0,,
-%3F%3F%3F_(Character),？？？,,s|s|s,3.5 (x1.05),0,1,6.5,1.1,Rebirth,0,,The Poop
-Eve,イブ,Eve,r|r,3.5 (x0.75) (x1.00 rの時),0,1,6.5,1.23,Rebirth,0,,Whore of Babylon / Dead Bird
-Samson,サムソン,Samson,r|r|r,3.5 (x1.00),-0.1,1.31,5.0,1.1,Rebirth,0, Clild's Heart,Bloody Lust
-Azazel,アザゼル,Azazel,b|b|b,3.5 (x1.50),+0.5 x1/3,1,4.5,1.00,Rebirth,-1,0 - The Fool,(短射程の) Brimstorn / Flight
-Lazarus,ラザラス,Lazarus,r|r|r,3.5 (x1.00),0,1,4.5,1.00,Rebirth,-1,x1 ピル, Anemic
-Lazarus_Risen,蘇ったラザラス,Lazarus Risen,r,3.5 (x1.20),0,1,6.5,1.25,Rebirth,0,,Anemic / (恒久的な) Anemic
-Eden,エデン,Eden,re,3.5 ± 1.0 (x1.00),± 0.75,1 ± 0.25,6.5 ± 1.5,1.00 ± 0.15,Rebirth,0 ± 1,x0~2 爆弾 / x0~1 鍵 / x0~5 コイン / x0~1 トリンケット or ピル or カード,ランダムアクティブアイテム / ランダムパッシブアイテム
-The_Lost,ザ　ロスト,The Lost,-,3.5 (x1.00),0,1,6.5,1.00,Rebirth,0,x1 コイン,飛行 / 地形貫通する涙 / D6 / Holy Mantle
-Lilith,リリス,Lilith,r|b|b,3.5 (x1.00),0,1,6.5,1.00,Afterbirth,0,,目隠し / Incubus / Cambion Conception / Box of Friends
-Keeper,キーパー,Keeper,c|c|c,3.5 (x1.20),-2,1,6.5,0.85,Afterbirth,-2,x1 爆弾 / x1 コイン / Store Keys,トリプルショット / Wooden Nickel
-Apollyon,アポリオン,Apollyon,r|r,3.5 (x1.00),0,1,6.5,1.00,Afterbirth+,0,,Void
-The_Forgotten,ザ　フォーガットン,The Forgotten,bo|bo,3.5 (x1.50),0 x1/2,1,6.5,1.00,Afterbirth+,0,,ボーンクラブ
-The_Soul_(Character),ザ　ソウル,The Soul,s,3.5 (x1.00),0,1,6.5,1.30,Afterbirth+,0,,飛行 / 地形貫通する涙
-Bethany,ベタニア,Bethany,r|r|r,3.5 (x1.00),0,1,6.5,1.00,Repentance,0,x4 ソウルチャージ, Book of Virtues
-Jacob,ヤコブ,Jacob,r|r|r,2.75 (x1.00),+3,1.15,5,1.00,Repentance,+1,,
-Esau,エサウ,Esau,r|s,3.75 (x1.00),+2.5,0.85,8,1.00,Repentance,-1,,
-Tainted_Isaac,汚染されたアイザック,Tainted Issac,r|r|r,3.5 (x1.00),0,1,6.5,1,Repentance,0,x1 爆弾,
-Tainted_Magdalene,汚染されたマギー,Tainted Magdalene,r|r|re|re,3.5 (x0.75),0,1,6.5,1,Repentance,0,,Yum Heart
-Tainted_Cain,汚染されたケイン,Tainted Cain,r|r,3.5 (x1.00),0,1,6.5,1.3,Repentance,0,x1 鍵,Bag of Crafting
-Tainted_Judas,汚染されたユダ,Tainted Judas,b|b,3.5 (x1.00),0,1,4.5,1.23,Repentance,0,x3 コイン,Dark Arts
-Tainted_%3F%3F%3F,汚染された？？？,Tainted ???,s|s|s,3.5 (x1.00),2.04,1,6.5,0.9,Repentance,0,x3 うんち爆弾,Hold
-Tainted_Eve,汚染されたイブ,Tainted Eve,r|r,3.5 (x1.20),1.20,1,6.5,1,Repentance,0,,Sumptorium
-Tainted_Samson,汚染されたサムソン,Tainted Samson,r|r|r,3.5 (x1.00),2.50,1,5,1,Repentance,0,,
-Tainted_Azazel,汚染されたアザゼル,Tainted Azazel,b|b|b,3.5 (x1.50),0.91,1,6.5,1,Repentance,0,0 - The Fool,
-Tainted_Lazarus,汚染されたラザラス,Tainted Lazarus,r|r|r,3.5 (x1.00),0,1,4.5,1,Repentance,0,,Flip
-Dead_Tainted_Lazarus,汚染された死のラザラス,Dead Tainted Lazarus,s|s,3.5 (x1.50),2.50,1,6.5,0.9,Repentance,-2,,Flip
-Tainted_Eden,汚染されたエデン,Tainted Eden,re,3.5 ± 1.0 (x1.00),1 ± 0.25,1 ± 0.25,6.5 ± 1.5,1.00 ± 0.15,Repentance,0 ± 1,x0~2 爆弾 / x0~1 鍵 / x0~5 コイン / x0~1 トリンケット or ピル or カード,ランダムアクティブアイテム / ランダムパッシブアイテム
-Tainted_Lost,汚染されたザ　ロスト,Tainted Lost,-,3.5 (x1.30),0,1,6.5,1,Repentance,0,x1 コイン / Holy Card,飛行 / 地形貫通する涙
-Tainted_Lilith,汚染されたリリス,Tainted Lilith,r|b|b,3.5 (x1.00),0,1,6.5,0.85,Repentance,0,,悪魔の胎児攻撃
-Tainted_Keeper,汚染されたキーパー,Tainted Keeper,c|c,3.5 (x1.00),0.99,1,6.5,1,Repentance,-2,x1 爆弾,
-Tainted_Apollyon,汚染されたアポリオン,Tainted Apollyon,r|r,3.5 (x1.00),1.82,1,6.5,1,Repentance,0,,Abyss
-Tainted_Forgotten,汚染されたザ　フォーガットン,Tainted Forgotten,-,3.5 (x1.50),1.36,1,6.5,-,Repentance,0,,ボーンクラブ
-Tainted_Soul,汚染されたザ　ソウル,Tainted Soul,s|s|s,-,-,-,-,1.09,Repentance,0,,飛行
-Tainted_Bethany,汚染されたベタニア,Tainted Bethany,s|s|s,3.5 (x1.00),0,1,6.5,1,Repentance,0,x6 blood charges,Lemegeton
-Tainted_Jacob,汚染されたヤコブ,Tainted Jacob,r|r|r,3.5 (x1.00),3.00,1,6.5,1,Repentance,0,,Anima Sola
+Isaac,アイザック,Isaac,r|r|r,3.50 (x1.00),2.73,1.00,6.50,1.00,Rebirth,0.00,x1 爆弾,The D6
+Magdalene,マギー,Magdalene,r|r|r|r,3.50 (x1.00),2.73,1.00,6.50,0.85,Rebirth,0.00,x1 Full Health ピル,Yum Heart
+Cain,ケイン,Cain,r|r,4.20 (x1.20),2.73,1.00,4.50,1.30,Rebirth,0.00,x1 鍵 / Paper Clip,Lucky Foot
+Judas,ユダ,Judas,r,4.72 (x1.35),2.73,1.00,6.50,1.00,Rebirth,0.00,x3 コイン,The Book of Belial
+Dark_Judas,ダークユダ,Dark Judas,b|b,7.00 (x2.00),2.73,1.00,6.50,1.10,Rebirth,0.00,,
+%3F%3F%3F_(Character),？？？,,s|s|s,3.67 (x1.05),2.73,1.00,6.50,1.10,Rebirth,0.00,,The Poop
+Eve,イブ,Eve,r|r,2.63 (x0.75) (x1.00 rの時),2.73,1.00,6.50,1.23,Rebirth,0.00,,Whore of Babylon / Dead Bird
+Samson,サムソン,Samson,r|r|r,3.50 (x1.00),2.50,1.31,5.00,1.10,Rebirth,0.00,Clild's Heart,Bloody Lust
+Azazel,アザゼル,Azazel,b|b|b,5.25 (x1.50),0.86,1.00,4.50,1.25,Rebirth,0.00,0 - The Fool,(短射程の) Brimstorn / Flight
+Lazarus,ラザラス,Lazarus,r|r|r,3.50 (x1.00),2.73,1.00,6.50,1.00,Rebirth,-1.00,x1 ピル,Anemic
+Lazarus_Risen,蘇ったラザラス,Lazarus Risen,r,4.20 (x1.20),2.73,1.00,8.00,1.25,Rebirth,-1.00,,Anemic / (恒久的な) Anemic
+Eden,エデン,Eden,re,3.50 ± 1.0 (x1.00),2.73 ± 0.75,1.00 ± 0.25,6.50 ± 1.50,1.00 ± 0.15,Rebirth,0.00 ± 1.00,x0~2 爆弾 / x0~1 鍵 / x0~5 コイン / x0~1 トリンケット or ピル or カード,ランダムアクティブアイテム / ランダムパッシブアイテム
+The_Lost,ザ 　ロスト,The Lost,-,3.50 (x1.00),2.73,1.00,6.50,1.00,Rebirth,0.00,x1 コイン,飛行 / 地形貫通する涙 / D6 / Holy Mantle
+Lilith,リリス,Lilith,r|b|b,3.50 (x1.00),2.73,1.00,6.50,1.00,Afterbirth,0.00,,目隠し / Incubus / Cambion Conception / Box of Friends
+Keeper,キーパー,Keeper,c|c|c,4.20 (x1.20),1.06,1.00,6.50,0.90,Afterbirth,-2.00,x1 爆弾 / x1 コイン / Store Keys,トリプルショット / Wooden Nickel
+Apollyon,アポリオン,Apollyon,r|r,3.50 (x1.00),2.73,1.00,6.50,1.00,Afterbirth+,0.00,,Void
+The_Forgotten,ザ　フォーガットン,The Forgotten,bo|bo,5.25 (x1.50),1.36,1.00,6.50,1.00,Afterbirth+,0.00,,ボーンクラブ
+The_Soul_(Character),ザ　ソウル,The Soul,s,3.50 (x1.00),2.73,1.00,6.50,1.30,Afterbirth+,0.00,,飛行 / 地形貫通する涙
+Bethany,ベタニア,Bethany,r|r|r,3.50 (x1.00),2.73,1.00,6.50,1.00,Repentance,0.00,x4 ソウルチャージ,Book of Virtues
+Jacob,ヤコブ,Jacob,r|r|r,2.75 (x1.00),3.00,1.15,5.00,1.00,Repentance,1.00,,
+Esau,エサウ,Esau,r|s,3.75 (x1.00),2.50,0.85,8.00,1.00,Repentance,-1.00,,
+Tainted_Isaac,汚染されたアイザック,Tainted Issac,r|r|r,3.50 (x1.00),2.73,1.00,6.50,1.00,Repentance,0.00,x1 爆弾,
+Tainted_Magdalene,汚染されたマギー,Tainted Magdalene,r|r|re|re,2.63 (x0.75),2.73,1.00,6.50,1.00,Repentance,0.00,,Yum Heart
+Tainted_Cain,汚染されたケイン,Tainted Cain,r|r,3.50 (x1.00),2.73,1.00,6.50,1.30,Repentance,0.00,x1 鍵,Bag of Crafting
+Tainted_Judas,汚染されたユダ,Tainted Judas,b|b,3.50 (x1.00),2.73,1.00,4.50,1.23,Repentance,0.00,x3 コイン,Dark Arts
+Tainted_%3F%3F%3F,汚染された？？？,Tainted ???,s|s|s,3.50 (x1.00),2.04,1.00,6.50,0.90,Repentance,0.00,x3 うんち爆弾,Hold
+Tainted_Eve,汚染されたイブ,Tainted Eve,r|r,4.20 (x1.20),1.20,1.00,6.50,1.00,Repentance,0.00,,Sumptorium
+Tainted_Samson,汚染されたサムソン,Tainted Samson,r|r|r,3.50 (x1.00),2.50,1.00,5.00,1.00,Repentance,0.00,,
+Tainted_Azazel,汚染されたアザゼル,Tainted Azazel,b|b|b,5.25 (x1.50),0.91,1.00,6.50,1.00,Repentance,0.00,0 - The Fool,
+Tainted_Lazarus,汚染されたラザラス,Tainted Lazarus,r|r|r,3.50 (x1.00),2.73,1.00,4.50,1.00,Repentance,0.00,,Flip
+Dead_Tainted_Lazarus,汚染された死のラザラス,Dead Tainted Lazarus,s|s,5.25 (x1.50),2.50,1.00,6.25,0.90,Repentance,-2.00,,Flip
+Tainted_Eden,汚染されたエデン,Tainted Eden,re,3.50 ± 1.00 (x1.00),2.73 ± 0.75,1.00 ± 0.25,6.50 ± 1.5,1.00 ± 0.15,Repentance,0.00 ± 1.00,x0~2 爆弾 / x0~1 鍵 / x0~5 コイン / x0~1 トリンケット or ピル or カード,ランダムアクティブアイテム / ランダムパッシブアイテム
+Tainted_Lost,汚染されたザ　ロスト,Tainted Lost,-,4.55 (x1.30),2.73,1.00,6.50,1.00,Repentance,0.00,x1 コイン / Holy Card,飛行 / 地形貫通する涙
+Tainted_Lilith,汚染されたリリス,Tainted Lilith,r|b|b,3.50 (x1.00),2.73,1.00,6.50,0.85,Repentance,0.00,,悪魔の胎児攻撃
+Tainted_Keeper,汚染されたキーパー,Tainted Keeper,c|c,3.50 (x1.00),0.99,1.00,6.50,1.00,Repentance,-2.00,x1 爆弾,
+Tainted_Apollyon,汚染されたアポリオン,Tainted Apollyon,r|r,3.50 (x1.00),1.82,1.00,6.50,1.00,Repentance,0.00,,Abyss
+Tainted_Forgotten,汚染されたザ　フォーガットン,Tainted Forgotten,-,5.25 (x1.50),1.36,1.00,6.50,-,Repentance,0.00,,ボーンクラブ
+Tainted_Soul,汚染されたザ　ソウル,Tainted Soul,s|s|s,-,-,-,-,0.00,Repentance,0.00,,飛行
+Tainted_Bethany,汚染されたベタニア,Tainted Bethany,s|s|s,3.50 (x1.00),2.73,1.00,6.50,1.00,Repentance,0.00,x6 blood charges,Lemegeton
+Tainted_Jacob,汚染されたヤコブ,Tainted Jacob,r|r|r,3.50 (x1.00),3.00,1.00,6.50,1.00,Repentance,0.00,,Anima Sola

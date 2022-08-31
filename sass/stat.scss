@@ -19,7 +19,10 @@
 }
 .chara-name {
     width: 150px;
-    margin-top: 75px;
+    margin-top: 65px;
+}
+.chara-icon {
+	margin: 20px;
 }
 .small {
     font-size: 1.0rem;
@@ -89,17 +92,21 @@ ul.stat-detail li > div {
 }
 .numbers {
     padding-left: 10px;
-    width: 70px;
+    /*width: 70px;　←そもそもここのwidthは利いてないからいらない*/
     font-weight: 600;
     vertical-align: middle;
     text-align: center;
 }
 .label {
     padding-top: 11px;
+    /*width: 105px;*/
 }
-.label0 {
+	/* のんりず：width 105pxが入るとcenterが効いてnumbersのセンタリングとずれる */
+/*.label0 {
     padding-top: 5px;
-}
+}*/
+    /* .label0をなくしてlabelのwidthを105pxにしたい */
+
 .itemframe {
     margin: 10px;
 }
@@ -134,28 +141,42 @@ ul.stat-detail li > div {
     }
     .bigframe {
         width: 100%;
-        max-width: 950px;
+        max-width: 1050px;
         border: solid 2px #333;
     }
     .headline {
-        width: 300px;
-    }
+        width: 365px;
+    } 
+    /*.headline width:365pxにすることでキャラのアイコンと名前の欄を統一*/
     .stat {
         margin: 15px 0 0 20px;
     }
     .character, .statframe {
         border: none;
     }
+    .character {
+        margin-top: 55px;
+    }
     .chara-name {
         width: 100px;
+        margin-top: 30px;
     }
+    .chara-name>div {
+        width: 175px;
+    }
+    /*.character margin-top: 55px + .chara-name margin-top:30px で調整*/
+    /*.chara-name>div width:175px にすることで日本語名を全て一列に表示できる*/
+
     .statframe {
-        margin-top: 35px;
+        margin-top: 20px;
         border-left: solid 2px #333
     }
-    ul.stat-detail {
-        column-count: 3;
+    ul.stat-detail li {
+		
+        margin-bottom: 20px;
     }
+    /* margin-bottom: 20px　を入れることで全体を大きく縦に拡張 */
+
     .itemframe {
         border-top: solid 2px #333;
     }
@@ -165,4 +186,9 @@ ul.stat-detail li > div {
         height: 90px;
         line-height: 50px;
     }
+    .label2 {
+        width: 385px;
+        margin-left: 10px;
+    }
+    /*.label2 width:230px,margin-left: 10px にすることでそれっぽい感じに調整, edenなどの初期アイテムが長くなりそうなキャラクターには見やすいところに<span></span>をどうにか挟みたい*/
 }

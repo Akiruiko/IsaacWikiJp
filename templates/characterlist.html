@@ -14,7 +14,7 @@
 			<div class="headline">
 				<div class="chara-icon">
 					{% set imgpath = ["/image/characters/", record.0, ".png"] | join() %}
-					<a href="/wiki/{{record.0}}">{% set image = resize_image(path=imgpath, width=179, height=179, op="fit_height") %}<img src="{{ image.url }}"></a>
+					<a href="/wiki/{{record.0}}">{% set image = resize_image(path=imgpath, width=160, height=160, op="fit_height") %}<img src="{{ image.url }}"></a>
 				</div>
 				<div class="chara-name">
 					<a href="/wiki/{{record.0}}"><div>{{record.1}}</div>
