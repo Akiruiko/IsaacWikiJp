@@ -19,51 +19,54 @@
 概要
 -------
 
-Tainted Lilith is a character added in The Binding of Isaac: Repentance. She is the alternate version of Lilith. Tainted Lilith is unlocked by reaching Home and using the [[Red Key]] Red Key, [[Cracked Key]] Cracked Key, or [[Soul of Cain]] Soul of Cain to access a special room in one of the walls while playing as Lilith.
-
-She starts with one red heart container and 2 black hearts. Like Normal Lilith, she can't fire tears. Instead of tears, Tainted Lilith launches a demonic baby attached via umbilical cord out of her stomach that behaves much like the [[Gello]] Gello item that can be recalled after attacking, dealing 3x damage to enemies it hits. The Baby also fires tears that deal 1x damage while the fire button is held, and moves in the direction of the fire buttons; it does not deal contact damage when firing tears. The baby shoots in all directions even without items like [[Analog Stick]] Analog Stick and automatically aims at nearby enemies. It returns to Tainted Lilith once the fire button is released. Despite its appearance, the Baby cannot pick up items, but it can be used to launch or push items towards Tainted Lilith.
+Tainted LilithはRepentanceで追加されたキャラクターです。彼女はLilithのもう一つの姿です。Tainted LilithはLilithでホームに到達し、Red Keyや Cracked key、または Soul of Cainを使ってスペシャルルームに入ることで解禁することができます。  
+彼女は1赤ハートと2黒ハートを持って始まります。通常のLilithのように、彼女は弾を発射することができません。  
+Tainted Lilithは弾の代わりにアイテムの[![image](/image/Gello.png)](/wiki/Gello "Gello") [Gello](/wiki/Gello "Gello")と同様の動きでへその緒で繋がれた悪魔のベイビーをお腹から発射することができ、これに命中した敵に攻撃力の3倍のダメージを与えます。  
+ベイビーは攻撃力の等倍の弾を発射することができ、攻撃ボタンの方向に移動します。  
+涙を発射するときに接触ダメージは無く、[![image](/image/Analog_Stick.png)](/wiki/Analog_Stick "Analog Stick") [Analog Stick](/wiki/Analog_Stick "Analog Stick")などのアイテムが無くてもベイビーは全方向に射撃することができ、近くの敵を自動的に狙います。  
+攻撃ボタンを離すとTainted Lilithの中に戻っていきます。ベイビーはアイテムを拾うことはできませんが、Tainted Lilithから発射した勢いでアイテムを押したり引き寄せたりすることができます。  
 
 戦略とアイテム効果
 -------------------
 
-* Tainted Lilith's special attack method is not an item and cannot be rerolled.
-* Because of the special attack, Tainted Lilith starts with many perks that other characters would heavily benefit from: the launched baby has high starting damage, piercing, and the ability to attack through obstacles. However, this comes at the cost of Tainted Lilith's tears being much harder to use since it is tied to her baby, and the baby's umbilical cord gives its launching attack limited range.
-* Tainted Lilith's launched baby is enough to one/two-shot most starting enemies, while the tears it fires are comparatively hard to control. It is usually best to use the baby as a makeshift melee weapon for clearing rooms unless Tainted Lilith can find some useful tear modifiers.
-* When launched, the Baby deals 3x damage and is capable of pushing enemies and bosses away on contact, making it handy to simply hit enemies with the Baby rather than its tears. As such, a high tear rate does wonders for Tainted Lilith, as this also increases how quickly the Baby can be launched from her. However, an overly high tear rate could be detrimental, as spamming the special attack causes the Baby to return before it can hit any enemy.
-* If the situation calls for it, the baby's tears can be used to safely attack at a distance as an extension of Tainted Lilith. However, this does not usually have use apart from very large rooms since the baby goes through obstacles.
-* The hitbox of her special attack persists between rooms, meaning that launching the Baby right before entering a room can potentially hit an enemy there.
-* For early floors, prioritize getting speed upgrades over other stats. While the baby gives Tainted Lilith strong attacking power, it has to be relaunched each time, and her problematic base speed allows chasing enemies to easily overwhelm her. Look to get items that increase speed and avoid those that lower it further.
-* During later floors, prioritize tear upgrades or range over other stats. At that point, using tears becomes a priority, since some bosses like Delirium are able to teleport constantly, making it hard to use the baby's launch attack on them. Tainted Lilith usually has to resort to her baby's tears to deal consistent damage to these bosses.
-* The baby cannot collect pickups, but it can knock them around. This ability can be used to dislodge pickups that would normally require you to walk over spikes to get.
+* Tainted Lilithの特殊な攻撃方法はアイテムではないので、リロールすることはできません。
+* 特殊な攻撃のおかげで、Tainted Lilithは他のキャラクターにはない多くの恩恵を持ってスタートできます。発射されたベイビーは高い初期ダメージ、貫通力および障害物を無視して攻撃する能力を持っています。ただし、Tainded Lilithのティアはベイビーに紐づけされているため多少の扱いづらさと、へその緒によって攻撃範囲が制限されるというデメリットがあります。
+* Tainted Lilithの発射されたベイビーは、序盤の敵を1、2発で倒すのに十分な強さがありますが、ベイビーが発射する弾は制御するのが比較的難しいです。Tainted Lilithが有用な弾を変更するアイテムを見つけられない限りは部屋をクリアするためにその場しのぎの近接武器としてベイビーを使用するのが最善です。
+* ベイビーが発射したとき、攻撃力の3倍のダメージを与え、敵やボスを押しのけることができるため弾ではなくベイビー自身で敵を攻撃するのが便利です。ティアレートが上昇すると、弾だけではなく、Tainted Lilithからベイビーが発射される速度も上昇するため非常に有効です。しかし、ティアレートが高すぎると特殊な攻撃を連射しても敵に当たる前にベイビーが戻ってしまうので不利になる可能性があります。
+* いざとなれば、Tainted Lilithの延長線上にベイビーの弾を飛ばすことで安全に遠距離攻撃ができます。ただし、ベイビーは障害物を通過してしまうため、非常に広い部屋以外での通常使用はあまりできません。
+* 特殊な攻撃の当たり判定は部屋によって異なるため、部屋に入る直前に発動しても目の前にいる敵にヒットする可能性があります。
+* 序盤のフロアでは、他のステータスよりもスピードアップを優先して取得しましょう。ベイビーはTainted Lilithに強力な攻撃力を付与するが、攻撃ごとに発射する必要があり、また、初期スピードが遅いため、追いかけてくる敵からダメージを受けやすくなってしまう。スピードを上げるアイテムを入手し、上がったスピード以上に下がるアイテムは避けましょう。
+* 後半のフロアでは、ティアや射程を優先して取るようにしましょう。Deliriumのようなボスは常にテレポートしながら攻撃してくるため、ベイビーの弾を使うことが優先されます。Tainted Lilithは通常これらの素早いボスに安定したダメージを与えるためにベイビーの弾に頼らざるを得ません。
+* ベイビーはピックアップを拾うことはできませんが、押し出しや引き寄せをすることができます。この能力を使えば、通常はトゲを避けて通れない場所にあるピックアップを拾うことができます。
 
 ### 有利なアイテム
 
-* [[Tech X]] Tech X: Holding down the fire button will automatically charge then shoot random size Tech X shots towards enemies.
-* [[Baby-Bender]] Baby-Bender: The fetus' tears become homing tears.
-* [[BFFS!]] BFFS!: Increases the damage of the fetus' tears, but the launch attack is unaffected.
-* [[Dead Eye]] Dead Eye: While tears fired from the fetus affect Dead Eye, the whip attack does not. Provided your tear rate isn't too high, you can get the maximum bonus with its tears, then only use the whip attack from then on. Quickly press-and-release the fire button to ensure the fetus doesn't fire an unwanted tear.
-* [[Eye of the Occult]] Eye of the Occult: Tears fired from the fetus behave as expected from Eye Of The Occult, but the damage and tear rate increase from the item still apply to the initial launch.
-* [[Guillotine]] Guillotine: Normally with guillotine, tears originate from the rotating head which can be difficult to aim accurately with, but with Tainted Lilith the fetus still fires from Lilith's body with the increased damage, negating the general downside from this item with other characters.
-* [[Lost Contact]] Lost Contact: In addition to shielded tears, the fetus is able to destroy projectiles, making it an incredible defensive option.
-* [[Proptosis]] Proptosis: The whip attack gains full benefit of the 3x damage multiplier with no downside. The fetus' tears behave as expected, which means they could deal much more damage at middle-long range.
+* [![image](/image/Tech_X.png)](/wiki/Tech_X "Tech X") [Tech X](/wiki/Tech_X "Tech X"): 攻撃ボタンを押し続けることで自動的にチャージされ、ランダムな大きさのTech Xを敵に向かって発射します。
+* [![image](/image/Baby-Bender.png)](/wiki/Baby-Bender "Baby-Bender") [Baby-Bender](/wiki/Baby-Bender "Baby-Bender"): 胎内のベイビーの弾がホーミングするようになる。
+* [![image](/image/BFFS%21.png)](/wiki/BFFS%21 "BFFS!") [BFFS!](/wiki/BFFS%21 "BFFS!"): 胎内のベイビーの弾のダメージを増加させるが、ベイビーの発射攻撃に影響はありません。
+* [![image](/image/Dead_Eye.png)](/wiki/Dead_Eye "Dead Eye") [Dead Eye](/wiki/Dead_Eye "Dead Eye"): 胎内のベイビーから出る弾に影響を与えるが、ベイビーを発射攻撃には影響しない。ティアが低ければ弾でボーナスを最大にし、それ以降は発射する攻撃で対応することができます。胎内のベイビーが不必要な弾を出さないように素早く攻撃ボタンを押しながら話します。
+* [![image](/image/Eye_of_the_Occult.png)](/wiki/Eye_of_the_Occult "Eye of the Occult") [Eye of the Occult](/wiki/Eye_of_the_Occult "Eye of the Occult"): 胎内のベイビーから発射された弾はEye of the Occultの本来の挙動をするが、アイテム自体のダメージとティア増加はベイビー発射時にも適用されます。
+* [![image](/image/Guillotine.png)](/wiki/Guillotine "Guillotine") [Guillotine](/wiki/Guillotine "Guillotine"): 通常ギロチンは回転する頭部から弾が出るため、正確に狙うのは難しいが、Tainted LilithではベイビーがLilithの体から発射されてダメージが増加するため、他のキャラクターでは一般的にデメリットになっている部分を打ち消すことができる。
+* [![image](/image/Lost_Contact.png)](/wiki/Lost_Contact "Lost Contact") [Lost Contact](/wiki/Lost_Contact "Lost Contact"): シールドの弾に加え、ベイビーは投擲物を破壊することができるため、驚異的な防御力を発揮します。
+* [![image](/image/Proptosis.png)](/wiki/Proptosis "Proptosis") [Proptosis](/wiki/Proptosis "Proptosis"): ベイビーを発射する攻撃は3倍のダメージ倍率の恩恵をフルに受け、デメリットが無くなります。ベイビーの弾は本来の挙動をするため、中長距離でより多くのダメージを与えられる可能性があります。
 
 ### 相互作用するアイテム
 
-* [[Blood Clot]] Blood Clot: No effect. The baby won't shoot tears with the Blood Clot effect.
-* [[Brimstone]] Brimstone: The baby automatically charges and shoot laser towards enemies.
-* [[Chocolate Milk]] Chocolate Milk: Automatically charges and shoots Chocolate Milk shots towards enemies. The baby fires higher damage shots if farther from the enemy and lower damage shots if closer to the enemy.
-* [[Cursed Eye]] Cursed Eye: The fetus gains the charge effect, but the teleport effect when damaged while charging does not happen.
-* [[Epic Fetus]] Epic Fetus: Retracting the baby before the missile falls will cancel the missile strike.
-* [[Forgotten Lullaby]] Forgotten Lullaby: Does not improve the fire rate of the fetus.
-* [[The Inner Eye]] The Inner Eye: Lowers Lilith's tear rate and doesn't triple her familiar. However, her familiar will shoot a triple shot.
-* [[Ipecac]] Ipecac: Greatly increases the launch damage of the baby. If the fire button is pressed very briefly, the baby can be launched without also firing an Ipecac tear, allowing the player to attack with high damage, with no risk of hurting themselves from the explosion.
-* [[Lead Pencil]] Lead Pencil: Tears are fired from Lilith every 15th launch attack.
-* [[The Ludovico Technique]] The Ludovico Technique: Spawns a Ludovico tear when Lilith launches the baby. The tear disappears when the baby returns to Lilith's belly. The tear works as normal using arrow keys, but is impossible to control precisely with mouse and not at all with the analog stick.
-* Marked Marked: The baby will not return to Lilith's stomach, and will try to follow where the Mark is. The baby will return when Marked is deactivated with the Drop button.
-* [[Mom's Knife]] Mom's Knife: The baby carries a knife in his hands that points in the direction of where the tears would be firing, and the baby will no longer retreat back into Tainted Lilith's stomach.
-* [[Monstro's Lung]] Monstro's Lung: Like Brimstone, the baby charges up, and when released, shoots Monstro's Lung shots. Greatly increases delay between being able to launch the baby.
-* [[Spirit Sword]] Spirit Sword: The baby wields a sword that can be swung multiple times before returning to Lilith. If the fire button is held, the sword will deal damage once before disappearing until the baby is sent out again. The spin attack functions normally, but will immediately return the baby. The sword swing being able to collect pick-ups means Lilith will be able to collect pick-ups and open chests from very far away.
-* [[Tractor Beam]] Tractor Beam: Tears will begin firing in front of Tainted Lilith from the point where the baby would reach furthest out, regardless of the baby's current location.
+* [![image](/image/Blood_Clot.png)](/wiki/Blood_Clot "Blood Clot") [Blood Clot](/wiki/Blood_Clot "Blood Clot"): 効果なし。Blood Clotの効果で生まれたベイビーは弾を出しません。
+* [![image](/image/Brimstone.png)](/wiki/Brimstone "Brimstone") [Brimstone](/wiki/Brimstone "Brimstone"): ベイビーは自動的にチャージされ、敵に向かってレーザーを発射します。
+* [![image](/image/Chocolate_Milk.png)](/wiki/Chocolate_Milk "Chocolate Milk") [Chocolate Milk](/wiki/Chocolate_Milk "Chocolate Milk"): 自動的にチャージされ、敵に向かってチョコレートミルクの弾を撃つ。敵との距離が遠いほどダメージの高いショットに、近いほどダメージの低いショットになります。
+* [![image](/image/Cursed_Eye.png)](/wiki/Cursed_Eye "Cursed Eye") [Cursed Eye](/wiki/Cursed_Eye "Cursed Eye"): ベイビーはチャージ効果を獲得するが、チャージ中にダメージを受けたときのテレポート効果は発動しません。
+* [![image](/image/Epic_Fetus.png)](/wiki/Epic_Fetus "Epic Fetus") [Epic Fetus](/wiki/Epic_Fetus "Epic Fetus"): ミサイルが落下する前にベイビーを戻すと、ミサイル攻撃はキャンセルされます。
+* [![image](/image/Forgotten_Lullaby.png)](/wiki/Forgotten_Lullaby "Forgotten Lullaby") [Forgotten Lullaby](/wiki/Forgotten_Lullaby "Forgotten Lullaby"): ベイビーのティアは変化しません。
+* [![image](/image/The_Inner_Eye.png)](/wiki/The_Inner_Eye "The Inner Eye") [The Inner Eye](/wiki/The_Inner_Eye "The Inner Eye"): Lilithのティアレートは下がりベイビーは3体にはならないが、ベイビーが出す弾がトリプルショットになります。
+* [![image](/image/Ipecac.png)](/wiki/Ipecac "Ipecac") [Ipecac](/wiki/Ipecac "Ipecac"): ベイビーの射出ダメージを大幅に増加させる。攻撃ボタンを単押しすることでIpecacの弾を発射しないでベイビーを射出することができ、爆発で自傷することもなく高いダメージで攻撃することができます。
+* [![image](/image/Lead_Pencil.png)](/wiki/Lead_Pencil "Lead Pencil") [Lead Pencil](/wiki/Lead_Pencil "Lead Pencil"): 15回目の攻撃ごとにLilithから弾が発射されます。
+* [![image](/image/The_Ludovico_Technique.png)](/wiki/The_Ludovico_Technique "The Ludovico Technique") [The Ludovico Technique](/wiki/The_Ludovico_Technique "The Ludovico Technique"): Lilithがベイビーを射出すると同時にLudovico弾が出ます。ベイビーがLilithのお腹に戻ると弾も消えます。弾は矢印キーや攻撃ボタンで操作ができるがマウスでは正確な操作ができず、アナログスティックでは一切操作ができません。
+* [![image](/image/Marked.png)](/wiki/Marked "Marked") [Marked](/wiki/Marked "Marked"): ベイビーはLilithのお腹の中には戻らず、印のある場所を追いかけようとします。Dropボタンでマーク状態を解除するとベイビーは戻ってきます。
+* [![image](/image/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife"): ベイビーは手にナイフを持ち、弾が発射されるであろう方向を刺し、ベイビーはTainted Lilithのお腹の中に戻ることはないです。
+* [![image](/image/Monstro%27s_Lung.png)](/wiki/Monstro%27s_Lung "Monstro's Lung") [Monstro's Lung](/wiki/Monstro%27s_Lung "Monstro's Lung"): Brimstoneのように、チャージして放つとMonstro's Lungショットを出します。しかし、次の弾を発射するまでの時間が大幅に伸びます。
+* [![image](/image/Spirit_Sword.png)](/wiki/Spirit_Sword "Spirit Sword") [Spirit Sword](/wiki/Spirit_Sword "Spirit Sword"): ベイビーは剣を振り回し、Lilithのお腹に戻るまで何度も振り回すことができます。攻撃ボタンを押し続けると、剣は一度ダメージを与えた段階でベイビーを再出現させるまでは消えてしまいます。回転攻撃は通常通り機能するが、すぐにベイビーが戻ってきます。剣を振ることでピックアップを回収できるため、Lilithは非常に遠くからでもピックアップや宝箱を回収することができます。
+* [![image](/image/Tractor_Beam.png)](/wiki/Tractor_Beam "Tractor Beam") [Tractor Beam](/wiki/Tractor_Beam "Tractor Beam"): ベイビーの現在位置に関係なく、ベイビーの最高到達点から弾が発射され始めます。
 
 解放される要素 ([実績](/wiki/Achievements "Achievements"))
 --------------------------------------------------------------
