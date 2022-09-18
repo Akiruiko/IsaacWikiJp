@@ -1,5 +1,25 @@
 @charset "utf-8";
 
+.dtable{
+	display: table;
+	table-layout:fixed;
+	border-collapse: collapse;
+	width: 600px;
+}
+.dtable_c{
+	display: table-cell;
+	border: 0px solid #666;
+	vertical-align: middle;
+	text-align: center;
+}
+.dtable_c img{
+	margin: 0;
+}
+.dtable_r{
+	display: table-row;
+	font-size: 0.6em;
+}
+
 .bigframe {
 	font-size: 62.5%;
     width: 450px;

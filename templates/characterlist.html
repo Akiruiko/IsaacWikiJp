@@ -4,82 +4,23 @@
 {% endblock extra_head %}
 {% block content %}
 <h4>キャラクター<br />（キャラ名・画像をクリックして詳細ページに移動します）</h4>
-
 {% set data = load_data(path="static/characters.csv", format="csv") %}
-
-{% for record in data.records %}
-<div class="bigframe">
-	<div class="browser">
-		<div class="character">
-			<div class="headline">
-				<div class="chara-icon">
-					{% set imgpath = ["/image/characters/", record.0, ".png"] | join() %}
-					<a href="/wiki/{{record.0}}">{% set image = resize_image(path=imgpath, width=160, height=160, op="fit_height") %}<img src="{{ image.url }}"></a>
-				</div>
-				<div class="chara-name">
-					<a href="/wiki/{{record.0}}"><div>{{record.1}}</div>
-					<div class="small">{{record.2}}</div></a>
-					<div>
-					{% set life = record.3 | split(pat="|") %}
-					<td nowrap>
-					{% for l in life %}
-						{% if l == "-" %}
-							-
-						{% else %}
-							{% set imgpath = ["/image/characters/", l, "-heart.png"] | join() %}
-							{% set image = resize_image(path=imgpath, width=20, height=20, op="fit_height") %}
-							<img src="{{ image.url }}">
-						{% endif %}
-						
-					{% endfor %}
-					</div>
-				</div>
-			</div>
+<div class="dtable">
+	<div class="dtable_r">
+	{% for record in data.records %}
+		<div class="dtable_c">
+			{% set imgpath = ["/image/characters/", record.0, ".png"] | join() %}
+			{% set image = resize_image(path=imgpath, width=110, height=110, op="fit_height") %}
+			{% set imgpath2 = ["/image/characters/", record.0, "_paint.png"] | join() %}
+			{% set image2 = resize_image(path=imgpath2, width=110, height=110, op="fit_height") %}
+			<a href="/wiki/{{record.0}}"><img src="{{ image.url }}" onmouseover="this.src='{{ image2.url }}'" onmouseout="this.src='{{ image.url }}'"></a>
+			<a href="/wiki/{{record.0}}"><div>{{record.1}}</div><div class="small">{{record.2}}</div></a>
 		</div>
-		<div class="statframe">
-			<div class="stat">
-				<div>ステータス</div>
-				<ul class="stat-detail">
-					<li><div class="label">{{data.headers.4}}</div><div class="numbers label0">{{record.4}}</div></li>
-					<li><div class="label">{{data.headers.8}}</div><div class="numbers"><div class="label">{{record.8}}</div></div></li>
-					<li><div class="label">{{data.headers.5}}</div><div class="numbers"><div class="label">{{record.5}}</div></div></li>
-					<li><div class="label">{{data.headers.7}}</div><div class="numbers"><div class="label">{{record.7}}</div></div></li>
-					<li><div class="label0">{{data.headers.6}}</div><div class="numbers"><div class="label">{{record.6}}</div></div></li>
-					<li><div class="label">{{data.headers.10}}</div><div class="numbers"><div class="label">{{record.10}}</div></div></li>
-				</ul>
-			</div>
+		{% if loop.index % 3 == 0 %}
 		</div>
-	</div>
-	<div class="itemframe">
-		<div class="item">
-				<div>初期アイテム</div>
-			<div class="start-item">
-				{% set imgpath = ["/image/sites/", "topmenu_sorry", ".png"] | join() %}
-				{% set image = resize_image(path=imgpath, width=45, height=45, op="fit_height") %}
-				<div class="box"><div><img src="{{ image.url }}"></div><div class="label2">{{record.12}}</div></div>
-				<div class="label2">{{record.11}}</div>
-			</div>
-		</div>
+		<div class="dtable_r">
+		{% endif %}
+	{% endfor %}
 	</div>
 </div>
-<br />
-{% endfor %}
-
-
-
-<script>
-$(function(){
-    $('.table').tablesorter({
-        textExtraction: function(node){
-            var attr = $(node).attr('data-value');
-            if(typeof attr !== 'undefined' && attr !== false){
-                return attr;
-            }
-            return $(node).text();
-        }
-    });
-});
-</script>
-
-
 {% endblock %}
