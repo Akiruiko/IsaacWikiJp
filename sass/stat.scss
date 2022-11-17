@@ -2,23 +2,38 @@
 
 .dtable{
 	display: table;
-	table-layout:fixed;
+	table-layout: fixed;
 	border-collapse: collapse;
-	width: 600px;
+	width: 100%;
 }
 .dtable_c{
 	display: table-cell;
 	border: 0px solid #666;
 	vertical-align: middle;
 	text-align: center;
+    padding-bottom: 20px;
 }
 .dtable_c img{
 	margin: 0;
 }
+.dtable_c ruby {
+	font-size: 1.5em;
+}
+.dtable_c rt {
+	text-align: center;
+}
+
 .dtable_r{
 	display: table-row;
 	font-size: 0.6em;
 }
+
+@media(max-width: 375px){
+    .dtable{
+        width: 100%;
+    }
+}
+/*スマホ用にmin-widthを指定した後 width:100% で勝手に合わせてくれるように調整 (みけち 2022/11/17追記) そもそもmediaで変更しなくても width:600px のところを width100% にすると横に自動的に伸ばしてくれました。*/
 
 .bigframe {
 	font-size: 62.5%;
@@ -212,3 +227,4 @@ ul.stat-detail li > div {
     }
     /*.label2 width:230px,margin-left: 10px にすることでそれっぽい感じに調整, edenなどの初期アイテムが長くなりそうなキャラクターには見やすいところに<span></span>をどうにか挟みたい*/
 }
+

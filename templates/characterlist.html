@@ -15,13 +15,13 @@
 			{% set imgpath2 = ["/image/characters/", Character_name, "_paint.png"] | join() %}
 			{% set image2 = resize_image(path=imgpath2, width=110, height=110, op="fit_height") %}
 			<a href="/wiki/{{record.0}}"><img src="{{ image.url }}" onmouseover="this.src='{{ image2.url }}'" onmouseout="this.src='{{ image.url }}'"></a>
-			<a href="/wiki/{{record.0}}"><div>{{record.1}}</div><div class="small">{{record.2}}</div></a>
+			<a href="/wiki/{{record.0}}"><div><ruby>{{record.2}}<rt>{{record.1}}</rt></ruby></div></a>
 		</div>
-		{% if loop.index % 3 == 0 %}
-		</div>
-		<div class="dtable_r">
-		{% endif %}
-	{% endfor %}
+		{% if loop.index % 5 == 0 %}
 	</div>
+		<div class="dtable_r">
+			{% endif %}
+			{% endfor %}
+		</div>
 </div>
 {% endblock %}
