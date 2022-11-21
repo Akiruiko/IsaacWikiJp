@@ -37,4 +37,5 @@ hyde_links = [
     {url = "/Trinkets/", name = "トリンケット"},
 #    {url = "/CardsAndRunes/", name = "Cards and Runes"},
     {url = "/Characters/", name = "キャラクター"},
+    {url = "/Tips/", name = "攻略情報"},
 ]

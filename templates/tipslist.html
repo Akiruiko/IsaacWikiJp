@@ -1,0 +1,11 @@
+{% extends "page.html" %}
+{% block content %}
+
+
+<h3>{{ section.title }}</h3>
+
+<h4>※以下の内容にはゲーム中のネタバレを含む場合があります。</h4>
+
+{{ section.content | safe }}
+
+{% endblock%}

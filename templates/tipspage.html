@@ -1,0 +1,13 @@
+{% extends "index.html" %}
+
+{% block content %}
+
+<h3>{{ page.title }}</h3>
+<div class="post">
+  {{ page.content | safe }}
+</div>
+
+<h4>寄稿：{{ page.extra.contributor }}</h4>
+<a href="#" onclick="history.back(-1);return false;">戻る</a>
+{% endblock content %}
+
