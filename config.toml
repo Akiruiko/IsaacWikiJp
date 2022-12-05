@@ -30,12 +30,12 @@ anchors = "off"
 
 [extra]
 hyde_links = [
-    {url = "/", name = "TOP"},
+    {url = "/", name = "Top"},
     {url = "/about/", name = "About"},
-	{url = "/keyconfig/", name = "操作方法"},
     {url = "/itemlist/", name = "アイテム"},
     {url = "/Trinkets/", name = "トリンケット"},
 #    {url = "/CardsAndRunes/", name = "Cards and Runes"},
     {url = "/Characters/", name = "キャラクター"},
     {url = "/Tips/", name = "攻略情報"},
+    {url = "/keyconfig/", name = "操作方法"},
 ]
