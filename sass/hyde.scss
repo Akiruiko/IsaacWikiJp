@@ -99,6 +99,20 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+@media(max-width: 375px) {
+  .sidebar-nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 5px;
+  }
+  .sidebar-nav-item {
+    width: 100px;
+    padding-bottom: 5px;
+  }
+}
+/*スマホ版レイアウトとして、サイドバーをdisplay:flex と justify-content: space-between widthサイズ指定によって均等に並べる。(みけち 2022/11/17追記)*/
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
