@@ -1,0 +1,638 @@
+Image,Name,Description,説明,解除方法,実績No,DLC,type
+Magdalene,Magdalene,Unlocked a new character.,,1度のプレイで赤ハートコンテナを7つ所持する,1,Rebirth,character
+Cain,Cain,Unlocked a new character.,,1度のプレイで55コインを所持する,2,Rebirth,character
+Judas,Judas,Unlocked a new character.,,Satanを倒す,3,Rebirth,character
+The_Womb,The Womb,Chapter 4 - The Womb unlocked.,,Momを倒す,4,Rebirth,
+The_Harbingers,The Harbingers,The horsemen are loose.,,Momを倒す,5,Rebirth,
+Cube_of_Meat,A Cube of Meat,Unlocked a new item. (Also unlocks the Ball of Bandages Ball of Bandages),,Momを倒す,6,Rebirth,item
+Book_of_Revelations,The Book of Revelations,Unlocked a new item.,,Harbingerを倒す,7,Rebirth,item
+Noose,A Noose,Unlocked a new item.,,Mom's Heartを3回倒す,8,Rebirth,item
+The_Nail,The Nail,Unlocked a new item.,,アザゼルでボスラッシュをクリアする,9,Rebirth,item
+A_Quarter,A Quarter,Unlocked a new item.,,Mom's Heartを8回倒す,10,Rebirth,item
+Dr._Fetus,A Fetus in a Jar,Unlocked a new item.,,Mom's Heartを9回倒す,11,Rebirth,item
+The_Small_Rock,A Small Rock,Unlocked a new item.,,呪われた岩を100個破壊する,12,Rebirth,item
+Monstro%27s_Tooth,Monstro's Tooth,Unlocked a new item.,,チャプター1をクリアする,13,Rebirth,item
+Lil%27_Chubby,Lil' Chubby,Unlocked a new item.,,チャプター2をクリアする,14,Rebirth,item
+Loki%27s_Horns,Loki's Horns,Unlocked a new item.,,Lokiiを倒す,15,Rebirth,item
+Something_From_The_Future,Something From The Future,New boss in the basement!,,ベースメントを40回クリアする,16,Rebirth,
+Something_Cute,Something Cute,New boss in the caves!,,チャプター2を30回クリアする,17,Rebirth,
+Something_Sticky,Something Sticky,New boss in the depths!,,チャプター3を20回クリアする,18,Rebirth,
+Super_Bandage,A Bandage,Unlocked a new item.,,1度のプレイでBall of Bandagesを4つ拾って、スーパーバンデージガールを作る,19,Rebirth,item
+A_Cross,A Cross,Unlocked a new item.,,マギーでIsaacを倒す,20,Rebirth,item
+A_Bag_of_Pennies,A Bag of Pennies,Unlocked a new item.,,ケインでIsaacを倒す,21,Rebirth,item
+The_Book_of_Sin,The Book of Sin,Unlocked a new item.,,7つの大罪ボスをすべて倒す,22,Rebirth,item
+Little_Gish,Little Gish,Unlocked a new item.,,Gishを倒す,23,Rebirth,item
+Little_Steven,Little Steven,Unlocked a new item.,,Stevenを倒す,24,Rebirth,item
+Little_C.H.A.D.,Little C.H.A.D.,Unlocked a new item.,,C.H.A.Dを倒す,25,Rebirth,item
+A_Gamekid,A Gamekid,Unlocked a new item.,,ゲームセンターに10回訪れる,26,Rebirth,item
+A_Halo,A Halo,Unlocked a new item.,,Mom/Mom's Heart/It Lives!を聖書を使って倒す,27,Rebirth,item
+Mr._Mega,Mr. Mega,Unlocked a new item.,,呪われた岩を10個破壊する,28,Rebirth,item
+The_D6,The D6,Isaac now holds the D6!,,？？？でIsaacを倒す,29,Rebirth,
+The_Scissors,The Scissors,Unlocked a new item.,,100回死ぬ,30,Rebirth,item
+The_Parasite,The Parasite,Unlocked a new item.,,１度のプレイで Bob's Rotten HeadかDead CatかCricket's HeadもしくはTammy's Headの２つを入手する（Repentanceからは「Dead」タグのついたアイテムを2つ）,31,Rebirth,item
+%3F%3F%3F,???,Unlocked a new character.,,Mom's Heartを10回倒す,32,Rebirth,character
+Everything_Is_Terrible%21%21%21,Everything Is Terrible!!!,The game just got harder!,,Mom's Heartを5回倒す,33,Rebirth,
+It_Lives%21,It Lives!,Your future's past waits.,,Mom's Heartを11回倒す,34,Rebirth,
+Mom%27s_Contact,Mom's Contact,Unlocked a new item.,,1度のプレイで「Yes Mother?」アイテムを3つ入手する,35,Rebirth,item
+The_Necronomicon,The Necronomicon,Unlocked a new item.,,カード「XIII - Death」を 4 回使用する,36,Rebirth,item
+Basement_Boy,Basement Boy,Beat basement without taking damage.,,チャプター1をダメージを受けずにクリアする,37,Rebirth,
+Spelunker_Boy,Spelunker Boy,Beat caves without taking damage.,,チャプター2をダメージを受けずにクリアする,38,Rebirth,
+Dark_Boy,Dark Boy,Beat depths without taking damage.,,チャプター3をダメージを受けずにクリアする,39,Rebirth,
+Mama%27s_Boy,Mama's Boy,Beat womb without taking damage.,,チャプター4をダメージを受けずにクリアする,40,Rebirth,
+Golden_God%21,Golden God!,You are the best!!,,???とThe Lambを倒す,41,Rebirth,
+Eve,Eve,Unlocked a new character.,,2フロアの間ハートのピックアップを取らない,42,Rebirth,character
+Mom%27s_Knife,Mom's Knife,Unlocked a new item.,,アイザックでSatanを倒す,43,Rebirth,item
+The_Razor,The Razor,Unlocked a new item.,,イブでSatanを倒す,44,Rebirth,item
+Guardian_Angel,Guardian Angel,Unlocked a new item.,,マギーでSatanを倒す,45,Rebirth,item
+A_Bag_of_Bombs,A Bag of Bombs,Unlocked a new item.,,ケインでSatanを倒す,46,Rebirth,item
+Demon_Baby,Demon Baby,Unlocked a new item.,,アザゼルで The Lambを倒す,47,Rebirth,item
+Forget_Me_Now,Forget Me Now,Unlocked a new item.,,???でSatanを倒す,48,Rebirth,item
+The_D20,The D20,Unlocked a new item.,,アイザックで???を倒す,49,Rebirth,item
+Celtic_Cross,Celtic Cross,Unlocked a new item.,,マギーで???を倒す,50,Rebirth,item
+Abel,Abel,Unlocked a new item.,アベルが地下に現れた,ケインで The Lambを倒す,51,Rebirth,item
+Curved_Horn,Curved Horn,Unlocked a new item.,,ユダで The Lambを倒す,52,Rebirth,item
+Sacrificial_Dagger,Sacrificial Dagger,Unlocked a new item.,,イブで???を倒す,53,Rebirth,item
+Bloody_Lust,Bloody Lust,Unlocked a new item.,,サムソンでIsaacを倒す,54,Rebirth,item
+Blood_Penny,Blood Penny,Unlocked a new item.,,サムソンで???を体操,55,Rebirth,item
+Blood_Rights,Blood Rights,Unlocked a new item.,,サムソンでSatanを倒す,56,Rebirth,item
+The_Polaroid,The Polaroid,Unlocked a new item.,,Isaacを5回倒す,57,Rebirth,item
+Dad%27s_Key,Dad's Key,Unlocked a new item.,,1度のプレイでKey Piece1 / Key Piece2の両方を天使より入手する,58,Rebirth,item
+Blue_Candle,Blue Candle,Unlocked a new item.,,募金箱に900コインを募金する,59,Rebirth,item
+Burnt_Penny,Burnt Penny,Unlocked a new item.,,Beans! (challenge #13)のチャレンジをクリアする,60,Rebirth,item
+Lucky_Toe,Lucky Toe,Unlocked a new item.,,店主を20体爆破する,61,Rebirth,item
+Epic_Fetus,Epic Fetus,Unlocked a new item.,,The Family Man (challenge #19)のチャレンジをクリアする,62,Rebirth,item
+SMB_Super_Fan,SMB Super Fan,Unlocked a new item.,,It's in the Cards (challenge #14)のチャレンジをクリアする,63,Rebirth,item
+Counterfeit_Coin,Counterfeit Coin,Unlocked a new item.,,シェル ゲームまたは懺悔地獄ゲームを 100 回プレイする,64,Rebirth,item
+Guppy%27s_Hairball,Guppy's Hairball,Unlocked a new item.,,ガッピーに変身する,65,Rebirth,item
+A_Forgotten_Horseman,A Forgotten Horseman,Unlocked a new boss!,,天使部屋のアイテムを10個入手する,66,Rebirth,
+Samson,Samson,Unlocked a new character.,,ダメージを受けずに2フロア連続で突破する,67,Rebirth,character
+Something_Icky,Something Icky,New boss in the womb!,,Isaacを10回倒す,68,Rebirth,
+%21Platinum_God%21,!Platinum God!,OMG!,,ゲーム内のすべての非 DLC アイテムを収集し、すべてのシークレットとエンディングを解除する (The Lost 自身とThe Lostの 6 つのアイテムを除く),69,Rebirth,
+Isaac%27s_Head,Isaac's Head,Unlocked a new item.,,アイザックでボスラッシュをクリアする,70,Rebirth,item
+Maggy%27s_Faith,Maggy's Faith,Unlocked a new item.,,マギーでThe Lambを倒す,71,Rebirth,item
+Judas%27_Tongue,Judas' Tongue,Unlocked a new item.,,ユダでSatanを倒す,72,Rebirth,item
+%3F%3F%3F%27s_Soul,???'s Soul,Unlocked a new item.,,???でThe Lambを倒す,73,Rebirth,item
+Samson%27s_Lock,Samson's Lock,Unlocked a new item.,,サムソンでThe Lambを倒す,74,Rebirth,item
+Cain%27s_Eye,Cain's Eye,Unlocked a new item.,,ケインで???を倒す,75,Rebirth,item
+Eve%27s_Bird_Foot,Eve's Bird Foot,Unlocked a new item.,,イブでIsaacを倒す,76,Rebirth,item
+The_Left_Hand,The Left Hand,Unlocked a new item.,,いずれかのキャラクターでUltra Prideを倒す、もしくは???をユダで倒す,77,Rebirth,item
+The_Negative,The Negative,Unlocked a new item.,,Satanを5回倒す,78,Rebirth,item
+Azazel,Azazel,Unlocked a new character.,,1回のプレイで3回悪魔取引をする,79,Rebirth,character
+Lazarus,Lazarus,Unlocked a new character.,,1回のプライで4つ以上のソウルハートを取得する,80,Rebirth,character
+Eden,Eden,Unlocked a new character.,,チャプター4をクリアする,81,Rebirth,character
+The_Lost,The Lost,Unlocked a new character.,,Removed in Afterbirth It's complicated Added in Afterbirth Die in a Sacrifice Room Sacrifice Room while holding Missing Poster Missing Poster,82,Rebirth,character
+Dead_Boy,Dead Boy,Beat Chest or Dark Room without taking damage.,,ダメージを受けずにチャプター6をクリア,83,Rebirth,
+The_Real_Platinum_God,The Real Platinum God,111% now stop playing!,,DLC 以外のすべてのアイテムを収集し、すべてのシークレットとエンディングのロックを解除します,84,Rebirth,
+Lucky_Rock,Lucky Rock,Destroy 100 rocks.,,100個の岩を破壊する,85,Rebirth,
+The_Cellar,The Cellar,Alt stage to the basement.,,Basementのすべてのボスを倒す (リペンタンス以降はBaby Plumを除く) ※Basement以外で倒しても構わない,86,Rebirth,
+The_Catacombs,The Catacombs,Alt stage to the caves.,,Cavesのすべてのボスを倒す(リペンタンス以降はBumbinoを除く) ※Caves以外で倒しても構わない,87,Rebirth,
+The_Necropolis,The Necropolis,Alt stage to the depths.,,Depthsのすべてのボスを倒す(リペンタンス以降はReap Creepを除く) ※Depths以外で倒しても構わない,88,Rebirth,
+Rune_of_Hagalaz,Rune of Hagalaz,Unlocked a new item.,,Pitch Black (challenge #1)のチャレンジをクリアする,89,Rebirth,item
+Rune_of_Jera,Rune of Jera,Unlocked a new item.,,High Brow (challenge #2)のチャレンジをクリアする,90,Rebirth,item
+Rune_of_Ehwaz,Rune of Ehwaz,Unlocked a new item.,,Head Trauma (challenge #3)のチャレンジをクリアする,91,Rebirth,item
+Rune_of_Dagaz,Rune of Dagaz,Unlocked a new item.,,Darkness Falls (challenge #4)のチャレンジをクリアする,92,Rebirth,item
+Rune_of_Ansuz,Rune of Ansuz,Unlocked a new item.,,The Tank (challenge #5)のチャレンジをクリアする,93,Rebirth,item
+Rune_of_Perthro,Rune of Perthro,Unlocked a new item.,,Solar System (challenge #6)のチャレンジをクリアする,94,Rebirth,item
+Rune_of_Berkano,Rune of Berkano,Unlocked a new item.,,Purist (challenge #20)のチャレンジをクリアする,95,Rebirth,item
+Rune_of_Algiz,Rune of Algiz,Unlocked a new item.,,Cat Got Your Tongue (challenge #8)のチャレンジをクリアする,96,Rebirth,item
+Chaos_Card,Chaos Card,Unlocked a new item.,,Demo Man (challenge #9)のチャレンジをクリアする,97,Rebirth,item
+Credit_Card,Credit Card,Unlocked a new item.,,Cursed! (challenge #10)のチャレンジをクリアする,98,Rebirth,item
+Rules_Card,Rules Card,Unlocked a new item.,,Glass Cannon (challenge #11)のチャレンジをクリアする,99,Rebirth,item
+Card_Against_Humanity,Card Against Humanity,Unlocked a new item.,,When Life Gives You Lemons (challenge #12)のチャレンジをクリアする,100,Rebirth,item
+Swallowed_Penny,Swallowed Penny,Unlocked a new item.,,Slow Roll (challenge #15)のチャレンジをクリアする,101,Rebirth,item
+Robo-Baby_2.0,Robo-Baby 2.0,Unlocked a new item.,,Computer Savvy (challenge #16)のチャレンジをクリアする,102,Rebirth,item
+Death%27s_Touch,Death's Touch,Unlocked a new item.,,Waka Waka (challenge #17)のチャレンジをクリアする,103,Rebirth,item
+Technology_.5,Technology .5,Unlocked a new item.,,The Host (challenge #18)のチャレンジをクリアする,104,Rebirth,item
+Missing_No.,Missing No.,Unlocked a new item.,,ラザロでボスラッシュをクリアする,105,Rebirth,item
+Isaac%27s_Tears,Isaac's Tears,Unlocked a new item.,,アイザックでIsaacを倒す,106,Rebirth,item
+Guillotine,Guillotine,Unlocked a new item.,,ユダでIsaacを倒す,107,Rebirth,item
+Judas%27_Shadow,Judas' Shadow,Unlocked a new item.,,ユダでボスラッシュをクリアする,108,Rebirth,item
+Maggy%27s_Bow,Maggy's Bow,Unlocked a new item.,,マギーでボスラッシュをクリアする,109,Rebirth,item
+Cain%27s_Other_Eye,Cain's Other Eye,Unlocked a new item.,,ケインでボスラッシュをクリアする,110,Rebirth,item
+Black_Lipstick,Black Lipstick,Unlocked a new item.,,イブでThe Lambを倒す,111,Rebirth,item
+Eve%27s_Mascara,Eve's Mascara,Unlocked a new item.,,イブでボスラッシュをクリアする,112,Rebirth,item
+Fate,Fate,Unlocked a new item.,,???で???を倒す,113,Rebirth,item
+%3F%3F%3F%27s_Only_Friend,???'s Only Friend,Unlocked a new item.,,???でボスラッシュをクリアする,114,Rebirth,item
+Samson%27s_Chains,Samson's Chains,Unlocked a new item.,,サムソンでボスラッシュをクリアする,115,Rebirth,item
+Lazarus%27_Rags,Lazarus' Rags,Unlocked a new item.,,ラザラスでIsaacを倒す,116,Rebirth,item
+Broken_Ankh,Broken Ankh,Unlocked a new item.,,ラザラスでSatanを倒す,117,Rebirth,item
+Store_Credit,Store Credit,Unlocked a new item.,,ラザラスで???を倒す,118,Rebirth,item
+Pandora%27s_Box,Pandora's Box,Unlocked a new item.,,ラザラスでThe Lambを倒す,119,Rebirth,item
+Suicide_King,Suicide King,Unlocked a new item.,,Suicide King (challenge #7)のチャレンジをクリアする,120,Rebirth,item
+Blank_Card,Blank Card,Unlocked a new item.,,エデンでIsaacを倒す,121,Rebirth,item
+Book_of_Secrets,Book of Secrets,Unlocked a new item.,,エデンでSatanを倒す,122,Rebirth,item
+Mysterious_Paper,Mysterious Paper,Unlocked a new item.,,エデンで???を倒す,123,Rebirth,item
+Mystery_Sack,Mystery Sack,Unlocked a new item.,,エデンでThe Lambを倒す,124,Rebirth,item
+Undefined,Undefined,Unlocked a new item.,,エデンでボスラッシュをクリアする,125,Rebirth,item
+Satanic_Bible,Satanic Bible,Unlocked a new item.,,アザゼルでIsaacを倒す,126,Rebirth,item
+Daemon%27s_Tail,Daemon's Tail,Unlocked a new item.,,アザゼルでSatanを倒す,127,Rebirth,item
+Abaddon,Abaddon,Unlocked a new item.,アバドンが地下に現れた,アザゼルで???を倒す,128,Rebirth,item
+Isaac%27s_Heart,Isaac's Heart,Unlocked a new item.,,ザ・ロストでIsaacを倒す,129,Rebirth,item
+The_Mind,The Mind,Unlocked a new item.,,ザ・ロストでSatanを倒す,130,Rebirth,item
+The_Body,The Body,Unlocked a new item.,,ザ・ロストで???を倒す,131,Rebirth,item
+The_Soul,The Soul,Unlocked a new item.,,ザ・ロストでThe Lambを倒す,132,Rebirth,item
+The_D100,The D100,Unlocked a new item.,,ザ・ロストでボスラッシュをクリアする,133,Rebirth,item
+Blue_Map,Blue Map,Unlocked a new item.,,募金箱に10コインを募金する,134,Rebirth,item
+There%27s_Options,There's Options,Unlocked a new item.,,募金箱に50コインを募金する,135,Rebirth,item
+Black_Candle,Black Candle,Unlocked a new item,,募金箱に150コインを募金する,136,Rebirth,item
+Red_Candle,Red Candle,Unlocked a new item.,,募金箱に400コインを募金する,137,Rebirth,item
+Stop_Watch,Stop Watch,Unlocked a new item,,募金箱に999コインを募金する,138,Rebirth,item
+Wire_Coat_Hanger,Wire Coat Hanger,Unlocked a new item.,,Mom's Heartを4回倒す,139,Rebirth,item
+Ipecac,Ipecac,Unlocked a new item.,,Mom's Heartを6回倒す,140,Rebirth,item
+Experimental_Treatment,Experimental Treatment,Unlocked a new item.,,Mom's Heartを7回倒す,141,Rebirth,item
+Krampus,Krampus,Unlocked another miniboss!,,悪魔部屋で20個のアイテムを入手する,142,Rebirth,
+Head_of_Krampus,Head of Krampus,Unlocked a new item.,,Krampusを倒す,143,Rebirth,item
+Super_Meat_Boy,Super Meat Boy,Built him out of meat cubes.,,Make a Super Meat Boy by picking up 4 copies of Cube of Meat Cube of Meat in one run; see Unlocking Super Meat Boy & Super Bandage Girl,144,Rebirth,
+Butter_Bean,Butter Bean,Unlocked a new item.,,うんちを100つ破壊する,145,Rebirth,item
+Little_Baggy,Little Baggy,Unlocked a new item.,,Pick up any 2 of the following items in a single run: Roid Rage Roid Rage  The Virus The Virus Growth Hormones Growth Hormones Experimental Treatment Experimental Treatment and Speed Ball Speed Ball (Added in Repentance Any 2 items that have the 'syringe' item tag),146,Rebirth,item
+Blood_Bag,Blood Bag,Unlocked a new item.,,Use the Blood Donation Machine.png Blood Donation Machine 30 times,147,Rebirth,item
+The_D4,The D4,Unlocked a new item.,,Blow up 30 Slot Machine.png Slot Machine,148,Rebirth,item
+Missing_Poster,Missing Poster,Unlocked a new item.,,Defeat The Lamb as Isaac Isaac,149,Rebirth,item
+Rubber_Cement,Rubber Cement,Unlocked a new item.,,Defeat Mom's Heart 2 times,150,Rebirth,item
+Store_Upgrade_lv.1,Store Upgrade lv.1,Donated 20 pennies to the shop.,,Donate 20 Coins to the Donation Machine.png Donation Machine,151,Rebirth,
+Store_Upgrade_lv.2,Store Upgrade lv.2,Donated 100 pennies to the shop.,,Donate 100 Coins to the Donation Machine.png Donation Machine,152,Rebirth,
+Store_Upgrade_lv.3,Store Upgrade lv.3,Donated 200 pennies to the shop.,,Donate 200 Coins to the Donation Machine.png Donation Machine,153,Rebirth,
+Store_Upgrade_lv.4,Store Upgrade lv.4,Donated 600 pennies to the shop.,,Donate 600 Coins to the Donation Machine.png Donation Machine,154,Rebirth,
+Angels,Angels,They are waiting.,,Complete Chapter 6,155,Rebirth,
+Godhead,Godhead,Unlocked a new item.,,Earn all Removed in Afterbirth 5 / Added in Afterbirth / Removed in Afterbirth † 9 (except Ultra Greed) / / Removed in Repentance 10 / Added in Repentance 12 Completion Marks on Hard mode as The Lost The Lost,156,Rebirth,item
+Darkness_Falls,Darkness Falls,Unlocked Challenge #4.,,Removed in Repentance Defeat Mom's Heart 11 times Defeat Satan and ??? as Eve Eve,157,Rebirth,
+The_Tank,The Tank,Unlocked Challenge #5.,,Have 7 or more Red Heart Containers at one time,158,Rebirth,
+Solar_System,Solar System,Unlocked Challenge #6.,,Defeat Mom's Heart 3 times,159,Rebirth,
+Suicide_King,Suicide King,Unlocked Challenge #7.,,Defeat Mom's Heart 11 times,160,Rebirth,
+Cat_Got_Your_Tongue,Cat Got Your Tongue,Unlocked Challenge #8.,,Become Guppy,161,Rebirth,
+Demo_Man,Demo Man,Unlocked Challenge #9.,,Defeat Mom's Heart 9 times,162,Rebirth,
+Cursed%21,Cursed!,Unlocked Challenge #10.,,Have 7 or more Red Heart Containers at one time,163,Rebirth,
+Glass_Cannon,Glass Cannon,Unlocked Challenge #11.,,Beat The Family Man (challenge #19) and defeat Lokii,164,Rebirth,
+The_Family_Man,The Family Man,Unlocked Challenge #19.,,Pick up both Key Pieces from the Angels in one run,165,Rebirth,
+Purist,Purist,Unlocked Challenge #20.,,Defeat Mom,166,Rebirth,
+Lost_Baby,Lost Baby,Unlocked a new co-player baby.,をアンロックした,Defeat Mom's Heart on Hard mode as Isaac Isaac,167,Rebirth,coop
+Cute_Baby,Cute Baby,Unlocked a new co-player baby.,をアンロックした,Defeat Mom's Heart on Hard mode as Magdalene Magdalene,168,Rebirth,coop
+Crow_Baby,Crow Baby,Unlocked a new co-player baby.,をアンロックした,Defeat Mom's Heart on Hard mode as Eve Eve,169,Rebirth,coop
+Shadow_Baby,Shadow Baby,Unlocked a new co-player baby.,をアンロックした,Defeat Mom's Heart on Hard mode as Judas Judas,170,Rebirth,coop
+Glass_Baby,Glass Baby,Unlocked a new co-player baby.,をアンロックした,Defeat Mom's Heart on Hard mode as Cain Cain,171,Rebirth,coop
+Wrapped_Baby,Wrapped Baby,Unlocked a new co-player baby.,をアンロックした,Removed in Afterbirth † Defeat Mom's Heart on Hard mode as Azazel Azazel Defeat Mom's Heart on Hard mode as Lazarus Lazarus,172,Rebirth,coop
+Begotten_Baby,Begotten Baby,Unlocked a new co-player baby.,をアンロックした,Removed in Afterbirth † Defeat Mom's Heart on Hard mode as Lazarus Lazarus Defeat Mom's Heart on Hard mode as Azazel Azazel,173,Rebirth,coop
+Dead_Baby,Dead Baby,Unlocked a new co-player baby.,をアンロックした,Defeat Mom's Heart on Hard mode as ??? ???,174,Rebirth,coop
+-0-_Baby,-0- Baby,Unlocked a new co-player baby.,0をアンロックした,Defeat Mom's Heart on Hard mode as The Lost The Lost,175,Rebirth,coop
+Glitch_Baby,Glitch Baby,Unlocked a new co-player baby.,をアンロックした,Defeat Mom's Heart on Hard mode as Eden Eden,176,Rebirth,coop
+Fighting_Baby,Fighting Baby,Unlocked a new co-player baby.,をアンロックした,Defeat Mom's Heart on Hard mode as Samson Samson,177,Rebirth,coop
+Lord_of_the_Flies,Lord of the Flies,You became Lord of the Flies.,,Become Beelzebub,178,Rebirth,
+Fart_Baby,Fart Baby,Unlocked a new item.,ファーティングベイビーをアンロックした,アイザックでHushを倒す,179,Afterbirth,item
+Purity,Purity,Unlocked a new item.,純潔が地下に現れた,マギーでHushを倒す,180,Afterbirth,item
+D12,D12,Unlocked a new item.,D12が地下に現れた,ケインでHushを倒す,181,Afterbirth,item
+Betrayal,Betrayal,Unlocked a new item.,裏切りが地下に現れた,ユダでHushを倒す,182,Afterbirth,item
+Fate%27s_Reward,Fate's Reward,Unlocked a new item.,運命からのごほうびが地下に現れた,???でHushを倒す,183,Afterbirth,item
+Athame,Athame,Unlocked a new item.,儀式の刃が地下に現れた,イブでHushを倒す,184,Afterbirth,item
+Blind_Rage,Blind Rage,Unlocked a new item.,見えない憤怒が地下に現れた,サムソンでHushを倒す,185,Afterbirth,item
+Maw_of_the_Void,Maw of the Void,Unlocked a new item.,モーオブザボイドが地下に現れた,アザゼルでHushを倒す,186,Afterbirth,item
+Empty_Vessel,Empty Vessel,Unlocked a new item.,からっぽの器が地下に現れた,ラザラスでHushを倒す,187,Afterbirth,item
+Eden%27s_Blessing,Eden's Blessing,Unlocked a new item.,エデンのご加護が地下に現れた,エデンでHushを倒す,188,Afterbirth,item
+Sworn_Protector,Sworn Protector,Unlocked a new item.,契約の守護者が地下に現れた,ザ・ロストでHushを倒す,189,Afterbirth,item
+Incubus,Incubus,Unlocked a new item.,インキュバスが地下に現れた,リリスでHushを倒す,190,Afterbirth,item
+Keeper_now_holds..._A_Penny%21,Keeper now holds... A Penny!,Unlocked a new item.,キーパーは…ペニーを手に入れた！,キーパーでHushを倒す,191,Afterbirth,item
+Lil%27_Chest,Lil' Chest,Unlocked a new item.,小さな収納箱が地下に現れた,Defeat Ultra Greed as Isaac Isaac,192,Afterbirth,item
+Censer,Censer,Unlocked a new item.,香炉が地下に現れた,Defeat Ultra Greed as Magdalene Magdalene,193,Afterbirth,item
+Evil_Eye,Evil Eye,Unlocked a new item.,邪眼が地下に現れた,Defeat Ultra Greed as Cain Cain,194,Afterbirth,item
+My_Shadow,My Shadow,Unlocked a new item.,ぼくの影が地下に現れた,Defeat Ultra Greed as Judas Judas,195,Afterbirth,item
+Cracked_Dice,Cracked Dice,Unlocked a new item.,割れたダイスが地下に現れた,Defeat Ultra Greed as ??? ???,196,Afterbirth,item
+Black_Feather,Black Feather,Unlocked a new item.,漆黒の羽根が地下に現れた,Defeat Ultra Greed as Eve Eve,197,Afterbirth,item
+Lusty_Blood,Lusty Blood,Unlocked a new item.,頑健ブラッドが地下に現れた,Defeat Ultra Greed as Samson Samson,198,Afterbirth,item
+Lilith,Lilith,Unlocked a new character.,リリスをアンロックした,Defeat Ultra Greed as Azazel Azazel,199,Afterbirth,character
+Key_Bum,Key Bum,Unlocked a new item.,キーバムが地下に現れた,Defeat Ultra Greed as Lazarus Lazarus,200,Afterbirth,item
+GB_Bug,GB Bug,Unlocked a new item.,GBバグが地下に現れた,Defeat Ultra Greed as Eden Eden,201,Afterbirth,item
+Zodiac,Zodiac,Unlocked a new item.,ゾディアックが地下に現れた,Defeat Ultra Greed as The Lost The Lost,202,Afterbirth,item
+Box_of_Friends,Box of Friends,Unlocked a new item.,おともだちボックスが地下に現れた,Defeat Ultra Greed as Lilith Lilith,203,Afterbirth,item
+Rib_of_Greed,Rib of Greed,Unlocked a new item.,強欲アバラ骨が地下に現れた,Defeat Ultra Greed as Keeper Keeper,204,Afterbirth,item
+Cry_Baby,Cry Baby,Unlocked a new co-player baby.,泣き虫ベイビーが地下に現れた,Defeat Mega Satan as Isaac Isaac,205,Afterbirth,coop
+Red_Baby,Red Baby,Unlocked a new co-player baby.,赤いベイビーが地下に現れた,Defeat Mega Satan as Magdalene Magdalene,206,Afterbirth,coop
+Green_Baby,Green Baby,Unlocked a new co-player baby.,緑ベイビーが地下に現れた,Defeat Mega Satan as Cain Cain,207,Afterbirth,coop
+Brown_Baby,Brown Baby,Unlocked a new co-player baby.,茶色ベイビーが地下に現れた,Defeat Mega Satan as Judas Judas,208,Afterbirth,coop
+Blue_Baby,Blue Baby,Unlocked a new co-player baby.,ブルーベイビーが地下に現れた,Defeat Mega Satan as ??? ???,209,Afterbirth,coop
+Lil%27_Baby,Lil' Baby,Unlocked a new co-player baby.,小さなベイビーが地下に現れた,Defeat Mega Satan as Eve Eve,210,Afterbirth,coop
+Rage_Baby,Rage Baby,Unlocked a new co-player baby.,憤怒ベイビーが地下に現れた,Defeat Mega Satan as Samson Samson,211,Afterbirth,coop
+Black_Baby,Black Baby,Unlocked a new co-player baby.,ブラックベイビーが地下に現れた,Defeat Mega Satan as Azazel Azazel,212,Afterbirth,coop
+Long_Baby,Long Baby,Unlocked a new co-player baby.,ロングベイビーが地下に現れた,Defeat Mega Satan as Lazarus Lazarus,213,Afterbirth,coop
+Yellow_Baby,Yellow Baby,Unlocked a new co-player baby.,イエローベイビーが地下に現れた,Defeat Mega Satan as Eden Eden,214,Afterbirth,coop
+White_Baby,White Baby,Unlocked a new co-player baby.,ホワイトベイビーが地下に現れた,Defeat Mega Satan as The Lost The Lost,215,Afterbirth,coop
+Big_Baby,Big Baby,Unlocked a new co-player baby.,大きなベイビーが地下に現れた,Defeat Mega Satan as Lilith Lilith,216,Afterbirth,coop
+Noose_Baby,Noose Baby,Unlocked a new co-player baby.,しめ縄ベイビーが地下に現れた,Defeat Mega Satan as Keeper Keeper,217,Afterbirth,coop
+Rune_Bag,Rune Bag,Unlocked a new item.,ルーン袋が地下に現れた,リリスでIsaacを倒す,218,Afterbirth,item
+Cambion_Conception,Cambion Conception,Unlocked a new item.,忌血の胎児が地下に現れた,リリスで???を倒す,219,Afterbirth,item
+Serpent%27s_Kiss,Serpent's Kiss,Unlocked a new item.,サーペントのくちづけが地下に現れた,Defeat Satan as Lilith Lilith,220,Afterbirth,item
+Succubus,Succubus,Unlocked a new item.,サキュバスが地下に現れた,Defeat The Lamb as Lilith Lilith,221,Afterbirth,item
+Immaculate_Conception,Immaculate Conception,Unlocked a new item.,純潔の胎児が地下に現れた,Complete the Boss Rush Boss Rush as Lilith Lilith,222,Afterbirth,item
+Goat_Head_Baby,Goat Head Baby,Unlocked a new co-player baby.,ゴートヘッドベイビーが地下に現れた,Defeat Mom's Heart on Hard mode as Lilith Lilith,223,Afterbirth,coop
+Gold_Heart,Gold Heart,Unlocked a new item.,ゴールドハートが地下に現れた,XXXXXXXXL (challenge #21)のチャレンジをクリアする,224,Afterbirth,item
+Get_out_of_Jail_Free_Card,Get out of Jail Free Card,Unlocked a new item.,刑務所釈放カードが地下に現れた,SPEED! (challenge #22)のチャレンジをクリアする,225,Afterbirth,item
+Gold_Bomb,Gold Bomb,Unlocked a new item.,金のボムが地下に現れた,Blue Bomber (challenge #23)のチャレンジをクリアする,226,Afterbirth,item
+2_new_pills,2 new pills,Unlocked a new item.,新しいピルが２つ現れた,PAY TO PLAY (challenge #24)のチャレンジをクリアする,227,Afterbirth,item
+2_new_pills,2 new pills,Unlocked a new item.,新しいピルが２つ現れた,Have a Heart (challenge #25)のチャレンジをクリアする,228,Afterbirth,item
+Poker_Chip,Poker Chip,Unlocked a new item.,ポーカーチップが地下に現れた,I RULE! (challenge #26)のチャレンジをクリアする,229,Afterbirth,item
+Stud_Finder,Stud Finder,Unlocked a new item.,トゲトゲファインダーが地下に現れた,BRAINS! (challenge #27)のチャレンジをクリアする,230,Afterbirth,item
+D8,D8,Unlocked a new item.,D8が地下に現れた,PRIDE DAY! (challenge #28)のチャレンジをクリアする,231,Afterbirth,item
+Kidney_Stone,Kidney Stone,Unlocked a new item.,腎臓結石が地下に現れた,Removed in Afterbirth † Complete The Guardian (challenge #30) Complete Onan's Streak (challenge #29),232,Afterbirth,item
+Blank_Rune,Blank Rune,Unlocked a new item.,ブランクルーンが地下に現れた,Removed in Afterbirth † Complete Onan's Streak (challenge #29) Complete The Guardian (challenge #30),233,Afterbirth,item
+Blue_Womb,Blue Womb,Unlocked a hidden chapter.,青い子宮をアンロックした,Defeat Mom's Heart 10 times,234,Afterbirth,
+1001%25,1001%,Nerd x 1000000,1001%!!,Unlock all secrets and endings and collect every item in the game,235,Afterbirth,
+Keeper_holds_Wooden_Nickel,Keeper holds Wooden Nickel,Unlocked a new starting item.,キーパーは…木製硬貨を手に入れた！,キーパーでIsaacを倒す,236,Afterbirth,
+Keeper_holds_Store_Key,Keeper holds Store Key,Unlocked a new starting item.,キーパーは…店の鍵を手に入れた！,Defeat Satan as Keeper Keeper,237,Afterbirth,
+Deep_Pockets,Deep Pockets,Unlocked a new item.,深いポケットが地下に現れた,キーパーで???を倒す,238,Afterbirth,item
+Karma,Karma,Unlocked a new item.,カルマが地下に現れた,Defeat The Lamb as Keeper Keeper,239,Afterbirth,item
+Sticky_Nickels,Sticky Nickels,Unlocked a new item.,ベタベタ硬貨が地下に現れた,Complete the Boss Rush Boss Rush as Keeper Keeper,240,Afterbirth,item
+Super_Greed_Baby,Super Greed Baby,Unlocked a new co-player baby.,スーパーグリードベイビーが地下に現れた,Defeat Mom's Heart on Hard mode as Keeper Keeper,241,Afterbirth,coop
+Lucky_Pennies,Lucky Pennies,Unlocked a new item.,ラッキーペニーが地下に現れた,Donate 1 Coin to the Greed Donation Machine.png Greed Donation Machine,242,Afterbirth,item
+Special_Hanging_Shopkeepers,Special Hanging Shopkeepers,Unlocked a secret.,スペシャルぶら下がり店番をアンロックした,Donate 10 Coins to the Greed Donation Machine.png Greed Donation Machine,243,Afterbirth,
+Wooden_Nickel,Wooden Nickel,Unlocked a new item.,木製硬貨が地下に現れた,Donate 30 Coins to the Greed Donation Machine.png Greed Donation Machine,244,Afterbirth,item
+Cain_holds_Paperclip,Cain holds Paperclip,Unlocked a new starting item.,ケインは…ペーパークリップを手に入れた！,Donate 68 Coins to the Greed Donation Machine.png Greed Donation Machine,245,Afterbirth,
+Everything_is_Terrible_2%21%21%21,Everything is Terrible 2!!!,Greed just got harder!,全てが最惡だ２！ゲームの難易度が更にアップ！,Donate 111 Coins to the Greed Donation Machine.png Greed Donation Machine,246,Afterbirth,
+Special_Shopkeepers,Special Shopkeepers,Unlocked a secret.,スペシャル店番をアンロックした,Donate 234 Coins to the Greed Donation Machine.png Greed Donation Machine,247,Afterbirth,
+Eve_now_holds_Razor_Blade,Eve now holds Razor Blade,Unlocked a new starting item.,イブは…かみそりを手に入れた！,Donate 439 Coins to the Greed Donation Machine.png Greed Donation Machine,248,Afterbirth,
+Store_Key,Store Key,Unlocked a new item.,店の鍵が地下に現れた,Donate 666 Coins to the Greed Donation Machine.png Greed Donation Machine,249,Afterbirth,item
+Lost_holds_Holy_Mantle,Lost holds Holy Mantle,Unlocked a new starting item.,ロストは…聖なるマントを手に入れた！,Donate 879 Coins to the Greed Donation Machine.png Greed Donation Machine,250,Afterbirth,
+Keeper,Keeper,Unlocked a new character.,キーパーをアンロックした,Donate 1000 Coins to the Greed Donation Machine.png Greed Donation Machine,251,Afterbirth,character
+Hive_Baby,Hive Baby,Unlocked a new co-player baby.,ハイヴベイビーが地下に現れた,Earn all Hard mode Completion Marks as ??? ???,252,Afterbirth,coop
+Buddy_Baby,Buddy Baby,Unlocked a new co-player baby.,バディーベイビーが地下に現れた,Earn all Hard mode Completion Marks as Isaac Isaac,253,Afterbirth,coop
+Colorful_Baby,Colorful Baby,Unlocked a new co-player baby.,カラフルベイビーが地下に現れた,Earn all Hard mode Completion Marks as Magdalene Magdalene,254,Afterbirth,coop
+Whore_Baby,Whore Baby,Unlocked a new co-player baby.,バビロンのベイビーが地下に現れた,Earn all Hard mode Completion Marks as Eve Eve,255,Afterbirth,coop
+Cracked_Baby,Cracked Baby,Unlocked a new co-player baby.,割れたベイビーが地下に現れた,Earn all Hard mode Completion Marks as Eden Eden,256,Afterbirth,coop
+Dripping_Baby,Dripping Baby,Unlocked a new co-player baby.,垂れたベイビーが地下に現れた,Earn all Hard mode Completion Marks as Lazarus Lazarus,257,Afterbirth,coop
+Blinding_Baby,Blinding Baby,Unlocked a new co-player baby.,ブラインディングベイビーが地下に現れた,Use Blank Card Blank Card while holding XIX - The Sun XIX - The Sun,258,Afterbirth,coop
+Sucky_Baby,Sucky Baby,Unlocked a new co-player baby.,サッキーベイビーが地下に現れた,Earn all Hard mode Completion Marks as Azazel Azazel,259,Afterbirth,coop
+Dark_Baby,Dark Baby,Unlocked a new co-player baby.,ダークベイビーが地下に現れた,Earn all Hard mode Completion Marks as Lilith Lilith,260,Afterbirth,coop
+Picky_Baby,Picky Baby,Unlocked a new co-player baby.,ピッキーベイビーが地下に現れた,Earn all Hard mode Completion Marks as Cain Cain,261,Afterbirth,coop
+Revenge_Baby,Revenge Baby,Unlocked a new co-player baby.,リベンジベイビーが地下に現れた,Earn all Hard mode Completion Marks as Samson Samson,262,Afterbirth,coop
+Belial_Baby,Belial Baby,Unlocked a new co-player baby.,ベリアルベイビーが地下に現れた,Earn all Hard mode Completion Marks as Judas Judas,263,Afterbirth,coop
+Sale_Baby,Sale Baby,Unlocked a new co-player baby.,セールベイビーが地下に現れた,Earn all Hard mode Completion Marks as Keeper Keeper,264,Afterbirth,coop
+XXXXXXXXL,XXXXXXXXL,Unlocked Challenge #21.,,Defeat Mom,265,Afterbirth,
+SPEED%21,SPEED!,Unlocked Challenge #22.,,Defeat Mom,266,Afterbirth,
+Blue_Bomber,Blue Bomber,Unlocked Challenge #23.,,Destroy 10 Tinted Rocks and defeat Mom's Heart 11 times,267,Afterbirth,
+PAY_TO_PLAY,PAY TO PLAY,Unlocked Challenge #24.,,ケインでIsaacを倒す,268,Afterbirth,
+Have_a_Heart,Have a Heart,Unlocked Challenge #25.,,Defeat Mom,269,Afterbirth,
+I_RULE%21,I RULE!,Unlocked Challenge #26.,,Removed in Repentance Defeat ??? or The Lamb and defeat Satan as Isaac Isaac Defeat Mega Satan,270,Afterbirth,
+BRAINS%21,BRAINS!,Unlocked Challenge #27.,,Isaacを5回倒す,271,Afterbirth,
+PRIDE_DAY%21,PRIDE DAY!,Unlocked Challenge #28.,,Defeat Mom,272,Afterbirth,
+Onan%27s_Streak,Onan's Streak,Unlocked Challenge #29.,,Added in Afterbirth / Removed in Repentance Defeat Mom Mom Unlock Judas Judas and It Lives It Lives.,273,Afterbirth,
+The_Guardian,The Guardian,Unlocked Challenge #30.,,Defeat Mom,274,Afterbirth,
+Generosity,Generosity,If only everyone was as generous as you are...,,Donate 999 Coins to the Greed Donation Machine.png Greed Donation Machine,275,Afterbirth,
+Mega,Mega,Unlocked...,,Defeat Mega Satan as every character (Added in Repentance except Tainted characters),276,Afterbirth,
+Backasswards,Backasswards,Unlocked a new challenge.,,Removed in Repentance Defeat ??? or The Lamb Added in Repentance Defeat Mega Satan,277,Afterbirth †,
+Aprils_fool,Aprils fool,Unlocked a new challenge.,,Defeat Mom,278,Afterbirth †,challenge
+Pokey_Mans,Pokey Mans,Unlocked a new challenge.,,Defeat Mom's Heart 11 times,279,Afterbirth †,challenge
+Ultra_Hard,Ultra Hard,Unlocked a new challenge.,,Removed in Repentance Defeat ??? or The Lamb. Possession of The Polaroid The Polaroid / The Negative The Negative is required / barring getting to Dark Room Dark Room through a Sacrifice Room Sacrifice Room.Added in Repentance Defeat Mega Satan,280,Afterbirth †,challenge
+PONG,PONG,Unlocked a new challenge.,,Isaacを5回倒す,281,Afterbirth †,challenge
+D_Infinity,D Infinity,Unlocked a new item.,,アイザックでDeliriumを倒す,282,Afterbirth †,item
+Eucharist,Eucharist,Unlocked a new item.,,マギーでDeliriumを倒す,283,Afterbirth †,item
+Silver_Dollar,Silver Dollar,Unlocked a new item.,,ケインでDeliriumを倒す,284,Afterbirth †,item
+Shade,Shade,Unlocked a new item.,,ユダでDeliriumを倒す,285,Afterbirth †,item
+King_Baby,King Baby,Unlocked a new co-player baby.,,???でDeliriumを倒す,286,Afterbirth †,coop
+Bloody_Crown,Bloody Crown,Unlocked a new item.,,サムソンでDeliriumを倒す,287,Afterbirth †,item
+Dull_Razor,Dull Razor,Unlocked a new item.,,イブでDeliriumを倒す,288,Afterbirth †,item
+Eden%27s_Soul,Eden's Soul,Unlocked a new item.,,エデンでDeliriumを倒す,289,Afterbirth †,item
+Dark_Prince%27s_Crown,Dark Prince's Crown,Unlocked a new item.,,アザゼルでDeliriumを倒す,290,Afterbirth †,item
+Compound_Fracture,Compound Fracture,Unlocked a new item.,,ラザラスでDeliriumを倒す,291,Afterbirth †,item
+Euthanasia,Euthanasia,Unlocked a new item.,,リリスでDeliriumを倒す,292,Afterbirth †,item
+Holy_Card,Holy Card,Unlocked a new item.,,ザ・ロストでDeliriumを倒す,293,Afterbirth †,item
+Crooked_Penny,Crooked Penny,Unlocked a new item.,,キーパーでDeliriumを倒す,294,Afterbirth †,item
+Void,Void,Unlocked a new item.,,アポリオンでDeliriumを倒す,295,Afterbirth †,item
+D1,D1,Unlocked a new item.,,Defeat Ultra Greedier as Isaac Isaac,296,Afterbirth †,item
+Glyph_of_Balance,Glyph of Balance,Unlocked a new item.,,Defeat Ultra Greedier as Magdalene Magdalene,297,Afterbirth †,item
+Sack_of_Sacks,Sack of Sacks,Unlocked a new item.,,Defeat Ultra Greedier as Cain Cain,298,Afterbirth †,item
+Eye_of_Belial,Eye of Belial,Unlocked a new item.,,Defeat Ultra Greedier as Judas Judas,299,Afterbirth †,item
+Meconium,Meconium,Unlocked a new item.,,Defeat Ultra Greedier as ??? ???,300,Afterbirth †,item
+Stem_Cell,Stem Cell,Unlocked a new item.,,Defeat Ultra Greedier as Samson Samson,301,Afterbirth †,item
+Crow_Heart,Crow Heart,Unlocked a new item.,,Defeat Ultra Greedier as Eve Eve,302,Afterbirth †,item
+Metronome,Metronome,Unlocked a new item.,,Defeat Ultra Greedier as Eden Eden,303,Afterbirth †,item
+Bat_Wing,Bat Wing,Unlocked a new item.,,Defeat Ultra Greedier as Azazel Azazel,304,Afterbirth †,item
+Plan_C,Plan C,Unlocked a new item.,,Defeat Ultra Greedier as Lazarus Lazarus,305,Afterbirth †,item
+Duality,Duality,Unlocked a new item.,,Defeat Ultra Greedier as Lilith Lilith,306,Afterbirth †,item
+Dad%27s_Lost_Coin,Dad's Lost Coin,Unlocked a new item.,,Defeat Ultra Greedier as The Lost The Lost,307,Afterbirth †,item
+Eye_of_Greed,Eye of Greed,Unlocked a new item.,,Defeat Ultra Greedier as Keeper Keeper,308,Afterbirth †,item
+Black_Rune,Black Rune,Unlocked a new item.,,Defeat Ultra Greedier as Apollyon Apollyon,309,Afterbirth †,item
+Locust_of_Wrath,Locust of Wrath,Unlocked a new item.,,アポリオンでIsaacを倒す,310,Afterbirth †,item
+Locust_of_Pestilence,Locust of Pestilence,Unlocked a new item.,,Defeat Satan as Apollyon Apollyon,311,Afterbirth †,item
+Locust_of_Famine,Locust of Famine,Unlocked a new item.,,アポリオンで???を倒す,312,Afterbirth †,item
+Locust_of_Death,Locust of Death,Unlocked a new item.,,Defeat The Lamb as Apollyon Apollyon,313,Afterbirth †,item
+Locust_of_Conquest,Locust of Conquest,Unlocked a new item.,,Complete the Boss Rush Boss Rush as Apollyon Apollyon,314,Afterbirth †,item
+Hushy,Hushy,Unlocked a new item.,,アポリオンでHushを倒す,315,Afterbirth †,item
+Brown_Nugget,Brown Nugget,Unlocked a new item.,,Defeat Ultra Greed as Apollyon Apollyon,316,Afterbirth †,item
+Mort_Baby,Mort Baby,Unlocked a new co-player baby.,,Defeat Mega Satan as Apollyon Apollyon,317,Afterbirth †,coop
+Smelter,Smelter,Unlocked a new item.,,Defeat Mom's Heart or It Lives! on Hard mode as Apollyon Apollyon,318,Afterbirth †,item
+Apollyon_Baby,Apollyon Baby,Unlocked a new co-player baby.,,Earn all Hard mode Completion Marks as Apollyon Apollyon,319,Afterbirth †,coop
+New_Area,New Area,Unlocked a new area.,,Hushを倒す,320,Afterbirth †,
+Once_More_with_Feeling%21,Once More with Feeling!,Unlocked a new item.,,Complete a Victory Lap defeating The Lamb,321,Afterbirth †,item
+Hat_trick%21,Hat trick!,Unlocked a new item.,,Get a 3-win streak,322,Afterbirth †,item
+5_Nights_at_Mom%27s,5 Nights at Mom's,Unlocked super special rocks.,,Get a 5-win streak (Added in Repentance 3-win streak) using a different character each time (Mega Satan victories do not count if the Void portal doesn't spawn),323,Afterbirth †,
+Sin_collector,Sin collector,Unlocked a new item.,,Collect every entry in the Bestiary (bugged v190 - Mobs that don't exist in the bestiary are being counted. This allows Sin Collector to be unlocked without a complete bestiary),324,Afterbirth †,item
+Dedication,Dedication,Unlocked a new item.,,Participate in 31 Daily Challenges (they don't have to be consecutive; it will still count if Isaac dies in the first room),325,Afterbirth †,item
+ZIP%21,ZIP!,Unlocked a new item.,,Defeat The Lamb in under 20 minutes,326,Afterbirth †,item
+It%27s_the_Key,It's the Key,Unlocked a new item.,,Defeat The Lamb without taking Hearts Coins or Bombs through the entire run,327,Afterbirth †,item
+Mr._Resetter%21,Mr. Resetter!,Unlocked a new item.,,Reset 7 times in a row (Switch PS4 Get a minus 10-win streak,328,Afterbirth †,item
+Living_on_the_edge,Living on the edge,Unlocked a new item.,,Complete a Chapter (floors I and II) after Basement Basement start-to-finish with only half a Heart total (can use The Lost The Lost),329,Afterbirth †,item
+U_Broke_It%21,U Broke It!,Unlocked a new item.,,Obtain 50 items in a run (duplicate passive items/familiars count towards the total (e.g.  multiple Breakfast Breakfast),330,Afterbirth †,item
+Laz_Bleeds_More%21,Laz Bleeds More!,Unlocked a new starting item.,,Complete Backasswards (challenge #31),331,Afterbirth †,
+Maggy_Now_Holds_a_Pill%21,Maggy Now Holds a Pill!,Unlocked a new starting item.,,Complete Aprils Fool (challenge #32),332,Afterbirth †,
+Charged_Key,Charged Key,Unlocked a new item.,,Complete Pokey Mans (challenge #33),333,Afterbirth †,item
+Samson_Feels_Healthy%21,Samson Feels Healthy!,Unlocked a new starting item.,,Complete Ultra Hard (challenge #34),334,Afterbirth †,
+Greed%27s_Gullet,Greed's Gullet,Unlocked a new item.,,Complete Pong (challenge #35),335,Afterbirth †,item
+The_Marathon,The Marathon,Unlocked a new item.,,Get a 5-win streak in the Daily Challenges (Added in Repentance Isaac must have a score above 0 on the score screen),336,Afterbirth †,item
+RERUN,RERUN,Unlocked the power of RERUN.,,Complete 3 Victory Laps and start a 4th,337,Afterbirth †,
+Delirious,Delirious,Unlocked a new item.,,Deliriumを倒す,338,Afterbirth †,item
+1000000%25,1000000%,Just Stop!,"1,000,000%とにかく止まれ！",Collect every item in the game /unlock all secrets and endings and complete the Bestiary,339,Afterbirth †,
+Apollyon,Apollyon,Unlocked a new character.,,Defeat Mega Satan,340,Afterbirth †,character
+Greedier%21,Greedier!,New mode unlocked!,,Donate 500 Coins to the Greed Donation Machine.png Greed Donation Machine,341,Afterbirth †,
+Burning_Basement,Burning Basement,Alt stage to the basement.,,Defeat Mom's Heart 11 times,342,Afterbirth †,
+Flooded_Caves,Flooded Caves,Alt stage to the caves.,,Defeat It Lives! 16 times,343,Afterbirth †,
+Dank_Depths,Dank Depths,Alt stage to the depths.,,Defeat It Lives! 21 times,344,Afterbirth †,
+Scarred_Womb,Scarred Womb,Alt stage to the womb.,,Defeat It Lives! 30 times,345,Afterbirth †,
+Something_wicked_this_way_comes%21,Something wicked this way comes!,Unlocked new bosses!,,3キャラクターで???を倒す,346,Afterbirth †,
+Something_wicked_this_way_comes%2B%21,Something wicked this way comes+!,Unlocked even more bosses!,,6キャラクターで???を倒す,347,Afterbirth †,
+The_gate_is_open%21,The gate is open!,Unlocked new enemies!,,Defeat The Lamb,348,Afterbirth †,
+Death%27s_List,Death's List,Unlocked a new item.,,Take 25 Deals with the Devil,376,Afterbirth †,item
+Haemolacria,Haemolacria,Unlocked a new item.,,Acquire Blood Clot Blood Clot 10 times,377,Afterbirth †,item
+Lachryphagy,Lachryphagy,Unlocked a new item.,,"Collect 10 ""Tears Up"" items or pills in one run",378,Afterbirth †,item
+Schoolbag,Schoolbag,Unlocked a new item.,,Enter every Shop Shop from Chapter 1 through Chapter 3 in one run,379,Afterbirth †,item
+Trisagion,Trisagion,Unlocked a new item.,,Take 25 Angel Rooms items,380,Afterbirth †,item
+Extension_Cord,Extension Cord,Unlocked a new item.,,Have The Battery The Battery/ 9 Volt 9 Volt/ and Car Battery Car Battery in Isaac's collection,381,Afterbirth †,item
+Flat_Stone,Flat Stone,Unlocked a new item.,,Acquire Rubber Cement Rubber Cement 5 times,382,Afterbirth †,item
+Sacrificial_Altar,Sacrificial Altar,Unlocked a new item.,,Take 50 Deals with the Devil,383,Afterbirth †,item
+Lil_Spewer,Lil Spewer,Unlocked a new item.,,Have Isaac die to his own explosion from Ipecac Ipecac/ Bob's Rotten Head Bob's Rotten Head/ or a Horf! pill,384,Afterbirth †,item
+Blanket,Blanket,Unlocked a new item.,,Sleep in 10 beds,385,Afterbirth †,item
+Marbles,Marbles,Unlocked a new item.,,Use 5 Gulp! pills in one run (Placebo Placebo uses count),386,Afterbirth †,item
+Mystery_Egg,Mystery Egg,Unlocked a new item.,,Spawn three charmed enemies in the same room,387,Afterbirth †,item
+Rotten_Penny,Rotten Penny,Unlocked a new item.,,Have 20 Blue Flies at the same time,388,Afterbirth †,item
+Baby-Bender,Baby-Bender,Unlocked a new item.,,Use I - The Magician I - The Magician or Telepathy for Dummies Telepathy for Dummies while already having homing tears,389,Afterbirth †,item
+The_Forgotten,The Forgotten,Unlocked a new character.,,It's complicated,390,Afterbirth †,character
+Bone_Heart,Bone Heart,Unlocked a new item.,,It's complicated,391,Afterbirth †,item
+Marrow,Marrow,Unlocked a new item.,,Defeat Mom's Heart or It Lives! on Hard mode as The Forgotten The Forgotten,392,Afterbirth †,item
+Slipped_Rib,Slipped Rib,Unlocked a new item.,,ザ・フォーガットンでIsaacを倒す,393,Afterbirth †,item
+Pointy_Rib,Pointy Rib,Unlocked a new item.,,Defeat Satan as The Forgotten The Forgotten,394,Afterbirth †,item
+Jaw_Bone,Jaw Bone,Unlocked a new item.,,ザ・フォーガットンで???を倒す,395,Afterbirth †,item
+Brittle_Bones,Brittle Bones,Unlocked a new item.,,Defeat The Lamb as The Forgotten The Forgotten,396,Afterbirth †,item
+Divorce_Papers,Divorce Papers,Unlocked a new item.,,Complete the Boss Rush Boss Rush as The Forgotten The Forgotten,397,Afterbirth †,item
+Hallowed_Ground,Hallowed Ground,Unlocked a new item.,,ザ・フォーガットンでHushを倒す,398,Afterbirth †,item
+Finger_Bone,Finger Bone,Unlocked a new item.,,Defeat Ultra Greed as The Forgotten The Forgotten,399,Afterbirth †,item
+Dad%27s_Ring,Dad's Ring,Unlocked a new item.,,Defeat Ultra Greedier as The Forgotten The Forgotten,400,Afterbirth †,item
+Book_of_the_Dead,Book of the Dead,Unlocked a new item.,,ザ・フォーガットンでDeliriumを倒す,401,Afterbirth †,item
+Bone_Baby,Bone Baby,Unlocked a new co-player baby.,,Earn all Hard mode Completion Marks as The Forgotten The Forgotten,402,Afterbirth †,coop
+Bound_Baby,Bound Baby,Unlocked a new co-player baby.,,Defeat Mega Satan as The Forgotten The Forgotten,403,Afterbirth †,coop
+Bethany,Bethany,Beat Hard mode as Lazarus without losing a life,,Defeat Mom's Heart/It Lives! on hard mode as Lazarus Lazarus/ without dying at all,404,Repentance,
+Jacob_and_Esau,Jacob and Esau,You are just like your father...,,Defeat Mother,405,Repentance,
+The_Planetarium,The Planetarium,Kids shouldn't believe in fortunes...,,Collect any 3 items with the 'stars' item tag in a single run,406,Repentance,
+A_Secret_Exit,A Secret Exit,Complete???? 3 times.,,Hushを3回倒す,407,Repentance,
+Forgotten_Lullaby,Forgotten Lullaby,Get that song out of her head.,,Blow up The Siren's skull after defeating her,408,Repentance,
+Fruity_Plum,Fruity Plum,Defeat Baby Plum 10 times.,,Baby Plumを10回倒す,409,Repentance,
+Plum_Flute,Plum Flute,Make a new friend!,,Allow Baby Plum to escape instead of defeating her,410,Repentance,
+Rotten_Heart,Rotten Heart,Enter the Corpse...,,Enter Corpse Corpse for the first time,411,Repentance,
+Dross,Dross,Defeat all bosses in Downpour.,,Downpourのすべてのボスを倒す,412,Repentance,
+Ashpit,Ashpit,Defeat all bosses in the Mines.,,Minesのすべてのボスを倒す,413,Repentance,
+Gehenna,Gehenna,Defeat all bosses in the Mausoleum.,,Mausoleumのすべてのボスを倒す,414,Repentance,
+Red_Key,Red Key,The other side is calling...,,Open Mom's Chest in Home Home,415,Repentance,
+Wisp_Baby,Wisp Baby,Beat the game in Hard mode with Bethany.,,Defeat Mom's Heart or It Lives! on Hard mode as Bethany Bethany,416,Repentance,
+Book_of_Virtues,Book of Virtues,Complete the Cathedral with Bethany.,,ベタニアでIsaacを倒す,417,Repentance,
+Urn_of_Souls,Urn of Souls,Complete Sheol with Bethany.,,Defeat Satan as Bethany Bethany,418,Repentance,
+Blessed_Penny,Blessed Penny,Complete the Chest with Bethany.,,ベタニアで???を倒す,419,Repentance,
+Alabaster_Box,Alabaster Box,Complete the Dark Room with Bethany.,,Defeat The Lamb as Bethany Bethany,420,Repentance,
+Beth%27s_Faith,Beth's Faith,Complete Boss Rush with Bethany.,,Complete the Boss Rush Boss Rush as Bethany Bethany,421,Repentance,
+Soul_Locket,Soul Locket,Beat Greed mode with Bethany.,,Defeat Ultra Greed as Bethany Bethany,422,Repentance,
+Divine_Intervention,Divine Intervention,Complete???? with Bethany.,,ベタニアでHushを倒す,423,Repentance,
+Vade_Retro,Vade Retro,Beat Greedier mode with Bethany.,,Defeat Ultra Greedier as Bethany Bethany,424,Repentance,
+Star_of_Bethlehem,Star of Bethlehem,Beat the Void with Bethany.,,ベタニアでDeliriumを倒す,425,Repentance,
+Hope_Baby,Hope Baby,Beat everything in Hard mode with Bethany.,,Earn all Hard mode Completion Marks as Bethany Bethany,426,Repentance,
+Glowing_Baby,Glowing Baby,Defeat Mega Satan with Bethany.,,Defeat Mega Satan as Bethany Bethany,427,Repentance,
+Double_Baby,Double Baby,Beat the game in Hard mode with Jacob and Esau.,,Defeat Mom's Heart or It Lives! on Hard mode as Jacob and Esau Jacob and Esau,428,Repentance,
+The_Stairway,The Stairway,Complete the Cathedral with Jacob and Esau.,,ヤコブ＆エサウでIsaacを倒す,429,Repentance,
+Red_Stew,Red Stew,Complete Sheol with Jacob and Esau.,,Defeat Satan as Jacob and Esau Jacob and Esau,430,Repentance,
+Birthright,Birthright,Complete the Chest with Jacob and Esau.,,ヤコブ＆エサウで???を倒す,431,Repentance,
+Damocles,Damocles,Complete the Dark Room with Jacob and Esau.,,Defeat The Lamb as Jacob and Esau Jacob and Esau,432,Repentance,
+Rock_Bottom,Rock Bottom,Complete Boss Rush with Jacob and Esau.,,Complete Boss Rush Boss Rush as Jacob and Esau Jacob and Esau,433,Repentance,
+Inner_Child,Inner Child,Beat Greed mode with Jacob and Esau.,,Defeat Ultra Greed as Jacob and Esau Jacob and Esau,434,Repentance,
+Vanishing_Twin,Vanishing Twin,Complete???? with Jacob and Esau.,,ヤコブ＆エサウでHushを倒す,435,Repentance,
+Genesis,Genesis,Beat Greedier mode with Jacob and Esau.,,Defeat Ultra Greedier as Jacob and Esau Jacob and Esau,436,Repentance,
+Suplex%21,Suplex!,Complete the Void with Jacob and Esau.,,ヤコブ＆エサウでDeliriumを倒す,437,Repentance,
+Solomon%27s_Baby,Solomon's Baby,Beat everything in Hard mode with Jacob and Esau.,,Earn all Hard mode Completion Marks as Jacob and Esau Jacob and Esau,438,Repentance,
+Illusion_Baby,Illusion Baby,Defeat Mega Satan with Jacob and Esau.,,Defeat Mega Satan as Jacob and Esau Jacob and Esau,439,Repentance,
+Meat_Cleaver,Meat Cleaver,Complete the Corpse with Isaac.,,Defeat Mother as Isaac Isaac,440,Repentance,
+Options%3F,Options?,Complete the final chapter with Isaac.,,Defeat The Beast as Isaac Isaac,441,Repentance,
+Yuck_Heart,Yuck Heart,Complete the Corpse with Magdalene.,,Defeat Mother as Magdalene Magdalene,442,Repentance,
+Candy_Heart,Candy Heart,Complete the final chapter with Magdalene.,,Defeat The Beast as Magdalene Magdalene,443,Repentance,
+Guppy%27s_Eye,Guppy's Eye,Complete the Corpse with Cain.,,Defeat Mother as Cain Cain,444,Repentance,
+A_Pound_of_Flesh,A Pound of Flesh,Complete the final chapter with Cain.,,Defeat The Beast as Cain Cain,445,Repentance,
+Akeldama,Akeldama,Complete the Corpse with Judas.,,Defeat Mother as Judas Judas,446,Repentance,
+Redemption,Redemption,Complete the final chapter with Judas.,,Defeat The Beast as Judas Judas,447,Repentance,
+Eternal_D6,Eternal D6,Complete the Corpse with????.,,Defeat Mother as ??? ???,448,Repentance,
+Montezuma%27s_Revenge,Montezuma's Revenge,Complete the final chapter with????.,,Defeat The Beast as ??? ???,449,Repentance,
+Bird_Cage,Bird Cage,Complete the Corpse with Eve.,,Defeat Mother as Eve Eve,450,Repentance,
+Cracked_Orb,Cracked Orb,Complete the final chapter with Eve.,,Defeat The Beast as Eve Eve,451,Repentance,
+Bloody_Gust,Bloody Gust,Complete the Corpse with Samson.,,Defeat Mother as Samson Samson,452,Repentance,
+Empty_Heart,Empty Heart,Complete the final chapter with Samson.,,Defeat The Beast as Samson Samson,453,Repentance,
+Devil%27s_Crown,Devil's Crown,Complete the Corpse with Azazel.,,Defeat Mother as Azazel Azazel,454,Repentance,
+Lil_Abaddon,Lil Abaddon,Complete the final chapter with Azazel.,,Defeat The Beast as Azazel Azazel,455,Repentance,
+Tinytoma,Tinytoma,Complete the Corpse with Lazarus.,,Defeat Mother as Lazarus Lazarus,456,Repentance,
+Astral_Projection,Astral Projection,Complete the final chapter with Lazarus.,,Defeat The Beast as Lazarus Lazarus,457,Repentance,
+M,M,Complete the Corpse with Eden.,,Defeat Mother as Eden Eden,458,Repentance,
+Everything_Jar,Everything Jar,Complete the final chapter with Eden.,,Defeat The Beast as Eden Eden,459,Repentance,
+Lost_Soul,Lost Soul,Complete the Corpse with the Lost.,,Defeat Mother as The Lost The Lost,460,Repentance,
+Hungry_Soul,Hungry Soul,Complete the final chapter with the Lost.,,Defeat The Beast as The Lost The Lost,461,Repentance,
+Blood_Puppy,Blood Puppy,Complete the Corpse with Lilith.,,Defeat Mother as Lilith Lilith,462,Repentance,
+C_Section,C Section,Complete the final chapter with Lilith.,,Defeat The Beast as Lilith Lilith,463,Repentance,
+Keeper%27s_Sack,Keeper's Sack,Complete the Corpse with Keeper.,,Defeat Mother as Keeper Keeper,464,Repentance,
+Keeper%27s_Box,Keeper's Box,Complete the final chapter with Keeper.,,Defeat The Beast as Keeper Keeper,465,Repentance,
+Lil_Portal,Lil Portal,Complete the Corpse with Apollyon.,,Defeat Mother as Apollyon Apollyon,466,Repentance,
+Worm_Friend,Worm Friend,Complete the final chapter with Apollyon.,,Defeat The Beast as Apollyon Apollyon,467,Repentance,
+Bone_Spurs,Bone Spurs,Complete the Corpse with the Forgotten.,,Defeat Mother as The Forgotten The Forgotten,468,Repentance,
+Spirit_Shackles,Spirit Shackles,Complete the final chapter with the Forgotten.,,Defeat The Beast as The Forgotten The Forgotten,469,Repentance,
+Revelation,Revelation,Complete the Corpse with Bethany.,,Defeat Mother as Bethany Bethany,470,Repentance,
+Jar_of_Wisps,Jar of Wisps,Complete the final chapter with Bethany.,,Defeat The Beast as Bethany Bethany,471,Repentance,
+Magic_Skin,Magic Skin,Complete the Corpse with Jacob and Esau.,,Defeat Mother as Jacob and Esau Jacob and Esau,472,Repentance,
+Friend_Finder,Friend Finder,Complete the final chapter with Jacob and Esau.,,Defeat The Beast as Jacob and Esau Jacob and Esau,473,Repentance,
+The_Broken,The Broken,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Isaac Isaac,474,Repentance,
+The_Dauntless,The Dauntless,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Magdalene Magdalene,475,Repentance,
+The_Hoarder,The Hoarder,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Cain Cain,476,Repentance,
+The_Deceiver,The Deceiver,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Judas Judas,477,Repentance,
+The_Soiled,The Soiled,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as ??? ???,478,Repentance,
+The_Curdled,The Curdled,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Eve Eve,479,Repentance,
+The_Savage,The Savage,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Samson Samson,480,Repentance,
+The_Benighted,The Benighted,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Azazel Azazel,481,Repentance,
+The_Enigma,The Enigma,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Lazarus Lazarus,482,Repentance,
+The_Capricious,The Capricious,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Eden Eden,483,Repentance,
+The_Baleful,The Baleful,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as The Lost The Lost,484,Repentance,
+The_Harlot,The Harlot,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Lilith Lilith,485,Repentance,
+The_Miser,The Miser,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Keeper Keeper,486,Repentance,
+The_Empty,The Empty,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Apollyon Apollyon,487,Repentance,
+The_Fettered,The Fettered,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as The Forgotten The Forgotten,488,Repentance,
+The_Zealot,The Zealot,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Bethany Bethany,489,Repentance,
+The_Deserter,The Deserter,???,,Use Red Key Red Key (etc.) to open the hidden closet in Home Home as Jacob and Esau Jacob and Esau,490,Repentance,
+Glitched_Crown,Glitched Crown,???,,Defeat The Beast as Tainted Isaac Tainted Isaac,491,Repentance,
+Belly_Jelly,Belly Jelly,???,,Defeat The Beast as Tainted Magdalene Tainted Magdalene,492,Repentance,
+Blue_Key,Blue Key,???,,Defeat The Beast as Tainted Cain Tainted Cain,493,Repentance,
+Sanguine_Bond,Sanguine Bond,???,,Defeat The Beast as Tainted Judas Tainted Judas,494,Repentance,
+The_Swarm,The Swarm,???,,Defeat The Beast as Tainted ??? Tainted????,495,Repentance,
+Heartbreak,Heartbreak,???,,Defeat The Beast as Tainted Eve Tainted Eve,496,Repentance,
+Larynx,Larynx,???,,Defeat The Beast as Tainted Samson Tainted Samson,497,Repentance,
+Azazel%27s_Rage,Azazel's Rage,???,,Defeat The Beast as Tainted Azazel Tainted Azazel,498,Repentance,
+Salvation,Salvation,???,,Defeat The Beast as Tainted Lazarus Tainted Lazarus,499,Repentance,
+TMTRAINER,TMTRAINER,???,,Defeat The Beast as Tainted Eden Tainted Eden,500,Repentance,
+Sacred_Orb,Sacred Orb,???,,Defeat The Beast as Tainted Lost Tainted Lost,501,Repentance,
+Twisted_Pair,Twisted Pair,???,,Defeat The Beast as Tainted Lilith Tainted Lilith,502,Repentance,
+Strawman,Strawman,???,,Defeat The Beast as Tainted Keeper Tainted Keeper,503,Repentance,
+Echo_Chamber,Echo Chamber,???,,Defeat The Beast as Tainted Apollyon Tainted Apollyon,504,Repentance,
+Isaac%27s_Tomb,Isaac's Tomb,???,,Defeat The Beast as Tainted Forgotten Tainted Forgotten,505,Repentance,
+Vengeful_Spirit,Vengeful Spirit,???,,Defeat The Beast as Tainted Bethany Tainted Bethany,506,Repentance,
+Esau_Jr.,Esau Jr.,???,,Defeat The Beast as Tainted Jacob Tainted Jacob,507,Repentance,
+Bloody_Mary,Bloody Mary,Unlocked a new challenge.,,Unlock Bethany Bethany/ Blood Bag Blood Bag/ and It Lives!,508,Repentance,challenge
+Baptism_by_Fire,Baptism by Fire,Unlocked a new challenge.,,Defeat Satan as Bethany Bethany/ defeat Mom's Heart 11 times/and unlock Maggy's Faith Maggy's Faith,509,Repentance,challenge
+Isaac%27s_Awakening,Isaac's Awakening,Unlocked a new challenge.,,Defeat Mother,510,Repentance,challenge
+Seeing_Double,Seeing Double,Unlocked a new challenge.,,Defeat Mother,511,Repentance,challenge
+Pica_Run,Pica Run,Unlocked a new challenge.,,Defeat Mom's Heart 11 times and unlock Marbles Marbles,512,Repentance,challenge
+Hot_Potato,Hot Potato,Unlocked a new challenge.,,Unlock Tainted Forgotten Tainted Forgotten,513,Repentance,challenge
+Cantripped%21,Cantripped!,Unlocked a new challenge.,,Unlock Tainted Cain Tainted Cain,514,Repentance,challenge
+Red_Redemption,Red Redemption,Unlocked a new challenge.,,Unlock Tainted Jacob Tainted Jacob,515,Repentance,challenge
+DELETE_THIS,DELETE THIS,TODO: remove this achievement,,Unlock Tainted Eden Tainted Eden,516,Repentance,
+Dirty_Mind,Dirty Mind,Complete Challenge 36.,,Complete Scat Man (challenge #36),517,Repentance,
+Sigil_of_Baphomet,Sigil of Baphomet,Complete Challenge 37.,,Complete Bloody Mary (challenge #37),518,Repentance,
+Purgatory,Purgatory,Complete Challenge 38.,,Complete Baptism by Fire (challenge #38),519,Repentance,
+Spirit_Sword,Spirit Sword,Complete Challenge 39.,,Complete Isaac's Awakening (challenge #39),520,Repentance,
+Broken_Glasses,Broken Glasses,Complete Challenge 40.,,Complete Seeing Double (challenge #40),521,Repentance,
+Ice_Cube,Ice Cube,Complete Challenge 41.,,Complete Pica Run (challenge #41),522,Repentance,
+Charged_Penny,Charged Penny,They will charge you up... for a small fee.,,Donate to Battery Bums until they pay out with an item 5 times,523,Repentance,
+The_Fool,The Fool,???,,Defeat Ultra Greedier as Tainted Lost Tainted Lost,524,Repentance,
+The_Magician,The Magician,???,,Defeat Ultra Greedier as Tainted Judas Tainted Judas,525,Repentance,
+The_High_Priestess,The High Priestess,???,,Defeat Ultra Greedier as Tainted Lilith Tainted Lilith,526,Repentance,
+The_Empress,The Empress,???,,Defeat Ultra Greedier as Tainted Eve Tainted Eve,527,Repentance,
+The_Emperor,The Emperor,???,,Defeat Ultra Greedier as Tainted ??? Tainted????,528,Repentance,
+The_Hierophant,The Hierophant,???,,Defeat Ultra Greedier as Tainted Bethany Tainted Bethany,529,Repentance,
+The_Lovers,The Lovers,???,,Defeat Ultra Greedier as Tainted Magdalene Tainted Magdalene,530,Repentance,
+The_Chariot,The Chariot,Complete Challenge 42.,,Complete Hot Potato (challenge #42),531,Repentance,
+Justice,Justice,Complete Challenge 43.,,Complete Cantripped (challenge #43),532,Repentance,
+The_Hermit,The Hermit,Complete Challenge 44.,,Complete Red Redemption (challenge #44),533,Repentance,
+Wheel_of_Fortune,Wheel of Fortune,???,,Defeat Ultra Greedier as Tainted Cain Tainted Cain,534,Repentance,
+Strength,Strength,???,,Defeat Ultra Greedier as Tainted Samson Tainted Samson,535,Repentance,
+The_Hanged_Man,The Hanged Man,???,,Defeat Ultra Greedier as Tainted Keeper Tainted Keeper,536,Repentance,
+Death,Death,???,,Defeat Ultra Greedier as Tainted Forgotten Tainted Forgotten,537,Repentance,
+Temperance,Temperance,INVALID_DESCRIPTION,,Complete DELETE THIS (challenge #45),538,Repentance,
+The_Devil,The Devil,???,,Defeat Ultra Greedier as Tainted Azazel Tainted Azazel,539,Repentance,
+The_Tower,The Tower,???,,Defeat Ultra Greedier as Tainted Apollyon Tainted Apollyon,540,Repentance,
+The_Stars,The Stars,???,,Defeat Ultra Greedier as Tainted Isaac Tainted Isaac,541,Repentance,
+The_Sun_and_the_Moon,The Sun and the Moon,???,,Defeat Ultra Greedier as Tainted Jacob Tainted Jacob,542,Repentance,
+Judgement,Judgement,???,,Defeat Ultra Greedier as Tainted Lazarus Tainted Lazarus,543,Repentance,
+The_World,The World,???,,Defeat Ultra Greedier as Tainted Eden Tainted Eden,544,Repentance,
+Old_Capacitor,Old Capacitor,Kill 10 Battery Bums.,,Kill 10 Battery Bums,545,Repentance,
+Brimstone_Bombs,Brimstone Bombs,Kill Hornfel before he escapes!,,After breaking Hornfel's minecart. kill him before he can escape,546,Repentance,
+Mega_Mush,Mega Mush,Beat everything in Hard Mode as every character.,,Earn all Hard mode Completion Marks for all non-Tainted characters,547,Repentance,
+Mom%27s_Lock,Mom's Lock,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Isaac Tainted Isaac,548,Repentance,
+Dice_Bag,Dice Bag,???,,Defeat Mother as Tainted Isaac Tainted Isaac,549,Repentance,
+Holy_Crown,Holy Crown,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Magdalene Tainted Magdalene,550,Repentance,
+Mother%27s_Kiss,Mother's Kiss,???,,Defeat Mother as Tainted Magdalene Tainted Magdalene,551,Repentance,
+Gilded_Key,Gilded Key,???,,Defeat Isaac/???/Satan/and The Lamb as Tainted Cain Tainted Cain,552,Repentance,
+Lucky_Sack,Lucky Sack,???,,Defeat Mother as Tainted Cain Tainted Cain,553,Repentance,
+Your_Soul,Your Soul,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Judas Tainted Judas,554,Repentance,
+Number_Magnet,Number Magnet,???,,Defeat Mother as Tainted Judas Tainted Judas,555,Repentance,
+Dingle_Berry,Dingle Berry,???,,Defeat Isaac/???/Satan and The Lamb as Tainted ??? Tainted????,556,Repentance,
+Ring_Cap,Ring Cap,???,,Defeat Mother as Tainted ??? Tainted????,557,Repentance,
+Strange_Key,Strange Key,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Eve Tainted Eve,558,Repentance,
+Lil_Clot,Lil Clot,???,,Defeat Mother as Tainted Eve Tainted Eve,559,Repentance,
+Temporary_Tattoo,Temporary Tattoo,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Samson Tainted Samson,560,Repentance,
+Swallowed_M80,Swallowed M80,???,,Defeat Mother as Tainted Samson Tainted Samson,561,Repentance,
+Wicked_Crown,Wicked Crown,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Azazel Tainted Azazel,562,Repentance,
+Azazel%27s_Stump,Azazel's Stump,???,,Defeat Mother as Tainted Azazel Tainted Azazel,563,Repentance,
+Torn_Pocket,Torn Pocket,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Lazarus Tainted Lazarus,564,Repentance,
+Torn_Card,Torn Card,???,,Defeat Mother as Tainted Lazarus Tainted Lazarus,565,Repentance,
+Nuh_Uh%21,Nuh Uh!,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Eden Tainted Eden,566,Repentance,
+Modeling_Clay,Modeling Clay,???,,Defeat Mother as Tainted Eden Tainted Eden,567,Repentance,
+Kid%27s_Drawing,Kid's Drawing,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Lost Tainted Lost,568,Repentance,
+Crystal_Key,Crystal Key,???,,Defeat Mother as Tainted Lost Tainted Lost,569,Repentance,
+The_Twins,The Twins,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Lilith Tainted Lilith,570,Repentance,
+Adoption_Papers,Adoption Papers,???,,Defeat Mother as Tainted Lilith Tainted Lilith,571,Repentance,
+Keeper%27s_Bargain,Keeper's Bargain,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Keeper Tainted Keeper,572,Repentance,
+Cursed_Penny,Cursed Penny,???,,Defeat Mother as Tainted Keeper Tainted Keeper,573,Repentance,
+Cricket_Leg,Cricket Leg,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Apollyon Tainted Apollyon,574,Repentance,
+Apollyon%27s_Best_Friend,Apollyon's Best Friend,???,,Defeat Mother as Tainted Apollyon Tainted Apollyon,575,Repentance,
+Polished_Bone,Polished Bone,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Forgotten Tainted Forgotten,576,Repentance,
+Hollow_Heart,Hollow Heart,???,,Defeat Mother as Tainted Forgotten Tainted Forgotten,577,Repentance,
+Expansion_Pack,Expansion Pack,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Bethany Tainted Bethany,578,Repentance,
+Beth%27s_Essence,Beth's Essence,???,,Defeat Mother as Tainted Bethany Tainted Bethany,579,Repentance,
+RC_Remote,RC Remote,???,,Defeat Isaac/???/Satan and The Lamb as Tainted Jacob Tainted Jacob,580,Repentance,
+Found_Soul,Found Soul,???,,Defeat Mother as Tainted Jacob Tainted Jacob,581,Repentance,
+Member_Card,Member Card,Spend 40+ pennies in a single shop.,,Spend 40+ coins in a single Shop Shop,582,Repentance,
+Golden_Razor,Golden Razor,Obtain 99 pennies. Then spend every single one of them.,,In a single run obtain 99 Coins then spend all of them,583,Repentance,
+Spindown_Dice,Spindown Dice,???,,汚染されたアイザックでDeliriumを倒す,584,Repentance,
+Hypercoagulation,Hypercoagulation,???,,汚染されたマギーでDeliriumを倒す,585,Repentance,
+Bag_of_Crafting,Bag of Crafting,???,,汚染されたケインでDeliriumを倒す,586,Repentance,
+Dark_Arts,Dark Arts,???,,汚染されたユダでDeliriumを倒す,587,Repentance,
+IBS,IBS,???,,汚染された???でDeliriumを倒す,588,Repentance,
+Sumptorium,Sumptorium,???,,汚染されたイブでDeliriumを倒す,589,Repentance,
+Berserk%21,Berserk!,???,,汚染されたサムソンでDeliriumを倒す,590,Repentance,
+Hemoptysis,Hemoptysis,???,,汚染されたアザゼルでDeliriumを倒す,591,Repentance,
+Flip,Flip,???,,汚染されたラザラスでDeliriumを倒す,592,Repentance,
+Corrupted_Data,Corrupted Data,???,,汚染されたエデンでDeliriumを倒す,593,Repentance,
+Ghost_Bombs,Ghost Bombs,???,,汚染されたロストでDeliriumを倒す,594,Repentance,
+Gello,Gello,???,,汚染されたリリスでDeliriumを倒す,595,Repentance,
+Keeper%27s_Kin,Keeper's Kin,???,,汚染されたキーパーでDeliriumを倒す,596,Repentance,
+Abyss,Abyss,???,アビスが地下に現れた,汚染されたアポリオンでDeliriumを倒す,597,Repentance,
+Decap_Attack,Decap Attack,???,,汚染されたザ・フォーガットンでDeliriumを倒す,598,Repentance,
+Lemegeton,Lemegeton,???,,汚染されたベタニアでDeliriumを倒す,599,Repentance,
+Anima_Sola,Anima Sola,???,,汚染されたヤコブでDeliriumを倒す,600,Repentance,
+Mega_Chest,Mega Chest,???,,Defeat Mega Satan as Tainted Isaac Tainted Isaac,601,Repentance,
+Queen_of_Hearts,Queen of Hearts,???,,Defeat Mega Satan as Tainted Magdalene Tainted Magdalene,602,Repentance,
+Gold_Pill,Gold Pill,???,,Defeat Mega Satan as Tainted Cain Tainted Cain,603,Repentance,
+Black_Sack,Black Sack,???,,Defeat Mega Satan as Tainted Judas Tainted Judas,604,Repentance,
+Charming_Poop,Charming Poop,???,,Defeat Mega Satan as Tainted ??? Tainted????,605,Repentance,
+Horse_Pill,Horse Pill,???,,Defeat Mega Satan as Tainted Eve Tainted Eve,606,Repentance,
+Crane_Game,Crane Game,???,,Defeat Mega Satan as Tainted Samson Tainted Samson,607,Repentance,
+Hell_Game,Hell Game,???,,Defeat Mega Satan as Tainted Azazel Tainted Azazel,608,Repentance,
+Wooden_Chest,Wooden Chest,???,,Defeat Mega Satan as Tainted Lazarus Tainted Lazarus,609,Repentance,
+Wild_Card,Wild Card,???,,Defeat Mega Satan as Tainted Eden Tainted Eden,610,Repentance,
+Haunted_Chest,Haunted Chest,???,,Defeat Mega Satan as Tainted Lost Tainted Lost,611,Repentance,
+Fool%27s_Gold,Fool's Gold,???,,Defeat Mega Satan as Tainted Lilith Tainted Lilith,612,Repentance,
+Golden_Penny,Golden Penny,???,,Defeat Mega Satan as Tainted Keeper Tainted Keeper,613,Repentance,
+Rotten_Beggar,Rotten Beggar,???,,Defeat Mega Satan as Tainted Apollyon Tainted Apollyon,614,Repentance,
+Golden_Battery,Golden Battery,???,,Defeat Mega Satan as Tainted Forgotten Tainted Forgotten,615,Repentance,
+Confessional,Confessional,???,,Defeat Mega Satan as Tainted Bethany Tainted Bethany,616,Repentance,
+Golden_Trinket,Golden Trinket,???,,Defeat Mega Satan as Tainted Jacob Tainted Jacob,617,Repentance,
+Soul_of_Isaac,Soul of Isaac,???,,汚染されたアイザックでHushを倒す、及びボスラッシュをクリアする,618,Repentance,
+Soul_of_Magdalene,Soul of Magdalene,???,,汚染されたマギーでHushを倒す、及びボスラッシュをクリアする,619,Repentance,
+Soul_of_Cain,Soul of Cain,???,,汚染されたケインでHushを倒す、及びボスラッシュをクリアする,620,Repentance,
+Soul_of_Judas,Soul of Judas,???,,汚染されたユダでHushを倒す、及びボスラッシュをクリアする,621,Repentance,
+Soul_of_%3F%3F%3F,Soul of????,???,,汚染された???でHushを倒す、及びボスラッシュをクリアする,622,Repentance,
+Soul_of_Eve,Soul of Eve,???,,汚染されたイブでHushを倒す、及びボスラッシュをクリアする,623,Repentance,
+Soul_of_Samson,Soul of Samson,???,,汚染されたサムソンでHushを倒す、及びボスラッシュをクリアする,624,Repentance,
+Soul_of_Azazel,Soul of Azazel,???,,汚染されたアザゼルでHushを倒す、及びボスラッシュをクリアする,625,Repentance,
+Soul_of_Lazarus,Soul of Lazarus,???,,汚染されたラザラスでHushを倒す、及びボスラッシュをクリアする,626,Repentance,
+Soul_of_Eden,Soul of Eden,???,,汚染されたエデンでHushを倒す、及びボスラッシュをクリアする,627,Repentance,
+Soul_of_the_Lost,Soul of the Lost,???,,汚染されたロストでHushを倒す、及びボスラッシュをクリアする,628,Repentance,
+Soul_of_Lilith,Soul of Lilith,???,,汚染されたリリスでHushを倒す、及びボスラッシュをクリアする,629,Repentance,
+Soul_of_the_Keeper,Soul of the Keeper,???,,汚染されたキーパーでHushを倒す、及びボスラッシュをクリアする,630,Repentance,
+Soul_of_Apollyon,Soul of Apollyon,???,,汚染されたでアポリオンを倒す、及びボスラッシュをクリアする,631,Repentance,
+Soul_of_the_Forgotten,Soul of the Forgotten,???,,汚染されたフォーガットンでHushを倒す、及びボスラッシュをクリアする,632,Repentance,
+Soul_of_Bethany,Soul of Bethany,???,,汚染されたベタニアでHushを倒す、及びボスラッシュをクリアする,633,Repentance,
+Soul_of_Jacob_and_Esau,Soul of Jacob and Esau,???,,汚染されたヤコブでHushを倒す、及びボスラッシュをクリアする,634,Repentance,
+A_Strange_Door,A Strange Door,Where could it lead to?,,Defeat Mother,635,Repentance,
+Death_Certificate,Death Certificate,...,,Earn all Hard mode Completion Marks for all characters (including tainted ones),636,Repentance,
+Dead_God,Dead God,,,Unlock all the other achievements and collect every item in the game,637,Repentance,
+Black_Hole,Black Hole,Unlocked a new item.,,Portalを20体倒す,349PS4?340,Afterbirth †,item
+Mystery_Gift,Mystery Gift,Unlocked a new item.,,Destroy 500 rocks,350PS4?341,Afterbirth †,item
+Sprinkler,Sprinkler,Unlocked a new item.,,Beat Chapter 1 without taking damage,351PS4?342,Afterbirth †,item
+Angry_Fly,Angry Fly,Unlocked a new item.,,Become Beelzebub,352PS4?343,Afterbirth †,item
+Bozo,Bozo,Unlocked a new item.,,Destroy 5 rainbow poops,353PS4?344,Afterbirth †,item
+Broken_Modem,Broken Modem,Unlocked a new item.,,Complete 7 Daily Challenges (by touching the trophy at the end),354PS4?345,Afterbirth †,item
+Buddy_in_a_Box,Buddy in a Box,Unlocked a new item.,,Pick up 5 familiars in a single run,355PS4?346,Afterbirth †,item
+Fast_Bombs,Fast Bombs,Unlocked a new item.,,Defeat Little Horn 20 times,356PS4?347,Afterbirth †,item
+Lil_Delirium,Lil Delirium,Unlocked a new item.,,Deliriumを初めて倒す,357PS4?348,Afterbirth †,item
+Hairpin,Hairpin,Unlocked a new item.,,Recharge using Lil' Batteries 20 times,358PS4?349,Afterbirth †,item
+Wooden_Cross,Wooden Cross,Unlocked a new item.,,Sleep in a bed,359PS4?350,Afterbirth †,item
+Butter%21,Butter!,Unlocked a new item.,,Complete 2 Victory Laps and start a 3rd,360PS4?351,Afterbirth †,item
+Huge_Growth,Huge Growth,Unlocked a new item.,,"Increase in size 5 times in a single run via Magic Mushroom Magic Mushroom ""One makes you larger"" pills/XI - Strength XI - Strength/ etc.",361PS4?352,Afterbirth †,item
+Ancient_Recall,Ancient Recall,Unlocked a new item.,,Use Cards and Runes 20 times,362PS4?353,Afterbirth †,item
+Era_Walk,Era Walk,Unlocked a new item.,,Add both the Broken Watch Broken Watch and the Stop Watch Stop Watch to your collection,363PS4?354,Afterbirth †,item
+Coupon,Coupon,Unlocked a new item.,,Purchase anything from Shop Shops/ Devil Room Devil Rooms and/or Black Market Black Markets 50 times,364PS4?355,Afterbirth †,item
+Telekinesis,Telekinesis,Unlocked a new item.,,Beat Chapter 2 without taking damage,365PS4?356,Afterbirth †,item
+Moving_Box,Moving Box,Unlocked a new item.,,Use Pandora's Box Pandora's Box in Dark Room Dark Room,366PS4?357,Afterbirth †,item
+Jumper_Cables,Jumper Cables,Unlocked a new item.,,Pick up any 2 of the following items/trinkets in a single run: 9 Volt 9 Volt/ The Battery The Battery/ Car Battery Car Battery/ AAA Battery AAA Battery/ and Watch Battery Watch Battery (Added in Repentance Any 2 items that have the 'battery' item ta,367PS4?358,Afterbirth †,item
+Leprosy,Leprosy,Unlocked a new item.,,Beat Chapter 3 without taking damage,368PS4?359,Afterbirth †,item
+Technology_Zero,Technology Zero,Unlocked a new item.,,Pick up any 2 technology items in a single run (Added in Repentance Any 2 items that have the 'tech' item tag),369PS4?360,Afterbirth †,item
+Filigree_Feather,Filigree Feather,Unlocked a new item.,,Acquire both Key Piece 1 Key Piece 1 and Key Piece 2 Key Piece 2,370PS4?361,Afterbirth †,item
+Mr._ME%21,Mr. ME!,Unlocked a new item.,,Open 20 Locked Chests,371PS4?362,Afterbirth †,item
+7_Seals,7 Seals,Unlocked a new item.,7つの封印が地下に現れた,すべて（全5種）のHarbingersを倒す,372PS4?363,Afterbirth †,item
+Angelic_Prism,Angelic Prism,Unlocked a new item.,,Angelを10回倒す,373PS4?364,Afterbirth †,item
+Pop%21,Pop!,Unlocked a new item.,,Beat Chapter 4 without taking damage,374PS4?365,Afterbirth †,item
+Door_Stop,Door Stop,Unlocked a new item.,,Blow up doors and Secret Room Secret Room walls 50 times,375PS4?366,Afterbirth †,item
