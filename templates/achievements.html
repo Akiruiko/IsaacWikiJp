@@ -1,0 +1,80 @@
+{% extends "page.html" %}
+{% block extra_head %}
+<link rel="stylesheet" href="{{ get_url(path="stat.css", trailing_slash=false) }}">
+{% endblock extra_head %}
+{% block content %}
+
+<h3>実績 - Achievements</h3>
+<h4>Steam版の実績を元に記載してあります。（他ハードでも実績解除方法は同じです）</h4>
+<h4>※このページはネタバレを多く含みます</h4>
+<br />
+  {% set data = load_data(path = "static/achievements.csv", format = "csv") %}
+  <div class="achivementsTable-w">
+  <table id="achievementTable" class="achivementsTable table">
+    <thead>
+      <tr>
+        {% for header in data.headers %}
+          {% if loop.first %}
+            <th>画像</th>
+          {% elif loop.index == 3 %}
+            <th>
+              {{header}}<br />
+          {% elif loop.index == 4 %}
+              {{header}}</th>
+          {% elif loop.index > 7 %}
+          {% else %}
+            <th>{{header}}</th>
+          {% endif %}
+        {% endfor %}
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for record in data.records %}
+        {% set_global norm_name = record[0] %}
+        {% set_global type = record[7] %}
+        <tr>
+          {% for cell in record %}
+            {% if loop.first %}
+              <td>
+                <a href="/wiki/{{norm_name}}"><img src="/image/achievements/{{norm_name}}.png" loading="lazy"></a>
+              </td>
+            {% elif loop.index == 2 %}
+              <td>
+                {% if type == "character" or type == "item" %}
+                    <a href="/wiki/{{norm_name}}">{{cell}}</a>
+                {% else %}
+                    {{cell}}
+                {% endif %}
+              </td>
+            {% elif loop.index == 3 %}
+              <td>
+                {{cell}}<br />
+            {% elif loop.index == 4 %}
+                {{cell}}</td>
+            {% elif loop.index > 7 %}
+            {% else %}
+              <td>{{cell}}</td>
+            {% endif %}
+          {% endfor %}
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  </div>
+
+  <script>
+    $(function () {
+      $('.table').tablesorter({
+        textExtraction: function (node) {
+          var attr = $(node).attr('data-value');
+          if (typeof attr !== 'undefined' && attr !== false) {
+            return attr;
+          }
+          return $(node).text();
+        }
+      });
+    });
+  </script>
+
+{% endblock %}
