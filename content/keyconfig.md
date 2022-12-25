@@ -6,7 +6,9 @@ page_template = "page.html"
 
 ## 操作方法
 
-画像はデフォルト設定で、PC(Steam) 版準拠です。
+画像はデフォルト設定です。  
+日本版Repentance（Switch、PS4）のリセット方法は**Lスティック、Rスティック、L、R同時押し**になっています。
+
 
 ### キーボード
 
@@ -24,8 +26,6 @@ page_template = "page.html"
 
 ![Switch](/image/sites/Procon.png)
 
-※ DUALSHOCK は、株式会社ソニー・インタラクティブエンタテインメントの登録商標または商標です。
-
-※ Nintendo Switch は、任天堂の商標です。
-
+※ DUALSHOCK は、株式会社ソニー・インタラクティブエンタテインメントの登録商標または商標です。  
+※ Nintendo Switch は、任天堂の商標です。  
 ※ Xbox は、米国 Microsoft Corporation の米国およびその他の国における登録商標または商標です。
