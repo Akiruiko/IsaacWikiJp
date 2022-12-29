@@ -2,7 +2,7 @@
 +++
 
  # ヤコブ & エサウ　(Jacob & Esau)
- ![image](/image/characters/Jacob.png)  ![image](/image/characters/Esau.png) 
+ ![image](/image/characters/Jacob.png)
 
 ステータス
 -------
