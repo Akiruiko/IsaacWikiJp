@@ -30,7 +30,7 @@ Mr._Mega,Mr. Mega,Unlocked a new item.,ミスターメガが地下に現れた,�
 The_D6,The D6,Isaac now holds the D6!,,？？？でIsaacを倒す,29,Rebirth,,The_D6
 The_Scissors,The Scissors,Unlocked a new item.,,100回死ぬ,30,Rebirth,item,The_Scissors
 The_Parasite,The Parasite,Unlocked a new item.,パラサイトが地下に現れた,１度のプレイで Bob's Rotten HeadかDead CatかCricket's HeadもしくはTammy's Headの２つを入手する（Repentanceからは「Dead」タグのついたアイテムを2つ）,31,Rebirth,item,The_Parasite
-%3F%3F%3F,???,Unlocked a new character.,,Mom's Heartを10回倒す,32,Rebirth,character,%3F%3F%3F
+%3F%3F%3F,???,Unlocked a new character.,,Mom's Heartを10回倒す,32,Rebirth,character,Blue_Baby_Character
 Everything_Is_Terrible%21%21%21,Everything Is Terrible!!!,The game just got harder!,,Mom's Heartを5回倒す,33,Rebirth,,Everything_Is_Terrible%21%21%21
 It_Lives%21,It Lives!,Your future's past waits.,イットリブス 将来の過去が待ち受けている,Mom's Heartを11回倒す,34,Rebirth,,It_Lives%21
 Mom%27s_Contact,Mom's Contact,Unlocked a new item.,ママのコンタクトが地下に現れた,1度のプレイで「Yes Mother?」アイテムを3つ入手する,35,Rebirth,item,Mom%27s_Contact
@@ -71,7 +71,7 @@ Something_Icky,Something Icky,New boss in the womb!,,Isaacを10回倒す,68,Rebi
 Isaac%27s_Head,Isaac's Head,Unlocked a new item.,アイザックの頭が地下に現れた,アイザックでボスラッシュをクリアする,70,Rebirth,item,Isaac%27s_Head
 Maggy%27s_Faith,Maggy's Faith,Unlocked a new item.,マギーの信念が地下に現れた,マギーでThe Lambを倒す,71,Rebirth,item,Maggy%27s_Faith
 Judas%27_Tongue,Judas' Tongue,Unlocked a new item.,ユダの舌が地下に現れた,ユダでSatanを倒す,72,Rebirth,item,Judas%27_Tongue
-%3F%3F%3F%27s_Soul,???'s Soul,Unlocked a new item.,,???でThe Lambを倒す,73,Rebirth,item,%3F%3F%3F%27s_Soul
+%3F%3F%3F%27s_Soul,???'s Soul,Unlocked a new item.,,???でThe Lambを倒す,73,Rebirth,item,Blue_Baby%27s_Soul
 Samson%27s_Lock,Samson's Lock,Unlocked a new item.,サムソンの髷が地下に現れた,サムソンでThe Lambを倒す,74,Rebirth,item,Samson%27s_Lock
 Cain%27s_Eye,Cain's Eye,Unlocked a new item.,,ケインで???を倒す,75,Rebirth,item,Cain%27s_Eye
 Eve%27s_Bird_Foot,Eve's Bird Foot,Unlocked a new item.,イブの鳥足が地下に現れた,イブでIsaacを倒す,76,Rebirth,item,Eve%27s_Bird_Foot
@@ -112,7 +112,7 @@ Cain%27s_Other_Eye,Cain's Other Eye,Unlocked a new item.,,ケインでボスラ�
 Black_Lipstick,Black Lipstick,Unlocked a new item.,,イブでThe Lambを倒す,111,Rebirth,item,Black_Lipstick
 Eve%27s_Mascara,Eve's Mascara,Unlocked a new item.,イブのマスカラが地下に現れた,イブでボスラッシュをクリアする,112,Rebirth,item,Eve%27s_Mascara
 Fate,Fate,Unlocked a new item.,運命が地下に現れた,???で???を倒す,113,Rebirth,item,Fate
-%3F%3F%3F%27s_Only_Friend,???'s Only Friend,Unlocked a new item.,,???でボスラッシュをクリアする,114,Rebirth,item,%3F%3F%3F%27s_Only_Friend
+%3F%3F%3F%27s_Only_Friend,???'s Only Friend,Unlocked a new item.,,???でボスラッシュをクリアする,114,Rebirth,item,Blue_Baby%27s_Only_Friend
 Samson%27s_Chains,Samson's Chains,Unlocked a new item.,サムソンの鎖が地下に現れた,サムソンでボスラッシュをクリアする,115,Rebirth,item,Samson%27s_Chains
 Lazarus%27_Rags,Lazarus' Rags,Unlocked a new item.,ラザラスのぼろきれが地下に現れた,ラザラスでIsaacを倒す,116,Rebirth,item,Lazarus%27_Rags
 Broken_Ankh,Broken Ankh,Unlocked a new item.,,ラザラスでSatanを倒す,117,Rebirth,item,Broken_Ankh
@@ -345,7 +345,7 @@ Flooded_Caves,Flooded Caves,Alt stage to the caves.,洞窟が浸水した！,Def
 Dank_Depths,Dank Depths,Alt stage to the depths.,深淵が湿った!,Defeat It Lives! 21 times,344,Afterbirth †,,Dank_Depths
 Scarred_Womb,Scarred Womb,Alt stage to the womb.,子宮が傷だらけになった！,Defeat It Lives! 30 times,345,Afterbirth †,,Scarred_Womb
 Something_wicked_this_way_comes%21,Something wicked this way comes!,Unlocked new bosses!,何か邪惡なものがこっちに来る！,3キャラクターで???を倒す,346,Afterbirth †,,Something_wicked_this_way_comes%21
-Something_wicked_this_way_comes%2B%21,Something wicked this way comes+!,Unlocked even more bosses!,何か邪惡なものがこっちに来る＋！,6キャラクターで???を倒す,347,Afterbirth †,,Something_wicked_this_way_comes%2B%21
+Something_wicked_this_way_comes%2B%21,Something wicked this way comes+!,Unlocked even more bosses!,何か邪惡なものがこっちに来る＋！,6キャラクターで???を倒す,347,Afterbirth †,,Something_Wicked_This_Way_Comes_%3F
 The_gate_is_open%21,The gate is open!,Unlocked new enemies!,,Defeat The Lamb,348,Afterbirth †,,The_gate_is_open%21
 Death%27s_List,Death's List,Unlocked a new item.,死神のリストが地下に現れた,Take 25 Deals with the Devil,376,Afterbirth †,item,Death%27s_List
 Haemolacria,Haemolacria,Unlocked a new item.,流血が地下に現れた,Acquire Blood Clot Blood Clot 10 times,377,Afterbirth †,item,Haemolacria
@@ -429,7 +429,7 @@ Devil%27s_Crown,Devil's Crown,Complete the Corpse with Azazel.,デビルクラ�
 Lil_Abaddon,Lil Abaddon,Complete the final chapter with Azazel.,リトルアバドンが地下に現れた,Defeat The Beast as Azazel Azazel,455,Repentance,,Lil_Abaddon
 Tinytoma,Tinytoma,Complete the Corpse with Lazarus.,タイニートーマが地下に現れた,Defeat Mother as Lazarus Lazarus,456,Repentance,,Tinytoma
 Astral_Projection,Astral Projection,Complete the final chapter with Lazarus.,,Defeat The Beast as Lazarus Lazarus,457,Repentance,,Astral_Projection
-M,M,Complete the Corpse with Eden.,（文字化け）が地下に現れた,Defeat Mother as Eden Eden,458,Repentance,,M
+'M,'M,Complete the Corpse with Eden.,（文字化け）が地下に現れた,Defeat Mother as Eden Eden,458,Repentance,,%27M
 Everything_Jar,Everything Jar,Complete the final chapter with Eden.,,Defeat The Beast as Eden Eden,459,Repentance,,Everything_Jar
 Lost_Soul,Lost Soul,Complete the Corpse with the Lost.,ロストソウルが地下に現れた,Defeat Mother as The Lost The Lost,460,Repentance,,Lost_Soul
 Hungry_Soul,Hungry Soul,Complete the final chapter with the Lost.,ハングリーソウルが地下に現れた,Defeat The Beast as The Lost The Lost,461,Repentance,,Hungry_Soul
