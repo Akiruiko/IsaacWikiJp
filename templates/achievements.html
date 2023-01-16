@@ -31,18 +31,19 @@
 
     <tbody>
       {% for record in data.records %}
-        {% set_global norm_name = record[0] %}
+        {% set_global a_name = record[0] %}
+        {% set_global norm_name = record[8] %}
         {% set_global type = record[7] %}
         <tr>
           {% for cell in record %}
             {% if loop.first %}
               <td>
-                <a href="/wiki/{{norm_name}}"><img src="/image/achievements/{{norm_name}}.png" loading="lazy"></a>
+                <a href="/wiki/{{a_name}}"><img src="/image/achievements/{{norm_name}}.png" loading="lazy"></a>
               </td>
             {% elif loop.index == 2 %}
               <td>
                 {% if type == "character" or type == "item" %}
-                    <a href="/wiki/{{norm_name}}">{{cell}}</a>
+                    <a href="/wiki/{{a_name}}">{{cell}}</a>
                 {% else %}
                     {{cell}}
                 {% endif %}
