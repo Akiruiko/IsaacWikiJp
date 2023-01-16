@@ -1,123 +1,123 @@
 norm_name,Item Name,アイテム名,ID,効果,クオリティ,DLC,種類
-The_Sad_Onion,The Sad Onion,悲しみオニオン,5.100.1,ティア+0.7,3,Rebirth,パッシブ
+The_Sad_Onion,The Sad Onion,悲しみオニオン,5.100.1,ティア+0.7。,3,Rebirth,パッシブ
 The_Inner_Eye,The Inner Eye,心眼,5.100.2,三方向ショットを付与する、ただしティアは低下する。,2,Rebirth,パッシブ
-Spoon_Bender,Spoon Bender,スプーン曲げ,5.100.3,誘導ティアを付与する,3,Rebirth,パッシブ
-Cricket%27s_Head,Cricket's Head,クリケットの頭,5.100.4,ダメージ+0.5、ダメージ倍率x1.5,4,Rebirth,パッシブ
-My_Reflection,My Reflection,リフレクション,5.100.5,ティアにブーメラン効果。レンジ+1.5、ティアハイト+1.0、ショットスピードx1.6,0,Rebirth,パッシブ
+Spoon_Bender,Spoon Bender,スプーン曲げ,5.100.3,誘導ティアを付与する。,3,Rebirth,パッシブ
+Cricket%27s_Head,Cricket's Head,クリケットの頭,5.100.4,ダメージ+0.5、ダメージ倍率x1.5。,4,Rebirth,パッシブ
+My_Reflection,My Reflection,リフレクション,5.100.5,ティアにブーメラン効果。レンジ+1.5、ティアの高さ+1.0、ショットスピードx1.6。,0,Rebirth,パッシブ
 Number_One,Number One,ナンバー ワン,5.100.6,ティア+1.5、ただしレンジが極端に短くなる。,2,Rebirth,パッシブ
 Blood_of_the_Martyr,Blood of the Martyr,殉教者の血,5.100.7,ダメージ+1、アイザックの涙が血の涙になる。,3,Rebirth,パッシブ
-Brother_Bobby,Brother Bobby,ボビー君,5.100.8,アイザックについてくる、通常ティアを撃つファミリア。,1,Rebirth,パッシブ
-Skatole,Skatole,スカトール,5.100.9,ハエが種類によって無害もしくはより危険でないものになる。,0,Rebirth,パッシブ
-Halo_of_Flies,Halo of Flies,ハエの光輪,5.100.10,敵の弾を阻害し接触ダメージを与える2匹のハエの取り巻きを生成する。,2,Rebirth,パッシブ
+Brother_Bobby,Brother Bobby,ボビー君,5.100.8,アイザックについてくる、通常弾を撃つファミリアをスポーンする。,1,Rebirth,パッシブ
+Skatole,Skatole,スカトール,5.100.9,ハエタイプの敵を（その種類に応じて）無害化、もしくは危険度の低いものにする。,0,Rebirth,パッシブ
+Halo_of_Flies,Halo of Flies,ハエの光輪,5.100.10,敵の弾を阻害し、ハエに対して接触ダメージを与える2匹のプリティフライを生成する。,2,Rebirth,パッシブ
 1up!,1up!,１ＵＰ！,5.100.11,残機+1。死亡時には最も近いクリア済みの部屋に体力全回復の状態で復活し、このアイテムは消滅する。,2,Rebirth,パッシブ
-Magic_Mushroom,Magic Mushroom,魔法のキノコ,5.100.12,アイザックが大きくなる。赤ハートコンテナを1つ得る、ダメージ+0.3、ダメージ倍率x1.5、レンジ+1.5、スピード+0.3、体力全回復。,4,Rebirth,パッシブ
-The_Virus,The Virus,ウイルス,5.100.13,敵との接触時に敵を毒状態にする。スピード+0.2。毒状態にされた敵は死亡時に黒ハートを落とす可能性がある。,2,Rebirth,パッシブ
-Roid_Rage,Roid Rage,ロイド レイジ,5.100.14,スピード+0.3、レンジ+1.5、ティアハイト+0.5,2,Rebirth,パッシブ
+Magic_Mushroom,Magic Mushroom,魔法のキノコ,5.100.12,アイザックが大きくなる。赤ハートコンテナを1つ得る、ダメージ+0.3、ダメージ倍率x1.5、(removed in repentance) レンジ+5.25 / (add in repentance) レンジ+1.5、スピード+0.3、体力全回復。,4,Rebirth,パッシブ
+The_Virus,The Virus,ウイルス,5.100.13,敵との接触時に敵を毒状態にする。(removed in repentance) スピード-0.1 / (added in repentance) スピード+0.2。(added in afterbirth / removed in repentance) 毒状態になった敵は死亡時に確率で黒ハートを落とす。,2,Rebirth,パッシブ
+Roid_Rage,Roid Rage,ロイド レイジ,5.100.14,"(removed in repentance) スピード+0.6、レンジ+5.25、ティアの高さ+0.5。
+(added in repentance) スピード+0.3、レンジ+1.5、ティアの高さ+0.5。",2,Rebirth,パッシブ
 Less_Than_Three,<3,<3,5.100.15,赤ハートコンテナを1つ得て、体力を全回復する。,2,Rebirth,パッシブ
 Raw_Liver,Raw Liver,生肝,5.100.16,赤ハートコンテナを2つ得て、体力を全回復する。,2,Rebirth,パッシブ
-Skeleton_Key,Skeleton Key,ガイコツの鍵,5.100.17,鍵+99個,3,Rebirth,パッシブ
-A_Dollar,A Dollar,１ドル,5.100.18,コイン+100,3,Rebirth,パッシブ
-Boom!,Boom!,ドカーン！,5.100.19,爆弾+10個,0,Rebirth,パッシブ
-Transcendence,Transcendence,現世からの超越,5.100.20,飛行を得る。,3,Rebirth,パッシブ
+Skeleton_Key,Skeleton Key,ガイコツの鍵,5.100.17,鍵+99個。,3,Rebirth,パッシブ
+A_Dollar,A Dollar,１ドル,5.100.18,コイン+100。,3,Rebirth,パッシブ
+Boom!,Boom!,ドカーン！,5.100.19,爆弾+10個。,0,Rebirth,パッシブ
+Transcendence,Transcendence,現世からの超越,5.100.20,飛行能力を得る。,3,Rebirth,パッシブ
 The_Compass,The Compass,コンパス,5.100.21,シークレットルームとスーパーシークレットルームを除く、特殊ルームの場所をマップに表示する。,2,Rebirth,パッシブ
-Lunch,Lunch,昼ごはん,5.100.22,満タンの赤ハートコンテナを1つ得て、追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
-Dinner,Dinner,晩ごはん,5.100.23,満タンの赤ハートコンテナを1つ得て、追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
-Dessert,Dessert,デザート,5.100.24,満タンの赤ハートコンテナを1つ得て、追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
-Breakfast,Breakfast,朝ごはん,5.100.25,満タンの赤ハートコンテナを1つ得て、追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
-Rotten_Meat,Rotten Meat,腐った肉,5.100.26,満タンの赤ハートコンテナを1つ得て、追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
-Wooden_Spoon,Wooden Spoon,木のスプーン,5.100.27,スピード+0.3,1,Rebirth,パッシブ
-The_Belt,The Belt,ベルト,5.100.28,スピード+0.3,1,Rebirth,パッシブ
-Mom%27s_Underwear,Mom's Underwear,ママの下着,5.100.29,レンジ+5.25、ティアハイト+0.5。3～6匹の青ハエを生成する。,1,Rebirth,パッシブ
-Mom%27s_Heels,Mom's Heels,ママのヒール,5.100.30,レンジ+5.25、ティアハイト+0.5。アイザックに接触した敵へ12ダメージを与える。,1,Rebirth,パッシブ
-Mom%27s_Lipstick,Mom's Lipstick,ママの口紅,5.100.31,"レンジ+5.25、ティアハイト+0.5。
-(Repentanceで追加)ランダムなハートを1つドロップする。",1,Rebirth,パッシブ
+Lunch,Lunch,昼ごはん,5.100.22,満タンの赤ハートコンテナを1つ得る。(added in repentance) 追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
+Dinner,Dinner,晩ごはん,5.100.23,満タンの赤ハートコンテナを1つ得る。(added in repentance) 追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
+Dessert,Dessert,デザート,5.100.24,満タンの赤ハートコンテナを1つ得る。(added in repentance) 追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
+Breakfast,Breakfast,朝ごはん,5.100.25,満タンの赤ハートコンテナを1つ得る。(added in repentance) 追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
+Rotten_Meat,Rotten Meat,腐った肉,5.100.26,満タンの赤ハートコンテナを1つ得る。(added in repentance) 追加で体力を赤ハート1個分回復する。,1,Rebirth,パッシブ
+Wooden_Spoon,Wooden Spoon,木のスプーン,5.100.27,スピード+0.3。,1,Rebirth,パッシブ
+The_Belt,The Belt,ベルト,5.100.28,スピード+0.3。,1,Rebirth,パッシブ
+Mom%27s_Underwear,Mom's Underwear,ママの下着,5.100.29,"(removed in repentance) レンジ+5.25、ティアの高さ+0.5。
+(added in repentance) レンジ+1.5、ティアの高さ+0.5。3～6匹の青ハエを生成する。",1,Rebirth,パッシブ
+Mom%27s_Heels,Mom's Heels,ママのヒール,5.100.30,"(removed in repentance) レンジ+5.25、ティアの高さ+0.5。
+(added in repentance) レンジ+1.5、ティアの高さ+0.5。アイザックに接触した敵に12ダメージを与える。",1,Rebirth,パッシブ
+Mom%27s_Lipstick,Mom's Lipstick,ママの口紅,5.100.31,"(removed in repentance) レンジ+5.25、ティアの高さ+0.5。
+(added in repentance) レンジ+2.25、ティアの高さ+0.5。ランダムなハートを1つドロップする。",1,Rebirth,パッシブ
 Wire_Coat_Hanger,Wire Coat Hanger,コートハンガー,5.100.32,ティア+0.7。,3,Rebirth,パッシブ
 The_Bible,The Bible,聖書,5.100.33,使用すると部屋を出るまでの間、飛行能力を得る。Mom、Mom's Heart、It Livesとの戦闘時には、使用するだけで相手を倒すことができる。逆に、Satanとの戦闘時には、使用するだけでアイザックが倒れてしまう。,1,Rebirth,アクティブ
 The_Book_of_Belial,The Book of Belial,ベリアルの本,5.100.34,"部屋を出るまでの間、ダメージ+2。
-(Afterbirthで削除)このアイテムを持っている状態でボスを倒した場合、悪魔部屋もしくは天使部屋が必ず出現する。
-(Afterbirthで追加)悪魔部屋または天使部屋の出現確率+12.5%。",2,Rebirth,アクティブ
+(removed in repentance) このアイテムを持っている状態でボスを倒した場合、悪魔部屋もしくは天使部屋が必ず出現する。
+(added in repentance) 悪魔部屋または天使部屋の出現確率+12.5%。",2,Rebirth,アクティブ
 The_Necronomicon,The Necronomicon,ネクロノミコン,5.100.35,部屋にいる敵すべてに40ダメージを与える。,1,Rebirth,アクティブ
-The_Poop,The Poop,うんち,5.100.36,"敵の近くでノックバックしたときにアイザックが立っている場所へうんちをスポーンする。
-ピックアップアイテムのドロップ率は通常のものと同じ。",0,Rebirth,アクティブ
-Mr._Boom,Mr. Boom,Mr.ドカーン,5.100.37,110ダメージを与えるメガボムを置く。,1,Rebirth,アクティブ
-Tammy%27s_Head,Tammy's Head,タミーの頭,5.100.38,アイザックの周囲10方向に現在のアイザックと同じダメージ、ショットスピード、(毒のような)特殊効果を持つ涙を撃つ。,2,Rebirth,アクティブ
-Mom%27s_Bra,Mom's Bra,ママのブラ,5.100.39,現在の部屋にいる全ての敵を4秒間石化する。,1,Rebirth,アクティブ
+The_Poop,The Poop,うんち,5.100.36,アイザックが立っている場所へうんちをスポーンし、近くの敵をノックバックさせる。通常のうんちと同様に、破壊すると一定の確率でピックアップをドロップする。,0,Rebirth,アクティブ
+Mr._Boom,Mr. Boom,Mr.ドカーン,5.100.37,(removed in repentance) 110ダメージ / (added in repentance) 185ダメージを与えるミスターメガボムを置く。,1,Rebirth,アクティブ
+Tammy%27s_Head,Tammy's Head,タミーの頭,5.100.38,アイザックの周囲10方向に現在のアイザックと同じダメージ、同じショットスピード、（毒などの）同じ特殊効果を持つ涙を撃つ。,2,Rebirth,アクティブ
+Mom%27s_Bra,Mom's Bra,ママのブラ,5.100.39,現在の部屋にいる全ての敵を約4秒間石化する。,1,Rebirth,アクティブ
 Kamikaze!,Kamikaze!,カミカゼ！,5.100.40,"アイザックの周囲を爆破する。
 爆発は自身と近くの敵にダメージを与え、障害物を破壊する。",0,Rebirth,アクティブ
-Mom%27s_Pad,Mom's Pad,ママのナプキン,5.100.41,現在の部屋にいる全ての敵に5秒間恐怖を与える。,0,Rebirth,アクティブ
-Bob%27s_Rotten_Head,Bob's Rotten Head,ボブの腐った頭,5.100.42,"アイテムの使用時に毒爆弾を持ち上げる。
-それは上下左右いずれかに投擲でき、接触時に爆発する。",1,Rebirth,アクティブ
+Mom%27s_Pad,Mom's Pad,ママのナプキン,5.100.41,現在の部屋にいる全ての敵に5秒間恐怖効果を与える。,0,Rebirth,アクティブ
+Bob%27s_Rotten_Head,Bob's Rotten Head,ボブの腐った頭,5.100.42,使用すると、毒の爆弾を持ち上げる。その後、爆弾を上下左右いずれかに投げることができ、接触時に爆発する。,1,Rebirth,アクティブ
 Teleport!,Teleport!,瞬間移動,5.100.44,現在の階層内にあるランダムな部屋へテレポートする。,0,Rebirth,アクティブ
-Yum_Heart,Yum Heart,ヤム ハート,5.100.45,赤ハート1個分回復する。,1,Rebirth,アクティブ
-Lucky_Foot,Lucky Foot,幸せの足,5.100.46,"ラック+1。貝殻ゲームと占いマシーンでの勝率が(ラック由来とは別に)上昇する。
-判別済みのものを除き、全ての悪い効果のピルが良い効果のピルに置き換わる。",2,Rebirth,パッシブ
-Doctor%27s_Remote,Doctor's Remote,ドクターのスイッチ,5.100.47,"地上にティア操作で操作できる照準線を作成する。
-2秒後に照準点へ、大ダメージを与える爆発を起こすミサイルが着弾する。",1,Rebirth,アクティブ
-Cupid%27s_Arrow,Cupid's Arrow,キューピッドの矢,5.100.48,アイザックのティアに敵貫通を付与する。,3,Rebirth,パッシブ
+Yum_Heart,Yum Heart,ヤム ハート,5.100.45,体力を赤ハート1個分回復する。,1,Rebirth,アクティブ
+Lucky_Foot,Lucky Foot,幸せの足,5.100.46,"ラック+1。貝殻ゲームと占いマシーンでの勝率が上昇する（なお、この勝率はラックの値には無関係）。
+(added in repentance) 全ての悪い効果のピルが良い効果のピルに置き換わる（ただしピルの種類は特定できない）。",2,Rebirth,パッシブ
+Doctor%27s_Remote,Doctor's Remote,ドクターのスイッチ,5.100.47,地面に照準線を作成する。照準線を動かし始めてから2秒後に、大ダメージを与える爆発を起こすミサイルが着弾する。,1,Rebirth,アクティブ
+Cupid%27s_Arrow,Cupid's Arrow,キューピッドの矢,5.100.48,アイザックの涙に敵貫通効果を付与する。,3,Rebirth,パッシブ
 Shoop_Da_Whoop!,Shoop Da Whoop!,シュープ ダ ウープ！,5.100.49,アイザックの口からレーザーが出る。,2,Rebirth,アクティブ
-Steven_(Item),Steven,スティーブン,5.100.50,ダメージ+1,3,Rebirth,パッシブ
+Steven_(Item),Steven,スティーブン,5.100.50,ダメージ+1。,3,Rebirth,パッシブ
 Pentagram,Pentagram,ペンタグラム,5.100.51,ダメージ+1、悪魔/天使部屋の出現確率が10%上昇する。,3,Rebirth,パッシブ
-Dr._Fetus,Dr. Fetus,Dr. フィータス,5.100.52,"ティアが一定時間スライドする爆弾に置き換わる。
-爆弾を強化する効果は適用される。",4,Rebirth,パッシブ
-Magneto,Magneto,マグネット,5.100.53,ピックアップアイテムがアイザックに寄ってくる。,1,Rebirth,パッシブ
+Dr._Fetus,Dr. Fetus,Dr. フィータス,5.100.52,涙を爆弾に置き換える。この爆弾には、爆弾を強化するアイテムの効果が適用される。,4,Rebirth,パッシブ
+Magneto,Magneto,マグネット,5.100.53,ピックアップをアイザックに引き寄せる。,1,Rebirth,パッシブ
 Treasure_Map,Treasure Map,宝の地図,5.100.54,"それぞれの階層でマップが公開される。
 特殊ルームかは判別できず、シークレットルームとスペシャルシークレットルームの位置は公開されない。",2,Rebirth,パッシブ
-Mom%27s_Eye,Mom's Eye,ママの目,5.100.55,たまにアイザックの後頭部からもティアを発射するようになる。,1,Rebirth,パッシブ
-Lemon_Mishap,Lemon Mishap,レモンの災い,5.100.56,小さな黄色い水たまりを生成し、それを横切った敵にダメージを与える。,1,Rebirth,アクティブ
+Mom%27s_Eye,Mom's Eye,ママの目,5.100.55,確率でアイザックの後頭部からティアを発射するようになる。,1,Rebirth,パッシブ
+Lemon_Mishap,Lemon Mishap,レモンの災い,5.100.56,小さな黄色いクリープを生成し、そのクリープを横切った敵にダメージを与える。,1,Rebirth,アクティブ
 Distant_Admiration,Distant Admiration,遠くからの称賛,5.100.57,Halo of Fliesよりも遠く、Forever Aloneよりも近い円周に秒間75ダメージを与える攻撃ハエをスポーンする。,2,Rebirth,パッシブ
 Book_of_Shadows,Book of Shadows,ブック オブ シャドウ,5.100.58,防護シールドを生成し、現在の部屋で10秒間全てのダメージを無効化する。,3,Rebirth,アクティブ
 The_Ladder,The Ladder,ハシゴ,5.100.60,歩行可能な区間に挟まれた1マス分の溝に自動で梯子を設置し、そこを歩けるようになる。,1,Rebirth,パッシブ
 Charm_of_the_Vampire,Charm of the Vampire,ヴァンパイア チャーム,5.100.62,13体の敵を倒す毎に赤ハート半分を回復する。ダメージ+0.3。,1,Rebirth,パッシブ
-The_Battery,The Battery,電池,5.100.63,アクティブアイテムは追加のチャージゲージを貯められるようになり、一つの部屋で2回使用できるようになる。,2,Rebirth,パッシブ
-Steam_Sale,Steam Sale,スチームセール,5.100.64,全てのショップで値段が50%オフになり、アイテムは切り捨てで7コイン、ピックアップは切り上げで2～3コインになる。,2,Rebirth,パッシブ
-Anarchist_Cookbook,Anarchist Cookbook,アナーキストの料理本,5.100.65,部屋中に6個のトロールボムがスポーンする。,1,Rebirth,アクティブ
+The_Battery,The Battery,電池,5.100.63,アクティブアイテムは追加のチャージゲージを貯められるようになり、1つの部屋で2回使用できるようになる。,2,Rebirth,パッシブ
+Steam_Sale,Steam Sale,スチームセール,5.100.64,全てのショップで値段が50%オフになる。アイテムは端数切り捨てで7コイン、ピックアップは端数切り上げで2～3コインになる。,2,Rebirth,パッシブ
+Anarchist_Cookbook,Anarchist Cookbook,アナーキストの料理本,5.100.65,現在の部屋に6個のトロールボムがスポーンする。,1,Rebirth,アクティブ
 The_Hourglass,The Hourglass,砂時計,5.100.66,部屋内の全ての敵が8秒間速度低下する。,1,Rebirth,アクティブ
 Sister_Maggy,Sister Maggy,マギーちゃん,5.100.67,アイザックに付いてきて通常ティアを撃つファミリアがスポーンする。,1,Rebirth,パッシブ
-Technology,Technology,テクノロジー,5.100.68,ティアがレンジ制限なしの貫通レーザーに置き換わる。,3,Rebirth,パッシブ
-Chocolate_Milk,Chocolate Milk,チョコレートミルク,5.100.69,最大まで貯めると大きなダメージを与えるチャージティアを付与する。,3,Rebirth,パッシブ
-Growth_Hormones,Growth Hormones,成長ホルモン,5.100.70,"(AfterBirth+以前)ダメージ+1、スピード+0.4
-(Repentance)ダメージ+1、スピード+0.2",3,Rebirth,パッシブ
+Technology,Technology,テクノロジー,5.100.68,ティアがレンジ制限なしで敵を貫通するレーザーに置き換わる。,3,Rebirth,パッシブ
+Chocolate_Milk,Chocolate Milk,チョコレートミルク,5.100.69,ティアをチャージして撃つようになる。チャージを最大まで貯めると通常より大きなダメージを与える。,3,Rebirth,パッシブ
+Growth_Hormones,Growth Hormones,成長ホルモン,5.100.70,"(removed in repentance) ダメージ+1、スピード+0.4。
+(added in repentance) ダメージ+1、スピード+0.2。",3,Rebirth,パッシブ
 Mini_Mush,Mini Mush,ミニ マッシュ,5.100.71,"アイザックのサイズが小さくなり、当たり判定も小さくなる。
-スピード+0.3、レンジ+1.5。",2,Rebirth,パッシブ
+(removed in repentance) スピード+0.3、ティアの高さ+1.5、レンジ-4.25（実質的なレンジは上昇する）。
+(added in repentance) スピード+0.3、レンジ+1.5。",2,Rebirth,パッシブ
 Rosary,Rosary,ロザリー,5.100.72,"ソウルハート3つを得る。全てのアイテムプールでThe Bibleが出現するようになる。
-ティア+0.5。",2,Rebirth,パッシブ
-Cube_of_Meat,Cube of Meat,肉の塊,5.100.73,"敵の弾を防ぎ秒間56ダメージを与えるオービタルを生成する。
-追加で同じアイテムを取得する毎にティアを撃ち、敵を追跡して接触ダメージを与え、接触ダメージが増加する、というように成長する。",2,Rebirth,パッシブ
-A_Quarter,A Quarter,クォーター,5.100.74,コイン+25,1,Rebirth,パッシブ
-PHD,PHD,ＰＨＤ,5.100.75,"全ての悪い効果のピルを良い効果のピルに置き換え、ピルを1個得て、全てのピルが判別済みになる。
+(added in repentance) ティア+0.5。",2,Rebirth,パッシブ
+Cube_of_Meat,Cube of Meat,肉の塊,5.100.73,"敵の弾を防ぎ(removed in repentance) 秒間105ダメージ (added in repentance) 秒間53ダメージを与えるオービタルを生成する。
+追加で同じアイテムを取得する毎に、ティアを撃つ→敵を追跡して接触ダメージを与える→接触ダメージが増加する、という順に成長する。",2,Rebirth,パッシブ
+A_Quarter,A Quarter,クォーター,5.100.74,コイン+25。,1,Rebirth,パッシブ
+PHD,PHD,ＰＨＤ,5.100.75,"全ての悪い効果のピルを良い効果のピルに置き換え、ピルを1個スポーンし、全てのピルが判別済みになる。
 赤ハート2個分を回復し、献血機の報酬が増える。",2,Rebirth,パッシブ
-X-Ray_Vision,X-Ray Vision,エックス線ビジョン,5.100.76,シークレットルームとスーパーシークレットルームの入り口が公開されたうえで開く。,2,Rebirth,パッシブ
-My_Little_Unicorn,My Little Unicorn,マイ リトル ユニコーン,5.100.77,6秒間スピードが0.28上昇して無敵状態になり、ティアを撃てなくなる代わりに敵に接触すると40ダメージを与える。,1,Rebirth,アクティブ
-Book_of_Revelations,Book of Revelations,ヨハネの黙示録,5.100.78,ソウルハートを1つ得てフロアボス討伐後の悪魔/天使部屋出現確率が上昇し、現在の階層のボスが可能な限りハービンジャーに置き換わる。,3,Rebirth,アクティブ
-The_Mark,The Mark,紋章,5.100.79,"ソウルハートを1つ得る。
-ダメージ+1、スピード+0.2",3,Rebirth,パッシブ
-The_Pact,The Pact,契約,5.100.80,"黒ハートを2つ得る。
-ダメージ+0.5、ティア+0.7",3,Rebirth,パッシブ
-Dead_Cat,Dead Cat,ねこのしかばね,5.100.81,"アイザックの赤ハートコンテナが1つになる代わり、残機が9増える。
+X-Ray_Vision,X-Ray Vision,エックス線ビジョン,5.100.76,シークレットルームまたはスーパーシークレットルームに繋がる入口（壊せる壁）を自動的に開く。,2,Rebirth,パッシブ
+My_Little_Unicorn,My Little Unicorn,マイ リトル ユニコーン,5.100.77,6秒間スピードが0.28上昇して無敵状態になる。無敵状態の間はティアを撃てなくなる代わりに、敵に接触すると40ダメージを与える。,1,Rebirth,アクティブ
+Book_of_Revelations,Book of Revelations,ヨハネの黙示録,5.100.78,所持している間、悪魔/天使部屋の出現確率が上昇する。使用するとソウルハートを1つ得て、現在の階層のボスが（置き換え可能であれば）ハービンジャーに置き換わる。,3,Rebirth,アクティブ
+The_Mark,The Mark,紋章,5.100.79,"(removed in repentance) ソウルハートを1つ得る。ダメージ+1、スピード+0.2。
+(added in repentance) 黒ハートを1つ得る。ダメージ+1、スピード+0.2。",3,Rebirth,パッシブ
+The_Pact,The Pact,契約,5.100.80,"(removed in repentance) ソウルハートを2つ得る。ダメージ+0.5、ティア+0.7。
+(added in repentance) 黒ハートを2つ得る。ダメージ+0.5、ティア+0.7。",3,Rebirth,パッシブ
+Dead_Cat,Dead Cat,ねこのしかばね,5.100.81,"アイザックの赤ハートコンテナが1つになる代わりに、残機が9増える。
 死亡後に赤ハートコンテナ1つで復活する。",3,Rebirth,パッシブ
-Lord_of_the_Pit,Lord of the Pit,奈落の王,5.100.82,飛行を得てスピード+0.3。,3,Rebirth,パッシブ
-The_Nail,The Nail,釘,5.100.83,"黒ハート半分を得る。現在の部屋でダメージ+2.0、スピード-0.18。
-岩を壊せるようになり敵との接触時にダメージを与える。",3,Rebirth,アクティブ
-We_Need_to_Go_Deeper!,We Need to Go Deeper!,もっと深く！,5.100.84,次の階層へ続くトラップドアを生成する。,0,Rebirth,アクティブ
-Deck_of_Cards,Deck of Cards,カードのデッキ,5.100.85,ランダムなカードを得る。,2,Rebirth,アクティブ
+Lord_of_the_Pit,Lord of the Pit,奈落の王,5.100.82,飛行能力をを得る。スピード+0.3。,3,Rebirth,パッシブ
+The_Nail,The Nail,釘,5.100.83,"(removed in repentance) ソウルハートを1個得る。現在の部屋でダメージ+0.7、スピード-0.18。岩を壊せるようになり敵との接触時にダメージを与える。
+(removed in repentance) 黒ハート半分を得る。現在の部屋でダメージ+2.0、スピード-0.18。岩を壊せるようになり敵との接触時にダメージを与える。",3,Rebirth,アクティブ
+We_Need_to_Go_Deeper!,We Need to Go Deeper!,もっと深く！,5.100.84,次の階層へ続くトラップドアを生成する。(added in repentance) 通常とは異なるグラフィックのタイル上で使用した場合はクロールスペースを生成する。,0,Rebirth,アクティブ
+Deck_of_Cards,Deck of Cards,カードのデッキ,5.100.85,使用するとランダムなカードを1枚得る。,2,Rebirth,アクティブ
 Monstro%27s_Tooth,Monstro's Tooth,モンストロの歯,5.100.86,"友好的なモンストロがランダムな敵に向かってジャンプし、付近に120ダメージを与える。
-敵のいない部屋で使用するとアイザックに着地する。",1,Rebirth,アクティブ
-Loki%27s_Horns,Loki's Horns,ロキのツノ,5.100.87,たまにアイザックの左右と後ろからもティアを発射するようになる。,1,Rebirth,パッシブ
-Little_Chubby,Little Chubby,リトルチャビー,5.100.88,突進するファミリアがスポーンし、前に突進して道上の敵に接触ダメージを与える。,1,Rebirth,パッシブ
-Spider_Bite,Spider Bite,スパイダー バイト,5.100.89,敵の動きと攻撃のスピードを下げる、速度低下ティアをたまに撃つようになる。,2,Rebirth,パッシブ
-The_Small_Rock,The Small Rock,小岩,5.100.90,ダメージ+1.0、ティア+0.2、スピード-0.2,3,Rebirth,パッシブ
-Spelunker_Hat,Spelunker Hat,スペランカーの帽子,5.100.91,"現在の部屋に隣接する全ての部屋のタイプがマップに表示される。
-(Repentanceで追加)2つ先の部屋までマップに表示されるようになる。上から落下する岩などの発射物をブロックする。",2,Rebirth,パッシブ
+敵のいない部屋で使用するとアイザックめがけて着地する。",1,Rebirth,アクティブ
+Loki%27s_Horns,Loki's Horns,ロキのツノ,5.100.87,確率で上下左右の4方向へティアを発射するようになる。,1,Rebirth,パッシブ
+Little_Chubby,Little Chubby,リトルチャビー,5.100.88,Charger（敵の名前）の姿のファミリアがスポーンし、前に突進して進路上の敵に接触ダメージを与える。,1,Rebirth,パッシブ
+Spider_Bite,Spider Bite,スパイダー バイト,5.100.89,敵の動きと攻撃のスピードを下げる、速度低下ティアを確率で撃つようになる。,2,Rebirth,パッシブ
+The_Small_Rock,The Small Rock,小岩,5.100.90,ダメージ+1.0、ティア+0.2、スピード-0.2。,3,Rebirth,パッシブ
+Spelunker_Hat,Spelunker Hat,スペランカーの帽子,5.100.91,"現在の部屋に隣接する全ての部屋のタイプが（シークレットルームやスーパーシークレットルームも含め）マップに表示される。
+(added in repentance) 2つ先の部屋までマップに表示されるようになる。上から落下する岩などの発射物をブロックする。",2,Rebirth,パッシブ
 Super_Bandage,Super Bandage,スーパー包帯,5.100.92,赤ハートコンテナ+1、ソウルハートを2つ得る。取得時に赤ハートを1回復する。,2,Rebirth,パッシブ
-The_Gamekid,The Gamekid,ゲームキッド,5.100.93,アイザックが6秒間パックマンのような見た目になる。この状態は無敵が付与され、全ての敵を恐怖状態にし、敵を2体倒す毎に赤ハートを半分回復する。,2,Rebirth,アクティブ
+The_Gamekid,The Gamekid,ゲームキッド,5.100.93,アイザックが6.5秒間パックマンのような見た目になる。この状態は無敵が付与され、全ての敵を恐怖状態にし、敵を倒す毎に赤ハートを半分回復する。,2,Rebirth,アクティブ
 Sack_of_Pennies,Sack of Pennies,サック オブ ぺニーズ,5.100.94,2部屋毎にコインを落とすファミリアをスポーンする。,1,Rebirth,パッシブ
 Robo-Baby,Robo-Baby,ロボベイビー,5.100.95,Technologyのレーザーを発射するファミリアをスポーンする。,1,Rebirth,パッシブ
 Little_C.H.A.D.,Little C.H.A.D.,リトルチャッド,5.100.96,3部屋毎に赤い半ハートを落とすファミリアをスポーンする。,2,Rebirth,パッシブ
-The_Book_of_Sin,The Book of Sin,罪の書,5.100.97,ピックアップアイテム、ピル、カード、ルーンをランダムに生成する。,2,Rebirth,アクティブ
-The_Relic,The Relic,遺物,5.100.98,"5~6部屋毎にソウルハートをドロップする十字架のファミリア。
-(Repentanceで変更)7~8部屋毎にソウルハートをドロップする。",4,Rebirth,パッシブ
-Little_Gish,Little Gish,リトル ギッシュ,5.100.99,アイザックの後を追従するファミリアをスポーンする。ファミリアは敵の動きを遅くする弾を発射する。,2,Rebirth,パッシブ
-Little_Steven,Little Steven,リトル スティーブン,5.100.100,アイザックの後を追従する誘導弾を発射するファミリアをスポーンする。,1,Rebirth,パッシブ
+The_Book_of_Sin,The Book of Sin,罪の書,5.100.97,使用するとピル、カード、ルーンなどのピックアップアイテムをランダムに1つスポーンする。,2,Rebirth,アクティブ
+The_Relic,The Relic,遺物,5.100.98,"(removed in repentance) 5~6部屋毎にソウルハートをドロップする十字架のファミリアをスポーンする。
+(added in repentance) 7~8部屋毎にソウルハートをドロップする十字架のファミリアをスポーンする。",4,Rebirth,パッシブ
+Little_Gish,Little Gish,リトル ギッシュ,5.100.99,アイザックに付いてきて、敵の動きを遅くする弾を撃つファミリアをスポーンする。,2,Rebirth,パッシブ
+Little_Steven,Little Steven,リトル スティーブン,5.100.100,アイザックに付いてきて、誘導弾を撃つファミリアをスポーンする。,1,Rebirth,パッシブ
 The_Halo,The Halo,ヘイロー,5.100.101,赤ハートコンテナ+1、ダメージ+0.3、ティア+0.2、レンジ+0.38、スピード+0.3、ティアハイト+0.5,2,Rebirth,パッシブ
 Mom%27s_Bottle_of_Pills,Mom's Bottle of Pills,ママの薬入れ,5.100.102,ランダムなピルを入手する,1,Rebirth,アクティブ
 The_Common_Cold,The Common Cold,流行風邪,5.100.103,毒の涙を発射するチャンスを追加する。毒はヒットした敵に継続的なダメージを与える。,1,Rebirth,パッシブ
@@ -138,7 +138,7 @@ Dead_Bird,Dead Bird,鳥の死体,5.100.117,アイザックがダメージ受け�
 Brimstone,Brimstone,ブリムストーン,5.100.118,アイザックの涙がレーザービームになる。レーザーは全ての敵と障害物を貫通し、大きなダメージを与える。レーザーはチャージした後にのみ放つ事が出来る。,4,Rebirth,パッシブ
 Blood_Bag,Blood Bag,血液袋,5.100.119,赤ハートのコンテナを1つ得る、スピード+0.3。取得時に4つの赤ハートを回復する。,2,Rebirth,パッシブ
 Odd_Mushroom_(Thin),Odd Mushroom,変なキノコ,5.100.120,ティア+1.7、スピード+0.3、ダメージをわずかに減少させる。,2,Rebirth,パッシブ
-Odd_Mushroom_(Large),Odd Mushroom,変なきのこ,5.100.121,赤ハートのコンテナを1つ得る、ダメージ+1、レンジ+0.38、スピード-0.2。,2,Rebirth,パッシブ
+Odd_Mushroom_(Thin),Odd Mushroom,変なきのこ,5.100.121,赤ハートのコンテナを1つ得る、ダメージ+1、レンジ+0.38、スピード-0.2。,2,Rebirth,パッシブ
 Whore_of_Babylon,Whore of Babylon,バビロンの女,5.100.122,アイザックのHPが半ハート以下の時、ダメージ+1.5、スピード+0.3。,2,Rebirth,パッシブ
 Monster_Manual,Monster Manual,モンスター マニュアル,5.100.123,"現在の部屋でのみ有効なランダムなファミリアをスポーンする。
 (Repentanceで変更)現在のフロアでのみ有効なランダムなファミリアをスポーンする。",1,Rebirth,アクティブ
@@ -334,7 +334,7 @@ Smart_Fly,Smart Fly,スマートフライ,5.100.264,"敵の弾を防ぐオービ
 Dry_Baby,Dry Baby,乾燥ベイビー,5.100.265,"アイザックに付いてきて敵の弾を防ぐファミリアをスポーンする。
 弾を防いだ時、確率でネクロノミコン効果が発生する。",3,Rebirth,パッシブ
 Juicy_Sack,Juicy Sack,ジューシー袋,5.100.266,"アイザックに付いてきて速度低下クリープを垂れ流す。
-部屋のクリアごとに青ハエを1～2匹スポーンする。",2,Rebirth,パッシブ
+部屋のクリアごとに青クモを1～2匹スポーンする。",2,Rebirth,パッシブ
 Robo-Baby_2.0,Robo-Baby 2.0,ロボベイビー改,5.100.267,アイザックが弾を撃つ方向に動いて視界内の敵がいる方向にレーザーを撃つファミリアをスポーンする。,1,Rebirth,パッシブ
 Rotten_Baby,Rotten Baby,腐ったベイビー,5.100.268,"アイザックが弾を撃っている間青ハエを1匹スポーンさせるファミリアをスポーンする。
 ハエは同時に1匹しか所持できない。",3,Rebirth,パッシブ
@@ -766,7 +766,7 @@ Divorce_Papers,Divorce Papers,離婚届,5.100.547,骨ハート1つを得て、�
 Jaw_Bone,Jaw Bone,あご骨,5.100.548,撃っている間部屋を横切り、敵へ7フラットダメージを与えたりピックアップを取得するファミリアをスポーンする。,1,AB+,パッシブ
 Brittle_Bones,Brittle Bones,脆弱骨,5.100.549,"全ての赤ハートコンテナを6つの空の骨ハートへ置き換える。
 骨ハートを失ったとき、8方向に骨の弾を撃ち恒久的にティアが上昇する。",3,AB+,パッシブ
-Broken_Shovel_a,Broken Shovel,壊れたスコップ,5.100.550,"所持している間、1つ以上のMom's Footがアイザックを踏みつけてくる。
+Broken_Shovel,Broken Shovel,壊れたスコップ,5.100.550,"所持している間、1つ以上のMom's Footがアイザックを踏みつけてくる。
 Mom's Shovelに必要な2つのパーツのうちの1つ。",4,AB+,アクティブ
 Broken_Shovel,Broken Shovel,壊れたスコップ,5.100.551,"Mom's Shovelに必要な2つのパーツのうちの1つ。
 これだけでは効果がない。",4,AB+,パッシブ
