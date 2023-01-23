@@ -424,7 +424,7 @@ a.pagination-item:hover {
   text-align: left;
   height: 80px
 }
-/*.tablesorter thのheightを80pxに統一 (2023/01/09 みけち追記)*/
+/*.tablesorter thのheightを80pxに統一 (みけち:2023/01/09追記。)*/
 .tablesorter th:nth-child(2), .tablesorter th:nth-child(3) {
   width: 110px;
 }
@@ -439,7 +439,7 @@ a.pagination-item:hover {
   width: 0;
   height: 0;
   border: 4px dashed;
-  border-color: #333 transparent;
+  border-color: #E6E6E6 transparent; /*border-color: #333 →#E6E6E6 で文字色と同じに変更(みけち:2023/01/23追記。)*/
   pointer-events: none;
 }
 .tablesorter th::before{
