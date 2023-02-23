@@ -12,9 +12,7 @@
 		<div class="dtable_c">
 			{% set imgpath = ["/image/characters/", Character_name, ".png"] | join() %}
 			{% set image = resize_image(path=imgpath, width=110, height=110, op="fit_height") %}
-			{% set imgpath2 = ["/image/characters/", Character_name, "_paint.png"] | join() %}
-			{% set image2 = resize_image(path=imgpath2, width=110, height=110, op="fit_height") %}
-			<a href="/wiki/{{record.0}}"><img src="{{ image.url }}" onmouseover="this.src='{{ image2.url }}'" onmouseout="this.src='{{ image.url }}'"></a>
+			<a href="/wiki/{{record.0}}"><img src="{{ image.url }}"></a>
 			<a href="/wiki/{{record.0}}"><div><ruby>{{record.2}}<rt>{{record.1}}</rt></ruby></div></a>
 		</div>
 		{% if loop.index % 5 == 0 %}
