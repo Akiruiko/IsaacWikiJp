@@ -7,6 +7,7 @@
         {% for header in data.headers %}
           {% if loop.first %}
             <th>画像</th>
+		  {% elif loop.index == 6 %}
           {% else %}
             <th>{{header}}</th>
           {% endif %}
@@ -26,6 +27,7 @@
               <td>
                 <a href="/wiki/{{norm_name}}">{{cell}}</a>
               </td>
+			{% elif loop.index == 6 %}
             {% else %}
               <td>{{cell}}</td>
             {% endif %}
