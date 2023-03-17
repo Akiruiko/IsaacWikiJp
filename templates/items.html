@@ -2,6 +2,13 @@
 
 {% block content %}
 
+  <!-- ピクセルアート用の読み込み -->
+  <style>
+    img {
+      image-rendering: pixelated;
+    }
+  </style>
+
   {% set data = load_data(path = "static/items.csv", format = "csv") %}
   <table id="itemTable" class="table">
     <thead>
@@ -9,7 +16,7 @@
         {% for header in data.headers %}
           {% if loop.first %}
             <th>画像</th>
-		  {% elif loop.index == 7 %}
+          {% elif loop.index == 7 %}
           {% else %}
             <th>{{header}}</th>
           {% endif %}
@@ -23,14 +30,14 @@
         <tr>
           {% for cell in record %}
             {% if loop.first %}
-              <td>
-                <a href="/wiki/{{norm_name}}"><img src="/image/{{norm_name}}.png" loading="lazy"></a>
+              <td style="padding: 0;">
+                <a href="/wiki/{{norm_name}}"><img src="/image/{{norm_name}}.png" width="64px" height="64px" loading="lazy"></a>
               </td>
             {% elif loop.index == 2 %}
               <td>
                 <a href="/wiki/{{norm_name}}">{{cell}}</a>
               </td>
-			{% elif loop.index == 7 %}
+            {% elif loop.index == 7 %}
             {% else %}
               <td>{{cell}}</td>
             {% endif %}
@@ -41,36 +48,23 @@
   </table>
 
   <script>
-    /*
-  $(function () {
+    $(document).ready(function () {
       $('.table').tablesorter({
-        textExtraction: function (node) {
+        textExtraction: function (node, table, i) {
           var attr = $(node).attr('data-value');
+          var type = $(table)
+            .find(`thead tr th:nth-of-type(${i + 1})`)
+            .text()
           if (typeof attr !== 'undefined' && attr !== false) {
             return attr;
+          } else if (type == 'ID') {
+            var id = parseInt($(node).text().split('.').pop())
+            return id;
           }
           return $(node).text();
         }
       });
     });
-    */
-
-$(document).ready(function() {
-    $('.table').tablesorter({
-      textExtraction: function (node, table, i) {
-        var attr = $(node).attr('data-value');
-        var type = $(table).find(`thead tr th:nth-of-type(${i+1})`).text()
-        if (typeof attr !== 'undefined' && attr !== false) {
-          return attr;
-        } else if (type == 'ID') {
-          var id = parseInt($(node).text().split('.').pop())
-          return id;
-        }
-        return $(node).text();
-      }
-    });
-});
-
   </script>
 
 {% endblock %}
