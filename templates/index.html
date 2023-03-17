@@ -16,15 +16,14 @@
     </title>
 
     <!-- CSS -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
     <link rel="stylesheet" href="{{ get_url(path="print.css", trailing_slash=false) }}" media="print">
     <link rel="stylesheet" href="{{ get_url(path="poole.css", trailing_slash=false) }}">
     <link rel="stylesheet" href="{{ get_url(path="hyde.css", trailing_slash=false) }}">
     <link rel="stylesheet" href="{{ get_url(path="override.css", trailing_slash=false) }}">
 
-	<!-- icons -->
-	<link rel="shortcut icon" href="/image/sites/favicon.ico">
-	<link rel="apple-touch-icon" href="/image/sites/apple-touch-icon.png"/>
+    <!-- icons -->
+    <link rel="shortcut icon" href="/image/sites/favicon.ico">
+    <link rel="apple-touch-icon" href="/image/sites/apple-touch-icon.png"/>
 	
     {% if config.generate_feed %}
       <link rel="alternate" type={% if config.feed_filename == "atom.xml" %} "application/atom+xml" {% else %} "application/rss+xml" {% endif %} title="RSS" href="{{ get_url(path=config.feed_filename) | safe }}">
