@@ -1,0 +1,2 @@
+{% set imgpath = ["/image/", name, ".png"] | join() %}
+<img style="-ms-interpolation-mode: nearest-neighbor; image-rendering: pixelated;" width="{{ w }}" height="{{ h }}" src="{{ imgpath }}">
