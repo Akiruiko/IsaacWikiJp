@@ -425,12 +425,14 @@ a.pagination-item:hover {
   height: 80px
 }
 /*.tablesorter thのheightを80pxに統一 (みけち:2023/01/09追記。)*/
-.tablesorter th:nth-child(2), .tablesorter th:nth-child(3) {
-  width: 110px;
-}
+
+// .tablesorter th:nth-child(2), .tablesorter th:nth-child(3) {
+//   width: 110px;
+// }
 /*Itame Name、アイテム名のwidthをth:nth-child(2)とth:nth-child(3)で指定してwidth:110pxで統一した。
  *が、トリンケットは統一されたがアイテムの方は統一されていない、なぜ→おそらく英語の長さ分の許容範囲がある・・・？これ以上伸ばすとタブレットサイズに収まらないためまた考える。(みけち:2023/01/09追記。)
  */
+ 
 .tablesorter th::before, .tablesorter th::after{
   content: '';
   position: absolute;

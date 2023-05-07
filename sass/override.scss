@@ -14,6 +14,16 @@ body {
   font-size: 1.2rem
 }
 
+.sidebar-nav-item {
+  display: inline-block;
+}
+
+@media (min-width: 48em) {
+  .sidebar-nav-item {
+    display: block;
+  }
+}
+
 .post>p {
   margin-top: 2rem
 }
