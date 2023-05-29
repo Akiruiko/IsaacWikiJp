@@ -1,6 +1,6 @@
 +++
 title="スーパーシークレットルームについて"
-template="tipspage.html"
+template="tips.html"
 
 [extra]
 contributor="Owatax_"

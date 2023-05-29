@@ -19,7 +19,7 @@ Wikiの雛形として[英語Wiki](https://bindingofisaacrebirth.fandom.com/wiki
 
 Wiki編集メンバーとして有志を募集しています。以下に該当する方は是非とも運営メンバーにお声がけください。
 * The Binding of Isaac: Rebirthに興味がある、プレイ中、もっと深く知りたい
-* 英語翻訳ができる
+* 英語が読みたくてたまらない
 
 ## このサイトについて
 
@@ -40,6 +40,3 @@ Rust製の静的サイトジェネレータ[Zola](https://www.getzola.org/)を�
   + [@spring_call](https://twitter.com/spring_call)
 
 ---
-
-### Last Update: 2022-06-27
-
