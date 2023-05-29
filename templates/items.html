@@ -13,7 +13,14 @@
       image-rendering: pixelated;
     }
   </style>
-
+  <!--
+  <form class="js-filter-form list_checkbox">
+    <label><input type="checkbox" name="room-table" value="normal" checked>通常</label>
+    <label><input type="checkbox" name="room-table" value="devil" checked>悪魔</label>
+    <label><input type="checkbox" name="room-table" value="angel" checked>天使</label>
+    <label><input type="checkbox" name="room-table" value="shop" checked>店</label>
+  </form>
+  -->
   {% set data = load_data(path = "static/items.csv", format = "csv") %}
   <table id="itemTable" class="table">
     <thead>
@@ -69,6 +76,26 @@
           return $(node).text();
         }
       });
+    });
+    $(".js-filter-form :checkbox").on("click", function(){
+      var checked = [];
+      $(".js-filter-form :checked").each(function(){
+        checked.push($(this).val());
+      });
+        console.log(checked);
+        
+        $(".js-filter-items tbody tr").each(function(){
+            var cat = $(this).data("cat");
+            console.log(cat);
+            var is_exist = $.inArray( cat, checked );
+            console.log('exit' + is_exist);
+            if (is_exist != -1) {
+          $(this).removeClass("hidden");
+        
+        } else {
+          $(this).addClass("hidden");
+        }
+        });
     });
   </script>
 
