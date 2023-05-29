@@ -1,12 +1,10 @@
 +++
 title="【リペンタンス追加ボス:ビースト編】"
-template="tips.html"
+template="page.html"
 
 [extra]
 contributor="Isaac JP"
 +++
-
----
 
 ##### 前提
 

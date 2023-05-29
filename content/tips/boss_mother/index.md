@@ -1,6 +1,6 @@
 +++
 title="リペンタンス追加ボス:マザー編"
-template="tips.html"
+template="page.html"
 
 [extra]
 contributor="Isaac JP"

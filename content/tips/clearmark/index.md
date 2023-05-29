@@ -1,6 +1,6 @@
 +++
 title="クリアマークについて"
-template="tips.html"
+template="page.html"
 
 [extra]
 contributor="Isaac JP"

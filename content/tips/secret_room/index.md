@@ -1,6 +1,6 @@
 +++
 title="シークレットルームについて"
-template="tips.html"
+template="page.html"
 
 [extra]
 contributor="Owatax_"
