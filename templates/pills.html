@@ -1,0 +1,59 @@
+{% extends "index.html" %}
+
+{% block extra_head %}
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script type="text/javascript"
+    src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.0/js/jquery.tablesorter.min.js"></script>
+{% endblock %}
+
+{% block content %}
+
+<!-- ピクセルアート用の読み込み -->
+<style>
+    img {
+        image-rendering: pixelated;
+    }
+</style>
+
+{% set data = load_data(path = "static/pills.csv", format = "csv") %}
+<table id="itemTable" class="table">
+    <thead>
+        <tr>
+            {% for header in data.headers %}
+            <th>{{header}}</th>
+            {% endfor %}
+        </tr>
+    </thead>
+
+    <tbody>
+        {% for record in data.records %}
+        <tr>
+            {% for cell in record %}
+            <td>{{cell}}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<script>
+    $(document).ready(function () {
+        $('.table').tablesorter({
+            textExtraction: function (node, table, i) {
+                var attr = $(node).attr('data-value');
+                var type = $(table)
+                    .find(`thead tr th:nth-of-type(${i + 1})`)
+                    .text()
+                if (typeof attr !== 'undefined' && attr !== false) {
+                    return attr;
+                } else if (type == 'ID') {
+                    var id = parseInt($(node).text().split('.').pop())
+                    return id;
+                }
+                return $(node).text();
+            }
+        });
+    });
+</script>
+
+{% endblock %}
