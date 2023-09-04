@@ -39,6 +39,7 @@
     <tbody>
       {% for record in data.records %}
         {% set_global norm_name = record[0] %}
+        {% set_global pools = record[7] %}
         <tr>
           {% for cell in record %}
             {% if loop.first %}
@@ -50,6 +51,27 @@
                 <a href="/wiki/{{norm_name}}">{{cell}}</a>
               </td>
             {% elif loop.index == 7 %}
+            {% elif loop.index == 8 %}
+              <td>
+                {% if "treasure" in pools %}
+                  <img src="/image/rooms/lockeditemroomdoor.png" width="32px" height="32px" loading="lazy">
+                {% endif %}
+                {% if "devil" in pools %}
+                  <img src="/image/rooms/devil_room.png" width="32px" height="32px" loading="lazy">
+                {% endif %}
+                {% if "angel" in pools %}
+                  <img src="/image/rooms/angel_room.png" width="32px" height="32px" loading="lazy">
+                {% endif %}
+                {% if "shop" in pools %}
+                  <img src="/image/rooms/shop_door_locked.png" width="32px" height="32px" loading="lazy">
+                {% endif %}
+                {% if "secret" in pools %}
+                  <img src="/image/rooms/secret_room_door.png" width="32px" height="32px" loading="lazy">
+                {% endif %}
+                {% if "Boss" in pools %}
+                  <img src="/image/rooms/bossroom.png" width="32px" height="32px" loading="lazy">
+                {% endif %}
+              </td>
             {% else %}
               <td>{{cell}}</td>
             {% endif %}
