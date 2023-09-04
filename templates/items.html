@@ -39,7 +39,7 @@
     <tbody>
       {% for record in data.records %}
         {% set_global norm_name = record[0] %}
-        {% set_global pools = record[7] %}
+        {% set_global pools = record[8] %}
         <tr>
           {% for cell in record %}
             {% if loop.first %}
@@ -51,7 +51,7 @@
                 <a href="/wiki/{{norm_name}}">{{cell}}</a>
               </td>
             {% elif loop.index == 7 %}
-            {% elif loop.index == 8 %}
+            {% elif loop.index == 9 %}
               <td>
                 {% if "treasure" in pools %}
                   <img src="/image/rooms/lockeditemroomdoor.png" width="32px" height="32px" loading="lazy">
