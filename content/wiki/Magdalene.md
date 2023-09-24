@@ -57,8 +57,8 @@
 * トリンケットの[![image](/image/AAA_Battery.png)](/wiki/AAA_Battery "AAA Battery") [AAA Battery](/wiki/AAA_Battery "AAA Battery")は3部屋クリアした時点で[![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart")のチャージを直ちに4にする。
 * [![image](/image/Guppy%27s_Paw.png)](/wiki/Guppy%27s_Paw "Guppy's Paw") [Guppy's Paw](/wiki/Guppy%27s_Paw "Guppy's Paw")はマグダーレンの初期ハートコンテナ4つをハート所持限界のソウルハート12個に変換する。
 * [![image](/image/Habit.png)](/wiki/Habit "Habit") [Habit](/wiki/Habit "Habit")と[![image](/image/9_Volt.png)](/wiki/9_Volt "9 Volt") [9 Volt](/wiki/9_Volt "9 Volt")は[![image](/image/Yum_Heart.png)](/wiki/Yum_Heart "Yum Heart") [Yum Heart](/wiki/Yum_Heart "Yum Heart")を持っているならより早くチャージができるため、体力回復に役立つアイテムとなる。
-* [![image](/image/Leech.png)](/wiki/Leech "Leech") [Leech](/wiki/Leech "Leech")と[![image](/image/Charm_of_Vampire.png)](/wiki/Charm_of_Vampire "Charm of Vampire") [Charm of Vampire](/wiki/Charm_of_Vampire "Charm of Vampire")は敵を倒すことで体力回復ができるため有用です。
-* [![image](/image/Old_Vandage.png)](/wiki/Old_Vandage "Old Vandage") [Old Vandage](/wiki/Old_Vandage "Old Vandage")はダメージを受けた時に確率でハートをドロップするため、体力が低いときに便利かもしれない。
+* [![image](/image/Leech.png)](/wiki/Leech "Leech") [Leech](/wiki/Leech "Leech")と[![image](/image/Charm_of_the_Vampire.png)](/wiki/Charm_of_the_Vampire "Charm of the Vampire") [Charm of the Vampire](/wiki/Charm_of_the_Vampire "Charm of the Vampire")は敵を倒すことで体力回復ができるため有用です。
+* [![image](/image/Old_Bandage.png)](/wiki/Old_Bandage "Old Bandage") [Old Bandage](/wiki/Old_Bandage "Old Bandage")はダメージを受けた時に確率でハートをドロップするため、体力が低いときに便利かもしれない。
 * [![image](/image/Placenta.png)](/wiki/Placenta "Placenta") [Placenta](/wiki/Placenta "Placenta")の再生効果はマグダーレンの自己治癒の補助となる。Little C.H.A.Dの赤ハート生成効果や類似の治癒効果も同様。
 * [![image](/image/The_Wafer.png)](/wiki/The_Wafer "The Wafer") [The Wafer](/wiki/The_Wafer "The Wafer")はマグダーレンの体力重視なプレイスタイルを手助けする。
 * Shielding items can be used to compensate for Magdalene's low speed. ([![image](/image/Infamy.png)](/wiki/Infamy "Infamy") [Infamy](/wiki/Infamy "Infamy"), [![image](/image/Holy_Mantle.png)](/wiki/Holy_Mantle "Holy Mantle") [Holy Mantle](/wiki/Holy_Mantle "Holy Mantle")...)
