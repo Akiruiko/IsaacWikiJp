@@ -229,7 +229,7 @@ Midas%27_Touch,Midas' Touch,マイダスタッチ,5.100.202,"アイザックに�
 Humbling_Bundle,Humbling Bundle,ハンブリングバンドル,5.100.203,"爆弾と鍵とコインと赤ハートが2個バージョンに変化する。
 これは50%の確率で発生する。",3,Rebirth,パッシブ,"shop,"
 Fanny_Pack,Fanny Pack,ファニーパック,5.100.204,アイザックがダメージを受けた時に確率でランダムなピックアップをドロップする。,1,Rebirth,パッシブ,"shop,beggar,greedShop,"
-Sharp_Plug,Sharp Plug,シャーププラグ,5.100.205,アイザックがダメージを受けた時に現在持っているアクティブアイテムをフルチャージにする。,1,Rebirth,パッシブ,"shop,batteryBum,"
+Sharp_Plug,Sharp Plug,シャーププラグ,5.100.205,ダメージを受けることと引き換えにアクティブアイテムをフルチャージできる。,1,Rebirth,パッシブ,"shop,batteryBum,"
 Guillotine,Guillotine,ギロチン,5.100.206,"アイザックの頭が体から離れ、オービタルのように体の周りを回る。
 ダメージ+1、ティアディレイ-1。",2,Rebirth,パッシブ,"treasure,greedTreasure,"
 Ball_of_Bandages,Ball of Bandages,包帯ボール,5.100.207,"敵の弾を防ぎ秒間56/105ダメージを与えるオービタルを生成する。
