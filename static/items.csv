@@ -326,7 +326,7 @@ Bob%27s_Brain,Bob's Brain,ボブの脳みそ,5.100.273,"弾を撃っている方
 爆発後は数秒後にリスポーンする。",1,Rebirth,パッシブ,"treasure,greedTreasure,babyShop,rottenBeggar,"
 Best_Bud,Best Bud,ベストバディー,5.100.274,"ダメージを受けた時、その部屋内だけForever Aloneのような早いオービタルの攻撃ハエを生成する。
 秒間150ダメージ。",0,Rebirth,パッシブ,"treasure,greedTreasure,babyShop,"
-Lil_Brimstone,Lil Brimstone,小さなブリムストーン,5.100.275,アイザックが弾を撃っている間溜めて細いブリムストーンレーザーを撃つファミリアを得る。,3,Rebirth,パッシブ,"treasure,devil,babyShop,"
+Lil_Brimstone,Lil Brimstone,小さなブリムストーン,5.100.275,アイザックが弾を撃っている間溜めて細いブリムストーンレーザーを撃つファミリアを得る。,2,Rebirth,パッシブ,"treasure,devil,babyShop,"
 Isaac%27s_Heart,Isaac's Heart,アイザックの心臓,5.100.276,"アイザックは全てのダメージを無効化して、心臓のファミリアが付いてくるようになる。
 心臓が傷付いたとき、アイザックも傷付く。
 心臓はアイザックが撃っている間ゲージを溜めて、離した時に8方向へ血を撃ち敵をノックバックさせて、クリープの水たまりを残す。",0,Rebirth,パッシブ,"treasure,ultraSecret,"
