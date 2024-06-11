@@ -229,7 +229,7 @@ Midas%27_Touch,Midas' Touch,マイダスタッチ,5.100.202,"アイザックに�
 Humbling_Bundle,Humbling Bundle,ハンブリングバンドル,5.100.203,"爆弾と鍵とコインと赤ハートが2個バージョンに変化する。
 これは50%の確率で発生する。",3,Rebirth,パッシブ,"shop,"
 Fanny_Pack,Fanny Pack,ファニーパック,5.100.204,アイザックがダメージを受けた時に確率でランダムなピックアップをドロップする。,1,Rebirth,パッシブ,"shop,beggar,greedShop,"
-Sharp_Plug,Sharp Plug,シャーププラグ,5.100.205,アイザックがダメージを受けた時に現在持っているアクティブアイテムをフルチャージにする。,1,Rebirth,パッシブ,"shop,batteryBum,"
+Sharp_Plug,Sharp Plug,シャーププラグ,5.100.205,ダメージを受けることと引き換えにアクティブアイテムをフルチャージできる。,1,Rebirth,パッシブ,"shop,batteryBum,"
 Guillotine,Guillotine,ギロチン,5.100.206,"アイザックの頭が体から離れ、オービタルのように体の周りを回る。
 ダメージ+1、ティアディレイ-1。",2,Rebirth,パッシブ,"treasure,greedTreasure,"
 Ball_of_Bandages,Ball of Bandages,包帯ボール,5.100.207,"敵の弾を防ぎ秒間56/105ダメージを与えるオービタルを生成する。
@@ -326,7 +326,7 @@ Bob%27s_Brain,Bob's Brain,ボブの脳みそ,5.100.273,"弾を撃っている方
 爆発後は数秒後にリスポーンする。",1,Rebirth,パッシブ,"treasure,greedTreasure,babyShop,rottenBeggar,"
 Best_Bud,Best Bud,ベストバディー,5.100.274,"ダメージを受けた時、その部屋内だけForever Aloneのような早いオービタルの攻撃ハエを生成する。
 秒間150ダメージ。",0,Rebirth,パッシブ,"treasure,greedTreasure,babyShop,"
-Lil_Brimstone,Lil Brimstone,小さなブリムストーン,5.100.275,アイザックが弾を撃っている間溜めて細いブリムストーンレーザーを撃つファミリアを得る。,3,Rebirth,パッシブ,"treasure,devil,babyShop,"
+Lil_Brimstone,Lil Brimstone,小さなブリムストーン,5.100.275,アイザックが弾を撃っている間溜めて細いブリムストーンレーザーを撃つファミリアを得る。,2,Rebirth,パッシブ,"treasure,devil,babyShop,"
 Isaac%27s_Heart,Isaac's Heart,アイザックの心臓,5.100.276,"アイザックは全てのダメージを無効化して、心臓のファミリアが付いてくるようになる。
 心臓が傷付いたとき、アイザックも傷付く。
 心臓はアイザックが撃っている間ゲージを溜めて、離した時に8方向へ血を撃ち敵をノックバックさせて、クリープの水たまりを残す。",0,Rebirth,パッシブ,"treasure,ultraSecret,"
@@ -950,7 +950,7 @@ Keeper%27s_Sack,Keeper's Sack,キーパーズ サック,5.100.716,ショップ�
 Keeper%27s_Kin,Keeper's Kin,キーパーズ キン,5.100.717,岩と小物は、敵がいる部屋にいる間、時間経過で青いクモをスポーンし、岩と小物を破壊すると青いクモを二匹スポーンするようになる。,2,Repentance,パッシブ,"treasure,secret,greedTreasure,greedSecret,"
 Keeper%27s_Box,Keeper's Box,キーパーズ ボックス,5.100.719,通常価格で購入することのできるショップアイテムやピックアップがランダムに１つスポーンする。,2,Repentance,アクティブ,"shop,secret,greedTreasure,greedSecret,woodenChest,"
 Everything_Jar,Everything Jar,エブリシング ジャー,5.100.720,チャージ数に応じたピックアップをドロップします。チャージが最大の場合はランダムに特殊な効果が発生します。,2,Repentance,アクティブ,"treasure,greedTreasure,craneGame,"
-TMTRAINER,TMTRAINER,バグ技,5.100.721,これから出現する全てのアイテムをグリッチアイテムにする。グリッチアイテムはランダムな効果が組み合わされたものとなる。,2,Repentance,パッシブ,"secret,greedTreasure,greedShop,greedSecret,"
+TMTRAINER,TMTRAINER,バグ技,5.100.721,これから出現する全てのアイテムをグリッチアイテムにする。グリッチアイテムはランダムな効果が組み合わされたものとなる。,0,Repentance,パッシブ,"secret,greedTreasure,greedShop,greedSecret,"
 Anima_Sola,Anima Sola,アニマ ソラ,5.100.722,最も近くにいる敵を鎖で縛り5秒間行動不能にする。,3,Repentance,アクティブ,"treasure,greedTreasure,greedShop,"
 Spindown_Dice,Spindown Dice,スピンダウン ダイス,5.100.723,部屋の全てのアイテムを内部アイテムIDを1つ下げた物に変更する。,4,Repentance,アクティブ,"treasure,secret,greedTreasure,greedShop,greedSecret,craneGame,"
 Hypercoagulation,Hypercoagulation,ハイパーコアギュレイション,5.100.724,アイザックが敵からダメージを受けたり体力を失うとアイザックから赤ハートがドロップする。この赤ハートは1.5秒後に消える。,3,Repentance,パッシブ,"treasure,greedTreasure,ultraSecret,"
