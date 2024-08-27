@@ -108,4 +108,4 @@ Lazarus Risenは、ゲームではLazarusと別のキャラクターとみなさ
 * [![image](/image/achievements/Tinytoma.png)](/wiki/Tinytoma "Tinytoma") [Tinytoma](/wiki/Tinytoma "Tinytoma") - (Added in Repentance) Motherをラザラスで倒す。
 * [![image](/image/achievements/Astral_Projection.png)](/wiki/Astral_Projection "Astral Projection") [Astral Projection](/wiki/Astral_Projection "Astral Projection") - (Added in Repentance) The Beastをラザラスで倒す。
 * [![image](/image/achievements/The_Enigma.png)](/wiki/The_Enigma "The Enigma") [The Enigma](/wiki/The_Enigma "The Enigma") - (Added in Repentance) ラザラスでRed Keyを使いHomeにある隠されたクローゼットを開く。
-* [![image](/image/achievements/Sale_Baby.png)](/wiki/Sale_Baby "Sale Baby") [Sale Baby](/wiki/Sale_Baby "Sale Baby") - (Added in Afterbirth) ラザラスですべてのハードモード完了のマークを獲得する。
+* [![image](/image/achievements/Dripping_Baby.png)](/wiki/Dripping_Baby "Dripping Baby") [Dripping Baby](/wiki/Dripping_Baby "Dripping Baby") - (Added in Afterbirth) ラザラスですべてのハードモード完了のマークを獲得する。
