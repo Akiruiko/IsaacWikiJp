@@ -44,9 +44,9 @@
 * [![image](/image/achievements/Isaac%27s_Head.png)](/wiki/Isaac%27s_Head "Isaac's Head") [Isaac's Head](/wiki/Isaac%27s_Head "Isaac's Head") - アイザックでボスラッシュを完了する。
 * [![image](/image/achievements/Lost_Baby.png)](/wiki/Lost_Baby "Lost Baby") [Lost Baby](/wiki/Lost_Baby "Lost Baby") - ハードモードのMom's Heartをアイザックで倒す。
 * [![image](/image/achievements/Mom%27s_Knife.png)](/wiki/Mom%27s_Knife "Mom's Knife") [Mom's Knife](/wiki/Mom%27s_Knife "Mom's Knife") - Satanをアイザックで倒す。
-* [![image](/image/achievements/Isaac%27s_Tears.png)](/wiki/Isaac%27s_Tears "Isaac's_Tears") [Isaac's_Tears](/wiki/Isaac%27s_Tears "Isaac's_Tears") - Issacをアイザックで倒す。
+* [![image](/image/achievements/Isaac%27s_Tears.png)](/wiki/Isaac%27s_Tears "Isaac's Tears") [Isaac's Tears](/wiki/Isaac%27s_Tears "Isaac's Tears") - Issacをアイザックで倒す。
 * [![image](/image/achievements/Missing_Poster.png)](/wiki/Missing_Poster "Missing Poster") [Missing Poster](/wiki/Missing_Poster "Missing Poster") - The Lambをアイザックで倒す。
-* [![image](/image/achievements/Isaac%27s_Tears.png)](/wiki/Isaac%27s_Tears "Isaac's Tears") [Isaac's Tears](/wiki/Isaac%27s_Tears "Isaac's Tears") - ???をアイザックで倒す。
+* [![image](/image/achievements/D20.png)](/wiki/D20 "D20") [D20](/wiki/D20 "D20") - ???をアイザックで倒す。
 * [![image](/image/achievements/Lil%27_Chest.png)](/wiki/Lil_Chest "Lil Chest") [Lil Chest](/wiki/Lil_Chest "Lil Chest") - (Added in Afterbirth) Ultra Greedをアイザックで倒す。
 * [![image](/image/achievements/D1.png)](/wiki/D1 "D1") [D1](/wiki/D1 "D1") - (Added in Afterbirth+) Ultra Greedierをアイザックで倒す。
 * [![image](/image/achievements/Fart_Baby.png)](/wiki/Fart_Baby "Fart Baby") [Fart Baby](/wiki/Fart_Baby "Fart Baby") - (Added in Afterbirth) Hushをアイザックで倒す。
