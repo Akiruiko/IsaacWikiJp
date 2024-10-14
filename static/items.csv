@@ -629,7 +629,6 @@ King_Baby,King Baby,キングベイビー,5.100.472,"アイザックに付いて
 Big_Chubby,Big Chubby,ビッグ チャビー,5.100.473,アイザックに付いてきて弾を撃っている間部屋を横切るように突進して敵の弾を防ぎ、秒間40.5ダメージを与えるファミリアをスポーンする。,1,AB+,パッシブ,"treasure,greedTreasure,babyShop,"
 Broken_Glass_Cannon,Broken Glass Cannon,壊れたガラスの大砲,5.100.474,"チャージなしで出現して使用するとGlass Cannonに変化する。
 Glass Cannonを所持している状態でダメージを受けたときのみ取得する。",0,Repentance,アクティブ,
-Tonsil,Tonsil,,5.100.474,敵の弾を防ぐファミリアを得る。,,AB+,パッシブ,
 Plan_C,Plan C,プランＣ,5.100.475,部屋内の全ての敵を倒し、その3秒後に自身が死亡する。,0,AB+,アクティブ,"shop,devil,redChest,demonBeggar,curse,greedShop,greedCurse,ultraSecret,"
 D1,D1,Ｄ１,5.100.476,部屋内のランダムなピックアップを複製する。,2,AB+,アクティブ,"treasure,greedShop,craneGame,"
 Void,Void,ボイド,5.100.477,"部屋内の全ての台座にあるアイテムを消費する。
