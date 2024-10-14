@@ -3,7 +3,7 @@ The_Sad_Onion,The Sad Onion,悲しみオニオン,5.100.1,ティア+0.7。,3,Reb
 The_Inner_Eye,The Inner Eye,心眼,5.100.2,三方向ショットを付与する、ただしティアは低下する。,2,Rebirth,パッシブ,"treasure,greedTreasure,"
 Spoon_Bender,Spoon Bender,スプーン曲げ,5.100.3,誘導ティアを付与する。,3,Rebirth,パッシブ,"treasure,greedTreasure,craneGame,"
 Cricket%27s_Head,Cricket's Head,クリケットの頭,5.100.4,ダメージ+0.5、ダメージ倍率x1.5。,4,Rebirth,パッシブ,"treasure,greedTreasure,craneGame,"
-My_Reflection,My Reflection,リフレクション,5.100.5,ティアにブーメラン効果。レンジ+1.5、ティアの高さ+1.0、ショットスピードx1.6。,0,Rebirth,パッシブ,"treasure,greedTreasure,craneGame,"
+My_Reflection,My Reflection,リフレクション,5.100.5,ティアにブーメラン効果。レンジ+1.5、ティアの高さ+1.0、ショットスピードx1.6。,2,Rebirth,パッシブ,"treasure,greedTreasure,craneGame,"
 Number_One,Number One,ナンバー ワン,5.100.6,ティア+1.5、ただしレンジが極端に短くなる。,2,Rebirth,パッシブ,"treasure,greedTreasure,"
 Blood_of_the_Martyr,Blood of the Martyr,殉教者の血,5.100.7,ダメージ+1、アイザックの涙が血の涙になる。,3,Rebirth,パッシブ,"treasure,angel,greedTreasure,greedAngel,woodenChest,"
 Brother_Bobby,Brother Bobby,ボビー君,5.100.8,アイザックについてくる、通常弾を撃つファミリアをスポーンする。,1,Rebirth,パッシブ,"treasure,devil,greedTreasure,babyShop,"
@@ -88,7 +88,7 @@ Dead_Cat,Dead Cat,ねこのしかばね,5.100.81,"アイザックの赤ハート
 死亡後に赤ハートコンテナ1つで復活する。",3,Rebirth,パッシブ,"devil,redChest,curse,greedCurse,greedDevil,"
 Lord_of_the_Pit,Lord of the Pit,奈落の王,5.100.82,飛行能力をを得る。スピード+0.3。,3,Rebirth,パッシブ,"devil,demonBeggar,greedDevil,ultraSecret,"
 The_Nail,The Nail,釘,5.100.83,黒ハート半分を得る。現在の部屋でダメージ+2.0、スピード-0.18。岩を壊せるようになり敵との接触時にダメージを与える。,3,Rebirth,アクティブ,"devil,demonBeggar,greedDevil,"
-We_Need_to_Go_Deeper!,We Need to Go Deeper!,もっと深く！,5.100.84,次の階層へ続くトラップドアを生成する。通常とは異なるグラフィックのタイル上で使用した場合はクロールスペースを生成する。,0,Rebirth,アクティブ,"devil,secret,greedShop,greedSecret,"
+We_Need_to_Go_Deeper!,We Need to Go Deeper!,もっと深く！,5.100.84,次の階層へ続くトラップドアを生成する。通常とは異なるグラフィックのタイル上で使用した場合はクロールスペースを生成する。,2,Rebirth,アクティブ,"devil,secret,greedShop,greedSecret,"
 Deck_of_Cards,Deck of Cards,カードのデッキ,5.100.85,使用するとランダムなカードを1枚得る。,2,Rebirth,アクティブ,"treasure,shop,greedTreasure,craneGame,"
 Monstro%27s_Tooth,Monstro's Tooth,モンストロの歯,5.100.86,"友好的なモンストロがランダムな敵に向かってジャンプし、付近に120ダメージを与える。
 敵のいない部屋で使用するとアイザックめがけて着地する。",1,Rebirth,アクティブ,"treasure,"
@@ -104,7 +104,7 @@ Sack_of_Pennies,Sack of Pennies,サック オブ ぺニーズ,5.100.94,2部屋�
 Robo-Baby,Robo-Baby,ロボベイビー,5.100.95,Technologyのレーザーを発射するファミリアをスポーンする。,1,Rebirth,パッシブ,"treasure,greedTreasure,craneGame,babyShop,"
 Little_C.H.A.D.,Little C.H.A.D.,リトルチャッド,5.100.96,3部屋毎に赤い半ハートを落とすファミリアをスポーンする。,2,Rebirth,パッシブ,"treasure,greedTreasure,ultraSecret,babyShop,"
 The_Book_of_Sin,The Book of Sin,罪の書,5.100.97,使用するとピル、カード、ルーンなどのピックアップアイテムをランダムに1つスポーンする。,2,Rebirth,アクティブ,"treasure,devil,library,greedTreasure,greedDevil,"
-The_Relic,The Relic,遺物,5.100.98,7~8部屋毎にソウルハートをドロップする十字架のファミリアをスポーンする。,4,Rebirth,パッシブ,"treasure,angel,greedTreasure,"
+The_Relic,The Relic,遺物,5.100.98,7~8部屋毎にソウルハートをドロップする十字架のファミリアをスポーンする。,3,Rebirth,パッシブ,"treasure,angel,greedTreasure,"
 Little_Gish,Little Gish,リトル ギッシュ,5.100.99,アイザックに付いてきて、敵の動きを遅くする弾を撃つファミリアをスポーンする。,2,Rebirth,パッシブ,"treasure,greedTreasure,babyShop,"
 Little_Steven,Little Steven,リトル スティーブン,5.100.100,アイザックに付いてきて、誘導弾を撃つファミリアをスポーンする。,1,Rebirth,パッシブ,"treasure,greedTreasure,babyShop,"
 The_Halo,The Halo,ヘイロー,5.100.101,赤ハートコンテナ+1、ダメージ+0.3、ティア+0.2、レンジ+0.38、スピード+0.3、ティアハイト+0.5,2,Rebirth,パッシブ,"treasure,angel,greedTreasure,greedBoss,"
@@ -229,7 +229,7 @@ Midas%27_Touch,Midas' Touch,マイダスタッチ,5.100.202,"アイザックに�
 Humbling_Bundle,Humbling Bundle,ハンブリングバンドル,5.100.203,"爆弾と鍵とコインと赤ハートが2個バージョンに変化する。
 これは50%の確率で発生する。",3,Rebirth,パッシブ,"shop,"
 Fanny_Pack,Fanny Pack,ファニーパック,5.100.204,アイザックがダメージを受けた時に確率でランダムなピックアップをドロップする。,1,Rebirth,パッシブ,"shop,beggar,greedShop,"
-Sharp_Plug,Sharp Plug,シャーププラグ,5.100.205,ダメージを受けることと引き換えにアクティブアイテムをフルチャージできる。,1,Rebirth,パッシブ,"shop,batteryBum,"
+Sharp_Plug,Sharp Plug,シャーププラグ,5.100.205,アイザックがダメージを受けた時に現在持っているアクティブアイテムをフルチャージにする。,1,Rebirth,パッシブ,"shop,batteryBum,"
 Guillotine,Guillotine,ギロチン,5.100.206,"アイザックの頭が体から離れ、オービタルのように体の周りを回る。
 ダメージ+1、ティアディレイ-1。",2,Rebirth,パッシブ,"treasure,greedTreasure,"
 Ball_of_Bandages,Ball of Bandages,包帯ボール,5.100.207,"敵の弾を防ぎ秒間56/105ダメージを与えるオービタルを生成する。
@@ -270,7 +270,7 @@ Stop_Watch,Stop Watch,ストップウォッチ,5.100.232,"スピード+0.3。
 Tiny_Planet,Tiny Planet,ちっちゃな惑星,5.100.233,"レンジを大幅にアップ。涙に地形貫通を与える。
 涙が地面に落ちるまで、アイザックの周囲を一定の距離で周回するようになる。
 涙は発射ボタンを押した方向にわずかにシフトする。",0,Rebirth,パッシブ,"treasure,greedTreasure,"
-Infestation_2,Infestation 2,感染者２,5.100.234,倒した敵から味方の青クモをスポーンさせる。,4,Rebirth,パッシブ,"treasure,greedTreasure,"
+Infestation_2,Infestation 2,感染者２,5.100.234,倒した敵から味方の青クモをスポーンさせる。,3,Rebirth,パッシブ,"treasure,greedTreasure,"
 E._Coli,E. Coli,大腸菌,5.100.236,アイザックに触れた敵をうんちに変化させる。,1,Rebirth,パッシブ,"treasure,greedTreasure,"
 Death%27s_Touch,Death's Touch,死神タッチ,5.100.237,ダメージ+1.5、ティア-0.3。涙は、当たり判定が大きく敵を貫通する鎌に変化する。,3,Rebirth,パッシブ,"treasure,devil,greedTreasure,greedDevil,"
 Key_Piece_1,Key Piece 1,カギのかけら１,5.100.238,"Key Piece 2と組み合わせることで、チェストまたはダークルームにあるゴールデンゲートのカギを開け、メガサタンと戦うことができる。
@@ -303,7 +303,7 @@ Fire_Mind,Fire Mind,ファイヤーマインド,5.100.257,"継続ダメージを
 Missing_No.,Missing No.,けつばん,5.100.258,このアイテムを取得したときと各階層のスタート時に全てのパッシブアイテムとステータスをランダム化する。,2,Rebirth,パッシブ,"secret,greedTreasure,greedSecret,"
 Dark_Matter,Dark Matter,ダークマター,5.100.259,ダメージ+1、確率で恐怖効果の弾を撃つ。,3,Rebirth,パッシブ,"devil,demonBeggar,greedDevil,"
 Black_Candle,Black Candle,ブラックキャンドル,5.100.260,呪いを防ぐ。黒ハートを1つ得る。悪魔/天使部屋の出現確率が上昇する。,3,Rebirth,パッシブ,"shop,curse,greedShop,greedCurse,"
-Proptosis,Proptosis,プロップトーシス,5.100.261,弾が大きく高いダメージで打ち出され、短い距離で小さくなるとともに弱くなる。,4,Rebirth,パッシブ,"treasure,greedTreasure,ultraSecret,"
+Proptosis,Proptosis,プロップトーシス,5.100.261,弾が大きく高いダメージで打ち出され、短い距離で小さくなるとともに弱くなる。,3,Rebirth,パッシブ,"treasure,greedTreasure,ultraSecret,"
 Missing_Page_2,Missing Page 2,失われたページ２,5.100.262,"黒ハートを1つ得る。1ハート以下になるダメージを受けた時に部屋全体の敵に80ダメージを与える。
 黒ハートとネクロノミコン系の効果が40ダメージ増加する。",0,Rebirth,パッシブ,"devil,secret,demonBeggar,greedSecret,"
 Clear_Rune,Clear Rune,クリア ルーン,5.100.263,自身が所持しているルーンかソウルストーンと同じ効果を発揮する。,2,Repentance,アクティブ,"secret,greedSecret,craneGame,"
@@ -326,7 +326,7 @@ Bob%27s_Brain,Bob's Brain,ボブの脳みそ,5.100.273,"弾を撃っている方
 爆発後は数秒後にリスポーンする。",1,Rebirth,パッシブ,"treasure,greedTreasure,babyShop,rottenBeggar,"
 Best_Bud,Best Bud,ベストバディー,5.100.274,"ダメージを受けた時、その部屋内だけForever Aloneのような早いオービタルの攻撃ハエを生成する。
 秒間150ダメージ。",0,Rebirth,パッシブ,"treasure,greedTreasure,babyShop,"
-Lil_Brimstone,Lil Brimstone,小さなブリムストーン,5.100.275,アイザックが弾を撃っている間溜めて細いブリムストーンレーザーを撃つファミリアを得る。,2,Rebirth,パッシブ,"treasure,devil,babyShop,"
+Lil_Brimstone,Lil Brimstone,小さなブリムストーン,5.100.275,アイザックが弾を撃っている間溜めて細いブリムストーンレーザーを撃つファミリアを得る。,3,Rebirth,パッシブ,"treasure,devil,babyShop,"
 Isaac%27s_Heart,Isaac's Heart,アイザックの心臓,5.100.276,"アイザックは全てのダメージを無効化して、心臓のファミリアが付いてくるようになる。
 心臓が傷付いたとき、アイザックも傷付く。
 心臓はアイザックが撃っている間ゲージを溜めて、離した時に8方向へ血を撃ち敵をノックバックさせて、クリープの水たまりを残す。",0,Rebirth,パッシブ,"treasure,ultraSecret,"
@@ -508,7 +508,7 @@ Tractor_Beam,Tractor Beam,トラクタービーム,5.100.397,"ティアとレン
 アイザックの顔からビームが発射され、弾はそれに追随する。",3,AB,パッシブ,"treasure,greedTreasure,craneGame,"
 God%27s_Flesh,God's Flesh,神々の肉,5.100.398,"弾が確率で敵を小さくし、アイザックから逃げる。
 小さくなった敵は踏みつぶすことで倒せる。",1,AB,パッシブ,"treasure,greedTreasure,"
-Maw_of_the_Void,Maw of the Void,モー オブ ザ ボイド,5.100.399,2.35秒溜めてから離すと素早くダメージを与える黒い円をアイザックの周りに出す。,4,AB,パッシブ,"devil,greedDevil,ultraSecret,"
+Maw_of_the_Void,Maw of the Void,モー オブ ザ ボイド,5.100.399,2.35秒溜めてから離すと素早くダメージを与える黒い円をアイザックの周りに出す。,3,AB,パッシブ,"devil,greedDevil,ultraSecret,"
 Spear_of_Destiny,Spear of Destiny,因縁のスピア,5.100.400,"涙に加えてアイザックが前に槍を突き出す。
 槍はダメージの2倍と同じ接触ダメージを与え、時折恐怖効果を与える。",1,AB,パッシブ,"angel,greedAngel,"
 Explosivo,Explosivo,エクスプロシボ,5.100.401,弾が確率で敵に張り付き爆発する。,2,AB,パッシブ,"treasure,greedTreasure,"
@@ -631,11 +631,11 @@ Broken_Glass_Cannon,Broken Glass Cannon,壊れたガラスの大砲,5.100.474,"�
 Glass Cannonを所持している状態でダメージを受けたときのみ取得する。",0,Repentance,アクティブ,
 Tonsil,Tonsil,,5.100.474,敵の弾を防ぐファミリアを得る。,,AB+,パッシブ,
 Plan_C,Plan C,プランＣ,5.100.475,部屋内の全ての敵を倒し、その3秒後に自身が死亡する。,0,AB+,アクティブ,"shop,devil,redChest,demonBeggar,curse,greedShop,greedCurse,ultraSecret,"
-D1,D1,Ｄ１,5.100.476,部屋内のランダムなピックアップを複製する。,4,AB+,アクティブ,"treasure,greedShop,craneGame,"
+D1,D1,Ｄ１,5.100.476,部屋内のランダムなピックアップを複製する。,2,AB+,アクティブ,"treasure,greedShop,craneGame,"
 Void,Void,ボイド,5.100.477,"部屋内の全ての台座にあるアイテムを消費する。
 アクティブアイテムの効果はVoidに付与され、パッシブアイテムはランダムなステータスアップを得る。",4,AB+,アクティブ,"devil,angel,greedShop,"
 Pause,Pause,一時停止,5.100.478,弾の発射ボタンが押されるまで、全ての敵の動きを止める。,1,AB+,アクティブ,"treasure,greedShop,craneGame,"
-Smelter,Smelter,スメルター,5.100.479,自身が今持っているトリンケットを消費し、その効果が恒久的に付与される。,3,AB+,アクティブ,"shop,"
+Smelter,Smelter,スメルター,5.100.479,自身が今持っているトリンケットを消費し、その効果が恒久的に付与される。,2,AB+,アクティブ,"shop,"
 Compost,Compost,コンポスト,5.100.480,"アイザックの青ハエと青クモを2倍に増やし、1匹も持っていない場合は1匹スポーンさせる。
 部屋内のピックアップを青ハエか青クモに変換する。",2,AB+,アクティブ,"shop,rottenBeggar,"
 Dataminer,Dataminer,データマイナー,5.100.481,現在の部屋の敵のスプライトを置き換え、ランダムなステータス1つを上昇させ、他のランダムなステータス1つを減少させる。,0,AB+,アクティブ,"treasure,greedShop,ultraSecret,"
@@ -709,7 +709,7 @@ Pop!,Pop!,ポロッ！,5.100.529,"アイザックの弾がそれぞれで跳ね�
 眼球はレンジにとらわれず、止まるか敵や障害物に当たったときに消滅する。",2,AB+,パッシブ,"treasure,greedTreasure,"
 Death%27s_List,Death's List,死神のリスト,5.100.530,部屋内の敵をマークされた順番に倒すとピックアップ1つかステータスアップを得る。,2,AB+,パッシブ,"devil,"
 Haemolacria,Haemolacria,流血,5.100.531,"弾が弓なりに発射される。床か敵か障害物に当たったとき、破裂して小さな弾を全方向に放つ。
-ティアディレイが増加する。",3,AB+,パッシブ,"treasure,greedTreasure,ultraSecret,"
+ティアディレイが増加する。",4,AB+,パッシブ,"treasure,greedTreasure,ultraSecret,"
 Lachryphagy,Lachryphagy,涙ごっくん,5.100.532,"弾が移動時に減速する。止まるか障害物に当たったとき、8方向に破裂する。
 浮いている弾に弾を打ち込むとダメージが増加する。",2,AB+,パッシブ,"treasure,greedTreasure,"
 Trisagion,Trisagion,聖三祝文,5.100.533,"ダメージが下がる。
@@ -896,7 +896,7 @@ Empty_Heart,Empty Heart,エンプティ ハート,5.100.676,アイザックが�
 Astral_Projection,Astral Projection,アストラル プロジェクション,5.100.677,"クリアしていない部屋でダメージを受けた時に、アイザックは霊体になる。
 飛行と地形貫通弾を得て、次に受けるダメージを防ぐ。",2,Repentance,パッシブ,"treasure,secret,greedTreasure,greedSecret,"
 C_Section,C Section,帝王切開,5.100.678,ティアが敵を追跡し、接触ダメージを与えるフィータスに置き換わる。各ショットには短いチャージを必要とする。,4,Repentance,パッシブ,"treasure,greedTreasure,"
-Lil_Abaddon,Lil Abaddon,リトル アバドン,5.100.679,アイザックが射撃中、チャージしてミニチュアマウオブザボイドの攻撃を行うファミリアをスポーンする。,3,Repentance,パッシブ,"devil,greedDevil,babyShop,"
+Lil_Abaddon,Lil Abaddon,リトル アバドン,5.100.679,アイザックが射撃中、チャージしてミニチュアマウオブザボイドの攻撃を行うファミリアをスポーンする。,2,Repentance,パッシブ,"devil,greedDevil,babyShop,"
 Montezuma%27s_Revenge,Montezuma's Revenge,モンテズマズ リベンジ,5.100.680,射撃中、アイザックがブリムストーンのようなチャージビームをアイザックの後方から発射する。,3,Repentance,パッシブ,"treasure,greedTreasure,"
 Lil_Portal,Lil Portal,リトル ポータル,5.100.681,"前へ飛んで進路にあるピックアップを消費するファミリア。
 消費する毎にサイズとダメージが上昇し、青ハエをスポーンする。
@@ -936,7 +936,7 @@ Abyss,Abyss,アビス,5.100.706,部屋内の全ての台座にあるアイテム
 Supper,Supper,夕食,5.100.707,赤ハートコンテナを1つ得る。赤ハートを1つ回復する。,1,Repentance,パッシブ,"boss,beggar,greedBoss,"
 Stapler,Stapler,ホッチキス,5.100.708,ダメージ+1.0。アイザックがカインと同じように片方の目から涙を発射しないようになる。,3,Repentance,パッシブ,"boss,goldenChest,greedBoss,"
 Suplex!,Suplex!,スープレックス！,5.100.709,アイザックが前方にダッシュし、最初にヒットした敵を持ち上げる。少し後に地面に叩きつけてダメージを与えつつ、岩の波を発生させる。,3,Repentance,アクティブ,"treasure,greedTreasure,craneGame,"
-Bag_of_Crafting,Bag of Crafting,バッグ オブ クラフティング,5.100.710,ピックアップを最大8個まで集めて蓄え、これらを使うことでアイテムを作成する。アイテムのパワーレベルは使用したピックアップの品質によって決定される。,4,Repentance,アクティブ,"treasure,greedTreasure,"
+Bag_of_Crafting,Bag of Crafting,バッグ オブ クラフティング,5.100.710,ピックアップを最大8個まで集めて蓄え、これらを使うことでアイテムを作成する。アイテムのパワーレベルは使用したピックアップの品質によって決定される。,3,Repentance,アクティブ,"treasure,greedTreasure,"
 Flip,Flip,フリップ,5.100.711,"アイテムの台座は裏に第二の「幽体の」アイテムを持つ。
 起動すると本物のアイテムと幽体のアイテムが反転する。
 汚染ラザロでプレイしている場合、死んだ汚染ラザロと反転する。",4,Repentance,アクティブ,"secret,curse,greedShop,greedCurse,greedSecret,ultraSecret,"
@@ -949,8 +949,8 @@ Hold,Hold,ホールド,5.100.715,ティンテッド???専用。うんち爆弾�
 Keeper%27s_Sack,Keeper's Sack,キーパーズ サック,5.100.716,ショップでものを買うたびに、レンジ、スピードまたはダメージを増加させる。また、取得時に3枚のコインと鍵1個をスポーンする。,3,Repentance,パッシブ,"shop,secret,greedTreasure,greedSecret,"
 Keeper%27s_Kin,Keeper's Kin,キーパーズ キン,5.100.717,岩と小物は、敵がいる部屋にいる間、時間経過で青いクモをスポーンし、岩と小物を破壊すると青いクモを二匹スポーンするようになる。,2,Repentance,パッシブ,"treasure,secret,greedTreasure,greedSecret,"
 Keeper%27s_Box,Keeper's Box,キーパーズ ボックス,5.100.719,通常価格で購入することのできるショップアイテムやピックアップがランダムに１つスポーンする。,2,Repentance,アクティブ,"shop,secret,greedTreasure,greedSecret,woodenChest,"
-Everything_Jar,Everything Jar,エブリシング ジャー,5.100.720,チャージ数に応じたピックアップをドロップします。チャージが最大の場合はランダムに特殊な効果が発生します。,2,Repentance,アクティブ,"treasure,greedTreasure,craneGame,"
-TMTRAINER,TMTRAINER,バグ技,5.100.721,これから出現する全てのアイテムをグリッチアイテムにする。グリッチアイテムはランダムな効果が組み合わされたものとなる。,0,Repentance,パッシブ,"secret,greedTreasure,greedShop,greedSecret,"
+Everything_Jar,Everything Jar,エブリシング ジャー,5.100.720,チャージ数に応じたピックアップをドロップします。チャージが最大の場合はランダムに特殊な効果が発生します。,3,Repentance,アクティブ,"treasure,greedTreasure,craneGame,"
+TMTRAINER,TMTRAINER,バグ技,5.100.721,これから出現する全てのアイテムをグリッチアイテムにする。グリッチアイテムはランダムな効果が組み合わされたものとなる。,2,Repentance,パッシブ,"secret,greedTreasure,greedShop,greedSecret,"
 Anima_Sola,Anima Sola,アニマ ソラ,5.100.722,最も近くにいる敵を鎖で縛り5秒間行動不能にする。,3,Repentance,アクティブ,"treasure,greedTreasure,greedShop,"
 Spindown_Dice,Spindown Dice,スピンダウン ダイス,5.100.723,部屋の全てのアイテムを内部アイテムIDを1つ下げた物に変更する。,4,Repentance,アクティブ,"treasure,secret,greedTreasure,greedShop,greedSecret,craneGame,"
 Hypercoagulation,Hypercoagulation,ハイパーコアギュレイション,5.100.724,アイザックが敵からダメージを受けたり体力を失うとアイザックから赤ハートがドロップする。この赤ハートは1.5秒後に消える。,3,Repentance,パッシブ,"treasure,greedTreasure,ultraSecret,"

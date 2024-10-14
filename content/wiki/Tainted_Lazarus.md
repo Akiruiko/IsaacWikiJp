@@ -1,8 +1,6 @@
 +++
 +++
 
-## 本ページは翻訳作業中です。
-
  # 汚染されたラザラス（Tainted Lazarus）
  ![image](/image/Characters/Tainted_Lazarus.png) 
 
@@ -147,4 +145,8 @@ Greed およびGreedier Modeでは新しいウェーブが発生すると[![imag
 * [![image](/image/achievements/Wooden_Chest.png)](/wiki/Wooden_Chest_"Wooden Chest") [Wooden Chest](/wiki/Wooden_Chest_"Wooden Chest") Mega Satanを汚染されたラザラスで倒す。
 * [![image](/image/achievements/Flip.png)](/wiki/Flip_"Flip") [Flip](/wiki/Flip_"Flip") Deliriumを汚染されたラザラスで倒す。
 * [![image](/image/achievements/Torm_Card.png)](/wiki/Torm_Card_"Torm Card") [Torm Card](/wiki/Torm_Card_"Torm Card") Motherを汚染されたラザラスで倒す。
+<<<<<<< HEAD
 * [![image](/image/achievements/Salvation.png)](/wiki/Salvation_"Salvation") [Salvation](/wiki/Salvation_"Salvation") The Beastを汚染されたラザラスで倒す。
+=======
+* [![image](/image/achievements/Salvation.png)](/wiki/Salvation_"Salvation") [Salvation](/wiki/Salvation_"Salvation") The Beastを汚染されたラザラスで倒す。
+>>>>>>> e85df4cfa2aadcf2a83c5676a81bbd8c930581b6
