@@ -121,7 +121,7 @@ The_Bean,The Bean,まめ,5.100.111,アイザックがおならをする、近距
 Guardian_Angel,Guardian Angel,ガーディアン エンジェル,5.100.112,敵のダメージをブロックする天使のオービタルファミリアをスポーンする。天使を敵に接触させると秒間105ダメージを与える。全てのオービタルファミリアの速度を上昇させる。,2,Rebirth,パッシブ,"angel,greedAngel,babyShop,"
 Demon_Baby,Demon Baby,デーモンベイビー,5.100.113,アイザックの後を追従するファミリアをスポーンする。ファミリアは一定距離内の敵に自動的に攻撃する。,2,Rebirth,パッシブ,"treasure,devil,greedDevil,babyShop,"
 Mom%27s_Knife,Mom's Knife,ママの包丁,5.100.114,アイザックの涙が敵を貫通し、障害物を通り抜け、接触するだけでダメージを与えるナイフに変化する。発射ボタンを推し続けると射程と威力が増加する。,4,Rebirth,パッシブ,"treasure,devil,momsChest,greedTreasure,greedDevil,oldChest,"
-Ouija_Board,Ouija Board,ウィジャボード,5.100.115,涙が敵以外の障害物を貫通する涙になる。,2,Rebirth,パッシブ,"treasure,devil,greedTreasure,greedDevil,"
+Ouija_Board,Ouija Board,ウィジャボード,5.100.115,涙が敵以外の障害物を貫通する涙になる。ティア+0.5。,2,Rebirth,パッシブ,"treasure,devil,greedTreasure,greedDevil,"
 9_Volt,9 Volt,９ボルト,5.100.116,取得時にアクティブアイテムのチャージが完了する。アクティブアイテムのチャージ必要量を1つ減らす。1チャージのアイテムは時間経過でリチャージされるようになる。,2,Rebirth,パッシブ,"shop,batteryBum,greedShop,craneGame,"
 Dead_Bird,Dead Bird,鳥の死体,5.100.117,アイザックがダメージ受けると飛行するファミリアをスポーンする。ファミリアは敵を追跡し、接触すると毎秒5ダメージを与える。,0,Rebirth,パッシブ,"treasure,greedTreasure,greedDevil,babyShop,"
 Brimstone,Brimstone,ブリムストーン,5.100.118,アイザックの涙がレーザービームになる。レーザーは全ての敵と障害物を貫通し、大きなダメージを与える。レーザーはチャージした後にのみ放つ事が出来る。,4,Rebirth,パッシブ,"devil,greedDevil,ultraSecret,"
